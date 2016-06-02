@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<ol>
+{% for post in site.posts reversed %}
+  <li><h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5></li>
+{% endfor %}
+</ol>
