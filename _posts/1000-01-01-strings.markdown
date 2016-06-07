@@ -91,7 +91,8 @@ puts "#{first_name} lives at #{address}. Her email address is #{email}."
       <br>
       <div class="output">
         Fluffy plays with stuffed mice after eating tuna fish.
-    </div>
+      </div>
+    </p>
   </div>
 </div>
 

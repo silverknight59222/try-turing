@@ -33,9 +33,12 @@ end
   <div class="card-content white-text">
     <span class="card-title black-text"><b>Try it: Control Flow</b></span>
     <p>
+      Write a program that asks a user for a piece of text. It should say "even" if the number of characters in the text is even, and "odd" if the number of characters in the text is odd. In parentheses, 
       <br>
-      <div class="output"> 
-        
+      <div class="output">
+        Enter a piece of text: 
+        Turing
+        Even! (6) 
       </div>
     </p>
   </div>
