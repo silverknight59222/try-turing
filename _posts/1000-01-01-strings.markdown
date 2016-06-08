@@ -7,31 +7,31 @@ permalink: strings
 
 In Ruby, a String is a series of characters between quotation marks: 
 
-{% highlight ruby %}
+```ruby
 "here is a string"
 "1234567"
 "**** this is another string ****"
-{% endhighlight %}
+```
 
 <h4>Our First Program</h4>
 
 Let's write a program where we we print strings. First, we'll need to make a file and save it as <span class="command">strings.rb</span>. 
 
-{% highlight ruby %}
+```ruby
 print "here is a string"
 print "1234567"
 print "**** this is another string ****"
-{% endhighlight %}
+```
 
 To run this program, type <span class="command">ruby strings.rb</span> from the command line. 
 <br><br>
 Using print does not add a line between each string. If we want to do that, we can use puts:
 
-{% highlight ruby %}
+```ruby
 puts "here is a string"
 puts "1234567"
 puts "**** this is another string ****"
-{% endhighlight %}
+```
 
 <div class="card cyan ">
   <div class="card-content white-text">
@@ -63,7 +63,7 @@ Notice that these variables start with a lower case letter and can include under
 
 We can print these variables: 
 
-{% highlight ruby %}
+```ruby
 email = "rachel@turing.io"
 address = "123 Apple Street, Denver, CO 80202"
 first_name = "Rachel"
@@ -71,17 +71,17 @@ first_name = "Rachel"
 puts first_name
 puts address
 puts message
-{% endhighlight %}
+```
 
 Even better, we can use string interpolation to combine:
 
-{% highlight ruby %}
+```ruby
 email = "rachel@turing.io"
 address = "123 Apple Street, Denver, CO 80202"
 first_name = "Rachel"
 
 puts "#{first_name} lives at #{address}. Her email address is #{email}."
-{% endhighlight %}
+```
 
 <div class="card cyan ">
   <div class="card-content white-text">
@@ -101,15 +101,15 @@ puts "#{first_name} lives at #{address}. Her email address is #{email}."
 
 You can think of a method as a command. With a dog, one command you might give is "bark". In code, we might represent this as:
 
-{% highlight ruby %}
+```ruby
 dog.bark
-{% endhighlight %}
+```
 
 This is called "dot notation" and the terminology is "call the bark method on dog". 
 
 Strings also have methods. Here are some common ones:
 
-{% highlight ruby %}
+```ruby
 message = "Hello, World!"
 
 puts message.capitalize
@@ -118,7 +118,7 @@ puts message.downcase
 puts message.include?("World")
 puts message.include?("Mars")
 puts message.reverse
-{% endhighlight %}
+```
 
 <div class="card cyan ">
   <div class="card-content white-text">

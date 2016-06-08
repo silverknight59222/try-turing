@@ -13,7 +13,7 @@ Go ahead and make a new file: <span class="command">twitter_search.rb</span>.
 
 Then create your Twitter client again:
 
-{% highlight ruby %}
+```ruby
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -26,7 +26,7 @@ end
 client.search("#learntocode").each do |tweet|
   puts "#{tweet.user.name}: #{tweet.text}"
 end
-{% endhighlight %}
+```
 
 Run this with different hash tags a few times to see that it works. 
 
@@ -43,7 +43,7 @@ Run this with different hash tags a few times to see that it works.
 
 In Ruby, we can save things to a file using this syntax:
 
-{% highlight ruby %}
+```ruby
 my_file = File.open("my_file.txt", "w")
 
 my_file.write("Hello, world!")
@@ -54,7 +54,7 @@ my_file.write("\n")
 my_file.write("Here's another sentence that is two lines below the previous one.")
 
 my_file.close
-{% endhighlight %}
+```
 
 If you want to, go ahead and try that out, then open the file it created and look at it. 
 

@@ -21,7 +21,7 @@ Next, we'll set up our first Twitter program: <span class="command">tweet.rb</sp
 
 Inside of that file, we'll setup a Ruby object that can communicate with Twitter:
 
-{% highlight ruby %}
+```ruby
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -30,7 +30,7 @@ client = Twitter::REST::Client.new do |config|
   config.access_token        = ""
   config.access_token_secret = ""
 end
-{% endhighlight %}
+```
 
 All of these keys and tokens are currently blank, because we need to register a new app in order to get tokens and keys we can use. 
 
@@ -57,7 +57,7 @@ We'll also need to generate an access token. Scroll to the bottom of the same pa
 
 Paste these four keys and tokens into your program file. It should look something like this now (these are fake keys, so they won't work if you try to use them): 
 
-{% highlight ruby %}
+```ruby
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -66,13 +66,13 @@ client = Twitter::REST::Client.new do |config|
   config.access_token        = "710164541207398534-S6EkJrplVKgsuMtBfIcZcPTxGeINwMx"
   config.access_token_secret = "c42YsBf1EdDt7hv1xYnZ0knhckzbiLLatKHMBuLXTgyP3"
 end
-{% endhighlight %}
+```
 
 <h4>Writing Your Program</h4>
 
 If you look at what you have so far in your program, we've created a variable called <span class="command">client</span>. We can use that variable to do things. For example, if we want to post a new tweet, we can do this:
 
-{% highlight ruby %}
+```ruby
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -83,7 +83,7 @@ client = Twitter::REST::Client.new do |config|
 end
 
 client.update("I'm learning how to code at Turing School!")
-{% endhighlight %}
+```
 
 Check out your Twitter account to see if it worked! 
 

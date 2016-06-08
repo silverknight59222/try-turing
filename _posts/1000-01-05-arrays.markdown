@@ -9,21 +9,21 @@ You can think of an array in Ruby as a box that can hold things: integers, strin
 
 Here are some examples of arrays: 
 
-{% highlight ruby %}
+```ruby
 animals = ["piglet", "kitten"]
 my_numbers = [1,2,3,4,5]
-{% endhighlight %}
+```
 
 <h4>Iterating Through Arrays</h4>
 
 Create a new file <span class="command">array_practice.rb</span> and paste in the following code:
 
-{% highlight ruby %}
+```ruby
 foods = ["apples", "bananas", "cookies", "ice cream"]
 foods.each do |food|
   puts "I really like #{food}."
 end
-{% endhighlight %}
+```
 
 Modify this program to iterate through a list of programming terms and output a sentence "I am learning about (insert term here)" for each of the terms. 
 
@@ -44,10 +44,10 @@ Modify this program to iterate through a list of programming terms and output a 
   </div>
 </div>
 
-{% highlight ruby %}
+```ruby
 numbers = [10, 12, 17, 40, 55, 61]
 
 numbers.each do |num|
   # put your code here 
 end
-{% endhighlight %}
+```

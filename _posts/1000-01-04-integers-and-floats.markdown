@@ -30,45 +30,45 @@ To get out of it, type exit, then hit the enter key:
 
 Go back into IRB and try out the following things. What do you notice? What do you think these "to_f", "to_i", and "to_s" methods do? 
 
-{% highlight ruby %}
+```ruby
 x = 5
 x.to_f
 y = 5.6
 y.to_i
 z = 10
 z.to_s
-{% endhighlight %}
+```
 
 <h4>Comparing Values</h4>
 
 Just like in middle school math class, we can use comparison operators to compare numbers. The return values are either true or false. 
 
-{% highlight ruby %}
+```ruby
 5 == 5
 3 > 3
 3 >= 3
 2 < 1
 3 != 6
-{% endhighlight %}
+```
 
 Or with variables:
 
-{% highlight ruby %}
+```ruby
 child_1 = 10
 child_2 = 15
 
 child_1 > child_2
-{% endhighlight %}
+```
 
 Value comparison doesn't just apply to numbers. We can compare the equality of strings as well:
 
-{% highlight ruby %}
+```ruby
 message = "hello, world!"
 input   = "hello world!"
 
 message == input
 message != input
-{% endhighlight %}
+```
 
 <div class="card cyan">
   <div class="card-content white-text">
@@ -90,11 +90,11 @@ message != input
   </div>
 </div>
 
-{% highlight ruby %}
+```ruby
 secret_number = rand(1..10)
 guess = 0
 
 while guess != secret_number
   # write your code here
 end
-{% endhighlight %}
+```

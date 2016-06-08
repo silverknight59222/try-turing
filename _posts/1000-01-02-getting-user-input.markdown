@@ -7,11 +7,11 @@ permalink: getting-user-input
 
 Our program isn't very exciting so far. Let's make a new program called <span class="command">user_input.rb</span> and try this out: 
 
-{% highlight ruby %}
+```ruby
 puts "Enter your name: "
 username = gets.chomp
 puts "Nice to meet you, #{username}."
-{% endhighlight %}
+```
 
 <div class="card cyan">
   <div class="card-content white-text">

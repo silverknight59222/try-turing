@@ -7,7 +7,7 @@ permalink: control-flow
 
 Control Flow refers to being able to determine what the program does given certain inputs. Let's make a new file <span class="command">control_flow.rb</span> and try this out:
 
-{% highlight ruby %}
+```ruby
 puts "What is the best type of cookie: "
 cookie_type = gets.chomp
 if cookie_type == "Chocolate Chip"
@@ -15,9 +15,9 @@ if cookie_type == "Chocolate Chip"
 else
   puts "You're wrong."
 end
-{% endhighlight %}
+```
 
-{% highlight ruby %}
+```ruby
 puts "What is the best type of cookie: "
 cookie_type = gets.chomp
 if cookie_type == "Chocolate Chip"
@@ -27,7 +27,7 @@ elsif cookie_type == "Oatmeal Raisin"
 else
   puts "Hmm. I don't recognize that kind of cookie."
 end
-{% endhighlight %}
+```
 
 <div class="card cyan">
   <div class="card-content white-text">
@@ -50,7 +50,7 @@ Looping is the idea that something will happen until a condition is met. For exa
 
 In code, that might look like this:
 
-{% highlight ruby %}
+```ruby
 stomach = 0
 
 while stomach < 10
@@ -59,7 +59,7 @@ while stomach < 10
 end
 
 puts "done eating."
-{% endhighlight %}
+```
 
 <div class="card cyan">
   <div class="card-content white-text">
@@ -82,10 +82,10 @@ puts "done eating."
   </div>
 </div>
 
-{% highlight ruby %}
+```ruby
 input = ""
 
 while input != "yes"
   # write your code here
 end
-{% endhighlight %}
+```

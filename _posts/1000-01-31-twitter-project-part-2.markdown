@@ -13,7 +13,7 @@ Go ahead and make a new file: <span class="command">read_twitter\_timeline.rb</s
 
 Then create your Twitter client again:
 
-{% highlight ruby %}
+```ruby
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -22,11 +22,11 @@ client = Twitter::REST::Client.new do |config|
   config.access_token        = "710164541207398534-S6EkJrplVKgsuMtBfIcZcPTxGeINwMx"
   config.access_token_secret = "c42YsBf1EdDt7hv1xYnZ0knhckzbiLLatKHMBuLXTgyP3"
 end
-{% endhighlight %}
+```
 
 <h4>Reading a Timeline</h4>
 
-{% highlight ruby %}
+```ruby
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -39,7 +39,7 @@ end
 client.user_timeline("turingschool").each do |tweet|
   puts tweet.text
 end
-{% endhighlight %}
+```
 
 <div class="card cyan ">
   <div class="card-content white-text">
