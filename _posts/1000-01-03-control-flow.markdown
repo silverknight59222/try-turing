@@ -43,3 +43,49 @@ end
     </p>
   </div>
 </div>
+
+<h4>Looping</h4>
+
+Looping is the idea that something will happen until a condition is met. For example: while you are hungry, keep eating. Once you are full, stop eating. 
+
+In code, that might look like this:
+
+{% highlight ruby %}
+stomach = 0
+
+while stomach < 10
+  puts "keep eating!"
+  stomach += 1
+end
+
+puts "done eating."
+{% endhighlight %}
+
+<div class="card cyan">
+  <div class="card-content white-text">
+    <span class="card-title black-text"><b>Try it: Looping</b></span>
+    <p>
+      Write a program that asks a user if they are done. The user can enter anything, but if they enter "yes", then the loop should stop and the program should print out "Goodbye!"
+      <div class="output">
+        Are you done?
+        No
+        Are you done?
+        Pizza
+        Are you done?
+        igdfhsij
+        Are you done?
+        yes
+        Goodbye!
+      </div>
+      If you're having trouble getting started, check out the code snippet below. 
+    </p>
+  </div>
+</div>
+
+{% highlight ruby %}
+input = ""
+
+while input != "yes"
+  # write your code here
+end
+{% endhighlight %}

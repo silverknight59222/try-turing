@@ -5,7 +5,7 @@ date: 1000-01-03
 permalink: twitter-project-part-2
 ---
 
-Let's write a program that can post tweets, read user timelines, and search for hashtags. Next, we'll add to our program by creating a bot that can automatically follow users who tweet about certain things. Finally, we'll write a program that can live-stream tweets with specific keywords and auto-reply to them. 
+Now that we know how to post a tweet, let's read other users' timelines. 
 
 <h4>Preparing the Program</h4>
 

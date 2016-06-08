@@ -90,9 +90,46 @@ puts "#{first_name} lives at #{address}. Her email address is #{email}."
       Write a program that assigns variables pet_name, food, and toy. Interpolate those variables into a string to output something like this: 
       <br>
       <div class="output">
-        Fluffy plays with stuffed mice after eating tuna fish.
+        fluffy plays with stuffed mice after eating tuna fish.
       </div>
+      Run your program a few times with different values for each variable to make sure it works. 
     </p>
   </div>
 </div>
 
+<h4>String Methods</h4>
+
+You can think of a method as a command. With a dog, one command you might give is "bark". In code, we might represent this as:
+
+{% highlight ruby %}
+dog.bark
+{% endhighlight %}
+
+This is called "dot notation" and the terminology is "call the bark method on dog". 
+
+Strings also have methods. Here are some common ones:
+
+{% highlight ruby %}
+message = "Hello, World!"
+
+puts message.capitalize
+puts message.upcase
+puts message.downcase
+puts message.include?("World")
+puts message.include?("Mars")
+puts message.reverse
+{% endhighlight %}
+
+<div class="card cyan ">
+  <div class="card-content white-text">
+    <span class="card-title black-text"><b>Try it: Using String Methods</b></span>
+    <p>
+      Modify your program to capitalize the pet_name, reverse the food, and upcase the toy. 
+      <br>
+      <div class="output">
+        Fluffy plays with STUFFED MICE after eating hsif anut.
+      </div>
+      Run your program a few times with different values for each variable to make sure it works. 
+    </p>
+  </div>
+</div>
