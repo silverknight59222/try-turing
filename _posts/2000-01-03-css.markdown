@@ -1,0 +1,145 @@
+---
+title: Cascading Style Sheets
+layout: post
+date: 2000-01-03
+permalink: css
+---
+
+CSS is a way to add style to HTML documents on the web. It's incredibly powerful. Let's take a look at some examples of CSS in action.
+
+- [CSS Zen Garden](http://www.csszengarden.com)
+- [Design Patterns on CodePen](http://codepen.io/patterns/)
+
+### Styling Elements
+
+In CSS, we right a bunch of rules for how our docment should look. The browser evaluates those trules and styles the page accordingly. A CSS rule is defined as follows:
+
+![Anatomy of a CSS Selector](../images/css-rule.png)
+
+In the example above, the browser will set any `<strong>` element's color to red. We can define multiple sets of properties and values in a given rule.
+
+#### Your Turn
+
+In can you set the color of all of the `<h1>` tags to red and the `<h2>` tags to blue?
+
+As an extension, here are some other things you can try on for size:
+
+- You can change the background of an element using the `background` property. You can pass it a color as well.
+- There are a lot of colors out there. Find a color that makes you happy [here](http://colours.neilorangepeel.com).
+
+Once you've selected and styled a few elements, explore a few additional properties:
+
+- [`border`](https://developer.mozilla.org/en-US/docs/Web/CSS/border "border - CSS | MDN")
+- [`background-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color "background-color - CSS | MDN")
+- [`box-shadow`](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow "box-shadow - CSS | MDN")
+- [`opacity`](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity "opacity - CSS | MDN")
+- [`width`](https://developer.mozilla.org/en-US/docs/Web/CSS/width "width - CSS | MDN")
+- [`height`](https://developer.mozilla.org/en-US/docs/Web/CSS/height "height - CSS | MDN")
+- [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin "margin - CSS | MDN")
+- [`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding "padding - CSS | MDN")
+- [`font-family`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family "font-family - CSS | MDN")
+- [`font-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size "font-size - CSS | MDN")
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="gMaVam" data-default-tab="html,css,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMaVam/">Ipsums</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+### Psuedo-selectors
+
+Stying elements is pretty neat, but our elements can be in different states depending on what the user is doing on page. Not only can we style an element with CSS, we can always define specific rules for when a user is hovering or actively clicking on an element.
+
+The following rule will only be in effective when a user is actively hovering over a `<p>` element.
+
+```css
+a:hover {
+  background-color: paleturquoise;
+}
+
+a:active {
+  background-color: orange;
+}
+```
+
+#### Your Turn
+
+Can you style some of the elements from the previous example using the `:hover` and `:active` pseudo-selectors.
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+#### Classes
+
+Right now, we know how to style _all_ of the paragraphs or _all_ of the links on a page. But what if we just wanted to style just one?
+
+As it turns out, we can set a `class` attribute on an HTML element. The `class` attribute takes one or more words—separated by spaces. Typically we use classes to describe what kind of element we're creating. For example, we might create a `<section>` element with the `class` of `"sidebar"` to denote that this is a particular kind of section on the page. We might also use classes to describe the kind of content inside of the element.
+
+I already added a few of these to the page we've been working with. Here is an abbreviated example:
+
+```html
+<section class="ipsums">
+  <article class="lorem-ipsum">
+    <h2>Lorem Ipsum</h2>
+    …
+  </article>
+  …
+</section>
+```
+
+This is all great and wonderful, but how do we style these specific elements? Easy! We just prefix our selector with a `.`.
+
+```css
+.ipsums {
+  background-color: yellow;
+}
+```
+
+This will look for every element—regardless of type—that has the class of `ipsums` and style it with a yellow background color.
+
+#### Your Turn
+
+Can you style some of the classes used in the example above? Even better can you add some of your own classes and style them? In a perfect world, they'd be meaningful, but we're just experimenting and getitng our hands dirty. So, feel free to use classes like "awesome" and "totally-rad" if that's easier for you.
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+### Transitions and Transformations
+
+We can also add a bit of motion to our documents with CSS using the `transform` and `transition` properties.
+
+Try this rule on for size:
+
+```css
+p {
+  transform: rotate(180deg);
+}
+```
+
+Groovy, right? We have [quite a few transformations at our disposal](https://developer.mozilla.org/en-US/docs/Web/CSS/transform), but we'll cover just a subset today:
+
+- Rotation: `transform: rotate(180deg);` will flip the element upside down.
+- Scaling: `transform: scale(110%);` will make the element bigger by 10%.
+- Translating (moving): `translate: rotate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
+
+Transformations become extra fun when we pair them with transitions. For our purposes, transiitons will take two pieces of information:
+
+- The name of the property we want to transition. (Alternatively, we can use `all` to transition all of the properties.)
+- The duration of the transition.
+
+Consider the following example:
+
+```css
+p {
+  transition: all 1s;
+}
+
+p:hover {
+  transform: rotate(180deg);
+  background-color: mediumspringgreen;
+}
+```
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="ezpqbY" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/ezpqbY/">Ipsums: Transitions</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+#### Your Turn
+
+Try and take some of the other transformation properties for a spin.
