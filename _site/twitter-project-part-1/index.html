@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Try Turing</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css">
+
+  <link href="/try-turing/css/styles.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+  <nav>
+    <div class="nav-wrapper cyan lighten-1">
+      <h3 class="brand-logo try-turing-title">
+        <a href="/try-turing/">Try Turing</a>
+      </h3>
+    </div>
+  </nav>
+  <div class="container">
+    <div class="row">
+      <div class="col s3">
+        <div class="collection">
+          <ol>
+            
+              <li><a class="collection-item" href="/try-turing/strings">Strings</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/getting-user-input">Getting User Input</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/control-flow">Control Flow</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/twitter-project-part-1">Twitter Project, Part 1</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/twitter-project-part-2">Twitter Project, Part 2</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/introduction-to-front-end-engineering">What is Front-End Engineering?</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/html">HyperText Markup Language</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/css">Cascading Style Sheets</a></li>
+            
+          </ol>
+        </div>
+      </div>
+      <div class="col s9">
+
+
+<h2>Twitter Project, Part 1</h2>
+<p>Let&#39;s write a program that can post tweets, read user timelines, and search for hashtags. Next, we&#39;ll add to our program by creating a bot that can automatically follow users who tweet about certain things. Finally, we&#39;ll write a program that can live-stream tweets with specific keywords and auto-reply to them. </p>
+
+<h4>Installing the Gem</h4>
+
+<p>First, we&#39;ll install a Gem (which is a piece of code written by someone else) that we can use to interact with Twitter via Ruby.</p>
+
+<div class="output">
+  $ gem install twitter
+</div>
+
+<h4>Setting up the File</h4>
+
+<p>Next, we&#39;ll set up our first Twitter program: <span class="command">tweet.rb</span>.</p>
+
+<p>Inside of that file, we&#39;ll setup a Ruby object that can communicate with Twitter:</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="nb">require</span> <span class="s1">&#39;twitter&#39;</span>
+
+<span class="n">client</span> <span class="o">=</span> <span class="no">Twitter</span><span class="o">::</span><span class="no">REST</span><span class="o">::</span><span class="no">Client</span><span class="o">.</span><span class="n">new</span> <span class="k">do</span> <span class="o">|</span><span class="n">config</span><span class="o">|</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">consumer_key</span>        <span class="o">=</span> <span class="s2">&quot;&quot;</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">consumer_secret</span>     <span class="o">=</span> <span class="s2">&quot;&quot;</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">access_token</span>        <span class="o">=</span> <span class="s2">&quot;&quot;</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">access_token_secret</span> <span class="o">=</span> <span class="s2">&quot;&quot;</span>
+<span class="k">end</span></code></pre></div>
+
+
+All of these keys and tokens are currently blank, because we need to register a new app in order to get tokens and keys we can use. 
+
+<h4>Registering your App</h4>
+
+Log in to your Twitter account, then visit [https://apps.twitter.com/app/new](https://apps.twitter.com/app/new). Enter the following information:
+
+* Name: [insertyourusername]-twitterbot
+* Description: Learning how to use the Ruby Twitter gem
+* Website: http://example.com
+* Callback URL: [leave blank]
+
+Then click "Create your Twitter application". 
+
+Next, click on the tab "Keys and Access Tokens". There are two important codes in here:
+
+* Consumer Key (API Key)
+* Consumer Secret (API Secret)
+
+We'll also need to generate an access token. Scroll to the bottom of the same page and click "Create my access token". You'll get two more important codes:
+
+* Access Token
+* Access Token Secret
+
+Paste these four keys and tokens into your program file. It should look something like this now (these are fake keys, so they won't work if you try to use them): 
+
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="nb">require</span> <span class="s1">&#39;twitter&#39;</span>
+
+<span class="n">client</span> <span class="o">=</span> <span class="no">Twitter</span><span class="o">::</span><span class="no">REST</span><span class="o">::</span><span class="no">Client</span><span class="o">.</span><span class="n">new</span> <span class="k">do</span> <span class="o">|</span><span class="n">config</span><span class="o">|</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">consumer_key</span>        <span class="o">=</span> <span class="s2">&quot;UCZw4n5yZW4EnvbT3co9OPa4b&quot;</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">consumer_secret</span>     <span class="o">=</span> <span class="s2">&quot;rPCzneF3DnRd8OWE90jWLjTCfCTStTnGrvkfnRtfEEVE3FWL4K&quot;</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">access_token</span>        <span class="o">=</span> <span class="s2">&quot;710164541207398534-S6EkJrplVKgsuMtBfIcZcPTxGeINwMx&quot;</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">access_token_secret</span> <span class="o">=</span> <span class="s2">&quot;c42YsBf1EdDt7hv1xYnZ0knhckzbiLLatKHMBuLXTgyP3&quot;</span>
+<span class="k">end</span></code></pre></div>
+
+
+<h4>Writing Your Program</h4>
+
+If you look at what you have so far in your program, we've created a variable called <span class="command">client</span>. We can use that variable to do things. For example, if we want to post a new tweet, we can do this:
+
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="nb">require</span> <span class="s1">&#39;twitter&#39;</span>
+
+<span class="n">client</span> <span class="o">=</span> <span class="no">Twitter</span><span class="o">::</span><span class="no">REST</span><span class="o">::</span><span class="no">Client</span><span class="o">.</span><span class="n">new</span> <span class="k">do</span> <span class="o">|</span><span class="n">config</span><span class="o">|</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">consumer_key</span>        <span class="o">=</span> <span class="s2">&quot;UCZw4n5yZW4EnvbT3co9OPa4b&quot;</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">consumer_secret</span>     <span class="o">=</span> <span class="s2">&quot;rPCzneF3DnRd8OWE90jWLjTCfCTStTnGrvkfnRtfEEVE3FWL4K&quot;</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">access_token</span>        <span class="o">=</span> <span class="s2">&quot;710164541207398534-S6EkJrplVKgsuMtBfIcZcPTxGeINwMx&quot;</span>
+  <span class="n">config</span><span class="o">.</span><span class="n">access_token_secret</span> <span class="o">=</span> <span class="s2">&quot;c42YsBf1EdDt7hv1xYnZ0knhckzbiLLatKHMBuLXTgyP3&quot;</span>
+<span class="k">end</span>
+
+<span class="n">client</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="s2">&quot;I&#39;m learning how to code at Turing School!&quot;</span><span class="p">)</span></code></pre></div>
+
+
+Check out your Twitter account to see if it worked! 
+
+But this is too easy. Let's add a little more to our program: 
+
+<div class="card cyan ">
+  <div class="card-content white-text">
+    <span class="card-title black-text"><b>Try it: Tweeting from the Command Line</b></span>
+    <p>
+      Write a program that asks a user for text to use for a tweet. If the text is less than or equal to 140 characters, tweet it! If it is longer than 140 characters, tell the user that their tweet was too long. 
+    </p>
+  </div>
+</div>
+
+
+       </div>
+     </div>
+   </div>
+   <footer class="page-footer white">
+    <div class="container footer-container">
+      <div class="row">
+        <div class="col l6 s12">
+          <p class=""><a href="http://turing.io">Turing School of Software and Design</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+</body>
+</html>
+

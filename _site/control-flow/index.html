@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Try Turing</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css">
+
+  <link href="/try-turing/css/styles.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+  <nav>
+    <div class="nav-wrapper cyan lighten-1">
+      <h3 class="brand-logo try-turing-title">
+        <a href="/try-turing/">Try Turing</a>
+      </h3>
+    </div>
+  </nav>
+  <div class="container">
+    <div class="row">
+      <div class="col s3">
+        <div class="collection">
+          <ol>
+            
+              <li><a class="collection-item" href="/try-turing/strings">Strings</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/getting-user-input">Getting User Input</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/control-flow">Control Flow</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/twitter-project-part-1">Twitter Project, Part 1</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/twitter-project-part-2">Twitter Project, Part 2</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/introduction-to-front-end-engineering">What is Front-End Engineering?</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/html">HyperText Markup Language</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/css">Cascading Style Sheets</a></li>
+            
+          </ol>
+        </div>
+      </div>
+      <div class="col s9">
+
+
+<h2>Control Flow</h2>
+<p>Control Flow refers to being able to determine what the program does given certain inputs. Let&#39;s make a new file <span class="command">control_flow.rb</span> and try this out:</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="nb">puts</span> <span class="s2">&quot;What is the best type of cookie: &quot;</span>
+<span class="n">cookie_type</span> <span class="o">=</span> <span class="nb">gets</span><span class="o">.</span><span class="n">chomp</span>
+<span class="k">if</span> <span class="n">cookie_type</span> <span class="o">==</span> <span class="s2">&quot;Chocolate Chip&quot;</span>
+  <span class="nb">puts</span> <span class="s2">&quot;Correct!&quot;</span>
+<span class="k">else</span>
+  <span class="nb">puts</span> <span class="s2">&quot;You&#39;re wrong.&quot;</span>
+<span class="k">end</span></code></pre></div>
+
+
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="nb">puts</span> <span class="s2">&quot;What is the best type of cookie: &quot;</span>
+<span class="n">cookie_type</span> <span class="o">=</span> <span class="nb">gets</span><span class="o">.</span><span class="n">chomp</span>
+<span class="k">if</span> <span class="n">cookie_type</span> <span class="o">==</span> <span class="s2">&quot;Chocolate Chip&quot;</span>
+  <span class="nb">puts</span> <span class="s2">&quot;Correct!&quot;</span>
+<span class="k">elsif</span> <span class="n">cookie_type</span> <span class="o">==</span> <span class="s2">&quot;Oatmeal Raisin&quot;</span>
+  <span class="nb">puts</span> <span class="s2">&quot;Yuck!&quot;</span>
+<span class="k">else</span>
+  <span class="nb">puts</span> <span class="s2">&quot;Hmm. I don&#39;t recognize that kind of cookie.&quot;</span>
+<span class="k">end</span></code></pre></div>
+
+
+<div class="card cyan">
+  <div class="card-content white-text">
+    <span class="card-title black-text"><b>Try it: Control Flow</b></span>
+    <p>
+      Write a program that asks a user for a piece of text. It should say "even" if the number of characters in the text is even, and "odd" if the number of characters in the text is odd. In parentheses, 
+      <br>
+      <div class="output">
+        Enter a piece of text: 
+        Turing
+        Even! (6) 
+      </div>
+    </p>
+  </div>
+</div>
+
+
+       </div>
+     </div>
+   </div>
+   <footer class="page-footer white">
+    <div class="container footer-container">
+      <div class="row">
+        <div class="col l6 s12">
+          <p class=""><a href="http://turing.io">Turing School of Software and Design</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+</body>
+</html>
+
