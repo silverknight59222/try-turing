@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Try Turing</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css">
+
+  <link href="/try-turing/css/styles.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+  <nav>
+    <div class="nav-wrapper cyan lighten-1">
+      <h3 class="brand-logo try-turing-title">
+        <a href="/try-turing/">Try Turing</a>
+      </h3>
+    </div>
+  </nav>
+  <div class="container">
+    <div class="row">
+      <div class="col s3">
+        <div class="collection">
+          <ol>
+            
+              <li><a class="collection-item" href="/try-turing/strings">Strings</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/getting-user-input">Getting User Input</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/control-flow">Control Flow</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/twitter-project-part-1">Twitter Project, Part 1</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/twitter-project-part-2">Twitter Project, Part 2</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/introduction-to-front-end-engineering">What is Front-End Engineering?</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/html">HyperText Markup Language</a></li>
+            
+              <li><a class="collection-item" href="/try-turing/css">Cascading Style Sheets</a></li>
+            
+          </ol>
+        </div>
+      </div>
+      <div class="col s9">
+
+
+<h2>Cascading Style Sheets</h2>
+<p>CSS is a way to add style to HTML documents on the web. It&#39;s incredibly powerful. Let&#39;s take a look at some examples of CSS in action.</p>
+
+<ul>
+<li><a href="http://www.csszengarden.com">CSS Zen Garden</a></li>
+<li><a href="http://codepen.io/patterns/">Design Patterns on CodePen</a></li>
+</ul>
+
+<h3>Styling Elements</h3>
+
+<p>In CSS, we right a bunch of rules for how our docment should look. The browser evaluates those trules and styles the page accordingly. A CSS rule is defined as follows:</p>
+
+<p><img src="../images/css-rule.png" alt="Anatomy of a CSS Selector"></p>
+
+<p>In the example above, the browser will set any <code>&lt;strong&gt;</code> element&#39;s color to red. We can define multiple sets of properties and values in a given rule.</p>
+
+<h4>Your Turn</h4>
+
+<p>In can you set the color of all of the <code>&lt;h1&gt;</code> tags to red and the <code>&lt;h2&gt;</code> tags to blue?</p>
+
+<p>As an extension, here are some other things you can try on for size:</p>
+
+<ul>
+<li>You can change the background of an element using the <code>background</code> property. You can pass it a color as well.</li>
+<li>There are a lot of colors out there. Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a>.</li>
+</ul>
+
+<p>Once you&#39;ve selected and styled a few elements, explore a few additional properties:</p>
+
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border" title="border - CSS | MDN"><code>border</code></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-color" title="background-color - CSS | MDN"><code>background-color</code></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow" title="box-shadow - CSS | MDN"><code>box-shadow</code></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity" title="opacity - CSS | MDN"><code>opacity</code></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width" title="width - CSS | MDN"><code>width</code></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height" title="height - CSS | MDN"><code>height</code></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin" title="margin - CSS | MDN"><code>margin</code></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding" title="padding - CSS | MDN"><code>padding</code></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family" title="font-family - CSS | MDN"><code>font-family</code></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size" title="font-size - CSS | MDN"><code>font-size</code></a></li>
+</ul>
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="gMaVam" data-default-tab="html,css,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMaVam/">Ipsums</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+<h3>Psuedo-selectors</h3>
+
+<p>Stying elements is pretty neat, but our elements can be in different states depending on what the user is doing on page. Not only can we style an element with CSS, we can always define specific rules for when a user is hovering or actively clicking on an element.</p>
+
+<p>The following rule will only be in effective when a user is actively hovering over a <code>&lt;p&gt;</code> element.</p>
+<div class="highlight"><pre><code class="language-css" data-lang="css"><span class="nt">a</span><span class="nd">:hover</span> <span class="p">{</span>
+  <span class="k">background-color</span><span class="o">:</span> <span class="nb">paleturquoise</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">a</span><span class="nd">:active</span> <span class="p">{</span>
+  <span class="k">background-color</span><span class="o">:</span> <span class="nb">orange</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+<h4>Your Turn</h4>
+
+<p>Can you style some of the elements from the previous example using the <code>:hover</code> and <code>:active</code> pseudo-selectors.</p>
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+<h4>Classes</h4>
+
+<p>Right now, we know how to style <em>all</em> of the paragraphs or <em>all</em> of the links on a page. But what if we just wanted to style just one?</p>
+
+<p>As it turns out, we can set a <code>class</code> attribute on an HTML element. The <code>class</code> attribute takes one or more words—separated by spaces. Typically we use classes to describe what kind of element we&#39;re creating. For example, we might create a <code>&lt;section&gt;</code> element with the <code>class</code> of <code>&quot;sidebar&quot;</code> to denote that this is a particular kind of section on the page. We might also use classes to describe the kind of content inside of the element.</p>
+
+<p>I already added a few of these to the page we&#39;ve been working with. Here is an abbreviated example:</p>
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;section</span> <span class="na">class=</span><span class="s">&quot;ipsums&quot;</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;article</span> <span class="na">class=</span><span class="s">&quot;lorem-ipsum&quot;</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;h2&gt;</span>Lorem Ipsum<span class="nt">&lt;/h2&gt;</span>
+    …
+  <span class="nt">&lt;/article&gt;</span>
+  …
+<span class="nt">&lt;/section&gt;</span>
+</code></pre></div>
+<p>This is all great and wonderful, but how do we style these specific elements? Easy! We just prefix our selector with a <code>.</code>.</p>
+<div class="highlight"><pre><code class="language-css" data-lang="css"><span class="nc">.ipsums</span> <span class="p">{</span>
+  <span class="k">background-color</span><span class="o">:</span> <span class="nb">yellow</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>This will look for every element—regardless of type—that has the class of <code>ipsums</code> and style it with a yellow background color.</p>
+
+<h4>Your Turn</h4>
+
+<p>Can you style some of the classes used in the example above? Even better can you add some of your own classes and style them? In a perfect world, they&#39;d be meaningful, but we&#39;re just experimenting and getitng our hands dirty. So, feel free to use classes like &quot;awesome&quot; and &quot;totally-rad&quot; if that&#39;s easier for you.</p>
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+<h3>Transitions and Transformations</h3>
+
+<p>We can also add a bit of motion to our documents with CSS using the <code>transform</code> and <code>transition</code> properties.</p>
+
+<p>Try this rule on for size:</p>
+<div class="highlight"><pre><code class="language-css" data-lang="css"><span class="nt">p</span> <span class="p">{</span>
+  <span class="n">transform</span><span class="o">:</span> <span class="n">rotate</span><span class="p">(</span><span class="m">180</span><span class="n">deg</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>Groovy, right? We have <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform">quite a few transformations at our disposal</a>, but we&#39;ll cover just a subset today:</p>
+
+<ul>
+<li>Rotation: <code>transform: rotate(180deg);</code> will flip the element upside down.</li>
+<li>Scaling: <code>transform: scale(110%);</code> will make the element bigger by 10%.</li>
+<li>Translating (moving): <code>translate: rotate(25px, 10px);</code> will move the element 25 pixels to the right and 10 pixels down.</li>
+</ul>
+
+<p>Transformations become extra fun when we pair them with transitions. For our purposes, transiitons will take two pieces of information:</p>
+
+<ul>
+<li>The name of the property we want to transition. (Alternatively, we can use <code>all</code> to transition all of the properties.)</li>
+<li>The duration of the transition.</li>
+</ul>
+
+<p>Consider the following example:</p>
+<div class="highlight"><pre><code class="language-css" data-lang="css"><span class="nt">p</span> <span class="p">{</span>
+  <span class="n">transition</span><span class="o">:</span> <span class="n">all</span> <span class="m">1s</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">p</span><span class="nd">:hover</span> <span class="p">{</span>
+  <span class="n">transform</span><span class="o">:</span> <span class="n">rotate</span><span class="p">(</span><span class="m">180</span><span class="n">deg</span><span class="p">);</span>
+  <span class="k">background-color</span><span class="o">:</span> <span class="nb">mediumspringgreen</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+<p data-height="300" data-theme-id="23788" data-slug-hash="ezpqbY" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/ezpqbY/">Ipsums: Transitions</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+<h4>Your Turn</h4>
+
+<p>Try and take some of the other transformation properties for a spin.</p>
+
+
+       </div>
+     </div>
+   </div>
+   <footer class="page-footer white">
+    <div class="container footer-container">
+      <div class="row">
+        <div class="col l6 s12">
+          <p class=""><a href="http://turing.io">Turing School of Software and Design</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+</body>
+</html>
+
