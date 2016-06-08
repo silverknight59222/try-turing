@@ -1,7 +1,7 @@
 ---
 title: Twitter Project, Part 3
 layout: post
-date: 1000-01-03
+date: 1000-01-31
 permalink: twitter-project-part-3
 ---
 
