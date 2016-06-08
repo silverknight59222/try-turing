@@ -53,11 +53,11 @@ puts "**** this is another string ****"
 
 We can save strings to variables:
 
-{% highlight ruby %}
+```ruby
 email = "rachel@turing.io"
 address = "123 Apple Street, Denver, CO 80202"
 first_name = "Rachel"
-{% endhighlight %}
+```
 
 Notice that these variables start with a lower case letter and can include underscores (_). 
 
