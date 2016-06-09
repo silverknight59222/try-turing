@@ -14,7 +14,7 @@ permalink: javascript
 
 Open up the Chrome Developer Tools by pressing `Command-Option-J` on your Mac. This will give you a REPL like `irb`—except with JavaScript. Take a few moments to try the following:
 
-* Perform basic arithmetic (`2 + 2`, `3 * 3`);
+* Perform basic arithmetic (`2 + 2`, `3 * 3`)
 * Create some strings
 * Create an array
 * Assign a value to a variable
@@ -71,25 +71,15 @@ Let's take a look at passing a function as an argument to another function.
 function addTwo(addend) { return addend + 2; }
 function subtractOne(minuend) { return minuend - 1; }
 function multiplyByThree(factor) { return factor * 3; }
-
-// Now let's set up a function that takes a function as an argument.
-
-function doMath(value, mathFunction) {
-  return mathFunction(value);
-}
-
-doMath(2, addTwo); // => 4
-doMath(4, subtractOne); // => 3
-doMath(3, multiplyByThree) // => 9
 ```
 
 Notice how we didn't use the parentheses when we passed the functioned into `doMath`? That's because if we used the parentheses, we would call the function. We don't want to call it. We just want to reference it.
 
-## Pair Experiment I: Creating a Function
+## Try It: Creating a Function
 
 Try the following:
 
 * Create a function that divides one number by the other.
-* Create a function that takes a number, two of the math functions listed above, and performs both math equations on the value (e.g. `yourMathFunction(2, addTwo, subtractOne)` should return `3`).
+* What happens if you remove the `return` keyword from one of the functions above?
 
 Copy and paste each into the Chrome Developer Tools. Did it work?

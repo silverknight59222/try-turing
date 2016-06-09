@@ -4,3 +4,17 @@ layout: post
 date: 2000-01-05
 permalink: jquery
 ---
+
+jQuery is a library that allows us to use CSS selectors to find elements on the page and then interact with them.
+
+Let's say that we have a page with the following markup?
+
+```html
+<h1 class="important-header">Dinosaurs are awesome.</h1>
+```
+
+We could change the text programatically.
+
+```js
+$('h1').text('I AM A DINOSAUR.');
+```
