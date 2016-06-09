@@ -14,7 +14,7 @@ CSS is a way to add style to HTML documents on the web. It's incredibly powerful
 
 In CSS, we right a bunch of rules for how our docment should look. The browser evaluates those trules and styles the page accordingly. A CSS rule is defined as follows:
 
-![Anatomy of a CSS Selector](../images/css-rule.png)
+![Anatomy of a CSS Selector]({{ site.url }}{{ site.baseurl }}/images/css-rule.png)
 
 In the example above, the browser will set any `<strong>` element's color to red. We can define multiple sets of properties and values in a given rule.
 
