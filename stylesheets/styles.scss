@@ -4,6 +4,21 @@
 
 @import 'syntax';
 
+@keyframes wiggle {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(-5deg);
+  }
+  75% {
+    transform: rotate(5deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
 $teal: #05c2d1;
 $dark-gray: #3c4040;
 $medium-gray: #98a1a2;
@@ -126,6 +141,11 @@ header {
 
   .turing-logo {
     margin: 0 auto;
+
+    &:hover {
+      animation-name: wiggle;
+      animation-duration: 1s;
+    }
 
     @media (max-width: $tablet-width) {
       max-width: $sidebar-width;
