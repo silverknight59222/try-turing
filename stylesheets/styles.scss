@@ -139,6 +139,7 @@ header {
 
 .sidebar {
   min-width: $sidebar-width;
+  max-width: $sidebar-width;
 
   background-color: $dark-gray;
   color: white;
