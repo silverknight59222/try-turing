@@ -9,7 +9,7 @@ In a broad sense, back-end programming is concerned with managing ​*data*​. 
 
 Consider a popular website like Twitter. When we view a Twitter profile, what are the parts we actually care about? Why did we come here in the first place?
 
-![INSERT IMAGE LINK HERE]({{ site.baseurl }}/images/taylor_swift.png)
+![INSERT IMAGE LINK HERE](/images/taylor_swift.png)
 
 Modern software, and web software especially, is driven by content -- without the content, most of it wouldn't be worth bothering with. And all of that content has to live somewhere. It needs to be stored, retrieved, manipulated, formatted, etc etc. When we talk about "back-end" programming, we're often thinking of the programming tasks involved in making this possible:
 

@@ -51,7 +51,7 @@ There are two things happening here. First, we have an `<img>` tag that is somew
 
 Our `<img>` tag needs an extra little piece of information. Our browser is more than happy to load up an image, but it'd be helpful if we told it where that image located. That's where the `src` attribute comes in.
 
-![Anatomy of an HTML Tag]({{ site.url }}{{ site.baseurl }}/images/anatomy.png)
+![Anatomy of an HTML Tag](/images/anatomy.png)
 
 Let's update our page from earlier with an the image above.
 
