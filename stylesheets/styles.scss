@@ -1,0 +1,185 @@
+---
+# Main style files. Everything else is located in _sass.
+---
+
+@import 'syntax';
+
+$teal: #05c2d1;
+$dark-gray: #3c4040;
+$medium-gray: #98a1a2;
+
+$tablet-width: 720px;
+$sidebar-width: 220px;
+$content-block-spacing: 2em;
+
+/* Base */
+
+html, body {
+  box-sizing: border-box;
+  height: 100%;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  margin: 3em 0 1em 0;
+  &:first-child {
+    margin-top: 1em;
+  }
+}
+
+h1 {
+  font-size: 1.8em;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+h5 {
+  font-size: 1.1em;
+}
+
+p {
+  line-height: 1.4em;
+  margin-bottom: $content-block-spacing;
+}
+
+img {
+  max-width: 100%;
+  &:first-child {
+    display: block;
+    margin: 2em auto;
+  }
+}
+
+ul, ol {
+  margin-bottom: $content-block-spacing;
+}
+
+ul {
+  list-style: disc;
+}
+
+li {
+  margin-left: 2em;
+  margin-bottom: 0.8em;
+}
+
+a {
+  border-bottom: 3px solid lighten($medium-gray, 20);
+  color: $teal;
+  text-decoration: none;
+  &:hover {
+    border-color: $dark-gray;
+  }
+}
+
+iframe {
+  border: 1px solid $medium-gray;
+  margin-bottom: 1em;
+}
+
+footer {
+  border-top: 1px dashed lighten($medium-gray, 10);
+  margin-top: 5em;
+  padding-top: 2em;
+
+  img {
+    display: inline-block;
+  }
+}
+
+/* Layout */
+
+.container {
+  display: flex;
+  max-width: ($tablet-width + $sidebar-width);
+  min-height: 100vh;
+  @media (max-width: $tablet-width) {
+    flex-direction: column;
+  }
+}
+
+/* Header */
+
+header {
+  margin-bottom: 2em;
+  padding: 1em;
+  background-color: black;
+
+  img.turing-logo {
+    margin: 0 auto;
+  }
+
+  h1 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-weight: 300;
+    text-align: center;
+  }
+}
+
+/* Side Bar */
+
+.sidebar {
+  min-width: $sidebar-width;
+
+  background-color: $dark-gray;
+  color: white;
+
+  ul, ol {
+    list-style: none;
+
+    @media (max-width: $tablet-width) {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+
+  li {
+    margin-bottom: 0;
+    margin-left: 0;
+
+    line-height: 1.8em;
+  }
+
+  a {
+    display: block;
+    padding: 1em;
+    border-bottom: none;
+
+    color: white;
+
+    &:hover {
+      background-color: darken($dark-gray, 10);
+    }
+
+    &:active {
+      background-color: $teal;
+      box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    }
+  }
+
+}
+
+/* Content */
+
+.content {
+  max-width: 100%;
+  padding: 2em;
+}

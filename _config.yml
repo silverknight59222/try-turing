@@ -1,5 +1,32 @@
-title: Try Turing
-email: rachelwarbelow@gmail.com
-markdown: redcarpet
-highlighter: pygments
-baseurl: /try-turing
+title: "Try Turing - Turing School of Software and Design"
+description: "Open source curriculum for the Turing School of Software and Design's Try Turing Weekend."
+url: "http://try.turing.io/"
+
+baseurl: ''
+permalink: /:title
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude: [
+  'Gemfile',
+  'Gemfile.lock',
+  'README.md',
+  'LICENSE',
+  'CNAME'
+]
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+
+assets:
+  root_url: '/assets'
+
+images:
+  root_url: '/assets/images'

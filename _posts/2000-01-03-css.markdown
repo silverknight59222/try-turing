@@ -29,16 +29,16 @@ As an extension, here are some other things you can try on for size:
 
 Once you've selected and styled a few elements, explore a few additional properties:
 
-- [`border`](https://developer.mozilla.org/en-US/docs/Web/CSS/border "border - CSS | MDN")
-- [`background-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color "background-color - CSS | MDN")
-- [`box-shadow`](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow "box-shadow - CSS | MDN")
-- [`opacity`](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity "opacity - CSS | MDN")
-- [`width`](https://developer.mozilla.org/en-US/docs/Web/CSS/width "width - CSS | MDN")
-- [`height`](https://developer.mozilla.org/en-US/docs/Web/CSS/height "height - CSS | MDN")
-- [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin "margin - CSS | MDN")
-- [`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding "padding - CSS | MDN")
-- [`font-family`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family "font-family - CSS | MDN")
-- [`font-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size "font-size - CSS | MDN")
+- [`border`](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
+- [`background-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
+- [`box-shadow`](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+- [`opacity`](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity)
+- [`width`](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
+- [`height`](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
+- [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
+- [`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
+- [`font-family`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+- [`font-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="gMaVam" data-default-tab="html,css,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMaVam/">Ipsums</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
