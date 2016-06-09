@@ -5,18 +5,18 @@ date: 1000-01-05
 permalink: arrays
 ---
 
-You can think of an array in Ruby as a box that can hold things: integers, strings, floats, other arrays, etc. It's a container for other elements. The elements are contained by straight brackets and separated by commas. Any number of elements can be put in an array. 
+You can think of an array in Ruby as a box that can hold things: integers, strings, floats, other arrays, etc. It's a container for other elements. The elements are contained by straight brackets and separated by commas. Any number of elements can be put in an array.
 
-Here are some examples of arrays: 
+Here are some examples of arrays:
 
 ```ruby
 animals = ["piglet", "kitten"]
 my_numbers = [1,2,3,4,5]
 ```
 
-<h4>Iterating Through Arrays</h4>
+## Iterating Through Arrays
 
-Create a new file <span class="command">array_practice.rb</span> and paste in the following code:
+Create a new file `array_practice.rb` and paste in the following code:
 
 ```ruby
 foods = ["apples", "bananas", "cookies", "ice cream"]
@@ -25,7 +25,7 @@ foods.each do |food|
 end
 ```
 
-Modify this program to iterate through a list of programming terms and output a sentence "I am learning about (insert term here)" for each of the terms. 
+Modify this program to iterate through a list of programming terms and output a sentence "I am learning about (insert term here)" for each of the terms.
 
 <div class="card cyan">
   <div class="card-content white-text">
@@ -48,6 +48,6 @@ Modify this program to iterate through a list of programming terms and output a 
 numbers = [10, 12, 17, 40, 55, 61]
 
 numbers.each do |num|
-  # put your code here 
+  # put your code here
 end
 ```

@@ -5,11 +5,11 @@ date: 1000-01-31
 permalink: twitter-project-part-3
 ---
 
-Let's say that we wanted to be able to search for tweets with the hashtag #learntocode and save them to a file that we can access later. First, we'll need to set up a program that can search when given a hashtag. 
+Let's say that we wanted to be able to search for tweets with the hashtag #learntocode and save them to a file that we can access later. First, we'll need to set up a program that can search when given a hashtag.
 
-<h4>Preparing the Program</h4>
+## Preparing the Program
 
-Go ahead and make a new file: <span class="command">twitter_search.rb</span>.
+Go ahead and make a new file: `twitter_search.rb`.
 
 Then create your Twitter client again:
 
@@ -28,18 +28,18 @@ client.search("#learntocode").each do |tweet|
 end
 ```
 
-Run this with different hash tags a few times to see that it works. 
+Run this with different hash tags a few times to see that it works.
 
 <div class="card cyan ">
   <div class="card-content white-text">
     <span class="card-title black-text"><b>Try it: Searching Dynamic Values</b></span>
     <p>
-      Right now, we've hard-coded the #learntocode hashtag. Modify your program so that it asks the user what hashtag they want to search, then uses that value to search Twitter. Try it out to make sure it works. 
+      Right now, we've hard-coded the #learntocode hashtag. Modify your program so that it asks the user what hashtag they want to search, then uses that value to search Twitter. Try it out to make sure it works.
     </p>
   </div>
 </div>
 
-<h4>Saving to a File</h4>
+## Saving to a File
 
 In Ruby, we can save things to a file using this syntax:
 
@@ -56,13 +56,13 @@ my_file.write("Here's another sentence that is two lines below the previous one.
 my_file.close
 ```
 
-If you want to, go ahead and try that out, then open the file it created and look at it. 
+If you want to, go ahead and try that out, then open the file it created and look at it.
 
 <div class="card cyan ">
   <div class="card-content white-text">
     <span class="card-title black-text"><b>Try it: Saving Search Results</b></span>
     <p>
-      Modify your <span class="command">twitter_search.rb</span> program so that whenever it runs, it saves the results to a text file. The file name should be based on what hashtag the user enters. For example, if they search "#denver", the results file should be called <span class="command">results_for_#denver.txt</span>. Hint: You'll want to use string interpolation (look back at section 1 if you've forgotten what this is). 
+      Modify your `twitter_search.rb</span> program so that whenever it runs, it saves the results to a text file. The file name should be based on what hashtag the user enters. For example, if they search "#denver", the results file should be called <span class="command">results_for_#denver.txt`. Hint: You'll want to use string interpolation (look back at section 1 if you've forgotten what this is).
     </p>
   </div>
 </div>

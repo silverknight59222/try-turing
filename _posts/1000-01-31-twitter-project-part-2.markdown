@@ -7,9 +7,9 @@ permalink: twitter-project-part-2
 
 Now that we know how to post a tweet, let's read other users' timelines.
 
-<h4>Preparing the Program</h4>
+## Preparing the Program
 
-Go ahead and make a new file: <span class="command">read_twitter\_timeline.rb</span>.
+Go ahead and make a new file: `read_twitter\_timeline.rb`.
 
 Then create your Twitter client again:
 
@@ -24,7 +24,7 @@ client = Twitter::REST::Client.new do |config|
 end
 ```
 
-<h4>Reading a Timeline</h4>
+## Reading a Timeline
 
 ```ruby
 require 'twitter'
@@ -45,7 +45,7 @@ end
   <div class="card-content white-text">
     <span class="card-title black-text"><b>Try it: Reading Timelines Using Optional Arguments</b></span>
     <p>
-      By default, our program only prints out the 20 most recent tweets. The <span class="command">user_timeline</span> method can take another optional argument. If we wanted the 50 most recent tweets, we could do this:
+      By default, our program only prints out the 20 most recent tweets. The `user_timeline` method can take another optional argument. If we wanted the 50 most recent tweets, we could do this:
       <div class="output">
         client.user_timeline("turingschool", count: 50).each do |tweet|
           puts tweet.text

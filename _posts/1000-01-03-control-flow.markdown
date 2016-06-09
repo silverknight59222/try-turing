@@ -5,7 +5,7 @@ date: 1000-01-03
 permalink: control-flow
 ---
 
-Control Flow refers to being able to determine what the program does given certain inputs. Let's make a new file <span class="command">control_flow.rb</span> and try this out:
+Control Flow refers to being able to determine what the program does given certain inputs. Let's make a new file `control_flow.rb` and try this out:
 
 ```ruby
 puts "What is the best type of cookie: "
@@ -44,7 +44,7 @@ end
   </div>
 </div>
 
-<h4>Looping</h4>
+## Looping
 
 Looping is the idea that something will happen until a condition is met. For example: while you are hungry, keep eating. Once you are full, stop eating.
 

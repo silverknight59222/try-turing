@@ -7,7 +7,7 @@ permalink: twitter-project-part-1
 
 Let's write a program that can post tweets, read user timelines, search for hashtags. Next, we'll add to our program by creating a bot that can automatically follow users who tweet about certain things. Finally, we'll write a program that can live-stream tweets with specific keywords and auto-reply to them.
 
-<h4>Installing the Gem</h4>
+## Installing the Gem
 
 First, we'll install a Gem (which is a piece of code written by someone else) that we can use to interact with Twitter via Ruby.
 
@@ -15,9 +15,9 @@ First, we'll install a Gem (which is a piece of code written by someone else) th
   $ gem install twitter
 </div>
 
-<h4>Setting up the File</h4>
+## Setting up the File
 
-Next, we'll set up our first Twitter program: <span class="command">tweet.rb</span>.
+Next, we'll set up our first Twitter program: `tweet.rb`.
 
 Inside of that file, we'll setup a Ruby object that can communicate with Twitter:
 
@@ -34,7 +34,7 @@ end
 
 All of these keys and tokens are currently blank, because we need to register a new app in order to get tokens and keys we can use.
 
-<h4>Registering your App</h4>
+## Registering your App
 
 Log in to your Twitter account, then visit [https://apps.twitter.com/app/new](https://apps.twitter.com/app/new). Enter the following information:
 
@@ -68,9 +68,9 @@ client = Twitter::REST::Client.new do |config|
 end
 ```
 
-<h4>Writing Your Program</h4>
+## Writing Your Program
 
-If you look at what you have so far in your program, we've created a variable called <span class="command">client</span>. We can use that variable to do things. For example, if we want to post a new tweet, we can do this:
+If you look at what you have so far in your program, we've created a variable called `client`. We can use that variable to do things. For example, if we want to post a new tweet, we can do this:
 
 ```ruby
 require 'twitter'

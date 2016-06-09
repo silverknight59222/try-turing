@@ -13,9 +13,9 @@ In Ruby, a String is a series of characters between quotation marks:
 "**** this is another string ****"
 ```
 
-<h4>Our First Program</h4>
+## Our First Program
 
-Let's write a program where we we print strings. First, we'll need to make a file and save it as <span class="command">strings.rb</span>.
+Let's write a program where we we print strings. First, we'll need to make a file and save it as `strings.rb`.
 
 ```ruby
 print "here is a string"
@@ -23,8 +23,8 @@ print "1234567"
 print "**** this is another string ****"
 ```
 
-To run this program, type <span class="command">ruby strings.rb</span> from the command line.
-<br><br>
+To run this program, type `ruby strings.rb` from the command line.
+
 Using print does not add a line between each string. If we want to do that, we can use puts:
 
 ```ruby
@@ -49,7 +49,7 @@ puts "**** this is another string ****"
   </div>
 </div>
 
-<h4>Assigning Strings to Variables</h4>
+## Assigning Strings to Variables
 
 We can save strings to variables:
 
@@ -97,7 +97,7 @@ puts "#{first_name} lives at #{address}. Her email address is #{email}."
   </div>
 </div>
 
-<h4>String Methods</h4>
+## String Methods
 
 You can think of a method as a command. With a dog, one command you might give is "bark". In code, we might represent this as:
 

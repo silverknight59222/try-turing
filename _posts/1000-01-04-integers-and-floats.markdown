@@ -19,7 +19,7 @@ $ irb
 You'll see a prompt that looks like this:
 
 ```
-2.2.4 :001 > 
+2.2.4 :001 >
 ```
 
 To get out of it, type exit, then hit the enter key:
@@ -28,7 +28,7 @@ To get out of it, type exit, then hit the enter key:
 2.2.4 :001 > exit
 ```
 
-Go back into IRB and try out the following things. What do you notice? What do you think these "to_f", "to_i", and "to_s" methods do? 
+Go back into IRB and try out the following things. What do you notice? What do you think these "to_f", "to_i", and "to_s" methods do?
 
 ```ruby
 x = 5
@@ -39,9 +39,9 @@ z = 10
 z.to_s
 ```
 
-<h4>Comparing Values</h4>
+## Comparing Values
 
-Just like in middle school math class, we can use comparison operators to compare numbers. The return values are either true or false. 
+Just like in middle school math class, we can use comparison operators to compare numbers. The return values are either true or false.
 
 ```ruby
 5 == 5
@@ -74,13 +74,13 @@ message != input
   <div class="card-content white-text">
     <span class="card-title black-text"><b>Try It: Guess the Number</b></span>
     <p>
-      Use what you know about while loops and if/else statements to write a program that sets a secret number, then allows a user to guess. If the number is too high, print "Too high! Guess again." If the number is too low, print "Too low! Guess again." If the number guessed is the secret number, then print "Correct!" and exit the game. 
+      Use what you know about while loops and if/else statements to write a program that sets a secret number, then allows a user to guess. If the number is too high, print "Too high! Guess again." If the number is too low, print "Too low! Guess again." If the number guessed is the secret number, then print "Correct!" and exit the game.
       <br>
       <div class="output">
         Guess a number.
         5
-        Too low! Guess again. 
-        10 
+        Too low! Guess again.
+        10
         Too high! Guess again.
         9
         Correct!

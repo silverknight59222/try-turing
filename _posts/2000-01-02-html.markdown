@@ -60,7 +60,7 @@ Let's update our page from earlier with an the image above.
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 <aside>
-  <h4>A Word on Tags and Elements</h4>
+  ## A Word on Tags and Elements
 
   <p>
     You may here me use the term "tag" and "element" interchangably. The reason for this is that they're closely related, with just a subtle difference. A tag is the thing we write when we're creating an HTML document. The browser then reads and parses our document. Elements are the end result of what's rendered in the browser based on the tags we write.

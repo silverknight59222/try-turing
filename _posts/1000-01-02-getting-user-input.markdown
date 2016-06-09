@@ -5,7 +5,7 @@ date: 1000-01-02
 permalink: getting-user-input
 ---
 
-Our program isn't very exciting so far. Let's make a new program called <span class="command">user_input.rb</span> and try this out:
+Our program isn't very exciting so far. Let's make a new program called `user_input.rb` and try this out:
 
 ```ruby
 puts "Enter your name: "
