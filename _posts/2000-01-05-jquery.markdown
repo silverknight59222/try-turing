@@ -1,0 +1,6 @@
+---
+title: Introduction to jQuery
+layout: post
+date: 2000-01-05
+permalink: jquery
+---

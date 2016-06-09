@@ -138,4 +138,4 @@ p:hover {
 
 #### Your Turn
 
-Try and take some of the other transformation properties for a spin.
+Try and take some of the other transformation properties for a spin. How ugly and ridiculous can you make the page?
