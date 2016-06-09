@@ -230,8 +230,14 @@ pre {
 }
 
 .try-it {
-  background-color: $yellow;
-  border: 1px solid darken($yellow, 5);
+  background-color: lighten($teal, 50);
+  border: 1px solid $teal;
   padding: 1em;
+
+  pre {
+    border: 1px solid black;
+    background-color: rgb(50, 50, 50);
+    color: white;
+  }
 }
 
