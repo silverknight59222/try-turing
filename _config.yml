@@ -1,8 +1,8 @@
 title: "Try Turing - Turing School of Software and Design"
 description: "Open source curriculum for the Turing School of Software and Design's Try Turing Weekend."
-url: "http://try.turing.io/"
+url: "http://turingschool.github.io/"
 
-baseurl: '/try-turing'
+baseurl: 'try-turing'
 permalink: /:title
 
 markdown: kramdown
