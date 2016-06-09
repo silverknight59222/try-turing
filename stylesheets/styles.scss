@@ -100,6 +100,8 @@ a {
   border-bottom: 3px solid lighten($medium-gray, 20);
   color: $teal;
   text-decoration: none;
+  transition: all 0.5s;
+
   &:hover {
     border-color: $dark-gray;
   }
