@@ -118,12 +118,13 @@ footer {
 
 /* Header */
 
+
 header {
   margin-bottom: 2em;
   padding: 1em;
   background-color: black;
 
-  img.turing-logo {
+  .turing-logo {
     margin: 0 auto;
 
     @media (max-width: $tablet-width) {
