@@ -7,7 +7,7 @@ permalink: back-end-intro
 
 - The "front-end" is the part of the application that users see, touch, and interact with. The "back-end" typically handles stuff like storing information in databases, manipulating that data, authenticating users, etc.; it's what happens behind the scenes.
 
-## What are the technonologies used on the back-end?
+## What are the technologies used on the back-end?
 
 * Database: PostgreSQL, MySQL, MongoDB, etc.
 * Languages and frameworks: Ruby/Rails, Python/Django, Elixir/Phoenix, etc.
