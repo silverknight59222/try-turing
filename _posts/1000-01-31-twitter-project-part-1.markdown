@@ -1,27 +1,27 @@
 ---
 title: Twitter Project, Part 1
 layout: post
-date: 1000-01-03
+date: 1000-01-31
 permalink: twitter-project-part-1
 ---
 
-Let's write a program that can post tweets, read user timelines, and search for hashtags. Next, we'll add to our program by creating a bot that can automatically follow users who tweet about certain things. Finally, we'll write a program that can live-stream tweets with specific keywords and auto-reply to them.
+Let's write a program that can post tweets, read user timelines, search for hashtags. Next, we'll add to our program by creating a bot that can automatically follow users who tweet about certain things. Finally, we'll write a program that can live-stream tweets with specific keywords and auto-reply to them.
 
 <h4>Installing the Gem</h4>
 
 First, we'll install a Gem (which is a piece of code written by someone else) that we can use to interact with Twitter via Ruby.
 
-```
-gem install twitter
-```
+<div class="output">
+  $ gem install twitter
+</div>
 
 <h4>Setting up the File</h4>
 
-Next, we'll set up our first Twitter program: `tweet.rb`.
+Next, we'll set up our first Twitter program: <span class="command">tweet.rb</span>.
 
 Inside of that file, we'll setup a Ruby object that can communicate with Twitter:
 
-```rb
+```ruby
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -57,7 +57,7 @@ We'll also need to generate an access token. Scroll to the bottom of the same pa
 
 Paste these four keys and tokens into your program file. It should look something like this now (these are fake keys, so they won't work if you try to use them):
 
-```rb
+```ruby
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -70,9 +70,9 @@ end
 
 <h4>Writing Your Program</h4>
 
-If you look at what you have so far in your program, we've created a variable called `client`. We can use that variable to do things. For example, if we want to post a new tweet, we can do this:
+If you look at what you have so far in your program, we've created a variable called <span class="command">client</span>. We can use that variable to do things. For example, if we want to post a new tweet, we can do this:
 
-```rb
+```ruby
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -89,7 +89,11 @@ Check out your Twitter account to see if it worked!
 
 But this is too easy. Let's add a little more to our program:
 
-
-## Try It: Tweeting from the Command Line</b></span>
-
-Write a program that asks a user for text to use for a tweet. If the text is less than or equal to 140 characters, tweet it! If it is longer than 140 characters, tell the user that their tweet was too long.
+<div class="card cyan ">
+  <div class="card-content white-text">
+    <span class="card-title black-text"><b>Try it: Tweeting from the Command Line</b></span>
+    <p>
+      Write a program that asks a user for text to use for a tweet. If the text is less than or equal to 140 characters, tweet it! If it is longer than 140 characters, tell the user that their tweet was too long.
+    </p>
+  </div>
+</div>
