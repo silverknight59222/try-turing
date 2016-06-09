@@ -45,7 +45,8 @@ puts "**** this is another string ****"
         Denver, CO <br>
         --------------- <br>
         rachel@turing.io <br>
-    </div>
+      </div>
+    </p>
   </div>
 </div>
 
@@ -118,9 +119,10 @@ puts message.downcase
 puts message.include?("World")
 puts message.include?("Mars")
 puts message.reverse
+puts message.length
 ```
 
-<div class="card cyan ">
+<div class="card cyan">
   <div class="card-content white-text">
     <span class="card-title black-text"><b>Try it: Using String Methods</b></span>
     <p>
