@@ -6,14 +6,18 @@
   </head>
 
   <body>
-    {% include navigation.html %}
-    <section class="container">
-      {% include header.html %}
-      <article>
-        <h1 class="lesson-title">{{ page.title }}</h1>
-        {{content}}
-      </article>
-      {% include footer.html %}
-    </section>
+    <div class="container">
+      <section class="sidebar">
+        {% include header.html %}
+        {% include navigation.html %}
+      </section>
+      <section class="content">
+        <article>
+          <h1 class="lesson-title">{{ page.title }}</h1>
+          {{content}}
+        </article>
+        {% include footer.html %}
+      </section>
+    </div>
   </body>
 </html>
