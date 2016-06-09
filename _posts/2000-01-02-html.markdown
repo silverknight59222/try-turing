@@ -58,7 +58,7 @@ Let's update our page from earlier with an the image above.
 <p data-height="300" data-theme-id="23788" data-slug-hash="XKmwqR" data-default-tab="html,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/XKmwqR/">A Page with an Image</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 <aside>
-  ## A Word on Tags and Elements
+  <h2>A Word on Tags and Elements</h2>
 
   <p>
     You may here me use the term "tag" and "element" interchangably. The reason for this is that they're closely related, with just a subtle difference. A tag is the thing we write when we're creating an HTML document. The browser then reads and parses our document. Elements are the end result of what's rendered in the browser based on the tags we write.
