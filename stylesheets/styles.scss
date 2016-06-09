@@ -109,7 +109,7 @@ footer {
 
 .container {
   display: flex;
-  max-width: ($tablet-width + $sidebar-width);
+
   min-height: 100vh;
   @media (max-width: $tablet-width) {
     flex-direction: column;
@@ -125,6 +125,10 @@ header {
 
   img.turing-logo {
     margin: 0 auto;
+
+    @media (max-width: $tablet-width) {
+      max-width: $sidebar-width;
+    }
   }
 
   h1 {
@@ -141,8 +145,15 @@ header {
   min-width: $sidebar-width;
   max-width: $sidebar-width;
 
+  flex-basis: auto;
+
   background-color: $dark-gray;
   color: white;
+
+  @media (max-width: $tablet-width) {
+    min-width: 100%;
+    max-width: 100%;
+  }
 
   ul, ol {
     list-style: none;
@@ -183,6 +194,13 @@ header {
 /* Content */
 
 .content {
-  max-width: 100%;
+  // max-width: 100%;
   padding: 2em;
+  // flex-grow: 500;
+}
+
+/* Code Samples */
+
+pre {
+  overflow-x: scroll;
 }
