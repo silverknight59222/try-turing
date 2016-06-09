@@ -33,21 +33,16 @@ puts "1234567"
 puts "**** this is another string ****"
 ```
 
-<div class="card cyan ">
-  <div class="card-content white-text">
-    <span class="card-title black-text"><b>Try it: Printing Strings</b></span>
-    <p>
-      Write a program that prints out your name, location, and email address each separated by a line of dashes.
-      <br>
-      <div class="output">
-        Rachel Warbelow <br>
-        --------------- <br>
-        Denver, CO <br>
-        --------------- <br>
-        rachel@turing.io <br>
-      </div>
-    </p>
-  </div>
+<div class="try-it">
+<h2>Try it: Printing Strings</h2>
+
+<p>Write a program that prints out your name, location, and email address each separated by a line of dashes.</p>
+
+<pre>Rachel Warbelow
+---------------
+Denver, CO
+---------------
+rachel@turing.io</pre>
 </div>
 
 ## Assigning Strings to Variables

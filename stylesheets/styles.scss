@@ -22,6 +22,7 @@
 $teal: #05c2d1;
 $dark-gray: #3c4040;
 $medium-gray: #98a1a2;
+$yellow: rgb(244, 213, 152);
 
 $tablet-width: 720px;
 $sidebar-width: 220px;
@@ -227,3 +228,10 @@ header {
 pre {
   overflow-x: scroll;
 }
+
+.try-it {
+  background-color: $yellow;
+  border: 1px solid darken($yellow, 5);
+  padding: 1em;
+}
+
