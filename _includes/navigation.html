@@ -1,7 +1,7 @@
 <nav>
   <ul>
     {% for post in site.posts reversed %}
-    <a href="/{{ site.baseurl }}{{ post.url }}"><li>{{ post.title }}</li></a>
+    <a href="{{ site.baseurl }}/{{ post.url }}"><li>{{ post.title }}</li></a>
     {% endfor %}
   </ul>
 </nav>
