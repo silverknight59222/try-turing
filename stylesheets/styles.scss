@@ -32,6 +32,7 @@ $content-block-spacing: 2em;
 
 html, body {
   box-sizing: border-box;
+  width: 100%;
   height: 100%;
   margin: 0;
   font-family: 'Open Sans', sans-serif;
@@ -233,11 +234,19 @@ pre {
   background-color: lighten($teal, 50);
   border: 1px solid $teal;
   padding: 1em;
-
   pre {
     border: 1px solid black;
     background-color: rgb(50, 50, 50);
     color: white;
   }
 }
+
+.highlighter-rouge {
+  max-width: 100%;
+  pre {
+    white-space: pre-wrap;
+  }
+}
+
+
 
