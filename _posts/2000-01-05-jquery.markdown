@@ -5,7 +5,7 @@ date: 2000-01-05
 permalink: jquery
 ---
 
-jQuery is a library that allows us to use CSS selectors to find elements on the page and then interact with them.
+jQuery is a library that allows us to use CSS selectors to find elements on the page and then interact with them. Under the hood, it's JavaScript. It gives our JavaScript super powers. It's used on about 78% of the top million web pages. So, it's worth while getting comfortable with it.
 
 Let's say that we have a page with the following markup?
 
@@ -18,3 +18,49 @@ We could change the text programatically.
 ```js
 $('h1').text('I AM A DINOSAUR.');
 ```
+
+Play around with the following example.
+
+- Remove the line of JavaScript.
+- Change the replace text to something else.
+- Change the `h1` selector to `.important message`
+- Add the following line of code: `$('h1').css('backgroundColor', 'red');`
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="yJexXR" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/yJexXR/">Your First Lines of jQuery</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
+## Responding to User Events
+
+JavaScript along with its good friend jQuery are used to change and manipulate web pages. But, generally speaking, if you wanted the page to be different, you could have just written different HTML or CSS to begin with, right?
+
+The real power of using jQuery to change pages emerges when we start listening for user events.
+
+This is the crux of front-end engineering. We present a user interface and then as the user interacts with the UI, we change and update what he or she sees.
+
+Let's take a look at the syntax and then we'll talk about what's happening.
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="zBrJpV" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/zBrJpV/">Your First Lines of jQuery</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
+The following things are happening in the example above:
+
+- We're querying for any element with the class of `change-me`.
+- We're adding an "event listener" to those elements. (There is just one in this case.)
+- We're listening for a user's mouse click.
+- We're providing a function.
+- In this example, the function will change the content of our heading.
+
+Now, whenever a user clicks on that button. The browser will run the function we provided to the event listener.
+
+## Try It: Adding a CSS Class
+
+Open the example below in CodePen using the "Edit on CodePen."
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="gMPdzx" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMPdzx/">Event Listeners</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
+We're using a jQuery method called `toggleClass()`. When the user clicks on the button, it either adds or remove the class `upside-down` depending on whether or not it was already there.
+
+- Can you create some additional classes and toggle them?
+- Can you change the text?
+- Try out the following methods:
+  - `toggle()`
+  - `slideToggle()`
+  - `fadeToggle()`

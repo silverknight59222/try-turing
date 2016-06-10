@@ -7,23 +7,27 @@ permalink: javascript
 
 ## Learning Goals
 
+JavaScript is a lot like Ruby, which you were introduced to yesterday. The syntax and some of the concepts are a little different, but the two have more in common than not.
+
+In this segment of our time together, we'll:
+
 * Learn how to access and use the Chrome Developer Tools
 * Develop a basic understanding for JavaScript syntax
 
 ## Warmup
 
-Open up the Chrome Developer Tools by pressing `Command-Option-J` on your Mac. This will give you a REPL like `irb`—except with JavaScript. Take a few moments to try the following:
+Open up the Chrome Developer Tools by pressing `Command-Option-J` on your Mac or `Control-Option-J` on Windows or Linux. This will give you a command line REPL like `irb`—except with JavaScript. Take a few moments to try the following:
 
 * Perform basic arithmetic (`2 + 2`, `3 * 3`)
 * Create some strings
 * Create an array
 * Assign a value to a variable
 
-What works as expected? What are some things that you noticed behave differently? Record these observations in a Gist.
+What works as expected? What are some things that you noticed behave differently?
 
 ## Variables
 
-Like Ruby, JavaScript uses duck typing. Unlike Ruby, you need to use the `var` keyword when declaring a variable for the first time. If you forget the `var` keyword, your variable will be declared in the global scope—whether you meant it that way or not.
+Unlike Ruby, you need to use the `var` keyword when declaring a variable for the first time. If you forget the `var` keyword, your variable will be declared in the global scope—whether you meant it that way or not. (For our purposes today, forgetting the `var` keyword will not be the end of the world, but just know that it could cause subtle bugs in our code. Let's get in the habit of using it now.)
 
 ```js
 var x = 1;
@@ -48,7 +52,7 @@ if (hoursOfSleep < 6) {
 
 ## Functions
 
-In Ruby, we call methods on an object. Functions behave a lot like methods except that they are objects themselves. This means that you can store a function in a variable, pass a function as an argument to another function, or even call methods on a function.
+In Ruby, we call methods on an object. In JavaScript, we use functions. Functions behave a lot like methods except that they are objects themselves. This means that you can store a function in a variable, pass a function as an argument to another function, or even call methods on a function.
 
 Functions can be either named or anonymous. Anonymous functions can be stored in a variable or passed as an argument to another function.
 
@@ -73,7 +77,7 @@ function subtractOne(minuend) { return minuend - 1; }
 function multiplyByThree(factor) { return factor * 3; }
 ```
 
-Notice how we didn't use the parentheses when we passed the functioned into `doMath`? That's because if we used the parentheses, we would call the function. We don't want to call it. We just want to reference it.
+Notice how we didn't use the parentheses when we passed the functioned into `doMath`? That's because if we used the parentheses, we would call the function. We don't want to call it. We just want to reference it. This can be confusing. Don't worry too much about it. We're around to help you out today. Eventually you'll get the hang of it and even experienced programmers mess this up some times.
 
 ## Try It: Creating a Function
 
