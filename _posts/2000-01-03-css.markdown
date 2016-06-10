@@ -40,7 +40,7 @@ Once you've selected and styled a few elements, explore a few additional propert
 - [`font-family`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
 - [`font-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="gMaVam" data-default-tab="html,css,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMaVam/">Ipsums</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="300" data-theme-id="23788" data-slug-hash="gMaVam" data-default-tab="css,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMaVam/">Ipsums</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 ### Psuedo-selectors
 
@@ -62,7 +62,7 @@ a:active {
 
 Can you style some of the elements from the previous example using the `:hover` and `:active` pseudo-selectors.
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 #### Classes
 
@@ -96,7 +96,7 @@ This will look for every element—regardless of type—that has the class of `i
 
 Can you style some of the classes used in the example above? Even better can you add some of your own classes and style them? In a perfect world, they'd be meaningful, but we're just experimenting and getitng our hands dirty. So, feel free to use classes like "awesome" and "totally-rad" if that's easier for you.
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 ### Transitions and Transformations
 
