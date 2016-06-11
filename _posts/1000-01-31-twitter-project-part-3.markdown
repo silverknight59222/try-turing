@@ -34,13 +34,12 @@ end
 
 Run this with different hash tags a few times to see that it works. 
 
-<div class="card cyan ">
-  <div class="card-content white-text">
-    <span class="card-title black-text"><b>Try it: Searching Dynamic Values</b></span>
-    <p>
-      Right now, we've hard-coded the #learntocode hashtag. Modify your program so that it asks the user what hashtag they want to search, then uses that value to search Twitter. Try it out to make sure it works. 
-    </p>
-  </div>
+<div class="try-it">
+<h2>Try it: Searching Dynamic Values</h2>
+
+<p>
+  Right now, we've hard-coded the #learntocode hashtag. Modify your program so that it asks the user what hashtag they want to search, then uses that value to search Twitter. Try it out to make sure it works. 
+</p>
 </div>
 
 <h4>Saving to a File</h4>
