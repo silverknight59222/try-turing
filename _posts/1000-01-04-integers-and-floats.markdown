@@ -70,25 +70,21 @@ message == input
 message != input
 ```
 
-<div class="card cyan">
-  <div class="card-content white-text">
-    <span class="card-title black-text"><b>Try It: Guess the Number</b></span>
-    <p>
-      Use what you know about while loops and if/else statements to write a program that sets a secret number, then allows a user to guess. If the number is too high, print "Too high! Guess again." If the number is too low, print "Too low! Guess again." If the number guessed is the secret number, then print "Correct!" and exit the game.
-      <br>
-      <div class="output">
-        Guess a number.
-        5
-        Too low! Guess again.
-        10
-        Too high! Guess again.
-        9
-        Correct!
-      </div>
-      <b>Try getting started before looking at the code snippet below.</b> If you're stuck, check out the starter code below:
-    </p>
-  </div>
+<div class="try-it">
+<h2>Try It: Guess the Number</h2>
+
+<p>Use what you know about while loops and if/else statements to write a program that sets a secret number, then allows a user to guess. If the number is too high, print "Too high! Guess again." If the number is too low, print "Too low! Guess again." If the number guessed is the secret number, then print "Correct!" and exit the game.</p>
+
+<pre>Guess a number.
+5
+Too low! Guess again.
+10
+Too high! Guess again.
+9
+Correct!</pre>
+Try getting started before looking at the code snippet below.</b> If you're stuck, check out the starter code below:
 </div>
+
 
 ```ruby
 secret_number = rand(1..10)

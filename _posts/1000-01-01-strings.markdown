@@ -79,18 +79,13 @@ first_name = "Rachel"
 puts "#{first_name} lives at #{address}. Her email address is #{email}."
 ```
 
-<div class="card cyan ">
-  <div class="card-content white-text">
-    <span class="card-title black-text"><b>Try it: Interpolating Strings</b></span>
-    <p>
-      Write a program that assigns variables pet_name, food, and toy. Interpolate those variables into a string to output something like this:
-      <br>
-      <div class="output">
-        fluffy plays with stuffed mice after eating tuna fish.
-      </div>
-      Run your program a few times with different values for each variable to make sure it works.
-    </p>
-  </div>
+<div class="try-it">
+<h2>Try it: Interpolating Strings</h2>
+
+<p>Write a program that assigns variables pet_name, food, and toy. Interpolate those variables into a string to output something like this:</p>
+
+<pre>fluffy plays with stuffed mice after eating tuna fish.</pre>
+Run your program a few times with different values for each variable to make sure it works.
 </div>
 
 ## String Methods
@@ -117,16 +112,11 @@ puts message.reverse
 puts message.length
 ```
 
-<div class="card cyan">
-  <div class="card-content white-text">
-    <span class="card-title black-text"><b>Try it: Using String Methods</b></span>
-    <p>
-      Modify your program to capitalize the pet_name, reverse the food, and upcase the toy.
-      <br>
-      <div class="output">
-        Fluffy plays with STUFFED MICE after eating hsif anut.
-      </div>
-      Run your program a few times with different values for each variable to make sure it works.
-    </p>
-  </div>
+<div class="try-it">
+<h2>Try it: Using String Methods</h2>
+
+<p>Modify your program to capitalize the pet_name, reverse the food, and upcase the toy.</p>
+
+<pre>Fluffy plays with STUFFED MICE after eating hsif anut.</pre>
+Run your program a few times with different values for each variable to make sure it works.
 </div>

@@ -14,6 +14,27 @@ animals = ["piglet", "kitten"]
 my_numbers = [1,2,3,4,5]
 ```
 
+## What Can I Do With an Array?
+
+Try these array methods out in IRB. What happens? 
+
+```ruby
+> animals = ["piglet", "kitten"]
+> animals.count
+> animals << "penguin"
+> animals.count
+> animals << "koala"
+> animals.count
+> puts animals
+
+> animals[0]
+> animals.first
+> animals[1]
+> animals[2]
+> animals[3]
+> animals.last
+```
+
 ## Iterating Through Arrays
 
 Create a new file `array_practice.rb` and paste in the following code:
@@ -27,21 +48,17 @@ end
 
 Modify this program to iterate through a list of programming terms and output a sentence "I am learning about (insert term here)" for each of the terms.
 
-<div class="card cyan">
-  <div class="card-content white-text">
-    <span class="card-title black-text"><b>Try It: Multiplication Practice</b></span>
-    <p>
-      Use what you know about arrays to iterate through a list of numbers and output the number multiplied by 5. The example below shows the output if the array was [4,7,8,12]
-      <br>
-      <div class="output">
-        4 multiplied by 5 is 20
-        7 multiplied by 5 is 35
-        8 multiplied by 5 is 40
-        12 multiplied by 5 is 60
-      </div>
-      <b>Try getting started before looking at the code snippet below.</b> If you're stuck, check out the starter code below:
-    </p>
-  </div>
+
+<div class="try-it">
+<h2>Try It: Multiplication Practice</h2>
+
+<p>Use what you know about arrays to iterate through a list of numbers and output the number multiplied by 5. The example below shows the output if the array was [4,7,8,12]</p>
+
+<pre>4 multiplied by 5 is 20
+7 multiplied by 5 is 35
+8 multiplied by 5 is 40
+12 multiplied by 5 is 60</pre>
+Try getting started before looking at the code snippet below.</b> If you're stuck, check out the starter code below:
 </div>
 
 ```ruby

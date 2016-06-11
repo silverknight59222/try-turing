@@ -11,13 +11,17 @@ Let's write a program that can post tweets, read user timelines, search for hash
 
 First, we'll install a Gem (which is a piece of code written by someone else) that we can use to interact with Twitter via Ruby.
 
-<div class="output">
+```
   $ gem install twitter
-</div>
+```
 
 ## Setting up the File
 
-Next, we'll set up our first Twitter program: `tweet.rb`.
+Next, we'll set up our first Twitter program: 
+
+```
+$ touch tweet.rb
+```
 
 Inside of that file, we'll setup a Ruby object that can communicate with Twitter:
 
@@ -85,15 +89,15 @@ end
 client.update("I'm learning how to code at Turing School!")
 ```
 
-Check out your Twitter account to see if it worked!
+Check out the Twitter account to see if it worked!
 
 But this is too easy. Let's add a little more to our program:
 
-<div class="card cyan ">
-  <div class="card-content white-text">
-    <span class="card-title black-text"><b>Try it: Tweeting from the Command Line</b></span>
-    <p>
-      Write a program that asks a user for text to use for a tweet. If the text is less than or equal to 140 characters, tweet it! If it is longer than 140 characters, tell the user that their tweet was too long.
-    </p>
-  </div>
+<div class="try-it">
+<h2>Try it: Tweeting from the Command Line</h2>
+
+<p>
+  Write a program that asks a user for text to use for a tweet. If the text is less than or equal to 140 characters, tweet it! If it is longer than 140 characters, tell the user that their tweet was too long.
+</p>
 </div>
+

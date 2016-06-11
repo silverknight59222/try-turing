@@ -29,20 +29,17 @@ else
 end
 ```
 
-<div class="card cyan">
-  <div class="card-content white-text">
-    <span class="card-title black-text"><b>Try it: Control Flow</b></span>
-    <p>
-      Write a program that asks a user for a piece of text. It should say "even" if the number of characters in the text is even, and "odd" if the number of characters in the text is odd. In parentheses, put the number of letters for that word.
-      <br>
-      <div class="output">
-        Enter a piece of text: <br>
-        Turing <br>
-        Even! (6) <br>
-      </div>
-    </p>
-  </div>
+<div class="try-it">
+<h2>Try it: Control Flow</h2>
+
+<p>Write a program that asks a user for a piece of text. It should say "even" if the number of characters in the text is even, and "odd" if the number of characters in the text is odd. In parentheses, put the number of letters for that word.</p>
+
+<pre>Enter a piece of text: 
+Turing 
+Even! (6)</pre>
+Try running your program a few times with different inputs.
 </div>
+
 
 ## Looping
 
@@ -61,26 +58,31 @@ end
 puts "done eating."
 ```
 
-<div class="card cyan">
-  <div class="card-content white-text">
-    <span class="card-title black-text"><b>Try it: Looping</b></span>
-    <p>
-      Write a program that asks a user if they are done. The user can enter anything, but if they enter "yes", then the loop should stop and the program should print out "Goodbye!"
-      <div class="output">
-        Are you done?
-        No
-        Are you done?
-        Pizza
-        Are you done?
-        igdfhsij
-        Are you done?
-        yes
-        Goodbye!
-      </div>
-      If you're having trouble getting started, check out the code snippet below.
-    </p>
-  </div>
+<div class="try-it">
+<h2>Try it: Looping</h2>
+
+<p>Write a program that asks a user if they are done. The user can enter anything, but if they enter "yes", then the loop should stop and the program should print out "Goodbye!"</p>
+
+<pre>Are you done?
+No
+Are you done?
+Pizza
+Are you done?
+igdfhsij
+Are you done?
+yes
+Goodbye!</pre>
+If you're having trouble getting started, check out the code snippet below.
 </div>
+<!-- 
+<div class="highlighter-rouge"><pre class="language-ruby">ruby
+input = ""
+
+while input != "yes"
+  # write your code here
+end
+```
+</div> -->
 
 ```ruby
 input = ""
@@ -89,3 +91,4 @@ while input != "yes"
   # write your code here
 end
 ```
+
