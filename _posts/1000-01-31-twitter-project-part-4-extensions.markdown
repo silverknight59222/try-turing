@@ -2,7 +2,7 @@
 title: Twitter Project, Extensions
 layout: post
 date: 1000-01-31
-permalink: twitter-project-extensions
+permalink: twitter-project-extensions-part-4
 ---
  
 Done with parts 1 - 3? Want more? 
