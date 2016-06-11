@@ -68,15 +68,6 @@ my_file.close
 
 If you want to, go ahead and try that out, then open the file it created and look at it. 
 
-<div class="card cyan ">
-  <div class="card-content white-text">
-    <span class="card-title black-text"><b></b></span>
-    <p>
-      
-    </p>
-  </div>
-</div>
-
 <div class="try-it">
 <h2>Try it: Saving Search Results</h2>
 

@@ -18,12 +18,14 @@ Modern software, and web software especially, is driven by content -- without th
 * Manipulating and analyzing data
 * Making sure data can be retrieved quickly and easily
 
-- The "front-end" is the part of the application that users see, touch, and interact with. The "back-end" typically handles stuff like storing information in databases, manipulating that data, authenticating users, etc.; it's what happens behind the scenes.
+The "front-end" is the part of the application that users see, touch, and interact with. The "back-end" typically handles stuff like storing information in databases, manipulating that data, authenticating users, etc.; it's what happens behind the scenes.
 
 ## What are the technologies used on the back-end?
 
+There are numerous technologies that can be used for back-end programming. Here are a few of them: 
+
+* Languages and frameworks: Ruby/Rails, Python/Django, Elixir/Phoenix, Java, PHP, etc.
 * Database: PostgreSQL, MySQL, MongoDB, etc.
-* Languages and frameworks: Ruby/Rails, Python/Django, Elixir/Phoenix, etc.
 * Hosting: Digital Ocean, Heroku
 
 ## What are we doing today?

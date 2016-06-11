@@ -20,6 +20,7 @@ end
 ```ruby
 puts "What is the best type of cookie: "
 cookie_type = gets.chomp
+
 if cookie_type == "Chocolate Chip"
   puts "Correct!"
 elsif cookie_type == "Oatmeal Raisin"
