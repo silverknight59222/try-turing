@@ -114,6 +114,28 @@ iframe {
   margin-bottom: 1em;
 }
 
+blockquote {
+  margin-bottom: 1em;
+  padding-left: 1em;
+  border-left: 5px solid lighten($medium-gray, 20);
+  p {
+    font-family: Georgia, serif;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  footer {
+    border: none;
+    margin-top: 0;
+    padding-top: 0;
+    text-align: right;
+    font-size: 1.5em;
+    font-style: italic;
+    &::before {
+      content: '— '
+    }
+  }
+}
+
 footer {
   border-top: 1px dashed lighten($medium-gray, 10);
   margin-top: 5em;
