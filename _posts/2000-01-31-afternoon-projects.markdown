@@ -69,3 +69,14 @@ So, what happens if we do `Math.floor(Math.random() * 3 + 1)`?
 
 We did it! 🎉
 
+### Getting a Particular Element By Index
+
+Let's say that you had three or so boxes and you wanted to mark one of them as the correct answer. How would you do that? There is a special jQuery selector that lets you pick a particular element.
+
+Our random number is 2.
+
+```js
+$('.box:eq(2)').addClass('correct-answer');
+```
+
+Then we could add an event listener to each of the boxes. When the user clicks, we'll look at the element they clicked on and use the `hasClass()` to see if it has the `.correct-answer` class.

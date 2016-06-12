@@ -1,9 +1,4 @@
----
-title: CSS Animations
-layout: post
-date: 2000-01-06
-permalink: css-animations
----
+
 
 <blockquote>
   <p>CSS animations? What? I thought we already made stuff move with transitions just a few moments ago.</p>
