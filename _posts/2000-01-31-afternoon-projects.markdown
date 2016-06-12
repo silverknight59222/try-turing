@@ -7,20 +7,23 @@ permalink: front-end-afternoon-projects
 
 This afternoon, you'll have the opportunity to work on building your very own application that works in the browser.
 
-Choose from the following:
+Choose your own adventure or from the following:
 
 - Guess the Number
+- Rock Paper Scissors
 - Cup Game
 - [Sushi Jiggler][]
 - Hangman
+- [Random Color Background][]
 
 [Sushi Jiggler]: https://jenniferdewalt.com/sushi_jiggler.html
+[Random Color Background]: https://jenniferdewalt.com/random_background.html
 
 ## A Helpful Collection of Tips and Tricks
 
 ### Doing Things Later
 
-If you look closely at [Sushi Juggler][], you'll notice that that the animation triggers on a click and then going back to normal. This effect is achieved by adding the class, waiting an amount of time, and then removing it.
+If you look closely at [Sushi Jiggler][], you'll notice that that the animation triggers on a click and then going back to normal. This effect is achieved by adding the class, waiting an amount of time, and then removing it.
 
 Assuming we had an element with a `.sushi` class on it and another class on hand called `.wiggle` we could implement this functionality as follows:
 
