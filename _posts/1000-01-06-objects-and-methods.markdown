@@ -5,6 +5,8 @@ date: 1000-01-06
 permalink: objects-and-methods
 ---
 
+The material on this page probably won't be covered during the weekend class, but you're welcome to try it out on your own! 
+
 <h4>What is a Class?</h4>
 
 A class is what is used to define an object that has behavior and attributes. We've already seen built-in classes in Ruby: String, Array, Integer, etc. These classes are all objects with their own behavior and attributes. For example, it wouldn't make sense to call `#capitalize` on an object of type Integer. 

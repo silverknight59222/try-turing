@@ -75,15 +75,6 @@ yes
 Goodbye!</pre>
 If you're having trouble getting started, check out the code snippet below.
 </div>
-<!-- 
-<div class="highlighter-rouge"><pre class="language-ruby">ruby
-input = ""
-
-while input != "yes"
-  # write your code here
-end
-```
-</div> -->
 
 ```ruby
 input = ""
