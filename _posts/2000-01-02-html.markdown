@@ -91,8 +91,8 @@ In this case, `<a>` tags need to know where they should link to. We use the `hre
 
 <div class="try-it">
 <h2>Try It: Adding Links</h2>
-
-<p>On your personal page, a new heading "Favorite Wbsites" and add links to at least three of your favorite websites.</p>
+  
+<p>On your personal page, a new heading "Favorite Websites" and add links to at least three of your favorite websites.</p>
 </div>
 
 ### Block and Inline Elements

@@ -26,7 +26,7 @@ In the example above, the browser will set any `<strong>` element's color to red
 <p>As an extension, here are some other things you can try on for size:</p>
 
 <li>You can change the background of an element using the `background` property. You can pass it a color as well.</li>
-<li>There are a lot of colors out there. Find a color that makes you happy [here](http://colours.neilorangepeel.com).</li>
+<li>There are a lot of colors out there. Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a></li>
 </div>
 
 Once you've selected and styled a few elements, explore a few additional properties:
