@@ -118,9 +118,9 @@ Groovy, right? We have [quite a few transformations at our disposal](https://dev
 
 - Rotation: `transform: rotate(180deg);` will flip the element upside down.
 - Scaling: `transform: scale(110%);` will make the element bigger by 10%.
-- Translating (moving): `translate: rotate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
+- Translating (moving): `transform: translate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
 
-Transformations become extra fun when we pair them with transitions. For our purposes, transiitons will take two pieces of information:
+Transformations become extra fun when we pair them with transitions. For our purposes, transitions will take two pieces of information:
 
 - The name of the property we want to transition. (Alternatively, we can use `all` to transition all of the properties.)
 - The duration of the transition.
