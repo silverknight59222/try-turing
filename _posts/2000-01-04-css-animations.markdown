@@ -59,13 +59,16 @@ Once we've defined our animation, we can use it in our selectors. There are a nu
 
 Let's watch the animation for a bit. Then lets take good hard look about the CSS we wrote. What do you notice? Can we come up with a list of rules?
 
-### Experiment Time
 
-Modify the code above with additional properties. Here is that list of transformations form before. I thought it might be helpful:
+<div class="try-it">
+<h2>Try It: Animations</h2>
 
-- Rotation: `transform: rotate(180deg);` will flip the element upside down.
-- Scaling: `transform: scale(110%);` will make the element bigger by 10%.
-- Translating (moving): `translate: rotate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
+<p>Modify the code above with additional properties. Here is that list of transformations form before. I thought it might be helpful:</p>
+
+<li>Rotation: `transform: rotate(180deg);` will flip the element upside down.</li>
+<li>Scaling: `transform: scale(110%);` will make the element bigger by 10%.</li>
+<li>Translating (moving): `translate: rotate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.</li>
+</div>
 
 **Fun Fact**: You can combine more than one transformation in the same statement. Here is an example:
 

@@ -1,5 +1,5 @@
 ---
-title: Afternoon Projects
+title: GameTime Projects
 layout: post
 date: 2000-01-31
 permalink: front-end-afternoon-projects

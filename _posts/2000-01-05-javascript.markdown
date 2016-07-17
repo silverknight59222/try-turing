@@ -52,9 +52,7 @@ if (hoursOfSleep < 6) {
 
 ## Functions
 
-In Ruby, we call methods on an object. In JavaScript, we use functions. Functions behave a lot like methods except that they are objects themselves. This means that you can store a function in a variable, pass a function as an argument to another function, or even call methods on a function.
-
-Functions can be either named or anonymous. Anonymous functions can be stored in a variable or passed as an argument to another function.
+In Ruby, we call methods on an object. In JavaScript, we use functions. Functions behave a lot like methods in Ruby, although they have a few different behaviors which we will not get into today.
 
 ```js
 // Named function
@@ -67,23 +65,16 @@ sayHello; // Doesn't log anything. The function was never called.
 sayHello(); // Logs 'Hello, undefined!' but does not raise an error like it would in Ruby.
 ```
 
-Let's take a look at passing a function as an argument to another function.
-
 ```js
-// Let's start out by defining some functions.
-
-function addTwo(addend) { return addend + 2; }
-function subtractOne(minuend) { return minuend - 1; }
-function multiplyByThree(factor) { return factor * 3; }
+function addTwo(num) { return num + 2; }
+function subtractOne(num) { return num - 1; }
+function multiplyByThree(num) { return num * 3; }
 ```
 
-Notice how we didn't use the parentheses when we passed the functioned into `doMath`? That's because if we used the parentheses, we would call the function. We don't want to call it. We just want to reference it. This can be confusing. Don't worry too much about it. We're around to help you out today. Eventually you'll get the hang of it and even experienced programmers mess this up some times.
+<div class="try-it">
+<h2>Try It: Creating a Function</h2>
 
-## Try It: Creating a Function
+Create a function that divides one number by the other. Copy and paste your function into the Chrome Developer Tools. Did it work?
+</div>
 
-Try the following:
 
-* Create a function that divides one number by the other.
-* What happens if you remove the `return` keyword from one of the functions above?
-
-Copy and paste each into the Chrome Developer Tools. Did it work?

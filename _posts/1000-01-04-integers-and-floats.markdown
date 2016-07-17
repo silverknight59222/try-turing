@@ -82,9 +82,8 @@ Too low! Guess again.
 Too high! Guess again.
 9
 Correct!</pre>
-Try getting started before looking at the code snippet below.</b> If you're stuck, check out the starter code below:
+Try getting started before looking at the code snippet below. If you're stuck, check out the starter code below:
 </div>
-
 
 ```ruby
 secret_number = rand(1..10)

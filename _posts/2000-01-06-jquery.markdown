@@ -19,12 +19,16 @@ We could change the text programatically.
 $('h1').text('I AM A DINOSAUR.');
 ```
 
-Play around with the following example.
+<div class="try-it">
+<h2>Try It: jQuery</h2>
 
-- Remove the line of JavaScript.
-- Change the replace text to something else.
-- Change the `h1` selector to `.important message`
-- Add the following line of code: `$('h1').css('backgroundColor', 'red');`
+Play around with the following example. <br><br>
+
+<li>Remove the line of JavaScript.</li>
+<li>Change the replace text to something else.</li>
+<li>Change the `h1` selector to `.important-header`</li>
+<li>Add the following line of code: `$('h1').css('backgroundColor', 'red');`</li>
+</div>
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="yJexXR" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/yJexXR/">Your First Lines of jQuery</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
@@ -38,7 +42,8 @@ This is the crux of front-end engineering. We present a user interface and then 
 
 Let's take a look at the syntax and then we'll talk about what's happening.
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="zBrJpV" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/zBrJpV/">Your First Lines of jQuery</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="300" data-theme-id="23788" data-slug-hash="QEQwjy" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/QEQwjy">QEQqjy</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
 
 The following things are happening in the example above:
 
@@ -50,20 +55,22 @@ The following things are happening in the example above:
 
 Now, whenever a user clicks on that button. The browser will run the function we provided to the event listener.
 
-## Try It: Adding a CSS Class
+<div class="try-it">
+<h2>Try It: Adding a CSS Class</h2>
 
 Open the example below in CodePen using the "Edit on CodePen."
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="gMPdzx" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMPdzx/">Event Listeners</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
-We're using a jQuery method called `toggleClass()`. When the user clicks on the button, it either adds or remove the class `upside-down` depending on whether or not it was already there.
+<p>We're using a jQuery method called `toggleClass()`. When the user clicks on the button, it either adds or remove the class `upside-down` depending on whether or not it was already there.</p>
 
-- Can you create some additional classes and toggle them?
-- Can you change the text?
-- Try out the following methods:
+<li>Can you create some additional classes and toggle them?</li>
+<li>Can you change the text?</li>
+<li>Try out the following methods:</li>
   - `toggle()`
   - `slideToggle()`
   - `fadeToggle()`
+</div>
 
   We can also listen for things other thank clicks. Here are some other events I stole from the jQuery documentation.
 
@@ -129,9 +136,11 @@ It works now!
 <p data-height="300" data-theme-id="23788" data-slug-hash="rLxqwe" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/rLxqwe/">Is this two? (Non-Working)</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-### Try It: Secret Passcode Time
+<div class="try-it">
+<h2>Try It: Secret Passcode Time</h2>
 
-Can you change the code above so that it's looking for a secret passcode before it prints a hidden message to the screen? It's totally your call on what the password is and what the message should be. I don't want to steal your creative thunder.
+<p>Can you change the code above so that it's looking for a secret passcode before it prints a hidden message to the screen? It's totally your call on what the password is and what the message should be. I don't want to steal your creative thunder.</p>
+</div>
 
 ## Bringing It Together: CSS Transitions and Animations Together
 
@@ -145,17 +154,15 @@ Change some of the properties of the `.box` and `.clicked` selectors and observe
 
 Consider a situation where we have three boxes. When that particular box is clicked, we want to toggle a class. How do we know which box was clicked?
 
-It turns out that when we add an event listener using jQuery, we get a special little variable called `this`. Lucky for us, `this` is set to the box we clicked on.
-
-<aside>
-  It's possible to select elements without jQuery. When we use jQuery our elements get a whole bunch of extra super powers. But, jQuery doesn't <em>know</em> that you want these when you're listening for an event. <code>this</code> is just the regular element. Use <code>$(this)</code> if you want to add those super powers back. At this very moment, it's probably unclear what those super powers are. So, let's just always use <code>$(this)</code> for now.
-</aside>
+It turns out that when we add an event listener using jQuery, we get a special little variable called `this`. Lucky for us, `$(this)` is set to the box we clicked on.
 
 Let's take a look at the example below:
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="EyKxpp" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/EyKxpp/">$(this)</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
+<div class="try-it">
+<h2>Try It: jQuery and Animations</h2>
 
-#### Try It
-
-Can you create a class that rotates the box 10 degress and then toggle that class on the specific box that was clicked? (For your own sanity, you probably want to remove the alert!)
+<p>Can you create a class that rotates the box 10 degress and then toggle that class on the specific box that was clicked? (For your own sanity, you probably want to remove the alert!)
+</p>
+</div>

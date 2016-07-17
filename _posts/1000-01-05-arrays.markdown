@@ -58,7 +58,7 @@ Modify this program to iterate through a list of programming terms and output a 
 7 multiplied by 5 is 35
 8 multiplied by 5 is 40
 12 multiplied by 5 is 60</pre>
-Try getting started before looking at the code snippet below.</b> If you're stuck, check out the starter code below:
+Try getting started before looking at the code snippet below. If you're stuck, check out the starter code below:
 </div>
 
 ```ruby

@@ -18,14 +18,16 @@ In CSS, we right a bunch of rules for how our docment should look. The browser e
 
 In the example above, the browser will set any `<strong>` element's color to red. We can define multiple sets of properties and values in a given rule.
 
-#### Your Turn
+<div class="try-it">
+<h2>Try It: Adding Color</h2>
 
-In can you set the color of all of the `<h1>` tags to red and the `<h2>` tags to blue?
+<p>In can you set the color of all of the h1 tags to red and the h2 tags to blue?</p>
 
-As an extension, here are some other things you can try on for size:
+<p>As an extension, here are some other things you can try on for size:</p>
 
-- You can change the background of an element using the `background` property. You can pass it a color as well.
-- There are a lot of colors out there. Find a color that makes you happy [here](http://colours.neilorangepeel.com).
+<li>You can change the background of an element using the `background` property. You can pass it a color as well.</li>
+<li>There are a lot of colors out there. Find a color that makes you happy [here](http://colours.neilorangepeel.com).</li>
+</div>
 
 Once you've selected and styled a few elements, explore a few additional properties:
 
@@ -58,9 +60,11 @@ a:active {
 }
 ```
 
-#### Your Turn
+<div class="try-it">
+<h2>Try It: Pseudo Selectors</h2>
 
-Can you style some of the elements from the previous example using the `:hover` and `:active` pseudo-selectors.
+<p>Style some of the elements from the previous example using the :hover and :active pseudo-selectors.</p>
+</div>
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
@@ -92,9 +96,11 @@ This is all great and wonderful, but how do we style these specific elements? Ea
 
 This will look for every element—regardless of type—that has the class of `ipsums` and style it with a yellow background color.
 
-#### Your Turn
+<div class="try-it">
+<h2>Try It: Adding Classes</h2>
 
-Can you style some of the classes used in the example above? Even better can you add some of your own classes and style them? In a perfect world, they'd be meaningful, but we're just experimenting and getitng our hands dirty. So, feel free to use classes like "awesome" and "totally-rad" if that's easier for you.
+<p>Can you style some of the classes used in the example above? Even better can you add some of your own classes and style them? In a perfect world, they'd be meaningful, but we're just experimenting and getitng our hands dirty. So, feel free to use classes like "awesome" and "totally-rad" if that's easier for you.</p>
+</div>
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
@@ -136,13 +142,15 @@ p:hover {
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="ezpqbY" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/ezpqbY/">Ipsums: Transitions</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
-#### Your Turn
+<div class="try-it">
+<h2>Try It: Transformation Properties</h2>
 
-Try and take some of the other transformation properties for a spin. How ugly and ridiculous can you make the page?
+<p>Try and take some of the other transformation properties for a spin. How ugly and ridiculous can you make the page?</p>
+</div>
 
 ### Transition Algorithms
 
-CSS can transition a given element from _A_ to _B_ but it doesn't do it in a linear fashion by default. There are a number of timing functions available to us. The default is `ease`, but there are a number of other ones available. (We can even make our own custom ones, but that's beyond the scope of today—unless you really want to explore it.)
+CSS can transition a given element from _A_ to _B_ but it doesn't do it in a linear fashion by default. There are a number of timing functions available to us. The default is `ease`, but there are a number of other ones available. We can even make our own custom ones, but that's beyond the scope of today—unless you really want to explore it. These transitions are based on a <a href="http://cubic-bezier.com/">cubic Bezier curve</a>. 
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="pbjWGR" data-default-tab="css,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/team/turing/pen/pbjWGR/">CSS Transitions</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 

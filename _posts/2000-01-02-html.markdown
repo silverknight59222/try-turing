@@ -37,6 +37,12 @@ Here is an example of a slightly more robust document:
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="VjvOyd" data-default-tab="html,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/VjvOyd/">Very Basic HTML Page</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
+<div class="try-it">
+<h2>Try It: Building a Personal Webpage</h2>
+
+<p>Use what you know about headings and paragraph tags to create a very simple website with your name, a brief bio, and your contact information.</p>
+</div>
+
 ### Images and Attributes
 
 We HTML tags to mark up text to show it's semantic meaning. The browser uses these tags to build up document. _Most_ tags have an opening and closing tag, but a few do not. Images—defined using the `<img>` tag do not have a closing tag for instance.
@@ -53,9 +59,11 @@ Our `<img>` tag needs an extra little piece of information. Our browser is more 
 
 ![Anatomy of an HTML Tag](/images/anatomy.png)
 
-Let's update our page from earlier with an the image above.
+<div class="try-it">
+<h2>Try It: Adding Images</h2>
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="XKmwqR" data-default-tab="html,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/XKmwqR/">A Page with an Image</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p>Let's update our page from earlier with one or more images.</p>
+</div>
 
 <aside>
   <h2>A Word on Tags and Elements</h2>
@@ -81,6 +89,12 @@ In this case, `<a>` tags need to know where they should link to. We use the `hre
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="yJYdyb" data-default-tab="html,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/yJYdyb/">A Page with a Link</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
+<div class="try-it">
+<h2>Try It: Adding Links</h2>
+
+<p>On your personal page, a new heading "Favorite Wbsites" and add links to at least three of your favorite websites.</p>
+</div>
+
 ### Block and Inline Elements
 
 You might have noticed that the `<a>` tag is a behaves a little bit different that the `<h1>`, `<h2>`, and `<p>` tags. We can use the `<a>` tag to mark up a few words, while the other tags denote a big section—let's call it a "block"—of our page.
@@ -100,6 +114,12 @@ We use `<em>` and `<strong>` to denote the semantic meaning of the content.
 <p data-height="300" data-theme-id="23788" data-slug-hash="ezpwZe" data-default-tab="html,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/ezpwZe/">A Page with a Link</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 You may notice that the `<em>` tags are italicized and the `<strong>` tags are displayed in bold. The browser does this by default. That said, you should still only use these tags to convey meaning. We can change the way stuff looks later with CSS.
+
+<div class="try-it">
+<h2>Try It: Adding Links</h2>
+
+<p>Add an emphasis tag to a word or phrase from your bio.</p>
+</div>
 
 ### `<span>` and `<div>`
 
@@ -134,6 +154,12 @@ Instead we'll focus on two elements:
 <p data-height="300" data-theme-id="23788" data-slug-hash="MeaMEr" data-default-tab="html,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/MeaMEr/">Inputs and Buttons</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 We'll use these elements when we discuss JavaScript.
+
+<div class="try-it">
+<h2>Try It: Adding Email List Sign Up</h2>
+
+<p>Although we can't make this functional, add an input and a button that mimics signing up for a newsletter.</p>
+</div>
 
 ### Conclusion
 
