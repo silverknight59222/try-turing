@@ -11,10 +11,11 @@ Choose your own adventure or from the following:
 
 - Guess the Number
 - Rock Paper Scissors
+- [Random Color Background][]
+- Matching Game
 - Cup Game
 - [Sushi Jiggler][]
 - Hangman
-- [Random Color Background][]
 
 [Sushi Jiggler]: https://jenniferdewalt.com/sushi_jiggler.html
 [Random Color Background]: https://jenniferdewalt.com/random_background.html
