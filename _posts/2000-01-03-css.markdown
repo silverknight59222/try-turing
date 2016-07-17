@@ -21,7 +21,7 @@ In the example above, the browser will set any `<strong>` element's color to red
 <div class="try-it">
 <h2>Try It: Adding Color</h2>
 
-<p>In can you set the color of all of the h1 tags to red and the h2 tags to blue?</p>
+<p>On your personal page, can you set the color of all of the h1 tags to red and the h2 tags to blue?</p>
 
 <p>As an extension, here are some other things you can try on for size:</p>
 
@@ -60,13 +60,13 @@ a:active {
 }
 ```
 
+<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
 <div class="try-it">
 <h2>Try It: Pseudo Selectors</h2>
 
-<p>Style some of the elements from the previous example using the :hover and :active pseudo-selectors.</p>
+<p>Style some of the elements on your personal page using the :hover and :active pseudo-selectors.</p>
 </div>
-
-<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 #### Classes
 
@@ -101,8 +101,6 @@ This will look for every element—regardless of type—that has the class of `i
 
 <p>Can you style some of the classes used in the example above? Even better can you add some of your own classes and style them? In a perfect world, they'd be meaningful, but we're just experimenting and getitng our hands dirty. So, feel free to use classes like "awesome" and "totally-rad" if that's easier for you.</p>
 </div>
-
-<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 ### Transitions and Transformations
 
