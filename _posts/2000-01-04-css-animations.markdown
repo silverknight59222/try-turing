@@ -66,8 +66,8 @@ Let's watch the animation for a bit. Then lets take good hard look about the CSS
 <p>Modify the code above with additional properties. Here is that list of transformations form before. I thought it might be helpful:</p>
 
 <li>Rotation: `transform: rotate(180deg);` will flip the element upside down.</li>
-<li>Scaling: `transform: scale(110%);` will make the element bigger by 10%.</li>
-<li>Translating (moving): `transform: rotate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.</li>
+<li>Scaling: `transform: scale(1.5);` will make the element bigger by 10%.</li>
+<li>Translating (moving): `transform: translate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.</li>
 </div>
 
 **Fun Fact**: You can combine more than one transformation in the same statement. Here is an example:
