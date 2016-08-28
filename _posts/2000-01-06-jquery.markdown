@@ -28,7 +28,7 @@ $('h1').text('I AM A DINOSAUR.');
 <div class="try-it">
 <h2>Try It: jQuery</h2>
 
-Write a secret message inside one of your paragraph tags in your HTML. Then, use jQuery to change the text of that paragraph to say **REDACTED**.
+Use jQuery to change the text of your paragraphs to say **REDACTED**.
 </div>
 
 We can do more than just change the text. Try out the following:
