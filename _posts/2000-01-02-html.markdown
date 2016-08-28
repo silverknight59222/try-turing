@@ -110,7 +110,7 @@ We use `<em>` and `<strong>` to denote the semantic meaning of the content.
 You may notice that the `<em>` tags are italicized and the `<strong>` tags are displayed in bold. The browser does this by default. That said, you should still only use these tags to convey meaning. We can change the way stuff looks later with CSS.
 
 <div class="try-it">
-<h2>Try It: Adding Links</h2>
+<h2>Try It: Using Inline Elements</h2>
 
 <p>Add an emphasis tag to a word or phrase from your bio.</p>
 </div>
