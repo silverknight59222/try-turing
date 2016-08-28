@@ -22,19 +22,30 @@ This animation doesn't just transition between to states. Those colorful shadows
 All of our fun transitons from earlier came built-in to the browser. When we're making animations, we have to do it by hand.
 
 ```css
-@keyframes the-name-of-your-wonderful-animation {
+@keyframes name-of-animation {
 
   /* Our code will go here. */
 
 }
 ```
 
-Let's write our first animation. I'm going to call it "pizza" in an attempt to convey to you that the name isn't significant.
+Let's write our first animation. I'm going to call it "big-twist" in an attempt to convey to you that the name isn't significant.
+
+```html
+<div></div>
+```
 
 ```css
-@keyframes pizza {
+div {
+  height: 50px;
+  width: 50px;
+  background-color: green;
+  animation: big-twist 2s infinite;
+}
+
+@keyframes big-twist {
   0% {
-    background-color: red;
+    border: 5px solid orange;
   }
   50% {
     transform: rotate(45deg);
@@ -42,23 +53,12 @@ Let's write our first animation. I'm going to call it "pizza" in an attempt to c
   100% {
     width: 200px;
     height: 200px;
+    background-color: purple;
   }
 }
 ```
 
-Once we've defined our animation, we can use it in our selectors. There are a number of animation properties, but we're only going to concern ourselves with a subset.
-
-- `animation-name`: Which animation do we want to run?
-- `animation-duration`: How long should it take the animation to complete?
-- `animation-iteration-count`: How many times should it run. "infinite" is a valid option here.
-
-<p data-height="300" data-theme-id="23788" data-slug-hash="MeyWOo" data-default-tab="css,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/MeyWOo/">MeyWOo</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-### Stop and Think
-
-Let's watch the animation for a bit. Then lets take good hard look about the CSS we wrote. What do you notice? Can we come up with a list of rules?
-
+Once we've defined our animation, we can use it in our selectors. There are a number of animation properties, but let's just keep it simple and look at the ones we used: `animation: name duration times`
 
 <div class="try-it">
 <h2>Try It: Animations</h2>
@@ -66,7 +66,7 @@ Let's watch the animation for a bit. Then lets take good hard look about the CSS
 <p>Modify the code above with additional properties. Here is that list of transformations form before. I thought it might be helpful:</p>
 
 <li>Rotation: `transform: rotate(180deg);` will flip the element upside down.</li>
-<li>Scaling: `transform: scale(1.5);` will make the element bigger by 10%.</li>
+<li>Scaling: `transform: scale(5);` will make the element bigger by a factor of 5.</li>
 <li>Translating (moving): `transform: translate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.</li>
 </div>
 

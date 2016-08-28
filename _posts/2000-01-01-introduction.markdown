@@ -24,7 +24,9 @@ permalink: introduction-to-front-end-engineering
 ## What are we doing today?
 
 - We're going to learn a bit about how to structure documents using HTML and style them using CSS.
-- We'll also cover how to make these pages interactive using JavaScript.
-- Finally, we'll break up into pairs and write a small game using the three technologies discussed above.
+- We'll also cover how to make these pages interactive using CSS transitions and animations.
+- React to user events on our page using JavaScript, and jQuery.
 
 Not bad for one day, right?
+
+Keep in mind that we're going to place more emphasis on the tools of the front-end trade rather than the design aspects today. 

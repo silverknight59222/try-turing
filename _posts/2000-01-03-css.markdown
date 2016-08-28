@@ -25,7 +25,7 @@ In the example above, the browser will set any `<strong>` element's color to red
 
 <p>As an extension, here are some other things you can try on for size:</p>
 
-<li>You can change the background of an element using the `background` property. You can pass it a color as well.</li>
+<li>You can change the background of an element using the background property. You can pass it a color as well.</li>
 <li>There are a lot of colors out there. Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a></li>
 </div>
 
@@ -41,8 +41,6 @@ Once you've selected and styled a few elements, explore a few additional propert
 - [`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
 - [`font-family`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
 - [`font-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
-
-<p data-height="300" data-theme-id="23788" data-slug-hash="gMaVam" data-default-tab="css,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMaVam/">Ipsums</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 ### Psuedo-selectors
 
@@ -99,7 +97,7 @@ This will look for every element—regardless of type—that has the class of `i
 <div class="try-it">
 <h2>Try It: Adding Classes</h2>
 
-<p>Can you style some of the classes used in the example above? Even better can you add some of your own classes and style them? In a perfect world, they'd be meaningful, but we're just experimenting and getitng our hands dirty. So, feel free to use classes like "awesome" and "totally-rad" if that's easier for you.</p>
+<p>Can you style some of the classes used in the example above? Even better can you add some of your own classes and style them? In a perfect world, names of classes should be meaningful.</p>
 </div>
 
 ### Transitions and Transformations
@@ -117,8 +115,23 @@ p {
 Groovy, right? We have [quite a few transformations at our disposal](https://developer.mozilla.org/en-US/docs/Web/CSS/transform), but we'll cover just a subset today:
 
 - Rotation: `transform: rotate(180deg);` will flip the element upside down.
-- Scaling: `transform: scale(110%);` will make the element bigger by 10%.
+- Scaling: `transform: scale(3);` will make the element bigger as defined by a vector.
 - Translating (moving): `transform: translate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
+
+Try this:
+
+```html
+<div></div>
+```
+
+```css
+div {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  transform: scale(10);
+}
+```
 
 Transformations become extra fun when we pair them with transitions. For our purposes, transitions will take two pieces of information:
 
@@ -127,23 +140,12 @@ Transformations become extra fun when we pair them with transitions. For our pur
 
 Consider the following example:
 
-```css
-p {
-  transition: all 1s;
-}
-
-p:hover {
-  transform: rotate(180deg);
-  background-color: mediumspringgreen;
-}
-```
-
 <p data-height="300" data-theme-id="23788" data-slug-hash="ezpqbY" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/ezpqbY/">Ipsums: Transitions</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 <div class="try-it">
 <h2>Try It: Transformation Properties</h2>
 
-<p>Try and take some of the other transformation properties for a spin. How ugly and ridiculous can you make the page?</p>
+<p>Use the div example from above to create a transition that transitions the color, size, and position of the div upon a mouse hover over a 4 second duration.</p>
 </div>
 
 ### Transition Algorithms
@@ -159,3 +161,10 @@ Here is an incomplete list of the types of timing functions available to you.
 - `ease-in`
 - `ease-out`
 - `ease-in-out`
+- `steps()`
+
+<div class="try-it">
+<h2>Try It: Transformation Algorithms</h2>
+
+<p>Add one more div, then give each div a different class name. Can you make it so that one div transitions in steps while the other transitionsl linearly?</p>
+</div>

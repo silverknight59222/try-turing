@@ -1,11 +1,11 @@
 ---
-title: GameTime Projects
+title: Front End Projects
 layout: post
 date: 2000-01-31
-permalink: front-end-afternoon-projects
+permalink: front-end-projects
 ---
 
-This afternoon, you'll have the opportunity to work on building your very own application that works in the browser.
+Congratulations! You know know a bit more about front-end engineering, including HTML, CSS, and JavaScript. Want a front-end challenge? Try one of the following projects on your own!
 
 Choose your own adventure or from the following:
 
