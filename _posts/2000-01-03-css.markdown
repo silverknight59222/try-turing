@@ -97,7 +97,7 @@ This will look for every element—regardless of type—that has the class of `i
 <div class="try-it">
 <h2>Try It: Adding Classes</h2>
 
-<p>Can you style some of the classes used in the example above? Even better can you add some of your own classes and style them? In a perfect world, names of classes should be meaningful.</p>
+<p>Add a class to just two of your paragraphs, then use CSS to add styles for that class. Both of the paragraphs should change!</p>
 </div>
 
 ### Transitions and Transformations
