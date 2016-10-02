@@ -5,7 +5,9 @@ date: 2000-01-04
 permalink: javascript
 ---
 
-## Basic JavaScript
+## Quick Notes on Basic JavaScript
+
+We've actually already seen some JavaScript such as variable assignment and functions while playing with jQuery.
 
 JavaScript is a lot like Ruby, which you were introduced to yesterday. The syntax and some of the concepts are a little different, but the two have more in common than not. With JavaScript, you can do things like:
 
@@ -21,12 +23,12 @@ var x = 1;
 x = 2;
 ```
 
-## Conditionals
+## Conditionals in JavaScript
 
 JavaScript conditional statements have a few extra decorations as compared to Ruby.
 
 ```js
-var secretPhrase = "turing";
+var secretPhrase = $('.user-input').val();
 
 if (secretPhrase === "turing") {
   $('h1').addClass('highlighted')

@@ -9,9 +9,15 @@ permalink: more-jquery
 
 We're getting there, right? We know how add and remove classes to elements on the page based on user input. We also know how to smoothly move things between two states using CSS. In the example below, the class of `clicked` is either added or removed whenever the box is clicked.
 
-Change some of the properties of the `.box` and `.clicked` selectors and observe the changes. We'll show off some of our—umm—"most impressive" experiments in a few minutes.
+Change some of the properties of the `.box` and `.clicked` selectors and observe the changes. 
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="xOVxxp" data-default-tab="css,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/xOVxxp/">Flying Box</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
+<div class="try-it">
+<h2>Try It: Adding a Transition</h2>
+
+<p>Add a transition property so that your color-changing heading takes two seconds.</p>
+</div>
 
 ## Knowing Which Element We Clicked
 
@@ -32,5 +38,5 @@ You can see all of ways we can move around the DOM tree in [jQuery documentation
 <div class="try-it">
 <h2>Try It: jQuery and Animations</h2>
 
-<p>Can you create a class that highlights a paragraph by putting a yellow background on the specific paragraph in your webpage that was clicked?</p>
+<p>Right now, all of your headings change background color. Can you modify your jQuery so that only the specific heading that was clicked gets a background color?</p>
 </div>

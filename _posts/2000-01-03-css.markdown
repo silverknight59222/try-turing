@@ -20,7 +20,7 @@ In the example above, the browser will set any `<strong>` element's color to red
 <div class="try-it">
 <h2>Try It: Adding Color</h2>
 
-<p>On your personal page, can you set the color of all of the h1 tags to red and the h2 tags to blue?</p>
+<p>On your personal page, can you set the color of all of the h1 tags to red and the p tags to blue?</p>
 
 <p>As an extension, here are some other things you can try on for size:</p>
 
@@ -45,7 +45,7 @@ Once you've selected and styled a few elements, explore a few additional propert
 
 Stying elements is pretty neat, but our elements can be in different states depending on what the user is doing on page. Not only can we style an element with CSS, we can always define specific rules for when a user is hovering or actively clicking on an element.
 
-The following rule will only be in effective when a user is actively hovering over a `<p>` element.
+The following rule will only be in effective when a user is actively hovering over a `<a>` element.
 
 ```css
 a:hover {
@@ -58,7 +58,7 @@ a:hover {
 <div class="try-it">
 <h2>Try It: Pseudo Selectors</h2>
 
-<p>Style some of the elements on your personal page using the :hover pseudo-selectors.</p>
+<p>Style some of the elements on your personal page using the :hover pseudo-selectors. For example, you might try changing the background-color of your paragraph elements when a user hovers.</p>
 </div>
 
 #### Classes

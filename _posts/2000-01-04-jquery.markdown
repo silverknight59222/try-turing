@@ -63,19 +63,19 @@ The following things are happening in the example above:
 - We're querying for any element with the class of `change-me`.
 - We're adding an "event listener" to those elements. (There is just one in this case.)
 - We're listening for a user's mouse click.
-- We're providing a function.
+- We're providing a function. You can think of a function as a package of code to be executed. 
 - In this example, the function will change the content of our heading.
 
 Now, whenever a user clicks on that button. The browser will run the function we provided to the event listener.
 
-Take a few minutes with a partner to figure out what is happening in this example. In order to fully understand this one, you'll need to look at the HTML, the CSS, and the JavaScript. 
+Take five minutes with a partner to figure out what is happening in this next example. In order to fully understand this one, you'll need to look at the HTML, the CSS, and the JavaScript. 
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="gMPdzx" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMPdzx/">Event Listeners</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 <div class="try-it">
 <h2>Try It: Adding a CSS Class</h2>
 
-Go back to your personal page. Use jQuery to toggle the class of one of your headings. The new class should change both the color and the font-family. Here's an example:
+Go back to your personal page. Use jQuery to toggle the class of your headings when a heading is clicked. The new class should change two properties (ie: both the color and the font-family). Here's an example:
 <br><br>
 <pre>
 .new-class-name {
@@ -88,16 +88,10 @@ Go back to your personal page. Use jQuery to toggle the class of one of your hea
 We can also listen for things other than clicks. For example: 
 
 - dblclick
-- hover
-- mousedown
 - mouseenter
 - mouseleave
-- mousemove
-- mouseout
-- mouseover
-- mouseup
 
-Take a moment to try out a few of them.
+Take a moment to try these out.
 
 ## Getting Values from the User
 
@@ -116,5 +110,6 @@ In this example, we're doing the following:
 <div class="try-it">
 <h2>Try It: User Input</h2>
 
-Go back to your bio page that you created earlier. Add a heading that says, "Welcome, guest!" and an input box for the guest to enter their name. When they click a submit button, change the text of "guest" to their name. HINT: You may want to wrap the word "guest" in a <span></span> tag. 
+<p>Go back to your bio page that you created earlier. Add a heading at the top that says, "Welcome, guest!" and an input box for the guest to enter their name. When they click a submit button, change the text of "guest" to their name. </p>
+<p>HINT: You may want to wrap the word "guest" in a span tag so that you can target it using jQuery. </p>
 </div>

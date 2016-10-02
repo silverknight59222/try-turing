@@ -38,7 +38,8 @@ Here is an example of a slightly more robust document:
 <div class="try-it">
 <h2>Try It: Building a Personal Webpage</h2>
 
-<p>Use what you know about headings and paragraph tags to create a very simple website with your name, a brief bio, and your contact information.</p>
+<p>Use what you know about headings and paragraph tags to create a very simple website with your name, a brief bio, and your contact information. For the sake of our later exercises, make sure it has at least three headings and three paragraphs.</p>
+<p>What you create right now is the start of a sandbox/playground where we will try out different styles and behaviors.</p>
 </div>
 
 ### Images and Attributes
