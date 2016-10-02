@@ -7,7 +7,11 @@ permalink: front-end-projects
 
 Congratulations! You know know a bit more about front-end engineering, including HTML, CSS, and JavaScript. Now it's time to put everything together in this paired project. 
 
-Take a look at [Sushi Jiggler](https://jenniferdewalt.com/sushi_jiggler.html). Can you and your pair create something similar? Be creative, and don't be afraid to use Google to search jQuery, CSS, and JavaScript tricks and documentation. 
+Have one partner start a new codepen and change to "Collab Mode". See the [collab mode instructions](https://blog.codepen.io/documentation/pro-features/collab-mode/) for more info. This will allow you to work on the same project simultaneously. 
+
+Take a look at [Sushi Jiggler](https://jenniferdewalt.com/sushi_jiggler.html). 
+
+Can you and your pair create something similar? Be creative, and don't be afraid to use Google to search jQuery, CSS, and JavaScript tricks and documentation. This is all about learning and experimenting. 
 
 ## A Helpful Hint
 
