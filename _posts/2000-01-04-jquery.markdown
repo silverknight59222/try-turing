@@ -5,7 +5,9 @@ date: 2000-01-04
 permalink: jquery
 ---
 
-jQuery is a JavaScript library that allows us to use CSS selectors to find elements on the page and then interact with them. Under the hood, it's JavaScript. It gives our JavaScript super powers. It's used on about 78% of the top million web pages. So, it's worth while getting comfortable with it.
+jQuery is a JavaScript library that allows us to use CSS selectors to find elements on the page and then interact with them. If HTML is the structure and CSS is the style, you can think of JavaScript and jQuery as the stuff that makes the user experience come alive. 
+
+Under the hood, jQuery is built in plain, vanilla JavaScript. It gives our JavaScript super powers. It's used on about 78% of the top million web pages. So, it's worth while getting comfortable with it.
 
 Important: In order to have access to the jQuery library, you need to add this line to your HTML. Generally, you'll see this line at the bottom of the HTML page. 
 
