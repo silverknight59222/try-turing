@@ -1,7 +1,7 @@
 ---
 title: Some More jQuery
 layout: post
-date: 2000-01-07
+date: 2000-01-05
 permalink: more-jquery
 ---
 

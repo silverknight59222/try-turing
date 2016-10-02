@@ -1,7 +1,7 @@
 ---
 title: Introduction to jQuery
 layout: post
-date: 2000-01-05
+date: 2000-01-04
 permalink: jquery
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Introduction to JavaScript
 layout: post
-date: 2000-01-04
+date: 2000-01-06
 permalink: javascript
 ---
 
