@@ -2,12 +2,12 @@
 title: Front End Project
 layout: post
 date: 2000-01-31
-permalink: front-end-projects
+permalink: front-end-project
 ---
 
 Congratulations! You know know a bit more about front-end engineering, including HTML, CSS, and JavaScript. Now it's time to put everything together in this paired project. 
 
-Have one partner start a new codepen and change to "Collab Mode". See the [collab mode instructions](https://blog.codepen.io/documentation/pro-features/collab-mode/) for more info. This will allow you to work on the same project simultaneously. 
+Both partners will open a new codepen, and you'll work together to bounce ideas of of each other and be an extra pair of eyes when you are stuck. 
 
 Take a look at [Sushi Jiggler](https://jenniferdewalt.com/sushi_jiggler.html). 
 
