@@ -5,7 +5,7 @@ date: 2000-01-05
 permalink: jquery
 ---
 
-jQuery is a library that allows us to use CSS selectors to find elements on the page and then interact with them. Under the hood, it's JavaScript. It gives our JavaScript super powers. It's used on about 78% of the top million web pages. So, it's worth while getting comfortable with it.
+jQuery is a JavaScript library that allows us to use CSS selectors to find elements on the page and then interact with them. Under the hood, it's JavaScript. It gives our JavaScript super powers. It's used on about 78% of the top million web pages. So, it's worth while getting comfortable with it.
 
 Important: In order to have access to the jQuery library, you need to add this line to your HTML. Generally, you'll see this line at the bottom of the HTML page. 
 
@@ -16,19 +16,25 @@ Important: In order to have access to the jQuery library, you need to add this l
 Let's say that we have a page with the following markup:
 
 ```html
-<h1 class="important-header">Dinosaurs are awesome.</h1>
+<h1>About Me</h1>
 ```
 
 We could change the text programatically.
 
 ```js
-$('h1').text('I AM A DINOSAUR.');
+$('h1').text('I AM AWESOME');
 ```
 
 <div class="try-it">
 <h2>Try It: jQuery</h2>
 
-Write a secret message inside one of your paragraph tags in your HTML. Then, use jQuery to change the text of that paragraph to say **REDACTED**.
+Write a secret message wrapped in span tags inside one of your paragraph tags in your HTML. It will look similar like this:
+
+<pre>
+<p>Her code name is <span class="secret message">Opal Horizon</span> when she's overseas.</p>
+</pre>
+
+Then, use jQuery to change just the text of the secret message to say **REDACTED**.
 </div>
 
 We can do more than just change the text. Try out the following:
@@ -91,7 +97,7 @@ We can also listen for things other than clicks. For example:
 - mouseover
 - mouseup
 
-Let's take a moment to play with each of them.
+Take a moment to try out a few of them.
 
 ## Getting Values from the User
 
