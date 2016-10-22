@@ -38,11 +38,11 @@ puts "**** this is another string ****"
 
 <p>Write a program that prints out your name, location, and email address each separated by a line of dashes.</p>
 
-<pre>Rachel Warbelow
+<pre>Nate Allen
 ---------------
 Denver, CO
 ---------------
-rachel@turing.io</pre>
+nate@turing.io</pre>
 </div>
 
 ## Assigning Strings to Variables
@@ -50,9 +50,9 @@ rachel@turing.io</pre>
 We can save strings to variables:
 
 ```ruby
-email = "rachel@turing.io"
-address = "123 Apple Street, Denver, CO 80202"
-first_name = "Rachel"
+email = "nate@turing.io"
+address = "123 Nowhere Street, Denver, CO 80202"
+first_name = "Nate"
 ```
 
 Notice that these variables start with a lower case letter and can include underscores (_).
@@ -61,7 +61,7 @@ We can print these variables:
 
 ```ruby
 email = "rachel@turing.io"
-address = "123 Apple Street, Denver, CO 80202"
+address = "123 Nowhere Street, Denver, CO 80202"
 first_name = "Rachel"
 
 puts first_name
@@ -72,11 +72,11 @@ puts message
 Even better, we can use string interpolation to combine:
 
 ```ruby
-email = "rachel@turing.io"
-address = "123 Apple Street, Denver, CO 80202"
-first_name = "Rachel"
+email = "nate@turing.io"
+address = "123 Nowhere Street, Denver, CO 80202"
+first_name = "Nate"
 
-puts "#{first_name} lives at #{address}. Her email address is #{email}."
+puts "#{first_name} lives at #{address}. His email address is #{email}."
 ```
 
 <div class="try-it">
