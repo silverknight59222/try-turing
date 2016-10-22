@@ -3,13 +3,14 @@ title: Some More jQuery
 layout: post
 date: 2000-01-05
 permalink: more-jquery
+program: front-end
 ---
 
 ## Bringing It Together: jQuery and CSS Transitions Together
 
 We're getting there, right? We know how add and remove classes to elements on the page based on user input. We also know how to smoothly move things between two states using CSS. In the example below, the class of `clicked` is either added or removed whenever the box is clicked.
 
-Change some of the properties of the `.box` and `.clicked` selectors and observe the changes. 
+Change some of the properties of the `.box` and `.clicked` selectors and observe the changes.
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="xOVxxp" data-default-tab="css,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/xOVxxp/">Flying Box</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 

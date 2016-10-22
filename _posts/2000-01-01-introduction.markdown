@@ -3,6 +3,7 @@ title: What is Front-End Engineering?
 layout: post
 date: 2000-01-01
 permalink: introduction-to-front-end-engineering
+program: intro
 ---
 
 - The "front-end" is the part of the application that users see, touch, and interact with. The "back-end" typically handles stuff like storing information in databases and authenticating users; it's what happens behind the scenes.
@@ -29,4 +30,4 @@ permalink: introduction-to-front-end-engineering
 
 Not bad for one day, right?
 
-Keep in mind that we're going to place more emphasis on the tools of the front-end trade rather than the design aspects today. 
+Keep in mind that we're going to place more emphasis on the tools of the front-end trade rather than the design aspects today.

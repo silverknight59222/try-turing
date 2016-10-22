@@ -3,15 +3,16 @@ title: Front End Project
 layout: post
 date: 2000-01-31
 permalink: front-end-project
+program: front-end
 ---
 
-Congratulations! You know know a bit more about front-end engineering, including HTML, CSS, and JavaScript. Now it's time to put everything together in this paired project. 
+Congratulations! You know know a bit more about front-end engineering, including HTML, CSS, and JavaScript. Now it's time to put everything together in this paired project.
 
-Both partners will open a new codepen, and you'll work together to bounce ideas of of each other and be an extra pair of eyes when you are stuck. 
+Both partners will open a new codepen, and you'll work together to bounce ideas of of each other and be an extra pair of eyes when you are stuck.
 
-Take a look at [Sushi Jiggler](https://jenniferdewalt.com/sushi_jiggler.html). 
+Take a look at [Sushi Jiggler](https://jenniferdewalt.com/sushi_jiggler.html).
 
-Can you and your pair create something similar? Be creative, and don't be afraid to use Google to search jQuery, CSS, and JavaScript tricks and documentation. This is all about learning and experimenting. 
+Can you and your pair create something similar? Be creative, and don't be afraid to use Google to search jQuery, CSS, and JavaScript tricks and documentation. This is all about learning and experimenting.
 
 ## A Helpful Hint
 

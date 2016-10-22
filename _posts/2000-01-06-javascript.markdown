@@ -3,6 +3,7 @@ title: Introduction to JavaScript
 layout: post
 date: 2000-01-06
 permalink: javascript
+program: front-end
 ---
 
 ## Quick Notes on Basic JavaScript
@@ -40,7 +41,7 @@ if (secretPhrase === "turing") {
 <div class="try-it">
   <h2>Try It: Adding a Conditional</h2>
 
-  Remember when you welcomed a person with their name from the input box? Now add a conditional so that there is a bright color background on the welcome message if the input is your own name. Otherwise, pop open an alert that tells the user that guests have "limited access". 
+  Remember when you welcomed a person with their name from the input box? Now add a conditional so that there is a bright color background on the welcome message if the input is your own name. Otherwise, pop open an alert that tells the user that guests have "limited access".
   <pre>
     if () {
       // do some jQuery!
@@ -90,4 +91,3 @@ It works now!
 
 <p>Can you change the code above so that it's looking for a secret passcode before it prints a hidden message to the screen? It's totally your call on what the password is and what the message should be. I don't want to steal your creative thunder.</p>
 </div>
-

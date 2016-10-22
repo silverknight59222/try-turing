@@ -3,6 +3,7 @@ title: Integers and Floats
 layout: post
 date: 1000-01-04
 permalink: integers-and-floats
+program: back-end
 ---
 
 In Ruby, there are two main types of numbers:

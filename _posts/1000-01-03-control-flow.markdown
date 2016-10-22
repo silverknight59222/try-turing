@@ -3,6 +3,7 @@ title: Control Flow
 layout: post
 date: 1000-01-03
 permalink: control-flow
+program: back-end
 ---
 
 Control Flow refers to being able to determine what the program does given certain inputs. Let's make a new file `control_flow.rb` and try this out:
@@ -35,8 +36,8 @@ end
 
 <p>Write a program that asks a user for a piece of text. It should say "even" if the number of characters in the text is even, and "odd" if the number of characters in the text is odd. In parentheses, put the number of letters for that word.</p>
 
-<pre>Enter a piece of text: 
-Turing 
+<pre>Enter a piece of text:
+Turing
 Even! (6)</pre>
 Try running your program a few times with different inputs.
 </div>
@@ -83,4 +84,3 @@ while input != "yes"
   # write your code here
 end
 ```
-

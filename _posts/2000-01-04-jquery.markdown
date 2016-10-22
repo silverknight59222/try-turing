@@ -3,13 +3,14 @@ title: Introduction to jQuery
 layout: post
 date: 2000-01-04
 permalink: jquery
+program: front-end
 ---
 
-jQuery is a JavaScript library that allows us to use CSS selectors to find elements on the page and then interact with them. If HTML is the structure and CSS is the style, you can think of JavaScript and jQuery as the stuff that makes the user experience come alive. 
+jQuery is a JavaScript library that allows us to use CSS selectors to find elements on the page and then interact with them. If HTML is the structure and CSS is the style, you can think of JavaScript and jQuery as the stuff that makes the user experience come alive.
 
 Under the hood, jQuery is built in plain, vanilla JavaScript. It gives our JavaScript super powers. It's used on about 78% of the top million web pages. So, it's worth while getting comfortable with it.
 
-Important: In order to have access to the jQuery library, you need to add this line to your HTML. Generally, you'll see this line at the bottom of the HTML page. 
+Important: In order to have access to the jQuery library, you need to add this line to your HTML. Generally, you'll see this line at the bottom of the HTML page.
 
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
@@ -45,7 +46,7 @@ We can do more than just change the text. Try out the following:
 $('h1').css('color', 'blue');
 ```
 
-Meh. That's only kind of cool. 
+Meh. That's only kind of cool.
 
 ## Responding to User Events
 
@@ -65,12 +66,12 @@ The following things are happening in the example above:
 - We're querying for any element with the class of `change-me`.
 - We're adding an "event listener" to those elements. (There is just one in this case.)
 - We're listening for a user's mouse click.
-- We're providing a function. You can think of a function as a package of code to be executed. 
+- We're providing a function. You can think of a function as a package of code to be executed.
 - In this example, the function will change the content of our heading.
 
 Now, whenever a user clicks on that button. The browser will run the function we provided to the event listener.
 
-Take five minutes with a partner to figure out what is happening in this next example. In order to fully understand this one, you'll need to look at the HTML, the CSS, and the JavaScript. 
+Take five minutes with a partner to figure out what is happening in this next example. In order to fully understand this one, you'll need to look at the HTML, the CSS, and the JavaScript.
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="gMPdzx" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMPdzx/">Event Listeners</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
@@ -87,7 +88,7 @@ Go back to your personal page. Use jQuery to toggle the class of your headings w
 </pre>
 </div>
 
-We can also listen for things other than clicks. For example: 
+We can also listen for things other than clicks. For example:
 
 - dblclick
 - mouseenter

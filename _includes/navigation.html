@@ -1,7 +1,9 @@
 <nav>
   <ul>
     {% for post in site.posts reversed %}
+    {% if post.program == "back-end" %}  
     <a href="{{ site.baseurl }}{{ post.url }}"><li>{{ post.title }}</li></a>
+    {% endif %}
     {% endfor %}
   </ul>
 </nav>

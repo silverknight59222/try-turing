@@ -3,13 +3,14 @@ title: Objects and Methods
 layout: post
 date: 1000-01-06
 permalink: objects-and-methods
+program: back-end
 ---
 
-The material on this page probably won't be covered during the weekend class, but you're welcome to try it out on your own! 
+The material on this page probably won't be covered during the weekend class, but you're welcome to try it out on your own!
 
 <h4>What is a Class?</h4>
 
-A class is what is used to define an object that has behavior and attributes. We've already seen built-in classes in Ruby: String, Array, Integer, etc. These classes are all objects with their own behavior and attributes. For example, it wouldn't make sense to call `#capitalize` on an object of type Integer. 
+A class is what is used to define an object that has behavior and attributes. We've already seen built-in classes in Ruby: String, Array, Integer, etc. These classes are all objects with their own behavior and attributes. For example, it wouldn't make sense to call `#capitalize` on an object of type Integer.
 
 <h4>Naming Conventions</h4>
 
@@ -36,7 +37,7 @@ class Task
 end
 ```
 
-We can use these instance variables in any other method that we define in the class. 
+We can use these instance variables in any other method that we define in the class.
 
 ```ruby
 class Task
@@ -59,7 +60,7 @@ task.status #=> "Incomplete"
 
 <h4>Behavior and Actions</h4>
 
-Behavior of an object is encapsulated in its methods. For example, completing a task would be an action. Asking whether or not the task is complete would also be an action. 
+Behavior of an object is encapsulated in its methods. For example, completing a task would be an action. Asking whether or not the task is complete would also be an action.
 
 ```ruby
 class Task

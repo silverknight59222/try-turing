@@ -3,13 +3,14 @@ title: Twitter Project, Part 3
 layout: post
 date: 1000-01-31
 permalink: twitter-project-part-3
+program: back-end
 ---
 
-Let's say that we wanted to be able to search for tweets with the hashtag #learntocode and save them to a file that we can access later. First, we'll need to set up a program that can search when given a hashtag. 
+Let's say that we wanted to be able to search for tweets with the hashtag #learntocode and save them to a file that we can access later. First, we'll need to set up a program that can search when given a hashtag.
 
 <h4>Preparing the Program</h4>
 
-Go ahead and make a new file: 
+Go ahead and make a new file:
 
 ```
 $ touch twitter_search.rb
@@ -32,13 +33,13 @@ client.search("#learntocode").each do |tweet|
 end
 ```
 
-Run this with different hash tags a few times to see that it works. 
+Run this with different hash tags a few times to see that it works.
 
 <div class="try-it">
 <h2>Try it: Searching Dynamic Values</h2>
 
 <p>
-  Right now, we've hard-coded the #learntocode hashtag. Modify your program so that it asks the user what hashtag they want to search, then uses that value to search Twitter. Try it out to make sure it works. 
+  Right now, we've hard-coded the #learntocode hashtag. Modify your program so that it asks the user what hashtag they want to search, then uses that value to search Twitter. Try it out to make sure it works.
 </p>
 </div>
 
@@ -65,12 +66,12 @@ my_file.write("Here's another sentence that is two lines below the previous one.
 my_file.close
 ```
 
-If you want to, go ahead and try that out, then open the file it created and look at it. 
+If you want to, go ahead and try that out, then open the file it created and look at it.
 
 <div class="try-it">
 <h2>Try it: Saving Search Results</h2>
 
 <p>
-  Modify your <code>twitter_search.rb</code> program so that whenever it runs, it saves the results to a text file. The file name should be based on what hashtag the user enters. For example, if they search "#denver", the results file should be called <code>results_for_#denver.txt</code>. Hint: You'll want to use string interpolation (look back at section 1 if you've forgotten what this is). 
+  Modify your <code>twitter_search.rb</code> program so that whenever it runs, it saves the results to a text file. The file name should be based on what hashtag the user enters. For example, if they search "#denver", the results file should be called <code>results_for_#denver.txt</code>. Hint: You'll want to use string interpolation (look back at section 1 if you've forgotten what this is).
 </p>
 </div>

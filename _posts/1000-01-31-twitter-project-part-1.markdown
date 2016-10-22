@@ -3,9 +3,10 @@ title: Twitter Project, Part 1
 layout: post
 date: 1000-01-31
 permalink: twitter-project-part-1
+program: back-end
 ---
 
-Let's write a program that can post tweets, read user timelines, search for hashtags. Next, we'll add to our program by creating a bot that can automatically follow users who tweet about certain things. Finally, we'll write a program that can live-stream tweets with specific keywords. 
+Let's write a program that can post tweets, read user timelines, search for hashtags. Next, we'll add to our program by creating a bot that can automatically follow users who tweet about certain things. Finally, we'll write a program that can live-stream tweets with specific keywords.
 
 ## Installing the Gem
 
@@ -17,7 +18,7 @@ First, we'll install a Gem (which is a piece of code written by someone else) th
 
 ## Setting up the File
 
-Next, we'll set up our first Twitter program: 
+Next, we'll set up our first Twitter program:
 
 ```
 $ touch tweet.rb
@@ -36,7 +37,7 @@ client = Twitter::REST::Client.new do |config|
 end
 ```
 
-All of these keys and tokens are currently blank. We need to get tokens and keys we can use. Either use the keys and tokens provided to you at the Try Turing weekend, or follow the instructions <a href="#register">here</a> to generate your own keys and tokens. Paste the keys and tokens into your file. It should look like this (these are fake keys, so they won't work if you try to use them): 
+All of these keys and tokens are currently blank. We need to get tokens and keys we can use. Either use the keys and tokens provided to you at the Try Turing weekend, or follow the instructions <a href="#register">here</a> to generate your own keys and tokens. Paste the keys and tokens into your file. It should look like this (these are fake keys, so they won't work if you try to use them):
 
 ```ruby
 require 'twitter'
