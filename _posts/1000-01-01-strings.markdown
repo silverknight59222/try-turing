@@ -60,9 +60,9 @@ Notice that these variables start with a lower case letter and can include under
 We can print these variables:
 
 ```ruby
-email = "rachel@turing.io"
+email = "nate@turing.io"
 address = "123 Nowhere Street, Denver, CO 80202"
-first_name = "Rachel"
+first_name = "Nate"
 
 puts first_name
 puts address
