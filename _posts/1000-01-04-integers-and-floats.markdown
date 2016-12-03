@@ -97,7 +97,7 @@ while guess != secret_number
 end
 ```
 
-Done? Try the challenge below! You'll encounter iteration, which we haven't 
+Done? Try the challenge below! You'll encounter iteration, which we haven't talked about yet. Don't be afraid to do some Googling to find things you can use to solve the challenge. 
 
 <div class="try-it">
 <h2>Challenge: FizzBuzz</h2>
