@@ -96,3 +96,35 @@ while guess != secret_number
   # write your code here
 end
 ```
+
+Done? Try the challenge below! You'll encounter iteration, which we haven't 
+
+<div class="try-it">
+<h2>Challenge: FizzBuzz</h2>
+
+<p>Make a program that goes through numbers 1 through 100 and says "Fizz" if the number is divisible by 3, "Buzz" if the number is divisible by 5, and "FizzBuzz" if the number is divisible by both. If the number is not divisible by either 3 or 5, then just print the number.</p>
+
+<pre>1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+...etc</pre>
+Try getting started before looking at the code snippet below. If you're stuck, run the starter code below and see if you can modify it to make the FizzBuzz program:
+</div>
+
+```ruby
+(1..100).each do |num|
+  puts num
+end
+```
