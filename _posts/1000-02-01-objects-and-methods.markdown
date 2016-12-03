@@ -1,7 +1,7 @@
 ---
 title: Objects and Methods
 layout: post
-date: 1000-01-06
+date: 1000-02-01
 permalink: objects-and-methods
 program: back-end
 ---

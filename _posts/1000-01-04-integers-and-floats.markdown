@@ -76,6 +76,8 @@ message != input
 
 <p>Use what you know about while loops and if/else statements to write a program that sets a secret number, then allows a user to guess. If the number is too high, print "Too high! Guess again." If the number is too low, print "Too low! Guess again." If the number guessed is the secret number, then print "Correct!" and exit the game.</p>
 
+<p>Important: gets stands for "get string". This means that even if the user enters a number, like 9, the computer reads it as "9" (which is not the same as 9). </p>
+
 <pre>Guess a number.
 5
 Too low! Guess again.
