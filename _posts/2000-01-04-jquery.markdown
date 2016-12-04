@@ -76,7 +76,7 @@ Take five minutes with a partner to figure out what is happening in this next ex
 <p data-height="300" data-theme-id="23788" data-slug-hash="gMPdzx" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMPdzx/">Event Listeners</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 <div class="try-it">
-<h2>Try It: Adding a CSS Class</h2>
+<h2>Try It: Toggling a CSS Class using jQuery</h2>
 
 Go back to your personal page. Use jQuery to toggle the class of your headings when a heading is clicked. The new class should change two properties (ie: both the color and the font-family). Here's an example:
 <br><br>
