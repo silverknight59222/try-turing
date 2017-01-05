@@ -24,13 +24,13 @@ We want each box to have a button inside of it. When the user clicks the button,
 
 ## Checking Key Presses
 
-jQuery allows us to check for certain keys being pressed. Paste this in your JavaScript box and try it out:
+jQuery allows us to check for certain keys being pressed. Paste this in your JavaScript box. Next, click in the preview area and press the h key on your keyboard. 
 
 ```js
 $(document).keydown(function (e) {
   var key = e.which
   if(key == '72') {
-  	alert('you pressed h!')
+    alert('you pressed h!')
   }
 });
 ```
