@@ -14,7 +14,7 @@ It turns out that when we add an event listener using jQuery, we get a special l
 
 We want each box to have a button inside of it. When the user clicks the button, it should rotate the entire box. (We're rotating the box with a CSS class called `.click` because we're super original.) Let's look at some code.
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="vKGYzo" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/rwarbelow/pen/bgNWew">Rotating Buttons</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="0" data-slug-hash="bgNWew" data-default-tab="css,result" data-user="rwarbelow" data-embed-version="2" data-pen-title="bgNWew" class="codepen">See the Pen <a href="http://codepen.io/rwarbelow/pen/bgNWew/">bgNWew</a> by Rachel Warbelow (<a href="http://codepen.io/rwarbelow">@rwarbelow</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 <div class="try-it">
 <h2>Try It: jQuery and Animations</h2>

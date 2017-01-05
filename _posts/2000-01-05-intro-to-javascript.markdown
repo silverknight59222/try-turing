@@ -26,10 +26,10 @@ if (hoursOfSleep < 6) {
 
 In addition to the < sign, you can also use 
 
-* > (greater than) 
-* <= (less than or equal to)
-* >= (greater than or equal to)
-* == (exactly equal). 
+* `>` (greater than) 
+* `<=` (less than or equal to)
+* `>=` (greater than or equal to)
+* `==` (exactly equal). 
 
 <div class="try-it">
 <h2>Try It: Using Conditionals</h2>
