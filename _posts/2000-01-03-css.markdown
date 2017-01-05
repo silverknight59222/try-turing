@@ -108,6 +108,17 @@ Groovy, right? We have [quite a few transformations at our disposal](https://dev
 - Scaling: `transform: scale(3);` will make the element bigger as defined by a vector.
 - Translating (moving): `transform: translate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
 
+Transformations become extra fun when we pair them with transitions. For our purposes, transitions will take two pieces of information:
+
+- The name of the property we want to transition. (Alternatively, we can use `all` to transition all of the properties.)
+- The duration of the transition.
+
+Consider the following example:
+
+<p data-height="300" data-theme-id="23788" data-slug-hash="ezpqbY" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/ezpqbY/">Ipsums: Transitions</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
+Before moving on to the Try It section, add the following to your HTML and CSS:
+
 Try this:
 
 ```html
@@ -123,17 +134,8 @@ div {
 }
 ```
 
-Transformations become extra fun when we pair them with transitions. For our purposes, transitions will take two pieces of information:
-
-- The name of the property we want to transition. (Alternatively, we can use `all` to transition all of the properties.)
-- The duration of the transition.
-
-Consider the following example:
-
-<p data-height="300" data-theme-id="23788" data-slug-hash="ezpqbY" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/ezpqbY/">Ipsums: Transitions</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-
 <div class="try-it">
 <h2>Try It: Transformation Properties</h2>
 
-<p>Use the div example from above to create a transition that transitions the color, size, and position of the div upon a mouse hover over a 4 second duration.</p>
+<p>Use the div from above to create a transition that transitions the color, size, and position of the div upon a mouse hover over a 4 second duration.</p>
 </div>  

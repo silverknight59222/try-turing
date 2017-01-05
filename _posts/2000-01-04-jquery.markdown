@@ -6,6 +6,8 @@ permalink: jquery
 program: front-end
 ---
 
+We're going to hold off on talking about plain, vanilla JavaScript for just a second and jump straight to jQuery. 
+
 jQuery is a JavaScript library that allows us to use CSS selectors to find elements on the page and then interact with them. If HTML is the structure and CSS is the style, you can think of JavaScript and jQuery as the stuff that makes the user experience come alive.
 
 Under the hood, jQuery is built in plain, vanilla JavaScript. It gives our JavaScript super powers. It's used on about 78% of the top million web pages. So, it's worth while getting comfortable with it.
@@ -27,6 +29,8 @@ We could change the text programatically.
 ```js
 $('h1').text('I AM AWESOME');
 ```
+
+Notice that the name of the HTML element, h1, is in quotes, as is the text that we want to replace. This is required in JavaScript. 
 
 <div class="try-it">
 <h2>Try It: jQuery</h2>
@@ -78,7 +82,7 @@ Take five minutes with a partner to figure out what is happening in this next ex
 <div class="try-it">
 <h2>Try It: Toggling a CSS Class using jQuery</h2>
 
-Go back to your personal page. Use jQuery to toggle the class of your headings when a heading is clicked. The new class should change two properties (ie: both the color and the font-family). Here's an example:
+Go back to your personal page. Use jQuery to toggle the class of your all of your headings when any specific heading is clicked. The new class should change two properties (ie: both the color and the font-family). Here's an example:
 <br><br>
 <pre>
 .new-class-name {
@@ -109,6 +113,8 @@ In this example, we're doing the following:
 - We're adding an event listener to the "Change Me" button.
 - When it's clicked, we're grabbed the value of the input field and storing it into a variable.
 - We're then updating the contents of the `<h1>` to the value we stored from the input field.
+
+Note that you need to use the `var` keyword when declaring a variable. If you forget the `var` keyword, your variable will be declared in the global scope—whether you meant it that way or not. (For our purposes today, forgetting the `var` keyword will not be the end of the world, but just know that it could cause subtle bugs in our code. Let's get in the habit of using it now.)
 
 <div class="try-it">
 <h2>Try It: User Input</h2>

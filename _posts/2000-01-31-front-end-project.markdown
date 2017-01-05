@@ -10,9 +10,11 @@ Congratulations! You know know a bit more about front-end engineering, including
 
 Both partners will open a new codepen, and you'll work together to bounce ideas of of each other and be an extra pair of eyes when you are stuck.
 
-Take a look at [Sushi Jiggler](https://jenniferdewalt.com/sushi_jiggler.html).
+We encourage you and your pair to get creative! What can you build with your new skills?
 
-Can you and your pair create something similar? Be creative, and don't be afraid to use Google to search jQuery, CSS, and JavaScript tricks and documentation. This is all about learning and experimenting.
+If you're having trouble coming up with ideas, take a look at [Sushi Jiggler](https://jenniferdewalt.com/sushi_jiggler.html).
+
+Can you and your pair create something similar? Don't be afraid to use Google to search jQuery, CSS, and JavaScript tricks and documentation. This is all about learning and experimenting.
 
 ## A Helpful Hint
 
