@@ -45,7 +45,7 @@ Here is an example of a slightly more robust document:
 
 ### Images and Attributes
 
-We HTML tags to mark up text to show it's semantic meaning. The browser uses these tags to build up document. _Most_ tags have an opening and closing tag, but a few do not. Images—defined using the `<img>` tag do not have a closing tag for instance.
+We use HTML tags to "mark up" text to show its semantic meaning. The browser uses these tags to build up document. _Most_ tags have an opening and closing tag, but a few do not. Images—defined using the `<img>` tag do not have a closing tag for instance.
 
 Consider the following:
 
@@ -53,7 +53,7 @@ Consider the following:
 <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-340/turing.png">
 ```
 
-There are two things happening here. First, we have an `<img>` tag that is somewhat unique in that it doesn't have a closing tag like all of the other ones we've see so far.
+There are two things happening here. First, we have an `<img>` tag that is somewhat unique in that it doesn't have a closing tag like all of the others we've see so far.
 
 Our `<img>` tag needs an extra little piece of information. Our browser is more than happy to load up an image, but it'd be helpful if we told it where that image located. That's where the `src` attribute comes in.
 
@@ -75,7 +75,7 @@ Another important tag is the `<a>` tag. These are the tags we use for creating h
 </p>
 ```
 
-In this case, `<a>` tags need to know where they should link to. We use the `href` attribute to set where the link should point to. `href` is an abbreviation for "hyper reference." 
+In this case, `<a>` tags need to know where they should link to. We use the `href` attribute to set where the link should point to. `href` is an abbreviation for "hyper reference."
 
 <div class="try-it">
 <h2>Try It: Adding Links</h2>

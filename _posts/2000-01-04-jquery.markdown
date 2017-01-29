@@ -6,7 +6,7 @@ permalink: jquery
 program: front-end
 ---
 
-We're going to hold off on talking about plain, vanilla JavaScript for just a second and jump straight to jQuery. 
+We're going to hold off on talking about plain, vanilla JavaScript for just a second and jump straight to jQuery.
 
 jQuery is a JavaScript library that allows us to use CSS selectors to find elements on the page and then interact with them. If HTML is the structure and CSS is the style, you can think of JavaScript and jQuery as the stuff that makes the user experience come alive.
 
@@ -18,7 +18,7 @@ Important: In order to have access to the jQuery library, you need to add this l
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 ```
 
-Do not forget this line! If you do, none of your jQuery will work. Remember this later when you start a new project. 
+Do not forget this line! If you do, none of your jQuery will work. Remember this later when you start a new project. If you are using CodePen today, you can click on the gear icon in the `JS` tab, select the drop down menu "Quick Add", and choose 'jQuery'.
 
 ## Responding to User Events
 
@@ -26,7 +26,7 @@ JavaScript along with its good friend jQuery are used to change and manipulate w
 
 This is the crux of front-end engineering. We present a user interface and then as the user interacts with the UI, we change and update what he or she sees.
 
-Let's take a look at the example below: 
+Let's take a look at the example below:
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="QEQwjy" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/QEQwjy">QEQqjy</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
@@ -72,7 +72,7 @@ In this example, we're doing the following:
 - When it's clicked, we're grabbed the value of the input field and storing it into a variable.
 - We're then updating the contents of the `<h1>` to the value we stored from the input field.
 
-Note that you need to use the `var` keyword when declaring a variable. If you forget the `var` keyword, your variable will be declared in the global scope—whether you meant it that way or not. (For our purposes today, forgetting the `var` keyword will not be the end of the world, but just know that it could cause subtle bugs in our code. Let's get in the habit of using it now.)
+Note that you need to use the `var` keyword when declaring a variable. If you forget the `var` keyword, your variable will be declared in the `global scope`—whether you meant it that way or not. Global scope simply means "available everywhere". Typically when writing code you want to be very protective of where your variables are accessible from. (For our purposes today, forgetting the `var` keyword will not be the end of the world, but just know that it could cause subtle bugs in our code. Let's get in the habit of using it now.)
 
 <div class="try-it">
 <h2>Try It: User Input</h2>
