@@ -6,6 +6,8 @@ permalink: more-jquery
 program: front-end
 ---
 
+A few more things you can do with jQuery...
+
 ## The This Keyword
 
 Consider a situation where we have three boxes. When that particular box is clicked, we want to toggle a class. How do we know which box was clicked?
@@ -16,15 +18,9 @@ We want each box to have a button inside of it. When the user clicks the button,
 
 <p data-height="265" data-theme-id="0" data-slug-hash="bgNWew" data-default-tab="js,result" data-user="rwarbelow" data-embed-version="2" data-pen-title="bgNWew" class="codepen">See the Pen <a href="http://codepen.io/rwarbelow/pen/bgNWew/">bgNWew</a> by Rachel Warbelow (<a href="http://codepen.io/rwarbelow">@rwarbelow</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
-<div class="try-it">
-<h2>Try It: jQuery and Animations</h2>
-
-<p>Can you modify your jQuery so that only the specific heading that was clicked gets a background color?</p>
-</div>
-
 ## Checking Key Presses
 
-jQuery allows us to check for certain keys being pressed. Paste this in your JavaScript box. Next, click in the preview area and press the h key on your keyboard. 
+jQuery allows us to check for certain keys being pressed. Paste this in your JavaScript box. Next, ***click in the preview area*** and press the h key on your keyboard. Clicking in the preview area is essential -- it will not watch for keypresses until you do this. Remember this later! 
 
 ```js
 $(document).keydown(function (e) {
@@ -67,12 +63,12 @@ Try replacing marginTop with marginLeft.
 
 ```js
 if(key == "40") {
-	
+  // your code here
 } else if(key == "38") {
-	
+  // your code here
 } else if(key == "37") {
-	
+  // your code here	
 } else if(key == "39") {
-	
+  // your code here	
 }
 ```
