@@ -23,24 +23,21 @@ In the example above, the browser will set any `<strong>` element's color to red
 
 <p>On your personal page, can you set the color of all of the h1 tags to red and the p tags to blue?</p>
 
-<p>As an extension, here are some other things you can try on for size:</p>
+<p>Next, look into any of the following attributes and choose three to play around with:</p>
 
-<li>You can change the background of an element using the background property. You can pass it a color as well.</li>
-<li>There are a lot of colors out there. Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border">border</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-color">background-color</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow">box-shadow</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity">opacity</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width">width</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height">height</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin">margin</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding">padding</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size">font-size</a></li>
+
+There are a lot of colors out there. Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a>
 </div>
-
-Once you've selected and styled a few elements, explore a few additional properties:
-
-- [`border`](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
-- [`background-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
-- [`box-shadow`](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
-- [`opacity`](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity)
-- [`width`](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
-- [`height`](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
-- [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
-- [`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
-- [`font-family`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
-- [`font-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
 
 ### Psuedo-selectors
 
@@ -54,8 +51,6 @@ a:hover {
 }
 ```
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="RRWXVp" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/RRWXVp/">Ipsums: Hovering</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-
 <div class="try-it">
 <h2>Try It: Pseudo Selectors</h2>
 
@@ -66,9 +61,7 @@ a:hover {
 
 Right now, we know how to style _all_ of the paragraphs or _all_ of the links on a page. But what if we just wanted to style just one?
 
-As it turns out, we can set a `class` attribute on an HTML element. The `class` attribute takes one or more words—separated by spaces. Typically we use classes to describe what kind of element we're creating. For example, we might create a `<section>` element with the `class` of `"sidebar"` to denote that this is a particular kind of section on the page. We might also use classes to describe the kind of content inside of the element.
-
-I already added a few of these to the page we've been working with. Here is an abbreviated example:
+As it turns out, we can set a `class` attribute on an HTML element. The `class` attribute takes one or more words—separated by spaces. Typically we use classes to describe what kind of element we're creating. For example, we might create a `<p>` element with the `class` of `"sidebar"` to denote that this is a particular kind of section on the page. We might also use classes to describe the kind of content inside of the element.
 
 ```html
 <h2 class="heading-main">Lorem Ipsum</h2>
@@ -82,7 +75,7 @@ This is all great and wonderful, but how do we style these specific elements? Ea
 }
 ```
 
-This will look for every element—regardless of type—that has the class of `ipsums` and style it with a yellow background color.
+This will look for every element—regardless of type—that has the class of `heading-main` and style it with a yellow background color.
 
 <div class="try-it">
 <h2>Try It: Adding Classes</h2>
@@ -130,12 +123,12 @@ div {
   height: 50px;
   width: 50px;
   background-color: red;
-  transform: scale(10);
+  transform: rotate(130deg);
 }
 ```
 
 <div class="try-it">
 <h2>Try It: Transformation Properties</h2>
 
-<p>Use the div from above to create a transition that transitions the color, size, and position of the div upon a mouse hover over a 4 second duration.</p>
+<p>Use the div from above to create a transition that transitions the color and size of the div upon a mouse hover over a 4 second duration.</p>
 </div>  

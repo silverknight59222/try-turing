@@ -18,52 +18,17 @@ Important: In order to have access to the jQuery library, you need to add this l
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 ```
 
-Let's say that we have a page with the following markup:
-
-```html
-<h1>About Me</h1>
-```
-
-We could change the text programatically.
-
-```js
-$('h1').text('I AM AWESOME');
-```
-
-Notice that the name of the HTML element, h1, is in quotes, as is the text that we want to replace. This is required in JavaScript. 
-
-<div class="try-it">
-<h2>Try It: jQuery</h2>
-
-Write a secret message wrapped in span tags inside one of your paragraph tags in your HTML. It will look similar like this:
-
-<pre>
-<p>Her code name is <span class="secret message">Opal Horizon</span> when she's overseas.</p>
-</pre>
-
-Then, use jQuery to change just the text of the secret message to say **REDACTED**.
-</div>
-
-We can do more than just change the text. Try out the following:
-
-```js
-$('h1').css('color', 'blue');
-```
-
-Meh. That's only kind of cool.
+Do not forget this line! If you do, none of your jQuery will work. Remember this later when you start a new project. 
 
 ## Responding to User Events
 
-JavaScript along with its good friend jQuery are used to change and manipulate web pages. But, generally speaking, if you wanted the page to be different, you could have just written different HTML or CSS to begin with, right?
-
-The real power of using jQuery to change pages emerges when we start listening for user events.
+JavaScript along with its good friend jQuery are used to change and manipulate web pages. The real power of using jQuery to change pages emerges when we start listening for user events.
 
 This is the crux of front-end engineering. We present a user interface and then as the user interacts with the UI, we change and update what he or she sees.
 
-Let's take a look at the syntax and then we'll talk about what's happening.
+Let's take a look at the example below: 
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="QEQwjy" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/QEQwjy">QEQqjy</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-
 
 The following things are happening in the example above:
 
@@ -75,21 +40,14 @@ The following things are happening in the example above:
 
 Now, whenever a user clicks on that button. The browser will run the function we provided to the event listener.
 
-Take five minutes with a partner to figure out what is happening in this next example. In order to fully understand this one, you'll need to look at the HTML, the CSS, and the JavaScript.
+Next, take a few minutes with a partner to figure out what is happening in this example. In order to fully understand this one, you'll need to look at the HTML, the CSS, and the JavaScript.
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="gMPdzx" data-default-tab="js,result" data-user="turing" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gMPdzx/">Event Listeners</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
 <div class="try-it">
 <h2>Try It: Toggling a CSS Class using jQuery</h2>
 
-Go back to your personal page. Use jQuery to toggle the class of your all of your headings when any specific heading is clicked. The new class should change two properties (ie: both the color and the font-family). Here's an example:
-<br><br>
-<pre>
-.new-class-name {
-  color: magenta;
-  font-family: sans-serif;
-}
-</pre>
+Go back to your personal page. Use jQuery to toggle the class of your all of your headings when any specific heading is clicked. The new class should change at least one property of the element (for example: color, font-family, etc.)
 </div>
 
 We can also listen for things other than clicks. For example:
@@ -120,5 +78,5 @@ Note that you need to use the `var` keyword when declaring a variable. If you fo
 <h2>Try It: User Input</h2>
 
 <p>Go back to your bio page that you created earlier. Add a heading at the top that says, "Welcome, guest!" and an input box for the guest to enter their name. When they click a submit button, change the text of "guest" to their name. </p>
-<p>HINT: You may want to wrap the word "guest" in a span tag so that you can target it using jQuery. </p>
+<p>HINT: You may want to wrap the word "guest" in a span tag so that you can target it using jQuery.</p>
 </div>
