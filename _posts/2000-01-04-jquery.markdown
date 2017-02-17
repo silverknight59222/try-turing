@@ -6,8 +6,6 @@ permalink: jquery
 program: front-end
 ---
 
-We're going to hold off on talking about plain, vanilla JavaScript for just a second and jump straight to jQuery. 
-
 jQuery is a JavaScript library that allows us to use CSS selectors to find elements on the page and then interact with them. If HTML is the structure and CSS is the style, you can think of JavaScript and jQuery as the stuff that makes the user experience come alive.
 
 Under the hood, jQuery is built in plain, vanilla JavaScript. It gives our JavaScript super powers. It's used on about 78% of the top million web pages. So, it's worth while getting comfortable with it.
