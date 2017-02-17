@@ -7,14 +7,14 @@ program: intro
 ---
 
 - The "front-end" is the part of the application that users see, touch, and interact with. The "back-end" typically handles stuff like storing information in databases and authenticating users; it's what happens behind the scenes.
-- When we're talking about web development, the front-end is the part of the code base that takes care of renderering the user interface in the web browswer.
+- When we're talking about web development, the front-end is the part of the code base that takes care of rendering the user interface in the web browser.
 - Over the last decade, the web has evolved from a platform that served static web pages with content to a platform that provides rich, interactive experiences to users.
 
 ![The Trello application doesn't just show your tasks on a Kanban board, it also updates in real time and allows users to manipulate cards in a variety of ways.](/images/trello-example.gif)
 
 ![Similarly, Facebook is more than just a statically-rendered list of posts. You can chat, search, and interact with posts from the user interface.](/images/facebook-example.gif)
 
-## What are the technonologies used on the front-end?
+## What are the technologies used on the front-end?
 
 - On the backend, you can use one of any number of programming languages—including Ruby.
 - The front-end of the web is based on three major technologies:

@@ -12,7 +12,7 @@ CSS is a way to add style to HTML documents on the web. It's incredibly powerful
 
 ### Styling Elements
 
-In CSS, we right a bunch of rules for how our docment should look. The browser evaluates those trules and styles the page accordingly. A CSS rule is defined as follows:
+In CSS, we right a bunch of rules for how our document should look. The browser evaluates those rules and styles the page accordingly. A CSS rule is defined as follows:
 
 ![Anatomy of a CSS Selector](/images/css-rule.png)
 
@@ -41,9 +41,9 @@ There are a lot of colors out there. Find a color that makes you happy <a href="
 
 ### Psuedo-selectors
 
-Stying elements is pretty neat, but our elements can be in different states depending on what the user is doing on page. Not only can we style an element with CSS, we can always define specific rules for when a user is hovering or actively clicking on an element.
+Styling elements is pretty neat, but our elements can be in different states depending on what the user is doing on page. Not only can we style an element with CSS, we can always define specific rules for when a user is hovering or actively clicking on an element.
 
-The following rule will only be in effective when a user is actively hovering over a `<a>` element.
+The following rule will only be in effect when a user is actively hovering over an `<a>` element.
 
 ```css
 a:hover {
