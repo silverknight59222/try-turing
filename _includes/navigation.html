@@ -5,6 +5,7 @@
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
+    <li class="nav-break"></li>
     {% for post in site.tags.front-end reversed %}
       <li class="{% if post.url == page.url %}active{% endif %}">
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
