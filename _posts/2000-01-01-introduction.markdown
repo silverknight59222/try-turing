@@ -35,7 +35,7 @@ tags: front-end
 
 ### Or Help Us Understand a Complicated Subject
 
-![the boat image](/images/gun-america.png)
+![FiveThirtyEight Gun Violence statistics](/images/gun-america.png)
 
 Big numbers are difficult to imagine. How can you imagine a billion? Even a thousand things collectively is a challenge. Gun death numbers are big, but the individual events are also significant, which requires care. FiveThirtyEight broke it down in a way that helps with the mental scaling issues. [See the project.](http://fivethirtyeight.com/features/gun-deaths/)
 <cite>Summary from: http://flowingdata.com/2016/12/29/best-data-visualization-projects-of-2016/</cite>
