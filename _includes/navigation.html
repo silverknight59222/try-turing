@@ -1,15 +1,15 @@
 <nav>
   <ul>
     {% for post in site.tags.back-end reversed %}
-      <li class="{% if post.url == page.url %}active{% endif %}">
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </li>
+       <li class="{% if post.program != 'intro' %} {% unless page.tags contains post.program %}hidden{% endunless %}{% endif %}">
+          <a class="{% if post.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </li>
     {% endfor %}
     <li class="nav-break"></li>
     {% for post in site.tags.front-end reversed %}
-      <li class="{% if post.url == page.url %}active{% endif %}">
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </li>
+        <li class="{% if post.program != 'intro' %} {% unless page.tags contains post.program %}hidden{% endunless %}{% endif %}">
+          <a class="{% if post.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </li>
     {% endfor %}
   </ul>
 </nav>

@@ -228,12 +228,15 @@ header {
     }
   }
 
-  li.active a {
+  a.active {
     background-color: $teal;
-    cursor: default;
   }
 
-  .nav-break {
+  li.hidden {
+    display: none;
+  }
+
+  li.nav-break {
     background-color: black;
     padding: 1em;
   }

@@ -4,6 +4,7 @@ layout: post
 date: 2000-01-01
 permalink: introduction-to-front-end-engineering
 program: intro
+tags: front-end
 ---
 
 - The "front-end" is the part of the application that users see, touch, and interact with. The "back-end" typically handles stuff like storing information in databases and authenticating users; it's what happens behind the scenes.
