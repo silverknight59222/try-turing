@@ -4,6 +4,7 @@ layout: post
 date: 1000-01-02
 permalink: getting-user-input
 program: back-end
+tags: back-end
 ---
 
 Our program isn't very exciting so far. Let's make a new program called `user_input.rb` and try this out:

@@ -228,6 +228,11 @@ header {
     }
   }
 
+  li.active a {
+    background-color: $teal;
+    cursor: default;
+  }
+
 }
 
 /* Content */

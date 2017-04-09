@@ -4,6 +4,7 @@ layout: post
 date: 1000-02-01
 permalink: objects-and-methods
 program: back-end
+tags: back-end
 ---
 
 The material on this page probably won't be covered during the weekend class, but you're welcome to try it out on your own!

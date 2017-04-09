@@ -4,6 +4,7 @@ layout: post
 date: 2000-01-03
 permalink: javascript-intro
 program: front-end
+tags: front-end
 ---
 
 JavaScript is a language that allows us to interact with a webpage. Think back to the "What is Front End Engineering?" page. Facebook's dynamic search, the drag and drop capabilities of Trello -- those are both done using JavaScript. 
