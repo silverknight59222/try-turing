@@ -247,6 +247,15 @@ header {
   // max-width: 100%;
   padding: 2em;
   // flex-grow: 500;
+
+  strong {
+    font-weight: bold;
+  }
+
+  cite {
+    font-style: italic;
+    font-size: .5em;
+  }
 }
 
 /* Code Samples */
