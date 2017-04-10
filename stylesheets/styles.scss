@@ -151,7 +151,6 @@ footer {
 
 /* Header */
 
-
 header {
   padding: 1em;
   background-color: black;
@@ -211,24 +210,28 @@ header {
   }
 
   a {
-    display: block;
-    padding: 1em;
     border-bottom: none;
-
     color: white;
-
-    &:hover {
-      background-color: darken($dark-gray, 10);
-    }
-
-    &:active {
-      background-color: $teal;
-      box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
-    }
   }
 
-  a.active {
-    background-color: $teal;
+  nav {
+    a {
+      display: block;
+      padding: 1em;
+
+      &:hover {
+        background-color: darken($dark-gray, 10);
+      }
+
+      &:active {
+        background-color: $teal;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+      }
+    }
+
+    a.active {
+      background-color: $teal;
+    }
   }
 
   li.hidden {
