@@ -46,6 +46,12 @@ Big numbers are difficult to imagine. How can you imagine a billion? Even a thou
 
 Check out [The Boat](http://www.sbs.com.au/theboat/) - an interactive graphic novel about the vietnam war using CSS/JS/Parallax
 
+### You Don't Actually Have to Be a Design Genius
+
+![An image of a typical comp - with mobile and desktop layouts - hex values and images for all the icons](/images/comp.jpeg)
+
+Front-end developers often work with designers, who provide detailed `comps` like the one above. These comps take the guess work out of making a site 'pretty', and allow a front-end developer to focus on managing the complicated interactions of the site.
+
 ### And the Job Market Is Great
 
 ![From April 9th, 2017 - US News ranks web developers highly as #4 best technology job and #31 Best Jobs period. Work life balance is the highest ranking](/images/ranking1.png)
@@ -53,11 +59,11 @@ Check out [The Boat](http://www.sbs.com.au/theboat/) - an interactive graphic no
 
 ## What are the technologies used on the front-end?
 
-- On the backend, you can use one of any number of programming languages—including Ruby.
 - The front-end of the web is based on three major technologies:
   - HyperText Markup Language (HTML) defines the structure and semantics of web pages on the web.
   - Cascading Style Sheets (CSS) sets the look and style of a web page. CSS provides style to the structure provided by HTML.
   - JavaScript allows us to define interaction in our pages. What happens when a user clicks on a certain area?
+- The back-end of the application can use any number of languages like Ruby and even JavaScript.
 
 ## What are we doing today?
 

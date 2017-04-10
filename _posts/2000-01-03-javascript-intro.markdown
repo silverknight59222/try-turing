@@ -7,7 +7,7 @@ program: front-end
 tags: front-end
 ---
 
-JavaScript is a language that allows us to interact with a webpage. Think back to the "What is Front End Engineering?" page. Facebook's dynamic search, the drag and drop capabilities of Trello -- those are both done using JavaScript. 
+JavaScript is a language that allows us to interact with a webpage. Think back to the "What is Front End Engineering?" page. Any time you interaction with a website and it reacts, it's JavaScript doing the heavy lifting!
 
 Before we start building anything too exciting, let's look at some basic concepts on JavaScript. 
 
