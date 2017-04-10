@@ -22,7 +22,7 @@ In the example above, the browser will set any `<strong>` element's color to red
 <div class="try-it">
 <h2>Try It: Adding Color</h2>
 
-<p>On your personal page, can you set the color of all of the h1 tags to red and the p tags to blue?</p>
+<p>On your blackjack rules codepen, can you set the color of all of the h1 tags to red and the p tags to blue?</p>
 
 <p>Next, look into any of the following attributes and choose three to play around with:</p>
 
@@ -81,7 +81,32 @@ This will look for every element—regardless of type—that has the class of `h
 <div class="try-it">
 <h2>Try It: Adding Classes</h2>
 
-<p>Add a class to just two of your paragraphs, then use CSS to add styles for that class. Both of the paragraphs should change!</p>
+<p>Our little card game has rules, and a lot of (not working) buttons right now... but what it doesn't have are cards!</p>
+
+<p>Above the div that holds all of your buttons - add the following code. This will represent the Dealer's cards and the Player's cards.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;div&gt;</span>
+  <span class="nt">&lt;div&gt;</span>
+    <span class="nt">&lt;h2&gt;</span>Dealer<span class="nt">&lt;/h2&gt;</span>
+    <span class="nt">&lt;div&gt;</span>6<span class="nt">&lt;/div&gt;</span>
+    <span class="nt">&lt;div&gt;</span>?<span class="nt">&lt;/div&gt;</span>
+  <span class="nt">&lt;/div&gt;</span>
+  <span class="nt">&lt;div&gt;</span>
+    <span class="nt">&lt;h2&gt;</span>Player<span class="nt">&lt;/h2&gt;</span>
+    <span class="nt">&lt;div&gt;</span>K<span class="nt">&lt;/div&gt;</span>
+    <span class="nt">&lt;div&gt;</span>5<span class="nt">&lt;/div&gt;</span>
+  <span class="nt">&lt;/div&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+</code></pre>
+</div>
+
+<p>Add a class of 'card' to the 3 divs that represent cards, and a class of 'deck' to the div with a question mark.</p>
+
+<p>In your css - make your `card` class get a style with a height of 90px, width of 60px, a white background color and border. Hint: 'px' stands for pixels. Second Hint: You may need to look up to the docs in the first Try It section.</p>
+
+<p>You should see all the 'cards' change at once.</p>
+
+<p>Do the same think for your 'deck' class, but make the background color something different.</p>
 </div>
 
 ### Transitions and Transformations
@@ -111,25 +136,38 @@ Consider the following example:
 
 <p data-height="300" data-theme-id="23788" data-slug-hash="ezpqbY" data-default-tab="css,result" data-user="turing" data-embed-version="2" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/ezpqbY/">Ipsums: Transitions</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 
-Before moving on to the Try It section, add the following to your HTML and CSS:
+Before moving on to the Try It section, add the following to your CSS:
 
 Try this:
-
-```html
-<div></div>
-```
 
 ```css
 div {
   height: 50px;
   width: 50px;
+  transition: background-color 0.5s ease;
   background-color: red;
-  transform: rotate(130deg);
+}
+
+div:hover {
+  background-color: green;
 }
 ```
 
-<div class="try-it">
-<h2>Try It: Transformation Properties</h2>
+Whew. That makes your head hurt, right? Go ahead and remove it and let's add something way cooler.
 
-<p>Use the div from above to create a transition that transitions the color and size of the div upon a mouse hover over a 4 second duration.</p>
-</div>  
+<div class="try-it">
+  <h2>Try It: Transformation Properties</h2>
+
+  <p>Create a transition that changes the color of your deck upon a mouse hover.</p>
+
+  <p>On hover, rotate your card class slightly (maybe 10 degrees).</p>
+
+  <p>Play with the length of the transition time.</p>
+</div>
+
+### Conclusion
+
+Your little blackjack game should look a little something like the one below. Take a few moments to catch up or play around with adding some other styles.
+
+<p data-height="265" data-theme-id="dark" data-slug-hash="PpMmKb" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-pen-title="Try Turing - Blackjack Rules - css" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/PpMmKb/">Try Turing - Blackjack Rules - css</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
