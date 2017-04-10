@@ -37,11 +37,19 @@ Here is an example of a slightly more robust document:
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 ```
 
-<div class="try-it">
-<h2>Try It: Building a Personal Webpage</h2>
+<p data-height="311" data-theme-id="dark" data-slug-hash="wJVgNO" data-default-tab="result" data-user="turing" data-embed-version="2" data-pen-title="TryTuring-HTML Example" class="codepen">See the Pen <a href="https://codepen.io/team/turing/pen/wJVgNO/">TryTuring-HTML Example</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-<p>Use what you know about headings and paragraph tags to create a very simple website with your name, a brief bio, and your contact information. For the sake of our later exercises, make sure it has at least three headings and three paragraphs.</p>
-<p>What you create right now is the start of a sandbox/playground where we will try out different styles and behaviors.</p>
+<div class="try-it">
+  <h2>Try It: Create Blackjack Rules</h2>
+
+    <p> Open your Codepen account and create a new pen - name it 'blackjack rules’ </p>
+
+  <p>Copy <a href='https://raw.githubusercontent.com/turingschool-examples/try-turing-blackjack/master/blackjack-rules.txt'> these blackjack rules</a> and paste them into the html panel of your pen and look at the result.</p>
+
+  <p>It's very hard to read these rules and understand what is going on! Use what you know about headings and paragraph tags to break these rules up in HTML a little bit. For the sake of our later exercises, make sure it has at least three headings and three paragraphs.</p>
+  
+  <p> Save your work in Codepen! </p>
 </div>
 
 ### Images and Attributes
@@ -61,9 +69,13 @@ Our `<img>` tag needs an extra little piece of information. Our browser is more 
 ![Anatomy of an HTML Tag](/images/anatomy.png)
 
 <div class="try-it">
-<h2>Try It: Adding Images</h2>
+  <h2>Try It: Adding Images</h2>
 
-<p>Let's update our page from earlier with one or more images.</p>
+  <p>Let's update our blackjack rules by adding an image!</p>
+
+  <p>There was a place in the text where it looked like we were supposed to add an image of player table. It just so happens that I have a link to an image just like that: <code>https://raw.githubusercontent.com/turingschool-examples/try-turing-blackjack/master/assets/blackjack-table.png</code></p>
+
+  <p>Add this image and any others you might want to your page.</p>
 </div>
 
 ### Links
@@ -79,9 +91,9 @@ Another important tag is the `<a>` tag. These are the tags we use for creating h
 In this case, `<a>` tags need to know where they should link to. We use the `href` attribute to set where the link should point to. `href` is an abbreviation for "hyper reference."
 
 <div class="try-it">
-<h2>Try It: Adding Links</h2>
+  <h2>Try It: Adding Links</h2>
 
-<p>On your personal page, add a link to one of your favorite websites.</p>
+  <p>At the very bottom of our blackjack rules, there is a link to where these rules originally came from. Go ahead and use an a tag to turn it into a proper link. </p>
 </div>
 
 ### Block and Inline Elements
@@ -102,7 +114,39 @@ There is just one important difference between the two.
 - `<div>` is a block element.
 - `<span>` is an inline element.
 
-We'll discuss these more in a bit when we talk about CSS. But, for now, let's move on to forms.
+We'll discuss these more in a bit when we talk about CSS.
+
+<div class="try-it">
+  <h2>Try It: Make a Div</h2>
+
+  <p>Put all of your rules in one entire div element.</p>
+
+  <p>Your results won't look any different because of the div... yet...</p>
+</div>
+
+### Lists
+
+Remember how we had that huge chunk of rules in our text file? Wouldn't it be nice to put them in some kind of order?
+
+Luckily html allows us to make lists using either `<ul>` or `<ol>` tags. `ul` stands for 'unordered list'. Within a `<ul>` tag, you can put any number of `<li>` tags (which stands for 'list item').
+
+```html
+  <ul>
+    <li>cat</li>
+    <li>dog</li>
+    <li>monkey</li>
+  <ul>
+```
+
+<div class="try-it">
+  <h2>Try It: Make a List</h2>
+
+  <p>Remember that huge paragraph under 'Basic Blackjack Rules' in your text file? Break that paragraph into a list with multiple list items so that it is easier to read.</p>
+
+  <p>If you get tired of typing in tags - you can copy a formatted list <a href='https://raw.githubusercontent.com/turingschool-examples/try-turing-blackjack/master/list-content.txt'>from here!</a></p>
+
+  <p>Experiment: Try changing your ul tag to a ol tag. Remember, you'll have to change the opening AND closing tag so they match. </p>
+</div>
 
 ### Inputs and Buttons
 
@@ -112,17 +156,33 @@ There are a lot to forms that we go into depth on in the full program, but we're
 
 Instead we'll focus on two elements:
 
-- `<input>` creates an input field. `<input>` is like `<img>` in that it does not require or support a closing tag. It can take an optional `type` attribute that helps validate user input in some browsers.
+- `<input>` creates an input field. `<input>` is like `<img>` in that it does not require or support a closing tag. It can take an optional `type` attribute that helps validate user input in some browsers. It can also take an optional  `placeholder` attribute to set default text in the input field.
 - `<button>` creates a button. `<button>` on the other hand does support a closing tag.
 
 We'll use these elements when we discuss JavaScript.
 
 <div class="try-it">
-<h2>Try It: Adding Email List Sign Up</h2>
+  <h2>Try It: Add a button</h2>
 
-<p>Although we can't make this functional, add an input and a button that mimics signing up for a newsletter.</p>
+  <p>Although we can't make them functional, let's add some buttons for playing blackjack!</p>
+
+  <p>At the top of your html, create another div above the one for your rules. Within that div, add the following</p>
+
+  <ul>
+    <li>A button for `hit`</li>
+    <li>A button for `stay`</li>
+    <li>An input field for a `bet amount`</li>
+      <li>Give the bet input a placeholder of 'Make a Bet'</li>
+    <li>A button for `Deal Hand`</li>
+  </ul>
 </div>
 
 ### Conclusion
 
 There are many more HTML tags. But, the ones we learned today are enought to get us started and the raw materials that we'll need to build a game by the end of the day. As the day goes on, I'll slip in some additional tags where it's appropriate, but they meaning and significance should be clear in the context that they're presented.
+
+Your page should look a little bit like this one!
+
+![plain html data](/images/html-output.png)
+
+
