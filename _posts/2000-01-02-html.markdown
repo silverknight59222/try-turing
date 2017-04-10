@@ -174,6 +174,8 @@ We'll use these elements when we discuss JavaScript.
     <li>An input field for a `bet amount`</li>
       <li>Give the bet input a placeholder of 'Make a Bet'</li>
     <li>A button for `Deal Hand`</li>
+    <li>A button to 'Hide Rules'</li>
+    <li>A button to 'Show Rules'</li>
   </ul>
 </div>
 
@@ -183,6 +185,7 @@ There are many more HTML tags. But, the ones we learned today are enought to get
 
 Your page should look a little bit like this one!
 
-![plain html data](/images/html-output.png)
+<p data-height="265" data-theme-id="dark" data-slug-hash="jBgBPE" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-pen-title="Try Turing - Blackjack Rules - html" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/team/turing/pen/jBgBPE/">Try Turing - Blackjack Rules - html</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 
