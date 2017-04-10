@@ -17,16 +17,17 @@ tags: front-end
 
 ### It Presents Tons of Logical Challenges
 
-<p data-height="500" data-theme-id="23788" data-slug-hash="eZxEBO" data-default-tab="result" data-user="dissimulate" data-embed-version="2" data-pen-title="Tearable Cloth v2" class="codepen">See the Pen <a href="http://codepen.io/dissimulate/pen/eZxEBO/">Tearable Cloth v2</a> by dissimulate (<a href="http://codepen.io/dissimulate">@dissimulate</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="500" data-theme-id="23788" data-slug-hash="eZxEBO" data-default-tab="result" data-user="dissimulate" data-embed-version="2" data-pen-title="Tearable Cloth v2" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/dissimulate/pen/eZxEBO/">Tearable Cloth v2</a> by dissimulate (<a href="http://codepen.io/dissimulate">@dissimulate</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### It Can Be Pretty
-<p data-height="500" data-theme-id="23788" data-slug-hash="acAgx" data-default-tab="result" data-user="jackrugile" data-embed-version="2" data-pen-title="Canvas Fireworks" class="codepen">See the Pen <a href="http://codepen.io/jackrugile/pen/acAgx/">Canvas Fireworks</a> by Jack Rugile (<a href="http://codepen.io/jackrugile">@jackrugile</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+
+<p data-height="500" data-theme-id="dark" data-slug-hash="acAgx" data-default-tab="result" data-user="jackrugile" data-embed-version="2" data-pen-title="Canvas Fireworks" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/jackrugile/pen/acAgx/">Canvas Fireworks</a> by Jack Rugile (<a href="http://codepen.io/jackrugile">@jackrugile</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### Or Silly
 
-<p data-height="500" data-theme-id="23788" data-slug-hash="VpJVgx" data-default-tab="result" data-user="TWAIN" data-embed-version="2" data-pen-title="Donut" class="codepen">See the Pen <a href="http://codepen.io/TWAIN/pen/VpJVgx/">Donut</a> by Tina Anastopoulos (<a href="http://codepen.io/TWAIN">@TWAIN</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="500" data-theme-id="23788" data-slug-hash="VpJVgx" data-default-tab="result" data-user="TWAIN" data-embed-version="2" data-pen-title="Donut" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/TWAIN/pen/VpJVgx/">Donut</a> by Tina Anastopoulos (<a href="http://codepen.io/TWAIN">@TWAIN</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### It Can Guide a User Through a Complicated Task
