@@ -4,6 +4,7 @@ layout: post
 date: 2000-01-04
 permalink: jquery
 program: front-end
+tags: front-end
 ---
 
 We're going to hold off on talking about plain, vanilla JavaScript for just a second and jump straight to jQuery.

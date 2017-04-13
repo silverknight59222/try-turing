@@ -4,6 +4,7 @@ layout: post
 date: 1000-01-01
 permalink: strings
 program: back-end
+tags: back-end
 ---
 
 In Ruby, a String is a series of characters between quotation marks:

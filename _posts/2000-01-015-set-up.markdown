@@ -1,0 +1,28 @@
+---
+title: Getting Set Up
+layout: post
+date: 2000-01-01
+permalink: getting-set-up
+program: front-end
+tags: front-end
+---
+
+We will be using a website called [CodePen](https://codepen.io/accounts/signup/user/free) for all of our work today.
+
+<div class="try-it">
+  <h2>Try It: Sign Up for a CodePen Account</h2>
+
+  <p>Visit <a href='https://codepen.io/accounts/signup/user/free'>Codepen</a> and sign up for a free account.</p>
+
+  <img alt='CodePens login screen' src='/images/codepen.png'>
+  <p></p>
+  <p>Take a look around at some of the cool pens! When you're ready, create a 'new pen'!</p>
+  <img alt='Image of the new pen button' src='/images/new-pen.png'>
+  <p></p>
+</div>
+
+#### Navigating
+
+In your new CodePen, you'll see panes for HTML, CSS and JS. The bottom panel will be the output of anything you add to those files!
+
+![Image of codepen with multiple panes open for html, css, and js](/images/navigating-pen.gif)

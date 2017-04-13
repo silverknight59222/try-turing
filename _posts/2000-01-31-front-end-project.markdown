@@ -4,6 +4,7 @@ layout: post
 date: 2000-01-31
 permalink: front-end-project
 program: front-end
+tags: front-end
 ---
 
 Congratulations! You know know a bit more about front-end engineering, including HTML, CSS, and JavaScript. Now it's time to put everything together in this paired project.

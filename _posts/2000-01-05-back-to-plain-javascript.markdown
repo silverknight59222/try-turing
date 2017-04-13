@@ -4,6 +4,7 @@ layout: post
 date: 2000-01-05
 permalink: javascript
 program: front-end
+tags: front-end
 ---
 
 jQuery is pretty cool, but let's take a step back for a moment to talk about some plain, vanilla JavaScript concepts. At this point, you may want to start a new CodePen so as to avoid cluttering up your previous one. Just make sure to add the line that will allow us to layer on jQuery later:
