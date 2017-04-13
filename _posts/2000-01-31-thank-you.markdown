@@ -1,0 +1,9 @@
+---
+title: Thank You!
+layout: post
+date: 2000-01-31
+permalink: front-end-thank-you
+program: front-end
+tags: front-end
+---
+
