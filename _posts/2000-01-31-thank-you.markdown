@@ -7,3 +7,9 @@ program: front-end
 tags: front-end
 ---
 
+
+### Resources
+
+- [Turing PreWork]()
+
+- [A basic template to get started with HTML, CSS and JavaScript](https://github.com/adrianbautista/html-css-template)

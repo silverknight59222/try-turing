@@ -12,3 +12,17 @@ Congratulations! You know know a bit more about front-end engineering, including
 Both partners will open a new codepen, and you'll work together to bounce ideas of of each other and be an extra pair of eyes when you are stuck.
 
 Let's put everything we've learned together to create a little browser based vending machine!
+
+
+Putting snacks in the machine
+
+id = name of snack
+
+rules on ids - dash separated, can't start with a number
+
+Directions on getting images links that are 75 X 75
+
+
+Customize!
+
+Change the colors in the section marked 'colors'
