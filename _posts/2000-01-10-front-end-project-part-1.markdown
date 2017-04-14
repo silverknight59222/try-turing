@@ -83,26 +83,29 @@ Now that we have a twix bar image, let's go out and find an image of the same si
 
 You can use any of our images:
 
+- [http://try.turing.io/images/snacks/twix.jpg](http://try.turing.io/images/snacks/twix.jpg)
+- [http://try.turing.io/images/snacks/chex.JPG](http://try.turing.io/images/snacks/chex.JPG)
+- [http://try.turing.io/images/snacks/cookies.jpg](http://try.turing.io/images/snacks/cookies.jpg)
+- [http://try.turing.io/images/snacks/dorito.JPG](http://try.turing.io/images/snacks/dorito.JPG)
+- [http://try.turing.io/images/snacks/jiff.JPG](http://try.turing.io/images/snacks/jiff.JPG)
+- [http://try.turing.io/images/snacks/mac.JPG](http://try.turing.io/images/snacks/mac.JPG)
+- [http://try.turing.io/images/snacks/oreos.jpeg](http://try.turing.io/images/snacks/oreos.jpeg)
+- [http://try.turing.io/images/snacks/pretzel.JPG](http://try.turing.io/images/snacks/pretzel.JPG)
+- [http://try.turing.io/images/snacks/bbq.jpg](http://try.turing.io/images/snacks/bbq.jpg)
+
 Or go out and find images that are 75px by 75px!
 
 Note: You can actually use Google's Image Search and give it a specific image size!
 
-![turbo tax guides a user](/images/google-image-search.png)
-
-
-Putting snacks in the machine
-
-id = name of snack
-
-rules on ids - dash separated, can't start with a number
-
-Directions on getting images links that are 75 X 75
+![How to use google image search](/images/google-image-search.png)
 
 ### Extension: Customize Your Colors
 
 The top section of the CSS in the project has all of the colors for the vending machine. Spend a few minutes with your partner to change some of the colors.
 
-Background Image?
+Did you know you can set a background image? And set it to tile?
+
+Check out [this tutorial](https://css-tricks.com/almanac/properties/b/background-image/) and see if you can add a background image to your machine!
 
 ### Conclusion
 
