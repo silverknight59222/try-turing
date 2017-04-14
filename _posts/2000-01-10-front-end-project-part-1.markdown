@@ -77,10 +77,17 @@ Now that we have a twix bar image, let's go out and find an image of the same si
 
 ```html
   <li>
-    <img id="twix" src="http://ecx.images-amazon.com/images/I/31fDd9Ob-YL._SL75_.jpg" class="snack" />
+    <img id="twix" src="http://try.turing.io/images/snacks/twix.jpg" class="snack" />
   </li>
 ```
 
+You can use any of our images:
+
+Or go out and find images that are 75px by 75px!
+
+Note: You can actually use Google's Image Search and give it a specific image size!
+
+![turbo tax guides a user](/images/google-image-search.png)
 
 
 Putting snacks in the machine
