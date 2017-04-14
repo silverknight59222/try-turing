@@ -30,8 +30,7 @@ The following things are happening in the example above:
 - We're providing a function. You can think of a function as a package of code to be executed.
 - The function contains code that, when a user clicks, will:
   - Find the first html element with the tag `h1`
-    - Note this is a 0, because the computer starts counting at 0 instead of 1
-- Changes the first header's text to 'Puppies are awesome.'
+  - Change the text in the h1 to 'Puppies are awesome.'
 
 Now, whenever a user clicks on that button. The browser will run the function we provided to the event listener.
 
@@ -76,5 +75,9 @@ In this example, we're doing the following:
 <h2>Try It: User Input</h2>
 
 <p>Go back to your bio page that you created earlier. Add a heading at the top that says, "Welcome, guest!" and an input box for the guest to enter their name. When they click a submit button, change the text of "guest" to their name. </p>
-<p>HINT: You may want to wrap the word "guest" in a span tag so that you can target it.</p>
+<p>HINT: You may want to wrap the word "guest" in a span tag so that you can target it. A span tag is an inline element.</p>
 </div>
+
+```html
+  <p>Please add <span class='grocery-item'>tomatoes</span> to the grocery list.</p>
+```

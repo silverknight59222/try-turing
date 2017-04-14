@@ -34,10 +34,16 @@ count++
 <div class="try-it">
 <h2>Try It: Creating a Click Counter</h2>
 
-<p>Add a button to your page. Whenever the button is clicked, the text of the button should increment to represent the number of times it has been clicked.</p>
+<p>Open a new Codepen</p>
+
+<p>Add a button to the HTML. Whenever the button is clicked, the text of the button should increment to represent the number of times it has been clicked.</p>
+
+
+<p>Hint: It might help to give your button a height and width in css so that it's easy to find and click! You can also use something called font-size. </p>
 
 Stuck? Check out the starter code below:
 </div>
+
 ```js
 var count = 0;
 var counter = document.getElementById('click-counter');
@@ -45,8 +51,6 @@ var counter = document.getElementById('click-counter');
 counter.addEventListener('click', function(){
   
 });
-
-<p>Hint: It might help to give your button a height and width in css so that it's easy to find and click! You can also use something called font-size. </p>
 ```
 
 ## Control Flow
