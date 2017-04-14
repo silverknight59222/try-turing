@@ -58,7 +58,7 @@ a:hover {
 <p>Style some of the elements on your personal page using the :hover pseudo-selectors. For example, you might try changing the background-color of your paragraph elements when a user hovers.</p>
 </div>
 
-#### Classes
+#### Classes & Ids
 
 Right now, we know how to style _all_ of the paragraphs or _all_ of the links on a page. But what if we just wanted to style just one?
 
@@ -77,6 +77,17 @@ This is all great and wonderful, but how do we style these specific elements? Ea
 ```
 
 This will look for every element—regardless of type—that has the class of `heading-main` and style it with a yellow background color.
+
+The `id` attribute acts similarly to the `class` attribute with the exception of the following things:
+
+- As `id` should be unique - there should only ever be one on a page
+- You will find an id using `#` instead of `.`
+
+```css
+#heading-main {
+  background-color: yellow;
+}
+```
 
 <div class="try-it">
 <h2>Try It: Adding Classes</h2>
