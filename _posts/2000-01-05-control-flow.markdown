@@ -32,16 +32,16 @@ count++
 ```
 
 <div class="try-it">
-<h2>Try It: Creating a Click Counter</h2>
+  <h2>Try It: Creating a Click Counter</h2>
 
-<p>Open a new Codepen</p>
+  <p>Open a new Codepen</p>
 
-<p>Add a button to the HTML. Whenever the button is clicked, the text of the button should increment to represent the number of times it has been clicked.</p>
+  <p>Add a button to the HTML. Whenever the button is clicked, the text of the button should increment to represent the number of times it has been clicked.</p>
 
 
-<p>Hint: It might help to give your button a height and width in css so that it's easy to find and click! You can also use something called font-size. </p>
+  <p>Hint: It might help to give your button a height and width in css so that it's easy to find and click! You can also use something called font-size. </p>
 
-Stuck? Check out the starter code below:
+  <p>Stuck? Check out the starter code below:</p>
 </div>
 
 ```js
