@@ -7,6 +7,42 @@ program: front-end
 tags: front-end
 ---
 
+## Extension: Allow the User to Click a Snack!
+
+Right now the user has to KNOW what the names of all the snacks are. Wouldn't it be nice if the user could click a snack and buy it?
+
+
+```js
+var submitButton = document.getElementById('snack-submit');
+var inputField = document.getElementById('snack-input');
+var message = document.getElementById('flash-message');
+var snackCollection = document.getElementById('snack-collection');
+
+submitButton.addEventListener('click', function(){
+  var value = inputField.value;
+  var snack = document.getElementById(value);
+  if(snack) {
+    purchases.appendChild(snack);
+    message.textContent = 'Enjoy your ' + value;
+  } else {
+    message.textContent = 'Sorry! I am out of that!';
+  }
+});
+
+snackCollection.addEventListener('click', function(event){
+  if(event.target.className == 'snack'){
+    var snack = event.target;
+    var snackName = snack.id;
+    inputField.value = snackName;
+    purchases.appendChild(snack);
+    message.textContent = 'Enjoy your ' + snackName;
+  }
+});
+```
+
+
+
+
 Let's get things jiggling!
 
 `animation: jiggle 0.2s 2;` - to make it jiggle twice
