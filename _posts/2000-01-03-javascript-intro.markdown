@@ -7,23 +7,31 @@ program: front-end
 tags: front-end
 ---
 
-JavaScript is a language that allows us to interact with a webpage. Think back to the "What is Front End Engineering?" page. Any time you interaction with a website and it reacts, it's JavaScript doing the heavy lifting!
+JavaScript is a language that allows us to interact with a webpage.
 
 Before we start building anything too exciting, let's look at some basic concepts on JavaScript. 
 
 ### Basic Math
 
-Let's start with a little bit of math. Open the JS console on CodePen and type the following:
+Let's start with a little bit of math. Open the JS console on CodePen.
+
+![show the console](/images/console1.png)
+
+and type the following:
 
 ```js
 alert(2+2)
 ```
 
+![show the code](/images/console2.png)
+
+And hit the `enter` key to run the code!
+
 What happened? 
 
 We are just using the "alert" function in order to see our results for now. Don't worry, we won't leave it this way when we start to implement real things. 
 
-Now try the following. You may want to not type "alert" until you've written the rest of the code so that Codepen doesn't keep executing the alert on every tiny change.  
+Now try the following lines.
 
 ```js
 alert(100/20)
