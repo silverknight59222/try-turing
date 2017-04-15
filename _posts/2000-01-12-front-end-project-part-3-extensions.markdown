@@ -7,10 +7,7 @@ program: front-end
 tags: front-end
 ---
 
-
 The following extensions are ways to improve the user interface and user experience (UI/UX), pick any of them and give them a try!
-
-## Extension:
 
 ## Extension: Allow the User to Click a Snack!
 
