@@ -2,7 +2,7 @@
 title: Control Flow
 layout: post
 date: 2000-01-05
-permalink: control-flow
+permalink: fe-control-flow
 program: front-end
 tags: front-end
 ---
