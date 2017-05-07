@@ -5,6 +5,7 @@ date: 2000-01-05
 permalink: fe-control-flow
 program: front-end
 tags: front-end
+lessontype: fe-new
 ---
 
 ## Incrementing Numeric Variables

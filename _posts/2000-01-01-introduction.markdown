@@ -5,6 +5,7 @@ date: 2000-01-01
 permalink: introduction-to-front-end-engineering
 program: intro
 tags: front-end
+lessontype: fe-current
 ---
 
 - The "front-end" is the part of the application that users see, touch, and interact with. The "back-end" typically handles stuff like storing information in databases and authenticating users; it's what happens behind the scenes.
@@ -53,11 +54,6 @@ Check out [The Boat](http://www.sbs.com.au/theboat/) - an interactive graphic no
 
 Front-end developers often work with designers, who provide detailed `comps` like the one above. These comps take the guess work out of making a site 'pretty', and allow a front-end developer to focus on managing the complicated interactions of the site.
 
-### And the Job Market Is Great
-
-![From April 9th, 2017 - US News ranks web developers highly as #4 best technology job and #31 Best Jobs period. Work life balance is the highest ranking](/images/ranking1.png)
-![From April 9th, 2017 - indeed.com estimates the average salary for a front end developer is 102,239 in the US](/images/ranking2.png)
-
 ## What are the technologies used on the front-end?
 
 - The front-end of the web is based on three major technologies:
@@ -70,7 +66,7 @@ Front-end developers often work with designers, who provide detailed `comps` lik
 
 - We're going to learn a bit about how to structure documents using HTML and style them using CSS.
 - We'll also cover how to make these pages interactive using CSS transitions and animations.
-- React to user events on our page using JavaScript, and jQuery.
+- React to user events on our page using JavaScript and jQuery.
 
 Not bad for one day, right?
 

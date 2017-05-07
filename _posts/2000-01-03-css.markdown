@@ -5,6 +5,7 @@ date: 2000-01-03
 permalink: css
 program: front-end
 tags: front-end
+lessontype: fe-current
 ---
 
 CSS is a way to add style to HTML documents on the web. It's incredibly powerful. Let's take a look at some examples of CSS in action.

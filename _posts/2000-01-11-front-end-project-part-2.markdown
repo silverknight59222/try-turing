@@ -5,6 +5,7 @@ date: 2000-01-11
 permalink: vending-machine-project-part-2
 program: front-end
 tags: front-end
+lessontype: fe-new
 ---
 
 Now that we have a vending machine HTML and CSS set up, let's use JavaScript to make the machine interactive.

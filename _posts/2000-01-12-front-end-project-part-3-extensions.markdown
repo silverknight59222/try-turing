@@ -5,6 +5,7 @@ date: 2000-01-12
 permalink: vending-machine-project-part-3
 program: front-end
 tags: front-end
+lessontype: fe-new
 ---
 
 The following extensions are ways to improve the user interface and user experience (UI/UX), pick any of them and give them a try!

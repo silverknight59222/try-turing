@@ -5,12 +5,12 @@ date: 2000-01-31
 permalink: front-end-thank-you
 program: front-end
 tags: front-end
+lessontype: fe-current
 ---
 
 Thank you for spending your day with us! 
 
 If you enjoyed coding today, here are some resources that can help you keep going and learn more about Turing!
-
 
 Check out the [Turing PreWork](http://frontend.turing.io/prework/) for a taste of the ways we ask our students to prepare before they get to the program.
 

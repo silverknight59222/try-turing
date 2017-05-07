@@ -5,6 +5,7 @@ date: 2000-01-04
 permalink: dom-events
 program: front-end
 tags: front-end
+lessontype: fe-new
 ---
 
 JavaScript is a powerful programming language. You can use it to do all kinds of cool things.

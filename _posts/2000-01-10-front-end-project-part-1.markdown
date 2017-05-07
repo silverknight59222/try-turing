@@ -5,6 +5,7 @@ date: 2000-01-10
 permalink: vending-machine-project-part-1
 program: front-end
 tags: front-end
+lessontype: fe-new
 ---
 
 Congratulations! You know know a bit more about front-end engineering, including HTML, CSS, and JavaScript. Now it's time to put everything together in this paired project.

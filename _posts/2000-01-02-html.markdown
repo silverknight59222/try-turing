@@ -5,6 +5,7 @@ date: 2000-01-02
 permalink: html
 program: front-end
 tags: front-end
+lessontype: fe-current
 ---
 
 Of all of the major technologies used on the web—on either the front- or the back-end—HTML is the oldest. In the beginning, the web was just a bunch of HTML documents that you wrote by hand. They had these cool things called hyperlinks that would allow to click on a word on one page and be taken to another page.
@@ -95,14 +96,6 @@ The way that we structure a website matters for the people who use it!
 `<div>`
 
 The `div` tag is a way you can put related content together into one HTML 'block'. Block elements denote a big section—let’s call it a “block”—of our page. A `div` is like the flavorless Jello of HTML block tags, it don’t have any meaning in and of itself and doesn't come with any built-in styling from the browser.
-
-BUT imagine how people use a website if they are vision impaired? Many people who use the internet do so by using screen readers.
-
-HTML gives us tags like `<article>` and `<aside>` so that we can layout content in a way that a screen reader can easily navigate!
-
-![Correct use of semantic elements](/images/semantic-layout.jpg)
-
-Here [is an example](https://youtu.be/xpP_Km5L46E) of what navigating the web is like if a website is not careful to use semantic tags correctly.
 
 ### Conclusion
 

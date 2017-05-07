@@ -5,6 +5,7 @@ date: 2000-01-03
 permalink: javascript-intro
 program: front-end
 tags: front-end
+lessontype: fe-current
 ---
 
 JavaScript is a language that allows us to interact with a webpage.
