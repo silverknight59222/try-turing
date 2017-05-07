@@ -4,6 +4,7 @@ layout: post
 date: 2000-01-05
 permalink: javascript
 program: front-end
+tags: front-end
 lessontype: fe-current
 ---
 

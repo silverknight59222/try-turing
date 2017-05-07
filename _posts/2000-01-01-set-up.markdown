@@ -5,7 +5,7 @@ date: 2000-01-01
 permalink: getting-set-up
 program: front-end
 tags: front-end
-lessontype: fe-current
+lessontype: fe-new
 ---
 
 We will be using a website called [CodePen](https://codepen.io/accounts/signup/user/free) for all of our work today.
