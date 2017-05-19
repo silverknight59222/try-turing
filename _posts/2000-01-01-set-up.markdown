@@ -8,6 +8,7 @@ tags: front-end
 lessontype: fe-new
 ---
 
+
 We will be using a website called [CodePen](https://codepen.io/accounts/signup/user/free) for all of our work today.
 
 <div class="try-it">

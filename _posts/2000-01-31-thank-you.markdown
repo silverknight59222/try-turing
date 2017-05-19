@@ -5,7 +5,7 @@ date: 2000-01-31
 permalink: front-end-thank-you
 program: front-end
 tags: front-end
-lessontype: fe-current
+lessontype: fe-new
 ---
 
 Thank you for spending your day with us! 

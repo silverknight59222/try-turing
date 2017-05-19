@@ -7,7 +7,7 @@
     {% endfor %}
     <li class="nav-break"></li>
     {% for post in site.tags.front-end reversed %}
-      {% if post.lessontype == "fe-current" %}  
+      {% if post.lessontype == "fe-new" %}  
         <li class="{% if post.program != 'intro' %} {% unless page.tags contains post.program %}hidden{% endunless %}{% endif %}">
           <a class="{% if post.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
