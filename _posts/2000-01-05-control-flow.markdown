@@ -48,7 +48,7 @@ count++
 
 ```js
 var count = 0;
-var counter = document.getElementById('click-counter');
+var counter = document.querySelector('#click-counter');
 
 counter.addEventListener('click', function(){
   
