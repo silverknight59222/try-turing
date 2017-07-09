@@ -19,4 +19,6 @@ Check out the Prework for a taste of the ways we ask our students to prepare bef
 
 You can also check out [Jennifer Dewalt's Website](https://jenniferdewalt.com/) for some front-end project inspiration. 
 
+If you want to publish your HTML, CSS, and JavaScript as a live website, check out [this GitHub Pages Tutorial](http://docs.pinegrow.com/host-html-website-github-pages-free/), which will guide you through the process of taking the code you wrote today and publishing it live so that you can show the world!
+
 We hope you enjoyed the day and that we see you around soon!
