@@ -129,6 +129,13 @@ Instead we'll focus on two elements:
 - `<input>` creates an input field. `<input>` is like `<img>` in that it does not require or support a closing tag. It can take an optional `type` attribute that helps validate user input in some browsers.
 - `<button>` creates a button. `<button>` on the other hand does support a closing tag.
 
+Here's an example of an input tag with placeholder text and a button:
+
+```html
+<input type="text" placeholder="Enter your email">
+<button>Click me!</button>
+```
+
 We'll use these elements when we discuss JavaScript.
 
 <div class="try-it">
