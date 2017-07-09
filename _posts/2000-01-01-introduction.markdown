@@ -65,8 +65,8 @@ Front-end developers often work with designers, who provide detailed `comps` lik
 ## What are we doing today?
 
 - We're going to learn a bit about how to structure documents using HTML and style them using CSS.
-- We'll also cover how to make these pages interactive using CSS transitions and animations.
-- React to user events on our page using JavaScript and jQuery.
+- We'll also cover how to make CSS slightly interactive using CSS transitions.
+- React to user events on our page using JavaScript.
 
 Not bad for one day, right?
 
