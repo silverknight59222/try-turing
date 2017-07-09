@@ -8,14 +8,15 @@ tags: front-end
 lessontype: fe-new
 ---
 
-Thank you for spending your day with us! 
+Thank you for spending your weekend with us! 
 
 If you enjoyed coding today, here are some resources that can help you keep going and learn more about Turing!
 
-Check out the [Turing PreWork](http://frontend.turing.io/prework/) for a taste of the ways we ask our students to prepare before they get to the program.
+Check out the Prework for a taste of the ways we ask our students to prepare before they get to the program.
 
-Want to code without CodePen? Here is [a basic template to get started with HTML, CSS and JavaScript](https://github.com/adrianbautista/html-css-template) without using something like CodePen!
+* [Turing Front End PreWork](http://frontend.turing.io/prework/)
+* [Turing Back End PreWork](http://backend.turing.io/prework/)
 
-You have super powers now! You can use some of the tricks you learned today to mess around in your browser's inspector tools! Here is [a fun walkthrough](https://www.mvcode.com/lessons/hack-session-hack-with-html) on how to do this using Chrome.
+You can also check out [Jennifer Dewalt's Website](https://jenniferdewalt.com/) for some front-end project inspiration. 
 
 We hope you enjoyed the day and that we see you around soon!

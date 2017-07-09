@@ -37,7 +37,7 @@ Now, whenever a user clicks on that button. The browser will run the function we
 
 Next, take a few minutes with a partner to figure out what is happening in this example. In order to fully understand this one, you'll need to look at the HTML, the CSS, and the JavaScript.
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="jmEyNw" data-default-tab="js,result" data-user="turing" data-embed-version="2" data-pen-title="Try Coding - Events 2" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/jmEyNw/">Try Coding - Events 2</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="0" data-slug-hash="mwzwqV" data-default-tab="js,result" data-user="rachelwarbelow" data-embed-version="2" data-pen-title="Try Coding - Events 2" class="codepen">See the Pen <a href="https://codepen.io/rachelwarbelow/pen/mwzwqV/">Try Coding - Events 2</a> by Rachel Warbelow (<a href="https://codepen.io/rachelwarbelow">@rachelwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 <div class="try-it">
@@ -45,15 +45,14 @@ Next, take a few minutes with a partner to figure out what is happening in this 
 
 <p>Go back to your personal page. Use JavaScript to toggle the class of a heading when it is clicked. The new class should change at least one property of the element (for example: color, font-family, etc.)</p>
 
-<p>We can also listen for things other than clicks. For example: </p>
+<p>We can also listen for things other than clicks. Take a moment to try these out. For example, you can replace "click" with: </p>
 
 <ul>
   <li> dblclick </li>
   <li> mouseenter </li>
   <li> mouseleave </li>
-  <li> keydown </li>
+  <li> keydown: NOTE: for this one, you'll need to use window.addEventListener("keydown"... instead of changeButton.addEventListener("... </li>
 </ul>
-Take a moment to try these out.
 
 </div>
 
@@ -63,7 +62,7 @@ We're getting somewhere good. We can respond to actions. It would be cool if we 
 
 Let's explore the following example.
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="PmwWZN" data-default-tab="js,result" data-user="turing" data-embed-version="2" data-pen-title="Try Turing - Events3 " class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/PmwWZN/">Try Turing - Events3 </a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="0" data-slug-hash="PjyjRb" data-default-tab="js,result" data-user="rachelwarbelow" data-embed-version="2" data-pen-title="Try Turing - Events3 " class="codepen">See the Pen <a href="https://codepen.io/rachelwarbelow/pen/PjyjRb/">Try Turing - Events3 </a> by Rachel Warbelow (<a href="https://codepen.io/rachelwarbelow">@rachelwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 In this example, we're doing the following:
@@ -76,7 +75,7 @@ In this example, we're doing the following:
 <h2>Try It: User Input</h2>
 
 <p>Go back to your bio page that you created earlier. Add a heading at the top that says, "Welcome, guest!" and an input box for the guest to enter their name. When they click a submit button, change the text of "guest" to their name. </p>
-<p>HINT: You may want to wrap the word "guest" in a span tag so that you can target it. A span tag is an inline element.</p>
+<p>HINT: You may want to wrap the word "guest" in a span tag so that you can target it. A span tag is an inline element. See the example below of using a span tag to wrap a word.</p>
 </div>
 
 ```html

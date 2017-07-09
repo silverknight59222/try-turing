@@ -21,7 +21,7 @@ Let's start with a little bit of math. Open the JS console on CodePen.
 and type the following:
 
 ```js
-alert(2+2)
+console.log(2+2)
 ```
 
 ![show the code](/images/console2.png)
@@ -30,14 +30,14 @@ And hit the `enter` key to run the code!
 
 What happened? 
 
-We are just using the "alert" function in order to see our results for now. Don't worry, we won't leave it this way when we start to implement real things. 
+We are just using the "console.log" function in order to see our results for now. Don't worry, we won't leave it this way when we start to implement real things. 
 
 Now try the following lines.
 
 ```js
-alert(100/20)
-alert(3>5)
-alert(7*4)
+console.log(100/20)
+console.log(3>5)
+console.log(7*4)
 ```
 
 ### Comparisons
@@ -45,10 +45,10 @@ alert(7*4)
 We can also use comparison operators. Try out the following. What do each of these return? 
 
 ```js
-alert(5>3)
-alert(47%5)
-alert(72===11)
-alert(72!==11)
+console.log(5>3)
+console.log(47%5)
+console.log(72===11)
+console.log(72!==11)
 ```
 
 <div class="try-it">
@@ -64,7 +64,7 @@ alert(72!==11)
 So far, we've just looked at integers in JavaScript. Another type of data in JS are strings. You can think of strings as a series of characters between two quote marks, like so:
 
 ```js
-alert('hello, world!')
+console.log('hello, world!')
 ```
 
 Go ahead and create a string of your own. 
@@ -92,11 +92,18 @@ Let's say that you asked a user to enter their name into a text field. You could
 
 ```js
 var name = 'Rachel'
+console.log('Welcome, ' + name) 
+```
+
+Want a more annoying (but more real-world) way to have JavaScript interact with your page? Try This:
+
+```js
+var name = 'Rachel'
 alert('Welcome, ' + name)
 ```
 
 <div class="try-it">
 <h2>Try It: Combining Variables and Strings</h2>
 
-<p>Define a variable called numberOfCookies and give it a value of 7. Now, make an alert that combines the variable with two strings to output "You have 7 cookies left."</p>
+<p>Define a variable called numberOfCookies and give it a value of 7. Now, make an console.log() or an alert() that combines the variable with two strings to output "You have 7 cookies left."</p>
 </div>  

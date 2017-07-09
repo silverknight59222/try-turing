@@ -81,7 +81,7 @@ Check out the CSS tab. There is a section called 'Animations!' - There is a clas
 
 Below that class - there is an animation.
 
-We can call an animation with a css selector. 
+We can call an animation with a css selector. Just like things like `color: red`, these animation properties will go inside your CSS rule for a specific element. 
 
 `animation: jiggle 0.2s 2;` - to make it jiggle twice
 

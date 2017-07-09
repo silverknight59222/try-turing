@@ -1,5 +1,5 @@
 ---
-title: Control Flow
+title: Variables and Control Flow
 layout: post
 date: 2000-01-05
 permalink: fe-control-flow
@@ -7,6 +7,8 @@ program: front-end
 tags: front-end
 lessontype: fe-new
 ---
+
+Before we start this lesson, go and take a look at the [Cookie Clicker game](http://orteil.dashnet.org/cookieclicker/). 
 
 ## Incrementing Numeric Variables
 
@@ -39,8 +41,7 @@ count++
 
   <p>Add a button to the HTML. Whenever the button is clicked, the text of the button should increment to represent the number of times it has been clicked.</p>
 
-
-  <p>Hint: It might help to give your button a height and width in css so that it's easy to find and click! You can also use something called font-size. </p>
+  <p>Want to be fancy? Use a cookie image instead of a button, then make sure you have a heading where you can replace the count each time the cookie is clicked.</p>
 
   <p>Stuck? Check out the starter code below:</p>
 </div>

@@ -16,50 +16,66 @@ At the top of our Vending Machine, we have an input field and a button to buy a 
 
 ![Where to Input Information](/images/machine-input.png)
 
-Using JavaScript, we want to tell the computer that when the user clicks this button, we want to take the text they wrote in the input and either buy a snack with a matching Id or let them know we don't have a snack with that name.
+Using JavaScript, we want to tell the computer that when the user clicks this button, we want to take the text they wrote in the input and either buy a snack with a matching ID or let them know we don't have a snack with that name. Let's go!
 
 ## Adding an Event Listener
 
 <div class="try-it">
   <h2>Try it: Adding an Event Listener</h2>
+
+  <p>Before we get super fancy and complicated, let's start with a basic alert. Can we get some type of confirmation that the user clicked a button?</p>
   
   <p>Looking back at what we did with in Event Section, go ahead and find the Buy Snacks button and cause an 'alert' to pop up that says 'button clicked!'.</p>
 </div>
 
-[Take a Peek at this CodePen if you Get Lost](http://codepen.io/team/turing/pen/xdGKKq)
+[Take a Peek at this CodePen if you Get Lost](https://codepen.io/rachelwarbelow/pen/EXprvL)
 
-## Adding an Event Listener
+## Getting User Input
 
-Now that we have an event listener, can we make the alert a little bit more interesting? We can use the input value to make the alert say 'You want to buy twix' or 'You want to buy candy' based on whatever the user typed in!
+Right now, we have a text input box that says "Type name of the snack you want". 
+
+Let's make our alert say 'Enjoy your twix' or 'Enjoy your chips' based on whatever the user typed in!
 
 You can get the value of an input field by finding it on the page and asking it for it's value... How easy is that?
 
 ```js
-  var inputField = document.getElementById('snack-input');
-  inputField.value;
+  var userInput = document.getElementById('snack-input');
+  userInput.value;
 ```
 
+This `userInput.value` now contains whatever the user typed in.  
+
 <div class="try-it">
-  <h2>Try it: Adding an Event Listener</h2>
+  <h2>Try it: Getting User Input</h2>
   
   <p>Change the alert so that it says 'Enjoy your '... and then whatever was entered in the input field!</p>
 </div>
 
-[Take a Peek at this CodePen if you Get Lost](http://codepen.io/team/turing/pen/Mmwgjy)
+[Take a Peek at this CodePen if you Get Lost](https://codepen.io/rachelwarbelow/pen/wexNPG)
 
-## Making the Vending Machine Talk
+## Confirmation Message
 
-Instead of making an annoying alert pop up, can we make the vending machine talk to us instead?
+Instead of making an annoying alert pop up, can we make a message appear on the vending machine instead? 
 
-Remember we can replace the text of any html node by using `textContent = 'New Content'`
+Remember we can replace the text of any html node by using `someElement.innerText = 'New Content'`. As a reminder, here's how we did that earlier when we replaced a heading with user input:
+
+```js
+var changeButton = document.querySelector('#change-me');
+
+changeButton.addEventListener('click', function() {
+  var firstHeader = document.querySelector('h1');
+  var input = document.querySelector('input');
+  firstHeader.innerText = input.value;
+});
+```
 
 <div class="try-it">
-  <h2>Try it: Vending Machine Talk!</h2>
+  <h2>Try it: Vending Machine Confirmation Message</h2>
   
-  <p>Replace the 'Buy Snacks!' message on the Vending Machine with 'Enjoy your '... whenever the user clicks Buy My Snack. </p>
+  <p>Use the structure of the code above to replace the 'Buy Snacks!' message on the Vending Machine with 'Enjoy your '... whenever the user clicks Buy My Snack. </p>
 </div>
 
-[Take a Peek at this CodePen if you Get Lost](http://codepen.io/team/turing/pen/oWXvZq)
+[Take a Peek at this CodePen if you Get Lost](https://codepen.io/rachelwarbelow/pen/wexNPG)
 
 ## Control Flow
 
@@ -123,7 +139,7 @@ if(document.getElementById('logo')){
   <p>Can you think of other things that value could be that you might want to respond to in funny/interesting ways?</p>
 </div>
 
-[Take a Peek at this CodePen if you Get Lost](http://codepen.io/team/turing/pen/vmOBpQ)
+[Take a Peek at this CodePen if you Get Lost](https://codepen.io/rachelwarbelow/pen/bRjzxB)
 
 ## Selling the Treat!
 
@@ -131,16 +147,15 @@ At the bottom of our vending machine, we have an element named 'snack-purchases'
 
 If we want to move an HTML element, we can use a method called `.appendChild`.
 
-For example, if we wanted to move our logo to our navigation bar:
+For example, imagine you had a div with the ID `photos` and you wanted to move an image with the ID of `cat` into that div. This is how you would do that.
 
 ```js
 
-var navBar = document.querySelector('nav');
+var photoBox = document.getElementById('photos');
 
-var logo = document.querySelector('.logo');
+var catPhoto = document.getElementById('cat');
 
-navBar.appendChild(logo)
-
+photoBox.appendChild(catPhoto)
 ```
 
 <div class="try-it">
@@ -149,17 +164,19 @@ navBar.appendChild(logo)
   <p>In your if... else statment, if you found a snack, use appendChild to drop it in the purchases!</p>
 </div>
 
+[Take a Peek at this CodePen if you Get Lost](https://codepen.io/rachelwarbelow/pen/xrJMQm)
+
+
 ### Conclusion
 
 The experience that a user has on a website is often refered to as UX or User Experience, and the interface that they use is often called a UI.
 
 It takes a surprising amount of thought and code to make a very simple UI or User Interface that is pleasant and easy to use.
 
-Doing things like adding flash messages help the user understand what's going on - but you have to be careful that your messages are accurate or things get confusing quickly.
+Doing things like adding confirmation messages help the user understand what's going on - but you have to be careful that your messages are accurate or things get confusing quickly.
 
-Does this vending machine behave the way you expect a vending machine to behave?
+Does your vending machine behave the way you expect a vending machine to behave?
 
-How easy is the vending machine to use? How could you make it easier?
+How easy is your vending machine to use? How could you make it easier?
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="gWpYKJ" data-default-tab="result" data-user="turing" data-embed-version="2" data-pen-title="vending machine - Project 6" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/gWpYKJ/">vending machine - Project 6</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+Want a challenge? Head over to <a href="/vending-machine-project-part-3" title="">Vending Machine: Extensions</a> for more!

@@ -47,6 +47,36 @@ Here is an example of a slightly more robust document:
 <p>What you create right now is the start of a sandbox/playground where we will try out different styles and behaviors.</p>
 </div>
 
+### Lists
+
+To make a list in HTML, we use a combination of two elements. 
+
+Unordered List: 
+
+```html
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+```
+
+Ordered List: 
+
+```html
+<ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ol>
+```
+
+<div class="try-it">
+<h2>Try It: Lists</h2>
+
+<p>Add a list of favorites to your page. Experiment with both unordered lists and ordered lists.</p>
+</div>
+
 ### Images and Attributes
 
 We use HTML tags to "mark up" text to show its semantic meaning. The browser uses these tags to build up document. _Most_ tags have an opening and closing tag, but a few do not. Images—defined using the `<img>` tag do not have a closing tag for instance.
@@ -69,6 +99,24 @@ Our `<img>` tag needs an extra little piece of information. Our browser is more 
 <p>Let's update our page from earlier with one or more images.</p>
 </div>
 
+### Links
+
+To add a link to your website, we use the `<a>` tag. 
+
+The `<a>` tag, like the `<img>` tag, also has an attribute. Instead of `src`, we use `href` or hyper reference. The value of this attribute should be the web address, including `http://`, where you want the link to go.
+
+For example: 
+
+```html
+<a href="http://google.com">Google</a>
+```
+
+<div class="try-it">
+<h2>Try It: Adding Links</h2>
+
+<p>Add a few links to your HTML.</p>
+<p>Want a challenge? Add your links INSIDE of a list.</p>
+</div>
 
 ### Inputs and Buttons
 
