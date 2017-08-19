@@ -48,16 +48,15 @@ foods.each do |food|
 end
 ```
 
-Modify this program to iterate through a list of programming terms and output a sentence "I am learning about (insert term here)" for each of the terms.
-
 
 <div class="try-it">
-<h2>Try It: Least favorite books</h2>
+<h2>Try It: What are you learning?</h2>
 
-<p>Modify the example program to print out your least favorite books</p>
+<p>Modify this program to iterate through a list of programming terms and output a sentence "I am learning about (insert term here)" for each of the terms.</p>
 
-<pre>Home for a Bunny is one of my least favorite books.
-Great Expectations is one of my least favorite books.
+<pre>I am learning about Ruby. 
+I am learning about arrays.
+I am learning about strings.
 ...etc
 </pre>
 
