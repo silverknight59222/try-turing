@@ -52,7 +52,21 @@ Modify this program to iterate through a list of programming terms and output a 
 
 
 <div class="try-it">
-<h2>Try It: Multiplication Practice</h2>
+<h2>Try It: Least favorite books</h2>
+
+<p>Modify the example program to print out your least favorite books</p>
+
+<pre>Home for a Bunny is one of my least favorite books.
+Great Expectations is one of my least favorite books.
+...etc
+</pre>
+
+</div>
+
+<br><br>
+
+<div class="try-it">
+<h2>Challenge: Multiplication Practice</h2>
 
 <p>Use what you know about arrays to iterate through a list of numbers and output the number multiplied by 5. The example below shows the output if the array was [4,7,8,12]</p>
 
