@@ -55,7 +55,7 @@ counterButton.addEventListener('click', function(){
 });
 ```
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="gWpaqg" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-pen-title="counter-base" class="codepen">See the Pen <a href="https://codepen.io/team/turing/pen/gWpaqg/">counter-base</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="0" data-slug-hash="WEzppy" data-default-tab="html,result" data-user="rachelwarbelow" data-embed-version="2" data-pen-title="counter-base" class="codepen">See the Pen <a href="https://codepen.io/rachelwarbelow/pen/WEzppy/">counter-base</a> by Rachel Warbelow (<a href="https://codepen.io/rachelwarbelow">@rachelwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ## Control Flow
