@@ -43,15 +43,14 @@ Next, take a few minutes with a partner to figure out what is happening in this 
 <div class="try-it">
 <h2>Try It: Toggling a CSS Class</h2>
 
-<p>Go back to your personal page. Use JavaScript to toggle the class of a heading when it is clicked. The new class should change at least one property of the element (for example: color, font-family, etc.)</p>
+<p>Go back to your personal page. Use JavaScript to toggle the class of a heading when it is clicked. The new class should change the color of the heading. Use the example above to get started!</p>
 
-<p>We can also listen for things other than clicks. Take a moment to try these out. For example, you can replace "click" with: </p>
+<p>If you're feeling up for a challenge, try changing more than one property. For example: font-family, background-color, font-size, etc. You can also listen for things other than clicks. For example, you can replace "click" with: </p>
 
 <ul>
   <li> dblclick </li>
   <li> mouseenter </li>
   <li> mouseleave </li>
-  <li> keydown: NOTE: for this one, you'll need to use window.addEventListener("keydown"... instead of changeButton.addEventListener("... </li>
 </ul>
 
 </div>
@@ -72,12 +71,8 @@ In this example, we're doing the following:
 - We're then updating the contents of the `<h1>` to the value we stored from the input field.
 
 <div class="try-it">
-<h2>Try It: User Input</h2>
+<h2>Try It: Welcome the User</h2>
 
-<p>Go back to your bio page that you created earlier. Add a heading at the top that says, "Welcome, guest!" and an input box for the guest to enter their name. When they click a submit button, change the text of "guest" to their name. </p>
-<p>HINT: You may want to wrap the word "guest" in a span tag so that you can target it. A span tag is an inline element. See the example below of using a span tag to wrap a word.</p>
+<p>Go back to your personal page. Add a heading at the very top that says, "Welcome, guest!" and an input box for a visitor to enter their name. When they click a submit button, change the header so that there is a personal greeting that includes the name they typed in. (For example: "Hi, Rachel!" instead of "Welcome, guest!")</p>
 </div>
 
-```html
-  <p>Please add <span class='grocery-item'>tomatoes</span> to the grocery list.</p>
-```

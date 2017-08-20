@@ -37,9 +37,9 @@ count++
 <div class="try-it">
   <h2>Try It: Creating a Click Counter</h2>
 
-  <p>Open a new Codepen</p>
+  <p>Open a new Codepen.</p>
 
-  <p>Add a button to the HTML. Whenever the button is clicked, the text of the button should increment to represent the number of times it has been clicked.</p>
+  <p>Add a button element to the HTML. Whenever the button is clicked, the text of the button should increment to represent the number of times it has been clicked.</p>
 
   <p>Want to be fancy? Use a cookie image instead of a button, then make sure you have a heading where you can replace the count each time the cookie is clicked.</p>
 
@@ -55,56 +55,33 @@ counter.addEventListener('click', function(){
 });
 ```
 
-<p data-height="300" data-theme-id="23788" data-slug-hash="gWpaqg" data-default-tab="js,result" data-user="turing" data-embed-version="2" data-pen-title="counter-base" class="codepen">See the Pen <a href="https://codepen.io/team/turing/pen/gWpaqg/">counter-base</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="300" data-theme-id="23788" data-slug-hash="gWpaqg" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-pen-title="counter-base" class="codepen">See the Pen <a href="https://codepen.io/team/turing/pen/gWpaqg/">counter-base</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ## Control Flow
 
 Control Flow refers to being able to determine what the program does given certain inputs or values. In JavaScript, you can represent it using an `if... else` statement.
 
+For the example below, let's assume we have a variable called counter that is being incremented somewhere in our program. 
+
 ```js
-
-var animal = 'cat'
-// we might expect this value to change to 'dog' or 'snake' or 'panther'
-
-if(animal === 'dog') {
-  alert('Woof!')
-} else if (animal === 'cat') {
-  alert('Meow')
+if(counter < 10) {
+  alert('Almost there!')
+} else if (counter < 15) {
+  alert('So close!')
 } else {
-  alert('...')
+  alert('Whoa! That was a lot of clicks.')
 }
-
 ```
 
 What this code says if:
 
-  - I assign the animal variable to 'cat'
-  - If the animal variable equals the string of 'dog'
-    - then the program barks
-  - If the animal variable equals the string of 'cat'
-    - then the programs meows
-  - If none of those other statements were true
-    - then the program responds with silence
-
+  - If the counter is less than 10, pop up an alert that says "Almost there!"
+  - If the counter is between 10 and 15, pop up an alert that says "So close!"
+  - If the counter is 15 or higher, pop up an alert that says "Whoa! That was a lot of clicks."
 
 <div class="try-it">
 <h2>Challenge: Adding a Conditional to your counter</h2>
 
-<p>Add a conditional so that once the box has been clicked 5 times, instead of showing the number, the box says 'Getting closer!'.</p>
-
-<p>Then add a condition so that once the box has been clicked 10 times, it says 'Almost there!'</p> 
-
-<p>And finally, if the box is clicked 15 times, the entire box disapears!</p>
-
-<p>Look at the example above to see how a conditional in JavaScript looks. Google "how to remove element from page using JavaScript" if you're stuck.</p>
+<p>Add a conditional so that once the button has been clicked exactly 5 times, instead of showing the number, the text of the button says 'Boo!'.</p>
 </div>
-
-### Conclusion
-
-Take a look at this implementation when you're done!
-
-How does your implementation differ? How is it the same?
-
-<p data-height="300" data-theme-id="23788" data-slug-hash="dWPvJR" data-default-tab="result" data-user="turing" data-embed-version="2" data-pen-title="Try Coding - Control Flow Counter" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/dWPvJR/">Try Coding - Control Flow Counter</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
