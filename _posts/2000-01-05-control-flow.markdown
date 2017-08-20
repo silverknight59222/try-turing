@@ -48,10 +48,10 @@ count++
 
 ```js
 var count = 0;
-var counter = document.querySelector('#click-counter');
+var counterButton = document.querySelector('#click-counter');
 
-counter.addEventListener('click', function(){
-  
+counterButton.addEventListener('click', function(){
+  // add your code here!
 });
 ```
 
