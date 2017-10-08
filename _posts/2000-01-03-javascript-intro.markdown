@@ -32,31 +32,19 @@ What happened?
 
 We are just using the "console.log" function in order to see our results for now. Don't worry, we won't leave it this way when we start to implement real things. 
 
-Now try the following lines.
-
-```js
-console.log(100/20)
-console.log(3>5)
-console.log(7*4)
-```
-
-### Comparisons
-
-We can also use comparison operators. Try out the following. What do each of these return? 
-
-```js
-console.log(5>3)
-console.log(47%5)
-console.log(72===11)
-console.log(72!==11)
-```
-
 <div class="try-it">
 <h2>Try It: Math and Comparisons</h2>
 
-<p>Create an expression that finds the remainder of sixteen divided by three.</p>
-<p>Create an expression that returns true when comparing two numbers.</p>
-<p>Create an expression that returns false when comparing two numbers.</p>
+Now try the following lines.
+
+<p>console.log(100/20)</p>
+<p>console.log(3>5)</p>
+<p>console.log(7*4)</p>
+<p>console.log(5>3)</p>
+<p>console.log(47%5)</p>
+<p>console.log(72===11)</p>
+<p>console.log(72!==11)</p>
+
 </div>  
 
 ### Strings
