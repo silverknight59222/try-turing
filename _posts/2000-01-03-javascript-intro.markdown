@@ -35,7 +35,7 @@ We are just using the "console.log" function in order to see our results for now
 <div class="try-it">
 <h2>Try It: Math and Comparisons</h2>
 
-Now try the following lines.
+<p>Now try the following lines:</p>
 
 <p>console.log(100/20)</p>
 <p>console.log(3>5)</p>
