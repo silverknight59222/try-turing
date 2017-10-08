@@ -5,7 +5,7 @@ date: 2000-01-05
 permalink: fe-control-flow
 program: front-end
 tags: front-end
-lessontype: fe-new
+lessontype: fe-current
 ---
 
 Before we start this lesson, go and take a look at the [Cookie Clicker game](http://orteil.dashnet.org/cookieclicker/). 

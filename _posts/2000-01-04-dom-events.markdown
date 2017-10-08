@@ -20,12 +20,12 @@ This is the crux of front-end engineering. We present a user interface and then 
 
 Let's take a look at the example below:
 
-<p data-height="265" data-theme-id="dark" data-slug-hash="KmwNEm" data-default-tab="js,result" data-user="turing" data-embed-version="2" data-pen-title="Try Coding - Events 1" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/KmwNEm/">Try Coding - Events 1</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="0" data-slug-hash="EwEaVW" data-default-tab="js,result" data-user="rachelwarbelow" data-embed-version="2" data-pen-title="Try Coding - Events 1" class="codepen">See the Pen <a href="https://codepen.io/rachelwarbelow/pen/EwEaVW/">Try Coding - Events 1</a> by Rachel Warbelow (<a href="https://codepen.io/rachelwarbelow">@rachelwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 The following things are happening in the example above:
 
-- We're querying for any element with the id of `change-me`.
+- We're querying for a button element.
 - We're adding an "event listener" to that element.
 - We're listening for a user's mouse click.
 - We're providing a function. You can think of a function as a package of code to be executed.
@@ -35,6 +35,20 @@ The following things are happening in the example above:
 
 Now, whenever a user clicks on that button. The browser will run the function we provided to the event listener.
 
+Here's an example where we can target certain elements using their class or ID:
+
+<p data-height="265" data-theme-id="0" data-slug-hash="KXowVw" data-default-tab="js,result" data-user="rachelwarbelow" data-embed-version="2" data-pen-title="Try Coding - Events 2" class="codepen">See the Pen <a href="https://codepen.io/rachelwarbelow/pen/KXowVw/">Try Coding - Events 2</a> by Rachel Warbelow (<a href="https://codepen.io/rachelwarbelow">@rachelwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+
+<div class="try-it">
+<h2>Try It: Changing the Text</h2>
+
+<p>Start a new codepen. Add a paragraph tag with some text and a button. Either type out or copy over the javascript from the previous example and modify it so that the text of the paragraph changes when the button is clicked.</p>
+
+</div>
+
+
 Next, take a few minutes with a partner to figure out what is happening in this example. In order to fully understand this one, you'll need to look at the HTML, the CSS, and the JavaScript.
 
 <p data-height="265" data-theme-id="0" data-slug-hash="mwzwqV" data-default-tab="js,result" data-user="rachelwarbelow" data-embed-version="2" data-pen-title="Try Coding - Events 2" class="codepen">See the Pen <a href="https://codepen.io/rachelwarbelow/pen/mwzwqV/">Try Coding - Events 2</a> by Rachel Warbelow (<a href="https://codepen.io/rachelwarbelow">@rachelwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
@@ -43,7 +57,7 @@ Next, take a few minutes with a partner to figure out what is happening in this 
 <div class="try-it">
 <h2>Try It: Toggling a CSS Class</h2>
 
-<p>Go back to your personal page. Use JavaScript to toggle the class of a heading when it is clicked. The new class should change the color of the heading. Use the example above to get started!</p>
+<p>In your CSS, add a class called "fancy" that modifies the font-family, backgroud-color, and font-size. Then, type out or copy over the javascript from the previous example and make it so that when you click the button, the CSS class of fancy is toggled.</p>
 
 <p>If you're feeling up for a challenge, try changing more than one property. For example: font-family, background-color, font-size, etc. You can also listen for things other than clicks. For example, you can replace "click" with: </p>
 
@@ -73,6 +87,7 @@ In this example, we're doing the following:
 <div class="try-it">
 <h2>Try It: Welcome the User</h2>
 
-<p>Go back to your personal page. Add a heading at the very top that says, "Welcome, guest!" and an input box for a visitor to enter their name. When they click a submit button, change the header so that there is a personal greeting that includes the name they typed in. (For example: "Hi, Rachel!" instead of "Welcome, guest!")</p>
+<p>Add a heading at the very top that says, "Welcome, guest!" and give it the ID of "welcome". Add an input box for a visitor to enter their name with the ID of "name". Add a button with the ID of "submit" and the button text of "Change Name".</p> 
+<p>When the user clicks the button, change the header so that there is a personal greeting that includes the name they typed in. (For example: "Hi, Rachel!" instead of "Welcome, guest!")</p>
 </div>
 

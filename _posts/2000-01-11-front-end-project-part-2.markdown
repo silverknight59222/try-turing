@@ -105,7 +105,7 @@ if(){
 }
 ```
 
-Remember back in the control flow section where we said things like:
+We can use an if/else statement in Javascript like this: 
 
 ```js
 var count = 2

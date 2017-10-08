@@ -155,6 +155,3 @@ The `div` tag is a way you can put related content together into one HTML 'block
 ### Conclusion
 
 There are many more HTML tags. But, the ones we learned today are enought to get us started and the raw materials that we'll need to build a game by the end of the day. As the day goes on, we'll slip in some additional tags where it's appropriate, but they meaning and significance should be clear in the context that they're presented.
-
-<p data-height="265" data-theme-id="dark" data-slug-hash="dWPpBd" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-pen-title="try coding - personal website sample" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/dWPpBd/">try coding - personal website sample</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
