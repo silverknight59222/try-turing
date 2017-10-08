@@ -48,6 +48,7 @@ Here's an example where we can target certain elements using their class or ID:
 
 </div>
 
+## Changing Styles with Event Listeners
 
 Next, take a few minutes with a partner to figure out what is happening in this example. In order to fully understand this one, you'll need to look at the HTML, the CSS, and the JavaScript.
 
