@@ -84,14 +84,14 @@ We use HTML tags to "mark up" text to show its semantic meaning. The browser use
 Consider the following:
 
 ```html
-<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-340/turing.png">
+<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-340/turing.png" alt="Turing School of Software and Design Logo">
 ```
 
 There are two things happening here. First, we have an `<img>` tag that is somewhat unique in that it doesn't have a closing tag like all of the others we've see so far.
 
 Our `<img>` tag needs an extra little piece of information. Our browser is more than happy to load up an image, but it'd be helpful if we told it where that image located. That's where the `src` attribute comes in.
 
-![Anatomy of an HTML Tag](/images/anatomy.png)
+We also add the `alt` attribute contains text that identifies the image to a screen reader. 
 
 <div class="try-it">
 <h2>Try It: Adding Images</h2>
