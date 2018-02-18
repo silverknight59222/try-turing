@@ -20,7 +20,7 @@ This is the crux of front-end engineering. We present a user interface and then 
 
 Let's take a look at the example below:
 
-<p data-height="265" data-theme-id="0" data-slug-hash="EwEaVW" data-default-tab="js,result" data-user="rachelwarbelow" data-embed-version="2" data-pen-title="Try Coding - Events 1" class="codepen">See the Pen <a href="https://codepen.io/rachelwarbelow/pen/EwEaVW/">Try Coding - Events 1</a> by Rachel Warbelow (<a href="https://codepen.io/rachelwarbelow">@rachelwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="0" data-slug-hash="KXowVw" data-default-tab="js,result" data-user="rachelwarbelow" data-embed-version="2" data-pen-title="Try Coding - Events 2" class="codepen">See the Pen <a href="https://codepen.io/rachelwarbelow/pen/KXowVw/">Try Coding - Events 2</a> by Rachel Warbelow (<a href="https://codepen.io/rachelwarbelow">@rachelwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 The following things are happening in the example above:
@@ -35,17 +35,16 @@ The following things are happening in the example above:
 
 Now, whenever a user clicks on that button. The browser will run the function we provided to the event listener.
 
-Here's an example where we can target certain elements using their class or ID:
-
-<p data-height="265" data-theme-id="0" data-slug-hash="KXowVw" data-default-tab="js,result" data-user="rachelwarbelow" data-embed-version="2" data-pen-title="Try Coding - Events 2" class="codepen">See the Pen <a href="https://codepen.io/rachelwarbelow/pen/KXowVw/">Try Coding - Events 2</a> by Rachel Warbelow (<a href="https://codepen.io/rachelwarbelow">@rachelwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 
 <div class="try-it">
 <h2>Try It: Changing the Text</h2>
 
-<p>Start a new codepen. Add a paragraph tag with some text and a button. Either type out or copy over the javascript from the previous example and modify it so that the text of the paragraph changes when the button is clicked.</p>
+<p>Mild: Change the h1 tag to a p (paragraph) tag. Modify the JavaScript so that a button click changes the paragraph text.</p>
 
+<p>Medium: Start a new codepen. Add a paragraph tag with some text and a button. Copy over the javascript from the previous example and modify it so that the text of the paragraph changes when the button is clicked.</p>
+
+<p>Spicy: Start a new codepen. Add a paragraph tag with some text and a button. Type out your own JavaScript (use the example for reference) that makes the text change when the button is clicked.</p>
 </div>
 
 ## Changing Styles with Event Listeners
@@ -58,16 +57,11 @@ Next, take a few minutes with a partner to figure out what is happening in this 
 <div class="try-it">
 <h2>Try It: Toggling a CSS Class</h2>
 
-<p>In your CSS, add a class called "fancy" that modifies the font-family, backgroud-color, and font-size. Then, type out or copy over the javascript from the previous example and make it so that when you click the button, the CSS class of fancy is toggled.</p>
+<p>Mild: Using the same example from above, erase the "newcolor" CSS declaration. Create a new CSS class called "fancy" and add a few styles that change the font size, the text color, and the background color. Modify the JavaScript so that when the button is clicked, the fancy styles are applied.</p>
 
-<p>If you're feeling up for a challenge, try changing more than one property. For example: font-family, background-color, font-size, etc. You can also listen for things other than clicks. For example, you can replace "click" with: </p>
+<p>Medium: In your codepen that you created for the last example, add a class called "fancy" that modifies the font-family, backgroud-color, and font-size. Then, type out or copy over the javascript from the previous example and make it so that when you click the button, the CSS class of fancy is toggled.</p>
 
-<ul>
-  <li> dblclick </li>
-  <li> mouseenter </li>
-  <li> mouseleave </li>
-</ul>
-
+<p>Spicy: In your codepen that you created for the last example, add a class called "fancy" that modifies the font-family, backgroud-color, and font-size. Then, type out JavaScript that makes it so that the user must double click (not just single click) to get the fancy style to apply. HINT: use "dblclick"</p>
 </div>
 
 ## Getting Values from the User
@@ -88,7 +82,8 @@ In this example, we're doing the following:
 <div class="try-it">
 <h2>Try It: Welcome the User</h2>
 
-<p>Add a heading at the very top that says, "Welcome, guest!" and give it the ID of "welcome". Add an input box for a visitor to enter their name with the ID of "name". Add a button with the ID of "submit" and the button text of "Change Name".</p> 
-<p>When the user clicks the button, change the header so that there is a personal greeting that includes the name they typed in. (For example: "Hi, Rachel!" instead of "Welcome, guest!")</p>
+<p>Mild: In the example, erase the h1 tag and add a p (paragraph) tag instead that says "Welcome, guest."" Modify the JavaScript to make the same functionality work -- the user should enter their name and when they click the button, the message should greet them.</p>
+
+<p>Spicy: Add a heading at the very top of your page that says, "Welcome, guest!" and give it the ID of "welcome". Add an input box for a visitor to enter their name with the ID of "name". Add a button with the ID of "submit" and the button text of "Change Name".</p>
 </div>
 
