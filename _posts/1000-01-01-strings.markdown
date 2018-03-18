@@ -52,9 +52,9 @@ nate@turing.io</pre>
 We can save strings to variables:
 
 ```ruby
-email = "nate@turing.io"
+email = "rachel@turing.io"
 address = "123 Nowhere Street, Denver, CO 80202"
-first_name = "Nate"
+first_name = "Rachel"
 ```
 
 Notice that these variables start with a lower case letter and can include underscores (_).
@@ -62,23 +62,23 @@ Notice that these variables start with a lower case letter and can include under
 We can print these variables:
 
 ```ruby
-email = "nate@turing.io"
+email = "rachel@turing.io"
 address = "123 Nowhere Street, Denver, CO 80202"
-first_name = "Nate"
+first_name = "Rachel"
 
 puts first_name
 puts address
-puts message
+puts email
 ```
 
 Even better, we can use string interpolation to combine:
 
 ```ruby
-email = "nate@turing.io"
+email = "rachel@turing.io"
 address = "123 Nowhere Street, Denver, CO 80202"
-first_name = "Nate"
+first_name = "Rachel"
 
-puts "#{first_name} lives at #{address}. His email address is #{email}."
+puts "#{first_name} lives at #{address}. Her email address is #{email}."
 ```
 
 <div class="try-it">

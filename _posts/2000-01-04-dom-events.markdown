@@ -82,7 +82,7 @@ In this example, we're doing the following:
 <div class="try-it">
 <h2>Try It: Welcome the User</h2>
 
-<p>Mild: In the example, erase the h1 tag and add a p (paragraph) tag instead that says "Welcome, guest."" Modify the JavaScript to make the same functionality work -- the user should enter their name and when they click the button, the message should greet them.</p>
+<p>Mild: In the example, keep the input tag but erase the h1 tag and the button. Add a p tag (paragraph) that says "Welcome, guest." Modify the JavaScript to make it so that when the user enters their name mouse hovers over the paragraph, the message greets them with "Welcome, [insert name].</p>
 
 <p>Spicy: Add a heading at the very top of your page that says, "Welcome, guest!" and give it the ID of "welcome". Add an input box for a visitor to enter their name with the ID of "name". Add a button with the ID of "submit" and the button text of "Change Name".</p>
 </div>
