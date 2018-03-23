@@ -1,0 +1,132 @@
+---
+title: HyperText Markup Language
+layout: post
+date: 2015-01-03
+permalink: html
+program: teachers
+tags: teachers
+---
+
+Of all of the major technologies used on the web—on either the front- or the back-end—HTML is the oldest. In the beginning, the web was just a bunch of HTML documents that you wrote by hand. They had these cool things called hyperlinks that would allow to click on a word on one page and be taken to another page.
+
+At the end of the day, HTML is made up two things: text and tags that mark up that text.
+
+Let's say that we had some text and we wanted to denote that this text was a paragraph.
+
+```
+This text is a paragraph.
+```
+
+We'd wrap the text in paragraph tags.
+
+```html
+<p>This text is a paragraph.</p>
+```
+
+We use `<p>` to signal to the browser that everything that's about to follow is part of a paragraph and `</p>` to let the browser know that this paragraph is done. When a user visits our application, the browser loads up the HTML and parses it into the elements that will eventally make up our user interface.
+
+Here is an example of a slightly more robust document:
+
+```html
+<h1>Very Important Heading</h1>
+
+<p>This is an introduction paragraph. Designers typically use "Lorem Ipsum" to fill out space in their designs while they wait for the real content. Lorem Ipsum looks kind of like Latin, but it's actually completely bogus. The nice part is that it has roughly the same distribution of word sizes as English.</p>
+
+<h2>Lorem Ipsum Example</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+```
+
+<div class="try-it">
+<h2>Try It: Building a Personal Webpage</h2>
+
+<p> Open your Codepen account and create a new pen. </p>
+
+<p>Use what you know about headings and paragraph tags to create a very simple website with your name, a brief bio, and your contact information. For the sake of our later exercises, make sure it has at least three headings and three paragraphs.</p>
+<p>What you create right now is the start of a sandbox/playground where we will try out different styles and behaviors.</p>
+</div>
+
+### Lists
+
+To make a list in HTML, we use a combination of two elements. 
+
+Unordered List: 
+
+```html
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+```
+
+Ordered List: 
+
+```html
+<ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ol>
+```
+
+<div class="try-it">
+<h2>Try It: Lists</h2>
+
+<p>Add a list of favorites to your page. Experiment with both unordered lists and ordered lists.</p>
+</div>
+
+### Links
+
+To add a link to your website, we use the `<a>` tag. 
+
+The `<a>` tag, like the `<img>` tag, also has an attribute. Instead of `src`, we use `href` or hyper reference. The value of this attribute should be the web address, including `http://`, where you want the link to go.
+
+For example: 
+
+```html
+<a href="http://google.com">Google</a>
+```
+
+<div class="try-it">
+<h2>Try It: Adding Links</h2>
+
+<p>Add a few links to your HTML.</p>
+<p>Want a challenge? Add your links INSIDE of a list.</p>
+</div>
+
+### Inputs and Buttons
+
+So far, we've done an excellent job of displaying information to the user, but we haven't really asked them for their input. HTML also includes a set of elements for building forms.
+
+There are a lot to forms that we go into depth on in the full program, but we're going to blissfully ignore today.
+
+Instead we'll focus on two elements:
+
+- `<input>` creates an input field. `<input>` is like `<img>` in that it does not require or support a closing tag. It can take an optional `type` attribute that helps validate user input in some browsers.
+- `<button>` creates a button. `<button>` on the other hand does support a closing tag.
+
+Here's an example of an input tag with placeholder text and a button:
+
+```html
+<input type="text" placeholder="Enter your email">
+<button>Click me!</button>
+```
+
+<div class="try-it">
+<h2>Try It: Adding Email List Sign Up</h2>
+
+<p>Although we can't make this functional, add an input and a button that mimics signing up for a newsletter.</p>
+</div>
+
+### Block Elements: Structuring a Website
+
+The way that we structure a website matters for the people who use it!
+
+`<div>`
+
+The `div` tag is a way you can put related content together into one HTML 'block'. Block elements denote a big section—let’s call it a “block”—of our page. A `div` is like the flavorless Jello of HTML block tags, it don’t have any meaning in and of itself and doesn't come with any built-in styling from the browser.
+
+### Conclusion
+
+There are many more HTML tags. But, the ones we learned today are enought to get us started and the raw materials that we'll need to build a game by the end of the day. As the day goes on, we'll slip in some additional tags where it's appropriate, but they meaning and significance should be clear in the context that they're presented.
