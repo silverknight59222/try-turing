@@ -61,13 +61,3 @@ Front-end developers often work with designers, who provide detailed `comps` lik
   - JavaScript allows us to define interaction in our pages. What happens when a user clicks on a certain area?
 - The back-end of the application can use any number of languages like Ruby and even JavaScript.
 
-## What are we doing today?
-
-- We're going to learn how to structure web pages using HTML
-- We'll learn about strings, integers, arrays, and for loops
-- We will 
-- React to user events on our page using JavaScript.
-
-Not bad for one day, right?
-
-Keep in mind that we're going to place more emphasis on the tools of the front-end trade rather than the design aspects today.
