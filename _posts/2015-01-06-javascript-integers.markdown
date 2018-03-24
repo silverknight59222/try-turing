@@ -7,8 +7,6 @@ program: teachers
 tags: teachers
 ---
 
-* prompt for integer and change to integer
-
 Most programming languages, including JavaScript, allow you to manipulate numbers. Today, we'll focus on integers (positive and negative whole numbers).
 
 Before we start this section, create a new CodePen so that you can save the work you've already done. 
