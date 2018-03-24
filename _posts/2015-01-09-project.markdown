@@ -1,0 +1,23 @@
+---
+title: Final Project
+layout: post
+date: 2015-01-09
+permalink: final-project
+program: teachers
+tags: teachers
+---
+
+In this final project, you'll be adding onto the student grouper you just made in the last example. Here are the requirements: 
+
+<div class="try-it">
+
+<p>Upon clicking a button, the user will be prompted to enter student names separated by commas, like this:</p>
+<p> Jimmy, Giselle, Emanuel, Ruben, Alexis, Christina, Maria, Victor, Jessica, Ubaldo, Cynthia, David, Jasmine, Gabriel, Saul, Richard</p>
+<p>The user will also be prompted to enter a number of students per group (for example, the user enters 4 to indicate that there should be four students per group)</p>
+<p>The program generates random groupings of four and then prints out the groupings as list items on the page.</p>
+</div>
+<br>
+
+Stuck? Work with each other! 
+
+Super stuck? Click the next link for a possible implementation. Keep in mind that with coding, there are ALWAYS many different behind-the-scenes implementations for the same problem. 

@@ -1,7 +1,7 @@
 ---
 title: Coding Resources for Teachers
 layout: post
-date: 2015-01-09
+date: 2015-01-11
 permalink: resources-for-teachers
 program: teachers
 tags: teachers

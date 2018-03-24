@@ -103,7 +103,7 @@ Let's make one more small change together. Let's change the console.log line so 
 var targetButton = document.querySelector('button');
 
 targetButton.addEventListener('click', function() {
-  var cards = _.shuffle(["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"])
+  var cards = _.shuffle(["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"])
   document.querySelector('div').innerText = "You chose a " + cards[0]
 });
 ```
