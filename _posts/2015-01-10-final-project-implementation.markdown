@@ -16,7 +16,7 @@ The HTML:
 ```
 
 
-The JavaScript:
+The JavaScript (remember to add lodash!):
 
 ```js
 var targetButton = document.querySelector('button')

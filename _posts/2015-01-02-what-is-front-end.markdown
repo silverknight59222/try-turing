@@ -2,7 +2,7 @@
 title: What is Front-End Engineering?
 layout: post
 date: 2015-01-02
-permalink: what-is-front-end
+permalink: teachers-what-is-front-end
 program: teachers
 tags: teachers
 ---

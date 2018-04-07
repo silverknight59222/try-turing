@@ -2,7 +2,7 @@
 title: HyperText Markup Language
 layout: post
 date: 2015-01-03
-permalink: html
+permalink: teachers-html
 program: teachers
 tags: teachers
 ---
