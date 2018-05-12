@@ -40,11 +40,11 @@ puts "**** this is another string ****"
 
 <p>Write a program that prints out your name, location, and email address each separated by a line of dashes.</p>
 
-<pre>Nate Allen
+<pre>Rachel Warbelow
 ---------------
 Denver, CO
 ---------------
-nate@turing.io</pre>
+rachel@turing.io</pre>
 </div>
 
 ## Assigning Strings to Variables

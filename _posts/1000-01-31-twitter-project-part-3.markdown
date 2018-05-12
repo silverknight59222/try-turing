@@ -1,78 +1,53 @@
 ---
-title: Twitter Project, Part 3
+title: Twitter Project, Extensions
 layout: post
 date: 1000-01-31
-permalink: twitter-project-part-3
+permalink: twitter-project-extensions-part-3
 program: back-end
 tags: back-end
 ---
 
-Let's say that we wanted to be able to search for tweets with the hashtag #learntocode and save them to a file that we can access later. First, we'll need to set up a program that can search when given a hashtag.
+Done with parts 1 and 2? Want more?
 
-<h4>Preparing the Program</h4>
+<div class="try-it">
+<h2>Try it: Auto Follow</h2>
 
-Go ahead and make a new file:
+<p>
+  Create a program that searches for the five most recent tweets on a specific topic, then automatically follows those users. Check out <a href="https://github.com/sferik/twitter#usage-examples
+">examples of how to follow a user</a>.
+</p>
+</div>
 
-```
-$ touch twitter_search.rb
-```
+<br>
 
-Then create your Twitter client again:
+<div class="try-it">
+<h2>Try it: Auto Reply</h2>
 
-```ruby
-require 'twitter'
+<p>
+  Create a program that auto-replies to tweets containing a certain set of hashtags. For example, if I run the program with the hashtags #coding and #ruby, it could autoreply "I'm learning how to code at Turing School!" If you're stuck, check out <a href="http://stackoverflow.com/questions/28649582/how-to-reply-a-tweet-using-the-twitter-gem">this StackOverflow answer</a>.
+</p>
+</div>
 
-client = Twitter::REST::Client.new do |config|
+<br>
+<div class="try-it">
+<h2>Try it: Streaming Tweets</h2>
+
+<p>
+  Let's livestream Twitter! Make a new program called <code>streaming_twitter.rb</code>. First, we'll need to set up a streaming client:
+  <pre>client = Twitter::Streaming::Client.new do |config|
   config.consumer_key        = "UCZw4n5yZW4EnvbT3co9OPa4b"
   config.consumer_secret     = "rPCzneF3DnRd8OWE90jWLjTCfCTStTnGrvkfnRtfEEVE3FWL4K"
   config.access_token        = "710164541207398534-S6EkJrplVKgsuMtBfIcZcPTxGeINwMx"
   config.access_token_secret = "c42YsBf1EdDt7hv1xYnZ0knhckzbiLLatKHMBuLXTgyP3"
-end
-
-client.search("#learntocode").each do |tweet|
-  puts "#{tweet.user.name}: #{tweet.text}"
-end
-```
-
-Run this with different hash tags a few times to see that it works.
-
-<div class="try-it">
-<h2>Try it: Searching Dynamic Values</h2>
-
-<p>
-  Right now, we've hard-coded the #learntocode hashtag. Modify your program so that it asks the user what hashtag they want to search, then uses that value to search Twitter. Try it out to make sure it works.
+end</pre>
+Next, use <a href="https://github.com/sferik/twitter#streaming">the Twitter gem streaming documentation</a> to set up a program that will livestream tweets that have a certain hashtag(s).
 </p>
 </div>
 
-<h4>Saving to a File</h4>
-
-Before we try to save Tweets, we need to learn how to write to files. Let's pause on our Twitter app and move to IRB. Remember how to open IRB:
-
-```
-$ irb
-```
-
-Next, we will make and write to a file using this syntax:
-
-```ruby
-my_file = File.open("my_file.txt", "w")
-
-my_file.write("Hello, world!")
-my_file.write("\n")
-my_file.write("I am writing to a file!")
-my_file.write("\n")
-my_file.write("\n")
-my_file.write("Here's another sentence that is two lines below the previous one.")
-
-my_file.close
-```
-
-If you want to, go ahead and try that out, then open the file it created and look at it.
-
+<br>
 <div class="try-it">
-<h2>Try it: Saving Search Results</h2>
-
+<h2>Try it: Colorizing Output</h2>
 <p>
-  Modify your <code>twitter_search.rb</code> program so that whenever it runs, it saves the results to a text file. The file name should be based on what hashtag the user enters. For example, if they search "#denver", the results file should be called <code>results_for_#denver.txt</code>. Hint: You'll want to use string interpolation (look back at section 1 if you've forgotten what this is).
+  With the livestreaming of tweets, use an if/else branch to colorize certain tweets. Use the <a href="https://github.com/fazibear/colorize">Colorize gem</a> in your program. You may choose to colorize based on tweet length, tweet contents, etc. Be creative!
 </p>
 </div>

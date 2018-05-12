@@ -7,14 +7,14 @@ program: back-end
 tags: back-end
 ---
 
-Now that we know how to post a tweet, let's read other users' timelines.
+Let's say that we wanted to be able to search for tweets with the hashtag #learntocode and save them to a file that we can access later. First, we'll need to set up a program that can search when given a hashtag.
 
-## Preparing the Program
+<h4>Preparing the Program</h4>
 
 Go ahead and make a new file:
 
 ```
-$ touch read_twitter_timeline.rb
+$ touch twitter_search.rb
 ```
 
 Then create your Twitter client again:
@@ -28,38 +28,51 @@ client = Twitter::REST::Client.new do |config|
   config.access_token        = "710164541207398534-S6EkJrplVKgsuMtBfIcZcPTxGeINwMx"
   config.access_token_secret = "c42YsBf1EdDt7hv1xYnZ0knhckzbiLLatKHMBuLXTgyP3"
 end
-```
 
-## Reading a Timeline
-
-```ruby
-require 'twitter'
-
-client = Twitter::REST::Client.new do |config|
-  config.consumer_key        = "UCZw4n5yZW4EnvbT3co9OPa4b"
-  config.consumer_secret     = "rPCzneF3DnRd8OWE90jWLjTCfCTStTnGrvkfnRtfEEVE3FWL4K"
-  config.access_token        = "710164541207398534-S6EkJrplVKgsuMtBfIcZcPTxGeINwMx"
-  config.access_token_secret = "c42YsBf1EdDt7hv1xYnZ0knhckzbiLLatKHMBuLXTgyP3"
-end
-
-client.user_timeline("turingschool").each do |tweet|
-  puts tweet.text
+client.search("#learntocode").each do |tweet|
+  puts "#{tweet.user.name}: #{tweet.text}"
 end
 ```
+
+Run this with different hash tags a few times to see that it works.
 
 <div class="try-it">
-<h2>Try it: Reading Timelines Using Optional Arguments</h2>
+<h2>Try it: Searching Dynamic Values</h2>
 
 <p>
-  By default, our program only prints out the 20 most recent tweets. The <code>user_timeline</code> method can take another optional argument. If we wanted the 50 most recent tweets, we could do this:
+  Right now, we've hard-coded the #learntocode hashtag. Modify your program so that it asks the user what hashtag they want to search, then uses that value to search Twitter. Try it out to make sure it works.
 </p>
-<div class="highlighter-rouge"><pre class="language-ruby">client.user_timeline("turingschool", count: 50).each do |tweet|
-  puts tweet.text
-end</pre>
 </div>
-<p>
-  Try that out. Now, let's practice reading the <a class="link-in-try" href="http://www.rubydoc.info/gems/twitter/Twitter/REST/Timelines#user_timeline-instance_method">User Timeline Documentation</a>. Under the section "Options Hash", find an optional argument that you can use to modify whether or not retweets are included in the results. Try it out. <br><br>
-      Next, find another optional argument you can use to modify whether or not replies are included in the results.
-</p>
 
+<h4>Saving to a File</h4>
+
+Before we try to save Tweets, we need to learn how to write to files. Let's pause on our Twitter app and move to IRB. Remember how to open IRB:
+
+```
+$ irb
+```
+
+Next, we will make and write to a file using this syntax:
+
+```ruby
+my_file = File.open("my_file.txt", "w")
+
+my_file.write("Hello, world!")
+my_file.write("\n")
+my_file.write("I am writing to a file!")
+my_file.write("\n")
+my_file.write("\n")
+my_file.write("Here's another sentence that is two lines below the previous one.")
+
+my_file.close
+```
+
+If you want to, go ahead and try that out, then open the file it created and look at it.
+
+<div class="try-it">
+<h2>Try it: Saving Search Results</h2>
+
+<p>
+  Modify your <code>twitter_search.rb</code> program so that whenever it runs, it saves the results to a text file. The file name should be based on what hashtag the user enters. For example, if they search "#denver", the results file should be called <code>results_for_#denver.txt</code>. Hint: You'll want to use string interpolation (look back at section 1 if you've forgotten what this is).
+</p>
 </div>
