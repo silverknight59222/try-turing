@@ -8,9 +8,9 @@ tags: front-end
 lessontype: fe-new
 ---
 
-Of all of the major technologies used on the web—on either the front- or the back-end—HTML is the oldest. In the beginning, the web was just a bunch of HTML documents that you wrote by hand. They had these cool things called hyperlinks that would allow to click on a word on one page and be taken to another page.
+Of all of the major technologies used on the web, on either the front- or the back- end, HTML is the oldest. In the beginning, the web was just a bunch of HTML documents that you wrote by hand. They had these cool things called hyperlinks that would allow a user to click on a word on one page and be taken to another page.
 
-At the end of the day, HTML is made up two things: text and tags that mark up that text.
+At the end of the day, HTML is made up two things: text, and tags that _mark up_ that text. (HTML stands for _hyper text markup language_!)
 
 Let's say that we had some text and we wanted to denote that this text was a paragraph.
 
@@ -24,7 +24,9 @@ We'd wrap the text in paragraph tags.
 <p>This text is a paragraph.</p>
 ```
 
-We use `<p>` to signal to the browser that everything that's about to follow is part of a paragraph and `</p>` to let the browser know that this paragraph is done. When a user visits our application, the browser loads up the HTML and parses it into the elements that will eventally make up our user interface.
+You'll notice that there are tags on both ends of the text.
+
+We use `<p>` (the opening tag) to signal to the browser that everything that's about to follow is part of a paragraph and `</p>` (the closing tag) to let the browser know that this paragraph is done. When a user visits our application, the browser loads up the HTML and parses it into the elements that will eventually make up our user interface.
 
 Here is an example of a slightly more robust document:
 
@@ -49,9 +51,9 @@ Here is an example of a slightly more robust document:
 
 ### Lists
 
-To make a list in HTML, we use a combination of two elements. 
+To make a list in HTML, we use a combination of two elements.
 
-Unordered List: 
+Unordered List:
 
 ```html
 <ul>
@@ -61,7 +63,7 @@ Unordered List:
 </ul>
 ```
 
-Ordered List: 
+Ordered List:
 
 ```html
 <ol>
@@ -79,7 +81,7 @@ Ordered List:
 
 ### Images and Attributes
 
-We use HTML tags to "mark up" text to show its semantic meaning. The browser uses these tags to build up document. _Most_ tags have an opening and closing tag, but a few do not. Images—defined using the `<img>` tag do not have a closing tag for instance.
+We use HTML tags to "mark up" text to show its semantic meaning. The browser uses these tags to build up the document. _Most_ tags have an opening and closing tag, but a few do not. For example, images (defined using the `<img>` tag) do not have a closing tag.
 
 Consider the following:
 
@@ -87,11 +89,15 @@ Consider the following:
 <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-340/turing.png" alt="Turing School of Software and Design Logo">
 ```
 
-There are two things happening here. First, we have an `<img>` tag that is somewhat unique in that it doesn't have a closing tag like all of the others we've see so far.
+There are two things happening here:
 
-Our `<img>` tag needs an extra little piece of information. Our browser is more than happy to load up an image, but it'd be helpful if we told it where that image located. That's where the `src` attribute comes in.
+*First*, we have an `<img>` tag that is somewhat unique in that it doesn't have a closing tag like all of the others we've seen so far.
 
-We also add the `alt` attribute contains text that identifies the image to a screen reader. 
+*Second*, our `<img>` tag has extra information inside it!
+
+Our browser is more than happy to load up an image, but it'd be helpful if we told it where that image is located. That's where the `src` attribute comes in. It tells the browser what the source of our image is - we give it a link (an address!) to the image we want to render.
+
+We also add the `alt` attribute contains text that identifies the image to a screen reader. The alt text is displayed if the picture can't be displayed for some reason. It helps all users, not just those using screen readers!
 
 <div class="try-it">
 <h2>Try It: Adding Images</h2>
@@ -101,11 +107,11 @@ We also add the `alt` attribute contains text that identifies the image to a scr
 
 ### Links
 
-To add a link to your website, we use the `<a>` tag. 
+To add a link, we use the `<a>` tag. It has an opening and closing tag, _and_ it utilizes attributes!
 
 The `<a>` tag, like the `<img>` tag, also has an attribute. Instead of `src`, we use `href` or hyper reference. The value of this attribute should be the web address, including `http://`, where you want the link to go.
 
-For example: 
+For example:
 
 ```html
 <a href="http://google.com">Google</a>
@@ -127,7 +133,7 @@ There are a lot to forms that we go into depth on in the full program, but we're
 Instead we'll focus on two elements:
 
 - `<input>` creates an input field. `<input>` is like `<img>` in that it does not require or support a closing tag. It can take an optional `type` attribute that helps validate user input in some browsers.
-- `<button>` creates a button. `<button>` on the other hand does support a closing tag.
+- `<button>` creates a button. `<button>` on the other hand does have a closing tag.
 
 Here's an example of an input tag with placeholder text and a button:
 
@@ -136,7 +142,7 @@ Here's an example of an input tag with placeholder text and a button:
 <button>Click me!</button>
 ```
 
-We'll use these elements when we discuss JavaScript.
+We'll be able to use JavaScript to target and interact with these elements soon!
 
 <div class="try-it">
 <h2>Try It: Adding Email List Sign Up</h2>
@@ -148,10 +154,12 @@ We'll use these elements when we discuss JavaScript.
 
 The way that we structure a website matters for the people who use it!
 
-`<div>`
+`<div></div>`
 
-The `div` tag is a way you can put related content together into one HTML 'block'. Block elements denote a big section—let’s call it a “block”—of our page. A `div` is like the flavorless Jello of HTML block tags, it don’t have any meaning in and of itself and doesn't come with any built-in styling from the browser.
+The `div` tag is a way you can put related content together into one HTML 'block'.
+
+Block elements denote a big section — let’s call it a “block” — of our page. A `div` is like the flavorless Jello of HTML block tags: it don’t have any meaning in and of itself and doesn't come with any built-in styling from the browser.
 
 ### Conclusion
 
-There are many more HTML tags. But, the ones we learned today are enought to get us started and the raw materials that we'll need to build a game by the end of the day. As the day goes on, we'll slip in some additional tags where it's appropriate, but they meaning and significance should be clear in the context that they're presented.
+There are many more HTML tags. Some tags communicate information about the contents inside them, some are less "semantic". The ones we learned today are enough to get us started and the raw materials that we'll need to build a game by the end of the day. As the day goes on, we'll slip in some additional tags where it's appropriate, but their meanings and significance should be clear in the context in which they're presented.
