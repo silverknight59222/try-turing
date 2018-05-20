@@ -25,6 +25,6 @@ We will be using a website called [CodePen](https://codepen.io/accounts/signup/u
 
 #### Navigating
 
-In your new CodePen, you'll see panes for HTML, CSS and JS. The bottom panel will be the output of anything you add to those files!
+In your new CodePen, you'll see panes for HTML, CSS and JS (JavaScript). The bottom panel will be the output of anything you add to those files!
 
 ![Image of codepen with multiple panes open for html, css, and js](/images/navigating-pen.gif)

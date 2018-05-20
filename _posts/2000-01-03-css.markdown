@@ -8,9 +8,13 @@ tags: front-end
 lessontype: fe-new
 ---
 
-CSS is a way to add style to HTML documents on the web. It's incredibly powerful. Let's take a look at some examples of CSS in action.
+CSS is a way to add style to HTML documents on the web. It's incredibly powerful!
 
-- [CSS Zen Garden](http://www.csszengarden.com)
+Let's take a look at some examples of CSS in action:
+
+[CSS Zen Garden](http://www.csszengarden.com)
+
+You'll notice that every single one of these web pages has the exact same HTML - all the differences in layout and look are achieved through CSS!
 
 ### Styling Elements
 
@@ -18,7 +22,7 @@ In CSS, we right a bunch of rules for how our document should look. The browser 
 
 ![Anatomy of a CSS Selector](/images/css-rule.png)
 
-In the example above, the browser will set any `<strong>` element's color to red. We can define multiple sets of properties and values in a given rule.
+In the example above, the browser will set the color of any `<strong>` text elements to red. We can define multiple sets of properties and values in a given rule.
 
 <div class="try-it">
 <h2>Try It: Adding Color</h2>
@@ -38,14 +42,14 @@ In the example above, the browser will set any `<strong>` element's color to red
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size">font-size</a></li>
 
-There are a lot of colors out there. Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a>
+There are a lot of colors out there! Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a>
 </div>
 
 ### Psuedo-selectors
 
 Styling elements is pretty neat, but our elements can be in different states depending on what the user is doing on page. Not only can we style an element with CSS, we can always define specific rules for when a user is hovering or actively clicking on an element.
 
-The following rule will only be in effect when a user is actively hovering over an `<a>` element.
+The following rule will only be in effect when a user is actively hovering over (aka has their mouse on top of but not clicking) an `<a>` element (remember, `<a>` elements are for links!).
 
 ```css
 a:hover {
@@ -56,20 +60,20 @@ a:hover {
 <div class="try-it">
 <h2>Try It: Pseudo Selectors</h2>
 
-<p>Style some of the elements on your personal page using the :hover pseudo-selectors. For example, you might try changing the background-color of your paragraph elements when a user hovers.</p>
+<p>Style some of the elements on your personal page using the `:hover` pseudo-selectors. For example, you might try changing the color of your paragraph element font when a user hovers.</p>
 </div>
 
-#### Classes & Ids
+#### Classes & IDs
 
-Right now, we know how to style _all_ of the paragraphs or _all_ of the links on a page. But what if we just wanted to style just one?
+Right now, we know how to style _all_ of the paragraphs or _all_ of the links on a page. But what if we only wanted to style a particular one?
 
-As it turns out, we can set a `class` attribute on an HTML element. The `class` attribute takes one or more words—separated by spaces. Typically we use classes to describe what kind of element we're creating. For example, we might create a `<p>` element with the `class` of `"sidebar"` to denote that this is a particular kind of section on the page. We might also use classes to describe the kind of content inside of the element.
+As it turns out, we can set a `class` attribute on an HTML element. The `class` attribute takes one or more words, separated by spaces. Typically we use classes to describe what kind of element we're creating. For example, we might create a `<p>` element with the `class` of `"sidebar"` to denote that this is a particular kind of section on the page. We might also use classes to describe the kind of content inside of the element.
 
 ```html
 <h2 class="heading-main">Lorem Ipsum</h2>
 ```
 
-This is all great and wonderful, but how do we style these specific elements? Easy! We just prefix our selector with a `.`.
+This is all great and wonderful, but how do we style these specific elements? Easy! We just prefix our selector with a `.` - a dot!.
 
 ```css
 .heading-main {
@@ -81,8 +85,16 @@ This will look for every element—regardless of type—that has the class of `h
 
 The `id` attribute acts similarly to the `class` attribute with the exception of the following things:
 
-- As `id` should be unique - there should only ever be one on a page
-- You will find an id using `#` instead of `.`
+- An `id` should be unique - there should only ever be _one_ of that ID on a page.
+- You will target an id by using `#` instead of `.` (see example below)
+
+If the HTML looked like this:
+
+```html
+<h2 id="heading-main">Lorem Ipsum</h2>
+```
+
+then the CSS would target the `<h2>` like this:
 
 ```css
 #heading-main {
@@ -93,7 +105,7 @@ The `id` attribute acts similarly to the `class` attribute with the exception of
 <div class="try-it">
 <h2>Try It: Adding Classes</h2>
 
-<p>Add a class to just two of your paragraphs, then use CSS to add styles for that class. Both of the paragraphs should change!</p>
+<p>Add a class to just one or two of your paragraphs, then use CSS to add styles for that class. Only those paragraphs should change!</p>
 </div>
 
 ### Transitions and Transformations
@@ -108,7 +120,7 @@ p {
 }
 ```
 
-Groovy, right? We have [quite a few transformations at our disposal](https://developer.mozilla.org/en-US/docs/Web/CSS/transform), but we'll cover just a subset today:
+Gnarly, right? We have [quite a few transformations at our disposal](https://developer.mozilla.org/en-US/docs/Web/CSS/transform), but we'll cover just a subset today:
 
 - Rotation: `transform: rotate(180deg);` will flip the element upside down.
 - Scaling: `transform: scale(3);` will make the element bigger as defined by a vector.
@@ -117,7 +129,7 @@ Groovy, right? We have [quite a few transformations at our disposal](https://dev
 Transformations become extra fun when we pair them with transitions. For our purposes, transitions will take two pieces of information:
 
 - The name of the property we want to transition. (Alternatively, we can use `all` to transition all of the properties.)
-- The duration of the transition.
+- The duration of the transition. (Basically, we just specify how long the transition will take!)
 
 Consider the following example:
 
@@ -129,11 +141,11 @@ Before moving on to the Try It section, add the following to your HTML and CSS:
 Try this:
 
 ```html
-<div></div>
+<div id="red-square"></div>
 ```
 
 ```css
-div {
+#red-square {
   height: 50px;
   width: 50px;
   background-color: red;

@@ -8,7 +8,7 @@ tags: front-end
 lessontype: fe-new
 ---
 
-JavaScript is a powerful programming language. You can use it to do all kinds of cool things.
+JavaScript is a powerful programming language. It can build entire sites, from back-end to front-end. Today, we're going to learn how to use JavaScript to manipulate the DOM - that is, to interact with the HTML and CSS that is displayed on the screen.
 
 JavaScript can use CSS selectors to find elements on the page and then interact with them. If HTML is the structure and CSS is the style, you can think of JavaScript as the stuff that makes the user experience come alive.
 
@@ -26,16 +26,14 @@ Let's take a look at the example below:
 The following things are happening in the example above:
 
 - We're querying for a button element.
-- We're adding an "event listener" to that element.
-- We're listening for a user's mouse click.
-- We're providing a function. You can think of a function as a package of code to be executed.
+- We're adding an "event listener" to that element, which requires two pieces of information:
+  - We're listening for a user's mouse click.
+  - We're providing a function. You'll notice that we're not _running_ the function - instead, we're just defining it. The event listener will run the function when it detects the mouse click!
 - The function contains code that, when a user clicks, will:
   - Find the first html element with the tag `h1`
-  - Change the text in the h1 to 'Puppies are awesome.'
+  - Change the text in the h1 to 'This is the NEW text using element names.'
 
-Now, whenever a user clicks on that button. The browser will run the function we provided to the event listener.
-
-
+Now, whenever a user first clicks on that button, the browser will run the function we provided to the event listener.
 
 <div class="try-it">
 <h2>Try It: Changing the Text</h2>
@@ -86,4 +84,3 @@ In this example, we're doing the following:
 
 <p>Spicy: Add a heading at the very top of your page that says, "Welcome, guest!" and give it the ID of "welcome". Add an input box for a visitor to enter their name with the ID of "name". Add a button with the ID of "submit" and the button text of "Change Name".</p>
 </div>
-
