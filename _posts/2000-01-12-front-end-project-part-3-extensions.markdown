@@ -2,7 +2,7 @@
 title: Rock Paper Scissors Project Extensions
 layout: post
 date: 2000-01-12
-permalink: vending-machine-project-part-3
+permalink: rock-paper-scissors-project-part-3
 program: front-end
 tags: front-end
 lessontype: fe-new

@@ -2,7 +2,7 @@
 title: Rock Paper Scissors Project, Part 1
 layout: post
 date: 2000-01-10
-permalink: vending-machine-project-part-1
+permalink: rock-paper-scissors-project-part-1
 program: front-end
 tags: front-end
 lessontype: fe-new
