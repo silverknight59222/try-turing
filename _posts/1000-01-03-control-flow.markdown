@@ -77,11 +77,12 @@ igdfhsij
 Are you done?
 yes
 Goodbye!</pre>
-If you're having trouble getting started, check out the code snippet below.
+If you're having trouble getting started, check out the code snippet below. We'll end up refactoring this version, but it's a good way to start. 
 </div>
 
 ```ruby
-input = ""
+puts "Are you done?"
+input = gets.chomp
 
 while input != "yes"
   # write your code here

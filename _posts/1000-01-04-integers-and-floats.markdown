@@ -53,25 +53,6 @@ Just like in middle school math class, we can use comparison operators to compar
 3 != 6
 ```
 
-Or with variables:
-
-```ruby
-child_1 = 10
-child_2 = 15
-
-child_1 > child_2
-```
-
-Value comparison doesn't just apply to numbers. We can compare the equality of strings as well:
-
-```ruby
-message = "hello, world!"
-input   = "hello world!"
-
-message == input
-message != input
-```
-
 <div class="try-it">
 <h2>Try It: Guess the Number</h2>
 
