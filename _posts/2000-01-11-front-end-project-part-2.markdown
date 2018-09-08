@@ -1,63 +1,40 @@
 ---
-title: Vending Machine Project, Part 2
+title: Rock Paper Scissors Project, Part 2
 layout: post
 date: 2000-01-11
-permalink: vending-machine-project-part-2
+permalink: rock-paper-scissors-project-part-2
 program: front-end
 tags: front-end
 lessontype: fe-new
 ---
 
-Now that we have a vending machine HTML and CSS set up, let's use JavaScript to make the machine interactive.
-
 ## Our Functionality!
 
-At the top of our Vending Machine, we have an input field and a button to buy a snack.
+On the screen, we have a title, some text that will display the player's and opponent's scores, a box where our game results will be displayed, and some buttons so the player can pick their shot.
 
-![Where to Input Information](/images/machine-input.png)
+![What our game looks like](/images/RPS.png)
 
-Using JavaScript, we want to tell the computer that when the user clicks this button, we want to take the text they wrote in the input and either buy a snack with a matching ID or let them know we don't have a snack with that name. Let's go!
+Using JavaScript, we want to tell the computer that when the user clicks each button, we want to compare that to a randomly generated opponent guess, and we want to display the results of the match. Let's go!
 
-## Adding an Event Listener
+## Adding Event Listeners
 
 <div class="try-it">
-  <h2>Try it: Adding an Event Listener</h2>
+  <h2>Try it: Adding Event Listeners</h2>
 
   <p>Before we get super fancy and complicated, let's start with a basic alert. Can we get some type of confirmation that the user clicked a button?</p>
-  
-  <p>Looking back at what we did with in Event Section, go ahead and find the Buy Snacks button and cause an 'alert' to pop up that says 'button clicked!'.</p>
+
+  <p>Looking back at what we did with in Event Section, go ahead and add an event listener to the Paper button that, when the button is clicked, triggers an alert that reads "Paper button clicked!".</p>
+
+  <p>Once you get the alert working, refactor the event listener to run the provided <code>setPlayerShot()</code> function, being sure to pass in an all-caps string that matches the button being clicked. If you need guidance, the event listener for the Rock button is already in the code for you!</p>
 </div>
 
-[Take a Peek at this CodePen if you Get Lost](https://codepen.io/rachelwarbelow/pen/EXprvL)
+## Displaying the Results of the Match
 
-## Getting User Input
+Take a look at the functions named `win`, `lose`, and `draw`. What do you think is happening?
 
-Right now, we have a text input box that says "Type name of the snack you want". 
+Starting with `draw`, this might be a little familiar from earlier in the day. We're updating some of our page text with a new message.
 
-Let's make our alert say 'Enjoy your twix' or 'Enjoy your chips' based on whatever the user typed in!
-
-You can get the value of an input field by finding it on the page and asking it for it's value... How easy is that?
-
-```js
-  var userInput = document.getElementById('snack-input');
-  userInput.value;
-```
-
-This `userInput.value` now contains whatever the user typed in.  
-
-<div class="try-it">
-  <h2>Try it: Getting User Input</h2>
-  
-  <p>Change the alert so that it says 'Enjoy your '... and then whatever was entered in the input field!</p>
-</div>
-
-[Take a Peek at this CodePen if you Get Lost](https://codepen.io/rachelwarbelow/pen/wexNPG)
-
-## Confirmation Message
-
-Instead of making an annoying alert pop up, can we make a message appear on the vending machine instead? 
-
-Remember we can replace the text of any html node by using `someElement.innerText = 'New Content'`. As a reminder, here's how we did that earlier when we replaced a heading with user input:
+Remember: we can replace the text of any html node by using `someElement.innerText = 'New Content'`. As a reminder, here's how we did that earlier when we replaced a heading with user input:
 
 ```js
 var changeButton = document.querySelector('#change-me');
@@ -69,114 +46,60 @@ changeButton.addEventListener('click', function() {
 });
 ```
 
-<div class="try-it">
-  <h2>Try it: Vending Machine Confirmation Message</h2>
-  
-  <p>Use the structure of the code above to replace the 'Buy Snacks!' message on the Vending Machine with 'Enjoy your '... whenever the user clicks Buy My Snack. </p>
-</div>
-
-[Take a Peek at this CodePen if you Get Lost](https://codepen.io/rachelwarbelow/pen/wexNPG)
+The `win` and `lose` functions also increment either the player or the opponent's score up. The `++` is shorthand in JavaScript that tells the code to add 1 to the existing number.
 
 ## Control Flow
 
-No matter what the user enters, our vending machine tells them to enjoy it! That's confusing! What if the user enters an empty string? What if the user tries to buy a burrito but we don't have one in stock?
+No matter what button the user clicks, our game doesn't tell us what happened or keep track of our score!
 
-Our vending machine should look for a snack with an id that matches the input. 
+We need to write a function that handles the different possible outcomes. When you play Rock Paper Scissors, what are the rules? Take a few minutes to write down all the possible plays with your partner.
 
-In JavaScript, we can use something like `document.getElementById()` to search the page for anything with a matching id.
+If only there was some way for our code to detect the outcome of our match and to fire one of our `win`, `lose`, or `draw` functions for us ....
 
-```js
-  var happy = document.getElementById('happy');
-
-  var logo = document.getElementById('logo');
-```
-
-If we find a snack that matches the user input, we should tell the user to enjoy it - else we should let the user know we don't have the treat....
-
-Hrm... `if`... `else`...
-
-That sounds familiar...
+Oh wait! Remember this?
 
 ```
 if(){
-  
+
 } else {
-  
+
 }
 ```
 
-We can use an if/else statement in Javascript like this: 
+We can use an if/else statement in Javascript like in this example:
 
 ```js
 var count = 2
 
 if(count < 2){
-  
+  // do the code that's in between these curly brackets if the count is less than 2
 } else {
-  
+  // do the code that's in between these curly brackets if the count is NOT less than 2
 }
 ```
 
-The statement `1 < 2` returns true or false... You can also give the if statement query selector. If that query selector 'exists', it is true or truthy. If you don't find anything for the query selector, it's false.
-
-```js
-
-if(document.getElementById('logo')){
-  // this code will run if the logo is there
-} else {
-  // this code will run if the logo isn't there
-}
-
-```
+The statement `1 < 2` returns a boolean (aka `true` or `false`).
 
 <div class="try-it">
   <h2>Try it: Control Flow!</h2>
-  
-  <p>Using control flow, have the vending machine respond with 'Enjoy your '... if you find a snack with a matching id on the page. If you don't find a snack, respond with 'Sorry! I am out of that!' </p>
 
-  <p>Can you add an `else if` statement to your process that checks to see if input was an empty string and respond differently to that? </p>
+  <p>Using control flow, have the game compare the opponentShot and the playerShot to determine if the player won, lost, or if there was a draw. You will call one of those functions inside the curly braces.</p>
 
-  <p>Can you think of other things that value could be that you might want to respond to in funny/interesting ways?</p>
+  <p>Can you add an `else if` statement to your process that checks different possibilities?</p>
 </div>
 
-[Take a Peek at this CodePen if you Get Lost](https://codepen.io/rachelwarbelow/pen/bRjzxB)
-
-## Selling the Treat!
-
-At the bottom of our vending machine, we have an element named 'snack-purchases' where our item should go!
-
-If we want to move an HTML element, we can use a method called `.appendChild`.
-
-For example, imagine you had a div with the ID `photos` and you wanted to move an image with the ID of `cat` into that div. This is how you would do that.
-
-```js
-
-var photoBox = document.getElementById('photos');
-
-var catPhoto = document.getElementById('cat');
-
-photoBox.appendChild(catPhoto)
-```
-
-<div class="try-it">
-  <h2>Try it: Moving Your Purchased Snack</h2>
-  
-  <p>In your if... else statment, if you found a snack, use appendChild to drop it in the purchases!</p>
-</div>
-
-[Take a Peek at this CodePen if you Get Lost](https://codepen.io/rachelwarbelow/pen/xrJMQm)
-
+[Take a Peek at this CodePen if you Get Lost](https://codepen.io/letak/pen/OZdLZb)
 
 ### Conclusion
 
-The experience that a user has on a website is often refered to as UX or User Experience, and the interface that they use is often called a UI.
+The experience that a user has on a website is often referred to as UX (User Experience), and the interface that they use (everything you can see on the screen) is often called a UI.
 
 It takes a surprising amount of thought and code to make a very simple UI or User Interface that is pleasant and easy to use.
 
-Doing things like adding confirmation messages help the user understand what's going on - but you have to be careful that your messages are accurate or things get confusing quickly.
+What other features or UI elements could you add that would make the game easier to understand or more exciting to play?
 
-Does your vending machine behave the way you expect a vending machine to behave?
+Does your game behave the way you expect a Rock Paper Scissors game to behave? What's missing? What is there that shouldn't be there?
 
-How easy is your vending machine to use? How could you make it easier?
+How easy is it to figure out how to use the game? How could you make it easier?
 
-Want a challenge? Head over to <a href="/vending-machine-project-part-3" title="">Vending Machine: Extensions</a> for more!
+Want a challenge? Head over to <a href="/vending-machine-project-part-3" title="">Rock Paper Scissors: Extensions</a> for more!
