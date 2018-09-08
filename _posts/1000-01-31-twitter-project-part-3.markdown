@@ -51,3 +51,39 @@ Next, use <a href="https://github.com/sferik/twitter#streaming">the Twitter gem 
   With the livestreaming of tweets, use an if/else branch to colorize certain tweets. Use the <a href="https://github.com/fazibear/colorize">Colorize gem</a> in your program. You may choose to colorize based on tweet length, tweet contents, etc. Be creative!
 </p>
 </div>
+
+
+## OPTIONAL: Registering your own keys and tokens
+
+Log in to your Twitter account, then visit [https://apps.twitter.com/app/new](https://apps.twitter.com/app/new). Enter the following information:
+
+* Name: [insertyourusername]-twitterbot
+* Description: Learning how to use the Ruby Twitter gem
+* Website: http://example.com
+* Callback URL: [leave blank]
+
+Then click "Create your Twitter application".
+
+Next, click on the tab "Keys and Access Tokens". There are two important codes in here:
+
+* Consumer Key (API Key)
+* Consumer Secret (API Secret)
+
+We'll also need to generate an access token. Scroll to the bottom of the same page and click "Create my access token". You'll get two more important codes:
+
+* Access Token
+* Access Token Secret
+
+Paste these four keys and tokens into your program file. It should look something like this now (these are fake keys, so they won't work if you try to use them):
+
+```ruby
+require 'twitter'
+
+client = Twitter::REST::Client.new do |config|
+  config.consumer_key        = "UCZw4n5yZW4EnvbT3co9OPa4b"
+  config.consumer_secret     = "rPCzneF3DnRd8OWE90jWLjTCfCTStTnGrvkfnRtfEEVE3FWL4K"
+  config.access_token        = "710164541207398534-S6EkJrplVKgsuMtBfIcZcPTxGeINwMx"
+  config.access_token_secret = "c42YsBf1EdDt7hv1xYnZ0knhckzbiLLatKHMBuLXTgyP3"
+end
+```
+
