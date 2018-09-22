@@ -37,7 +37,7 @@ end
 
 <p>Write a program that asks a user for a piece of text. It should say "even" if the number of characters in the text is even, and "odd" if the number of characters in the text is odd. In parentheses, put the number of letters for that word.</p>
 
-<p>Hint: there is a method .even? that returns a true/false value for integers.</p>
+<p>Need help? Check out <a href="https://riptutorial.com/ruby/example/16995/even-and-odd-numbers" title="">this article</a>.</p>
 
 <pre>Enter a piece of text:
 Turing
