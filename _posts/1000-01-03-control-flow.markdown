@@ -55,7 +55,7 @@ In code, that might look like this:
 ```ruby
 stomach = 0
 
-while stomach < 10
+until stomach == 10
   puts "keep eating!"
   stomach += 1
 end
@@ -84,7 +84,7 @@ If you're having trouble getting started, check out the code snippet below. We'l
 puts "Are you done?"
 input = gets.chomp
 
-while input != "yes"
+until input == "yes"
   # write your code here
 end
 ```
