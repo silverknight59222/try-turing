@@ -7,7 +7,7 @@ program: remote
 tags: remote
 ---
 
-There are different kinds of errors that can occur when we run our Ruby programs. Let's force an error. Make a new file called `errors.rb`. Inside, put:
+There are different kinds of errors that can occur when we run our Ruby programs. Let's force an error. 
 
 ```ruby
 puts "hello".uppercase
@@ -25,11 +25,10 @@ Take time to read each Error. They often tell you how to fix the issue. Even if 
 <div class="try-it">
 <h2>Try it: Reading Error Messages</h2>
 
-<p>Try out the following lines of code, one at a time. Can you read the error message to figure out what the problem is?</p>
+<p>I'll type each of these lines one at a time into the text editor and run them separately. Can you read the error message to figure out what the problem is?</p>
 
 <p>puts hello</p>
 <p>puts "hello</p>
-<p>puts "hello "world"</p>
 <p>puts "hello" + 5</p>
 <p>put "hello"</p>
 </div>

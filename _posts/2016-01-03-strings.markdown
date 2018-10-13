@@ -45,7 +45,11 @@ puts "**** this is another string ****"
 Denver, CO
 ---------------
 rachel@turing.io</pre>
+
+When you're done, type done into the chat box of the Zoom meeting. 
+
 </div>
+
 
 ## Assigning Strings to Variables
 
@@ -100,7 +104,11 @@ dog.bark
 
 This is called "dot notation" and the terminology is "call the bark method on dog".
 
-Strings also have methods. Here are some common ones:
+Strings also have methods. Below are some common ones that we'll try out in `irb`. To enter `irb`, type `irb` into your command line:
+
+```bash
+rwarbelow:~/workspace $ irb
+```
 
 ```ruby
 message = "Hello, World!"
@@ -115,6 +123,13 @@ puts message.length
 puts message.swapcase
 puts message.empty? 
 ```
+
+To exit `irb`, type this:
+
+```bash
+2.4.0 :001 > exit
+```
+
 
 <div class="try-it">
 <h2>Try it: Using String Methods</h2>

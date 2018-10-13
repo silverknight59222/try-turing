@@ -9,9 +9,9 @@ tags: back-end
 
 In a broad sense, back-end programming is concerned with managing ​*data*​. If we think about our favorite software products, what generally makes them special and useful to us is their ability to do **dynamic** things. Many of us may have had our first interaction with programming by making a simple HTML document -- perhaps an `index.html` file that we put on a personal website we were hosting. This is fun as far as it goes, but the capability of a plain HTML document is fairly limited. Sure it can display the stuff we write into it, but we'd like it to be able to ​*do*​ things -- to record things we tell it, store them for us, maybe play them back in different and interesting formats.
 
-Consider a popular website like Twitter. When we view a Twitter profile, what are the parts we actually care about? Why did we come here in the first place?
+Consider a popular website like Amazon. When we view an Amazon page, what are the parts we actually care about? Why did we come here in the first place?
 
-![INSERT IMAGE LINK HERE](/images/taylor_swift.png)
+![INSERT IMAGE LINK HERE](/images/amazon.png)
 
 Modern software, and web software especially, is driven by content -- without the content, most of it wouldn't be worth bothering with. And all of that content has to live somewhere. It needs to be stored, retrieved, manipulated, formatted, etc etc. When we talk about "back-end" programming, we're often thinking of the programming tasks involved in making this possible:
 

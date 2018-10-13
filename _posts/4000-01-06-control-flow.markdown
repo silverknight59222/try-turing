@@ -19,6 +19,9 @@ else
 end
 ```
 
+
+Now let's try this one: 
+
 ```ruby
 puts "What is the best type of cookie: "
 cookie_type = gets.chomp
@@ -43,9 +46,23 @@ Only the branch of the if/elsif that returns true will actually be run.
 
 <p>A vicious dragon is chasing you!</p> 
 
-<p>Write a program that gives the user some options for what they could do. The user should choose an option based on a number. For example, if they want the first option, they would type 1. Then, based on what the user types in, print out a statement to tell the user what happened based on their choice.</p>
+<p>Write a program that gives the user some options for what they could do. The user should choose an option based on a keyword. For example, if they want to run, they would type "run" (etc.). Then, based on what the user types in, print out a statement to tell the user what happened based on their choice.</p>
+
+If you're having trouble getting started, check out the code snippet below.
 </div>
 
+```ruby
+puts "A vicious dragon is chasing you! Your options are to run or hide. Which one do you choose?"
+user_choice = ________
+
+if ________
+
+elsif ________
+
+else
+
+end
+```
 <br>
 
 <div class="try-it">
@@ -61,8 +78,8 @@ Coding
 Even!</pre>
 
 <pre>Enter a piece of text:
-Coding
-Even! 6</pre>
+Hello
+Odd!</pre>
 Try running your program a few times with different inputs.
 </div>
 
@@ -88,24 +105,8 @@ puts "done eating."
 <div class="try-it">
 <h2>Try it: Looping</h2>
 
-<p>Write a program that asks a user if they are done. The user can enter anything, but if they enter "yes", then the loop should stop and the program should print out "Goodbye!"</p>
+<p>Write a program that simulates a car's gas tank. Assume the tank starts at 12 gallons. Each iteration of the loop, print out "Keep driving!" and subtract one gallon from the tank. When the tank is empty, print "You're out of gas!"</p>
 
-<pre>Are you done?
-No
-Are you done?
-Pizza
-Are you done?
-igdfhsij
-Are you done?
-yes
-Goodbye!</pre>
-If you're having trouble getting started, check out the code snippet below.
+<p>Feeling up for a challenge? Add an if statement so that "Gas tank low" gets printed out when it drops below 3 gallons.</p>
 </div>
 
-```ruby
-input = ""
-
-until input == "yes"
-  # write your code here
-end
-```

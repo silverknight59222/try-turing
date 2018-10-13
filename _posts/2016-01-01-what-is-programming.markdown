@@ -51,3 +51,10 @@ tags: remote
   <li>Databases: PostgreSQL, MySQL, MongoDB, etc.</li>
   <li>Hosting: Digital Ocean, Heroku</li>
 </ul>
+
+
+## What are we doing today?
+
+- We'll start by looking at a basic data type in Ruby: strings
+- We'll disect error messages in Ruby
+- We'll figure out how to take in and manipulate user input using if statements and loops
