@@ -48,7 +48,7 @@ Only the branch of the if/elsif that returns true will actually be run.
 
 <p>Write a program that gives the user some options for what they could do. The user should choose an option based on a keyword. For example, if they want to run, they would type "run" (etc.). Then, based on what the user types in, print out a statement to tell the user what happened based on their choice.</p>
 
-If you're having trouble getting started, check out the code snippet below.
+If you're having trouble getting started, check out the code snippet below. When you're done, type done into the chat box of the Zoom meeting. 
 </div>
 
 ```ruby
@@ -106,7 +106,8 @@ puts "done eating."
 <h2>Try it: Looping</h2>
 
 <p>Write a program that simulates a car's gas tank. Assume the tank starts at 12 gallons. Each iteration of the loop, print out "Keep driving!" and subtract one gallon from the tank. When the tank is empty, print "You're out of gas!"</p>
-
+When you're done, type done into the chat box of the Zoom meeting. 
+<br><br>
 <p>Feeling up for a challenge? Add an if statement so that "Gas tank low" gets printed out when it drops below 3 gallons.</p>
 </div>
 

@@ -22,4 +22,6 @@ puts "Nice to meet you, #{username}."
 
 <pre>Your name is Rachel and your location is Denver, CO. Your email address is rachel@turing.io.</pre>
 Try running your program a few times with different inputs.
+<br><br>
+When you're done, type done into the chat box of the Zoom meeting. 
 </div>

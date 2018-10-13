@@ -92,6 +92,8 @@ puts "#{first_name} lives at #{location}. Her email address is #{email}."
 
 <pre>fluffy plays with stuffed mice after eating tuna fish.</pre>
 Run your program a few times with different values for each variable to make sure it works.
+<br><br>
+When you're done, type done into the chat box of the Zoom meeting. 
 </div>
 
 ## String Methods
@@ -138,4 +140,6 @@ To exit `irb`, type this:
 
 <pre>Fluffy plays with STUFFED MICE after eating hsif anut.</pre>
 Run your program a few times with different values for each variable to make sure it works.
+<br><br>
+When you're done, type done into the chat box of the Zoom meeting. 
 </div>
