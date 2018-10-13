@@ -1,0 +1,35 @@
+---
+title: Errors
+layout: post
+date: 2016-01-01
+permalink: remote-errors
+program: remote
+tags: remote
+---
+
+There are different kinds of errors that can occur when we run our Ruby programs. Let's force an error. Make a new file called `errors.rb`. Inside, put:
+
+```ruby
+puts "hello".uppercase
+```
+
+```
+errors.rb:1:in `<main>': undefined method `uppercase' for "hello":String (NoMethodError)
+```
+
+Let's parse through this error to figure out what it's saying. 
+
+Take time to read each Error. They often tell you how to fix the issue. Even if you don't understand them right away, they can be a great starting point when searching for help online.
+
+
+<div class="try-it">
+<h2>Try it: Reading Error Messages</h2>
+
+<p>Try out the following lines of code, one at a time. Can you read the error message to figure out what the problem is?</p>
+
+<p>puts hello</p>
+<p>puts "hello</p>
+<p>puts "hello "world"</p>
+<p>puts "hello" + 5</p>
+<p>put "hello"</p>
+</div>
