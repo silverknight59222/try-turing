@@ -157,5 +157,5 @@ Let's take a minute to talk about what is happening with `.split(', ')`.
 
 <p>You may use this list: Jimmy, Giselle, Emanuel, Ruben, Alexis, Christina, Maria, Victor</p>
 
-<p>Want an extra challege? Add code that allows a user to click a button to be prompted for the names. Look back at the example if you're stuck.</p>
+<p>Want an extra challenge? Add code that allows a user to click a button to be prompted for the names. Look back at the example if you're stuck.</p>
 </div>
