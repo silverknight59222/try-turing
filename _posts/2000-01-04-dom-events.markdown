@@ -3,9 +3,9 @@ title: Events
 layout: post
 date: 2000-01-04
 permalink: dom-events
-program: front-end
+<!-- program: front-end
 tags: front-end
-lessontype: fe-new
+lessontype: fe-new -->
 ---
 
 JavaScript is a powerful programming language. It can build entire sites, from back-end to front-end. Today, we're going to learn how to use JavaScript to manipulate the DOM - that is, to interact with the HTML and CSS that is displayed on the screen.

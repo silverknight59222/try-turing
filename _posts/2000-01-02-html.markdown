@@ -41,15 +41,27 @@ Here is an example of a slightly more robust document:
 ```
 
 <div class="try-it">
-<h2>Try It: Building a Personal Webpage</h2>
+<h2>Try It: Ghost Intro</h2>
 
-<p> Open your Codepen account and create a new pen. </p>
+<p>Over the course of today, we'll be creating a Halloween-themed site where a little wiggly ghost lives.</p>
 
-<p>Use what you know about headings and paragraph tags to create a very simple website with your name, a brief bio, and your contact information. For the sake of our later exercises, make sure it has at least three headings and three paragraphs.</p>
+<p>First, make a heading (h1-h6, your choice) that says "Happy Halloween!"</p>
+
+<p>Then, make a paragraph element (p) that welcomes guests and introduces your ghost. What does your ghost like to do in its free time? What is your ghost's favorite Netflix show?</p>
+
 <p>What you create right now is the start of a sandbox/playground where we will try out different styles and behaviors.</p>
 </div>
 
-### Lists
+<!-- <div class="try-it">
+<h2>Try It: Building a Personal Webpage</h2>
+
+<p> Open your Codepen account and create a new pen.</p>
+
+<p>Use what you know about headings and paragraph tags to create a very simple website with your name, a brief bio, and your contact information. For the sake of our later exercises, make sure it has at least three headings and three paragraphs.</p>
+<p>What you create right now is the start of a sandbox/playground where we will try out different styles and behaviors.</p>
+</div> -->
+
+<!-- ### Lists
 
 To make a list in HTML, we use a combination of two elements.
 
@@ -77,7 +89,7 @@ Ordered List:
 <h2>Try It: Lists</h2>
 
 <p>Add a list of favorites to your page. Experiment with both unordered lists and ordered lists.</p>
-</div>
+</div> -->
 
 ### Images and Attributes
 
@@ -99,10 +111,16 @@ Our browser is more than happy to load up an image, but it'd be helpful if we to
 
 We also add the `alt` attribute contains text that identifies the image to a screen reader. The alt text is displayed if the picture can't be displayed for some reason. It helps all users, not just those using screen readers!
 
-<div class="try-it">
+<!-- <div class="try-it">
 <h2>Try It: Adding Images</h2>
 
-<p>Let's update our page from earlier with one or more images.</p>
+<p>Let's update our page from earlier with one or more images. You can get Creative Commons images from pexels.com.</p>
+</div> -->
+
+<div class="try-it">
+<h2>Try It: Adding Jack-o-Lantern Images</h2>
+
+<p>You might not know this, but ghosts always pack their houses with pumpkins. Go find a few pumpkin images and add them to your page. You can get Creative Commons images from pexels.com.</p>
 </div>
 
 ### Links
@@ -120,9 +138,16 @@ For example:
 <div class="try-it">
 <h2>Try It: Adding Links</h2>
 
+<p>What are some of your ghost's favorite websites? Go ahead and create a few links to those sites.</p>
+<p>Want a challenge? Make your pumpkin images into links.</p>
+</div>
+
+<!-- <div class="try-it">
+<h2>Try It: Adding Links</h2>
+
 <p>Add a few links to your HTML.</p>
 <p>Want a challenge? Add your links INSIDE of a list.</p>
-</div>
+</div> -->
 
 ### Inputs and Buttons
 
@@ -142,13 +167,14 @@ Here's an example of an input tag with placeholder text and a button:
 <button>Click me!</button>
 ```
 
-We'll be able to use JavaScript to target and interact with these elements soon!
-
 <div class="try-it">
-<h2>Try It: Adding Email List Sign Up</h2>
+<h2>Try It: Adding Buttons and Inputs</h2>
 
-<p>Although we can't make this functional, add an input and a button that mimics signing up for a newsletter.</p>
+<p>Create one button that has the text "Disappear" on it. It will be a non-functional button for now.</p>
+<p>Create one text input that has the placeholder text "rename the ghost". We'll use this later.</p>
 </div>
+
+We'll be able to use JavaScript to target and interact with these elements soon!
 
 ### Block Elements: Structuring a Website
 
@@ -156,7 +182,7 @@ The way that we structure a website matters for the people who use it!
 
 `<div></div>`
 
-The `div` tag is a way you can put related content together into one HTML 'block'.
+You can think of the `div` tag as a container element. You can put related content together into one HTML 'block'.
 
 Block elements denote a big section — let’s call it a “block” — of our page. A `div` is like the flavorless Jello of HTML block tags: it don’t have any meaning in and of itself and doesn't come with any built-in styling from the browser.
 

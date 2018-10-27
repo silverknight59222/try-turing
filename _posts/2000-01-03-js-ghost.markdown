@@ -1,0 +1,84 @@
+---
+title: JavaScript Ghost
+layout: post
+date: 2000-01-03
+permalink: javascript-ghost
+program: front-end
+tags: front-end
+lessontype: fe-new
+---
+
+JavaScript is a language that allows us to interact with a webpage. With JavaScript, we can create logic, just as we can in Ruby. JavaScript lets us declare variables, functions, and more.
+
+Before we start building anything too exciting, let's look at some basic data types and concepts of JavaScript.
+
+#### Variables 
+
+```js
+var numberOfStudents = 8;
+var name = 'Rachel';
+```
+
+#### Strings and String Literals
+
+```js
+var name = 'Rachel`;
+`Welcome, ${name}!`
+```
+
+<div class="try-it">
+<h2>Try It: Combining Variables and Strings</h2>
+
+<p>Define a variable called numberOfCookies and give it a value of 7. Now, make a string literal that combines the variable with two strings to output "You have 7 cookies left."</p>
+</div>  
+
+### Disappear Buttton
+
+The real power of using JavaScript to change pages emerges when we start listening for user events.
+
+This is the crux of front-end engineering. We present a user interface and then as the user interacts with the UI, we change and update what he or she sees.
+
+<p data-height="276" data-theme-id="0" data-slug-hash="oaVwrQ" data-default-tab="js,result" data-user="rwarbelow" data-pen-title="Disappear Button" class="codepen">See the Pen <a href="https://codepen.io/rwarbelow/pen/oaVwrQ/">Disappear Button</a> by Rachel Warbelow (<a href="https://codepen.io/rwarbelow">@rwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+<div class="try-it">
+<h2>Try It: Making the Ghost Disappear</h2>
+
+<p>Copy over the JavaScript from the example above. Add an ID to your HTML button and define styles for hidden in your CSS. Finally, modify anything in your JavaScript that needs to be changed in order to make your ghost disappear at the click of a button.</p>
+</div>  
+
+### Changing Colors with the Mouse
+
+Look at the example below and notice how it uses the `mouseenter` as the event to listen for instead of `click`. It also only uses one div element instead of a button and an h1 element like the previous example. 
+
+<p data-height="257" data-theme-id="0" data-slug-hash="WamEQo" data-default-tab="js,result" data-user="rwarbelow" data-pen-title="Color Change" class="codepen">See the Pen <a href="https://codepen.io/rwarbelow/pen/WamEQo/">Color Change</a> by Rachel Warbelow (<a href="https://codepen.io/rwarbelow">@rwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+You can check out other JavaScript events [here](https://developer.mozilla.org/en-US/docs/Web/Events). 
+
+<div class="try-it">
+<h2>Try It: Red Eyeball</h2>
+
+<p>Copy over the JavaScript from the example and paste it below your other JS code. Modify whatever needs to be changed in order to make the left eyeball of the ghost a different color when the mouse enters that element.</p>
+</div>  
+
+#### Spicy Version
+
+If you want a challenge, take a look at the example here and make it so that both eyeballs are able to change color on a mouseenter event. 
+
+<p data-height="266" data-theme-id="0" data-slug-hash="ZqPJOv" data-default-tab="js,result" data-user="rwarbelow" data-pen-title="Color Change - Advanced" class="codepen">See the Pen <a href="https://codepen.io/rwarbelow/pen/ZqPJOv/">Color Change - Advanced</a> by Rachel Warbelow (<a href="https://codepen.io/rwarbelow">@rwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+
+### User Input
+
+Play with the example below and try to trace what is happening. 
+
+<p data-height="277" data-theme-id="0" data-slug-hash="dgrzWB" data-default-tab="js,result" data-user="rwarbelow" data-pen-title="User Input" class="codepen">See the Pen <a href="https://codepen.io/rwarbelow/pen/dgrzWB/">User Input</a> by Rachel Warbelow (<a href="https://codepen.io/rwarbelow">@rwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+<div class="try-it">
+<h2>Try It: Customizing the Ghost's Name</h2>
+
+<p>Copy over the JavaScript from the example and paste it below your other JS code. Change the JS so that your heading says "Welcome to [user text]'s Ghost House!" when the user clicks submit.</p>
+</div>  

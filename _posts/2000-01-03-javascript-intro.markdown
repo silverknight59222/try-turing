@@ -3,9 +3,9 @@ title: JavaScript Introduction
 layout: post
 date: 2000-01-03
 permalink: javascript-intro
-program: front-end
+<!-- program: front-end
 tags: front-end
-lessontype: fe-new
+lessontype: fe-new -->
 ---
 
 JavaScript is a language that allows us to interact with a webpage. With JavaScript, we can create logic, just as we can in Ruby. JavaScript lets us declare variables, functions, and more.

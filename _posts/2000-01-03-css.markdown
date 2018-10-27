@@ -24,7 +24,7 @@ In CSS, we right a bunch of rules for how our document should look. The browser 
 
 In the example above, the browser will set the color of any `<strong>` text elements to red. We can define multiple sets of properties and values in a given rule.
 
-<div class="try-it">
+<!-- <div class="try-it">
 <h2>Try It: Adding Color</h2>
 
 <p>On your personal page, can you set the color of all of the h1 tags to red and the p tags to blue?</p>
@@ -43,9 +43,31 @@ In the example above, the browser will set the color of any `<strong>` text elem
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size">font-size</a></li>
 
 There are a lot of colors out there! Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a>
+</div> -->
+
+<div class="try-it">
+<h2>Try It: Adding Color</h2>
+
+<p>First, let's style the body of our page to have a background-color of orange.</p>
+
+<p>Give your heading a new color and new font-size.</p>
+
+<p>Next, look into any of the following attributes and choose a few to play around with on your images.</p>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border">border</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-color">background-color</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow">box-shadow</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity">opacity</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width">width</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height">height</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin">margin</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding">padding</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size">font-size</a></li>
+
+There are a lot of colors out there! Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a>
 </div>
 
-### Psuedo-selectors
+<!-- ### Psuedo-selectors
 
 Styling elements is pretty neat, but our elements can be in different states depending on what the user is doing on page. Not only can we style an element with CSS, we can always define specific rules for when a user is hovering or actively clicking on an element.
 
@@ -61,19 +83,20 @@ a:hover {
 <h2>Try It: Pseudo Selectors</h2>
 
 <p>Style some of the elements on your personal page using the `:hover` pseudo-selectors. For example, you might try changing the color of your paragraph element font when a user hovers.</p>
-</div>
+</div> -->
 
-#### Classes & IDs
+### Classes & IDs
 
 Right now, we know how to style _all_ of the paragraphs or _all_ of the links on a page. But what if we only wanted to style a particular one?
 
 As it turns out, we can set a `class` attribute on an HTML element. The `class` attribute takes one or more words, separated by spaces. Typically we use classes to describe what kind of element we're creating. For example, we might create a `<p>` element with the `class` of `"sidebar"` to denote that this is a particular kind of section on the page. We might also use classes to describe the kind of content inside of the element.
 
+When we add classes, we make one change in the HTML and one change in the CSS:
+
 ```html
 <h2 class="heading-main">Lorem Ipsum</h2>
 ```
 
-This is all great and wonderful, but how do we style these specific elements? Easy! We just prefix our selector with a `.` - a dot!.
 
 ```css
 .heading-main {
@@ -88,13 +111,11 @@ The `id` attribute acts similarly to the `class` attribute with the exception of
 - An `id` should be unique - there should only ever be _one_ of that ID on a page.
 - You will target an id by using `#` instead of `.` (see example below)
 
-If the HTML looked like this:
+Here's how you would add an ID in the HTML and style it using CSS. 
 
 ```html
 <h2 id="heading-main">Lorem Ipsum</h2>
 ```
-
-then the CSS would target the `<h2>` like this:
 
 ```css
 #heading-main {
@@ -105,12 +126,58 @@ then the CSS would target the `<h2>` like this:
 <div class="try-it">
 <h2>Try It: Adding Classes</h2>
 
-<p>Add a class to just one or two of your paragraphs, then use CSS to add styles for that class. Only those paragraphs should change!</p>
+<p>Add a class to one or more of your pumpkins and style it differently using a class.</p>
 </div>
 
-### Transitions and Transformations
+<!-- <div class="try-it">
+<h2>Try It: Adding Classes</h2>
 
-We can also add a bit of motion to our documents with CSS using the `transform` and `transition` properties.
+<p>Add a class to just one or two of your paragraphs, then use CSS to add styles for that class. Only those paragraphs should change!</p>
+</div> -->
+
+### Building a Basic Ghost
+
+We're ready to start creating our ghost using HTML and CSS! Eventually, he/she/they will look like this:
+
+<img src="/images/ghost-shadow.gif" alt="finished ghost" width="200">
+
+But we've gotta start simple. First, let's create a container div that we can use to contain all of our ghost parts (body, eyeballs, flaps, etc.). We'll give this container a width of 100px. 
+
+```html
+<div class="ghost-container">
+  
+</div>
+```
+
+```css
+.ghost-container {
+  width: 100px;
+}
+```
+
+Now that we have a container, we can add another div inside for the basic ghost body. We will style the height and background color of this inner ghost-body element to look like the picture below:
+
+<img src="/images/ghost-step-one.png" alt="shapeless ghost" width="200">
+
+#### Basic Ghost Shape
+
+Let's use a border-radius to create the head of the ghost. 
+
+<img src="/images/ghost-step-two.png" alt="basic ghost" width="200">
+
+#### Ghost with Basic Flaps
+
+Next, we'll add three more divs to create flaps. Give these flaps the class of "flap". We'll use CSS to experiment with display: inline-block in order to get these divs to line up next to each other. We'll also use a percentage width and negative margins to make sure that the flaps are the same size as the body. NOTE: This part may take some tinkering, [like this]().
+
+<img src="/images/ghost-step-three.png" alt="basic flaps ghost" width="200">
+
+#### Ghost with Curved Flaps
+
+Finally, we'll use the border radius to curve the flaps on the bottom. 
+
+<img src="/images/ghost-step-four.png" alt="curved flaps ghost" width="200">
+
+<!-- ### Transformations
 
 Try this rule on for size:
 
@@ -120,41 +187,36 @@ p {
 }
 ```
 
-Gnarly, right? We have [quite a few transformations at our disposal](https://developer.mozilla.org/en-US/docs/Web/CSS/transform), but we'll cover just a subset today:
+We have [quite a few transformations at our disposal](https://developer.mozilla.org/en-US/docs/Web/CSS/transform), but we'll cover just a subset today:
 
 - Rotation: `transform: rotate(180deg);` will flip the element upside down.
 - Scaling: `transform: scale(3);` will make the element bigger as defined by a vector.
 - Translating (moving): `transform: translate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
 
-Transformations become extra fun when we pair them with transitions. For our purposes, transitions will take two pieces of information:
+<div class="try-it">
+<h2>Try It: Transformations</h2>
 
-- The name of the property we want to transition. (Alternatively, we can use `all` to transition all of the properties.)
-- The duration of the transition. (Basically, we just specify how long the transition will take!)
+<p>Add a transform rule to an element on your page. You can choose to rotate, scale, or transform it.</p>
+</div> -->
 
-Consider the following example:
+### Transformations
 
-<p data-height="265" data-theme-id="0" data-slug-hash="rwqwzZ" data-default-tab="html,result" data-user="rachelwarbelow" data-embed-version="2" data-pen-title="Ipsums: Transitions" class="codepen">See the Pen <a href="https://codepen.io/rachelwarbelow/pen/rwqwzZ/">Ipsums: Transitions</a> by Rachel Warbelow (<a href="https://codepen.io/rachelwarbelow">@rachelwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
-
-Before moving on to the Try It section, add the following to your HTML and CSS:
-
-Try this:
-
-```html
-<div id="red-square"></div>
-```
+Add this line to your .ghost-container:
 
 ```css
-#red-square {
-  height: 50px;
-  width: 50px;
-  background-color: red;
-  transform: rotate(130deg);
+.ghost-container {
+  transform: translate(200px, 50px);
 }
 ```
 
-<div class="try-it">
-<h2>Try It: Transformation Properties</h2>
+We have [quite a few transformations at our disposal](https://developer.mozilla.org/en-US/docs/Web/CSS/transform). For example: 
 
-<p>Use the div from above to create a transition that transitions the color and size of the div upon a mouse hover over a 4 second duration.</p>
-</div>  
+- Rotation: `transform: rotate(180deg);` will flip the element upside down.
+- Scaling: `transform: scale(3);` will make the element bigger as defined by a vector.
+- Translating (moving): `transform: translate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
+
+<div class="try-it">
+<h2>Try It: Jack-o-Lantern Rotation</h2>
+
+<p>Rotate a few of your pumpkin images 20 degrees to the right (20deg) or to the left (-20deg).</p>
+</div>
