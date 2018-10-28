@@ -22,7 +22,7 @@ var name = 'Rachel';
 #### Strings and String Literals
 
 ```js
-var name = 'Rachel`;
+var name = 'Rachel';
 `Welcome, ${name}!`
 ```
 
