@@ -193,8 +193,16 @@ We have [quite a few transformations at our disposal](https://developer.mozilla.
 - Scaling: `transform: scale(3);` will make the element bigger as defined by a vector.
 - Translating (moving): `transform: translate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
 
-<div class="try-it">
-<h2>Try It: Jack-o-Lantern Rotation</h2>
+You can also add more than one transformation. For example:
 
-<p>Rotate a few of your pumpkin images 20 degrees to the right (20deg) or to the left (-20deg).</p>
+```css
+.ghost-container {
+  transform: scale(0.3) rotate(-40deg);
+}
+```
+
+<div class="try-it">
+<h2>Try It: Ghost Transformations</h2>
+
+<p>Add one or more transformation values to your ghost-container and change the values to see how it changes your ghost.</p>
 </div>
