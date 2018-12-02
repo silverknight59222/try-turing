@@ -130,7 +130,7 @@ We write the name of the function and tell it to run by adding in those parenthe
 </div>  
 
 
-### Conditional Statements
+<!-- ### Conditional Statements
 
 Sometimes we want our code to make decisions. One way we can do this is to write a conditional statement.
 
@@ -154,8 +154,8 @@ function askDaisy() {
 ```
 
 We write the word `if` to start our conditional statement. Inside the parentheses is a comparison that will be either true or false (known as a _boolean_). If the code inside the parentheses is true, we do what's inside the first pair of curly brackets. We can write a second half that begins with `else` - the code here will run if the code in the parentheses is false.
-
-<div class="try-it">
+ -->
+<!-- <div class="try-it">
 <h2>Try It: Write a conditional statement!</h2>
 
 <p>Create a variable called name, with a value of a string of your name.</p>
@@ -163,4 +163,4 @@ We write the word `if` to start our conditional statement. Inside the parenthese
 <p>Write a function called whoIsTheCoolest, with a conditional statement inside. The condition should check to see if the name variable matches a string of your name. If it does, write an alert that says "Yeah! [Your name] is the coolest!". Write an else: if the variable is any other string, write an alert that says "Wrong! [Your name] is the coolest!"</p>
 
 <p>Run the function. Try changing the name variable to a new value and run the function again.</p>
-</div>  
+</div>   -->

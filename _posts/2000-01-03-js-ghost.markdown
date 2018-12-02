@@ -80,5 +80,5 @@ Play with the example below and try to trace what is happening.
 <div class="try-it">
 <h2>Try It: Customizing the Ghost's Name</h2>
 
-<p>Copy over the JavaScript from the example and paste it below your other JS code. Change the JS so that your heading says "Welcome to [user text]'s Ghost House!" when the user clicks submit.</p>
+<p>Copy over the JavaScript from the example and paste it below your other JS code. Target a text element on your page (like a heading or paragraph) and adjust the code so that whatever the user types into the input box gets updated on the page.</p>
 </div>  

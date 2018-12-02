@@ -20,37 +20,21 @@ You'll notice that every single one of these web pages has the exact same HTML -
 
 In CSS, we right a bunch of rules for how our document should look. The browser evaluates those rules and styles the page accordingly. A CSS rule is defined as follows:
 
-![Anatomy of a CSS Selector](/images/css-rule.png)
+```css
+h1 {
+  color: red;
+}
+```
 
-In the example above, the browser will set the color of any `<strong>` text elements to red. We can define multiple sets of properties and values in a given rule.
+In the example above, the browser will set the color of any `<h1>` text elements to red. We can define multiple sets of properties and values in a given rule.
 
-<!-- <div class="try-it">
-<h2>Try It: Adding Color</h2>
-
-<p>On your personal page, can you set the color of all of the h1 tags to red and the p tags to blue?</p>
-
-<p>Next, look into any of the following attributes and choose three to play around with:</p>
-
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border">border</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-color">background-color</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow">box-shadow</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity">opacity</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width">width</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height">height</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin">margin</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding">padding</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size">font-size</a></li>
-
-There are a lot of colors out there! Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a>
-</div> -->
 
 <div class="try-it">
 <h2>Try It: Adding Color</h2>
 
-<p>First, let's style the body of our page to have a background-color of orange.</p>
+<p>First, let's style the body of our page to have a background-color.</p>
 
-<p>Give your heading a new color and new font-size.</p>
+<p>Then, give your headings a new color and new font-size.</p>
 
 <p>Next, look into any of the following attributes and choose a few to play around with on your images.</p>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border">border</a></li>
@@ -126,14 +110,8 @@ Here's how you would add an ID in the HTML and style it using CSS.
 <div class="try-it">
 <h2>Try It: Adding Classes</h2>
 
-<p>Add a class to one or more of your pumpkins and style it differently using a class.</p>
-</div>
-
-<!-- <div class="try-it">
-<h2>Try It: Adding Classes</h2>
-
 <p>Add a class to just one or two of your paragraphs, then use CSS to add styles for that class. Only those paragraphs should change!</p>
-</div> -->
+</div>
 
 ### Building a Basic Ghost
 

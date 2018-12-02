@@ -41,15 +41,11 @@ Here is an example of a slightly more robust document:
 ```
 
 <div class="try-it">
-<h2>Try It: Ghost Intro</h2>
+<h2>Try It: Building a Basic Page</h2>
 
-<p>Over the course of today, we'll be creating a Halloween-themed site where a little wiggly ghost lives.</p>
+<p>Use what you know about headings and paragraph tags to create at least three headings of any size (h1 - h6) and three paragraph elements. The topic is your choice!</p>
 
-<p>First, make a heading (h1-h6, your choice) that says "Happy Halloween!"</p>
-
-<p>Then, make a paragraph element (p) that welcomes guests and introduces your ghost. What does your ghost like to do in its free time? What is your ghost's favorite Netflix show?</p>
-
-<p>What you create right now is the start of a sandbox/playground where we will try out different styles and behaviors.</p>
+<p>Need some filler text? Check out <a href="https://meettheipsums.com/">Meet the Ipsums</a>.</p>
 </div>
 
 <!-- <div class="try-it">
@@ -111,17 +107,17 @@ Our browser is more than happy to load up an image, but it'd be helpful if we to
 
 We also add the `alt` attribute contains text that identifies the image to a screen reader. The alt text is displayed if the picture can't be displayed for some reason. It helps all users, not just those using screen readers!
 
-<!-- <div class="try-it">
+<div class="try-it">
 <h2>Try It: Adding Images</h2>
 
-<p>Let's update our page from earlier with one or more images. You can get Creative Commons images from pexels.com.</p>
-</div> -->
-
-<div class="try-it">
-<h2>Try It: Adding Jack-o-Lantern Images</h2>
-
-<p>You might not know this, but ghosts always pack their houses with pumpkins. Go find a few pumpkin images and add them to your page. You can get Creative Commons images from pexels.com.</p>
+<p>Let's update our page with three images. You can get images in three different ways:</p>
+<ol>
+    <li>Click on "assets" at the bottom of your Codepen, then select the "photos" tab.</li>
+    <li>Go directly to <a href="https://unsplash.com/">Unsplash</a>, then right-click (or two-finger click) on an image you want and choose "Copy Image Address".</li>
+    <li>Go to <a href="https://www.pexels.com/">Pexels</a> and do the same thing as above.</li>
+</ol>
 </div>
+
 
 ### Links
 
@@ -138,16 +134,9 @@ For example:
 <div class="try-it">
 <h2>Try It: Adding Links</h2>
 
-<p>What are some of your ghost's favorite websites? Go ahead and create a few links to those sites.</p>
-<p>Want a challenge? Make your pumpkin images into links.</p>
-</div>
-
-<!-- <div class="try-it">
-<h2>Try It: Adding Links</h2>
-
 <p>Add a few links to your HTML.</p>
-<p>Want a challenge? Add your links INSIDE of a list.</p>
-</div> -->
+<p>Want a challenge? Make an HTML <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul">list</a> and add your links as list items.</p>
+</div>
 
 ### Inputs and Buttons
 
@@ -168,10 +157,9 @@ Here's an example of an input tag with placeholder text and a button:
 ```
 
 <div class="try-it">
-<h2>Try It: Adding Buttons and Inputs</h2>
+<h2>Try It: Inputs and Buttons</h2>
 
-<p>Create one button that has the text "Disappear" on it. It will be a non-functional button for now.</p>
-<p>Create one text input that has the placeholder text "rename the ghost". We'll use this later.</p>
+<p>Add a few different types of inputs and a button to your page. Remember, these will not be functional right now.</p>
 </div>
 
 We'll be able to use JavaScript to target and interact with these elements soon!
