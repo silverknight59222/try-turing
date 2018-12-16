@@ -61,7 +61,7 @@ You can check out other JavaScript events [here](https://developer.mozilla.org/e
 
 <p>Copy over the JavaScript from the example and paste it below your other JS code. Modify whatever needs to be changed in order to make the left eyeball of the ghost a different color when a key is pressed.</p>
 </div>  
-
+<br>
 <div class="try-it">
 <h2>Spicy Version</h2>
 
