@@ -32,6 +32,36 @@ var name = 'Rachel';
 <p>Define a variable called numberOfCookies and give it a value of 7. Now, make a string literal that combines the variable with two strings to output "You have 7 cookies left."</p>
 </div>  
 
+### Functions
+
+In JavaScript, we can also create functions! Functions are just bits of code that we've named and can run whenever we want. Just like a variable stores information so we can use it over and over, functions store functionality.
+
+The syntax for creating a function looks like this:
+
+```js
+function alertHello() {
+  alert('Hello!');
+}
+```
+
+We use the keyword `function`, the name of our function, parentheses, and curly brackets. Anything in between the curly brackets is the code we want to save as our function!
+
+In order to make that code run, we can call our function like this:
+
+```js
+alertHello();
+```
+
+We write the name of the function and tell it to run by adding in those parentheses at the end.
+
+<div class="try-it">
+<h2>Try It: Write a function!</h2>
+
+<p>Define a function called addTwoAndTwo. Inside the curly braces, define a variable called result and give it a value of 2 + 2. Now, make an alert() that displays the result.</p>
+
+<p>After the closing curly brace, call your addTwoAndTwo function.</p>
+</div>  
+
 ### Disappear Buttton
 
 The real power of using JavaScript to change pages emerges when we start listening for user events.

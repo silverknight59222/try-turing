@@ -1,12 +1,107 @@
 ---
-title: Ghost Animation
+title: CSS Ghost
 layout: post
 date: 2000-01-03
-permalink: ghost-animation
+permalink: css-ghost
 program: front-end
 tags: front-end
 lessontype: fe-new
 ---
+
+### Building a Basic Ghost
+
+We're ready to start creating our ghost using HTML and CSS! Eventually, he/she/they will look like this:
+
+<img src="/images/ghost-shadow.gif" alt="finished ghost" width="200">
+
+But we've gotta start simple. First, let's create a container div that we can use to contain all of our ghost parts (body, eyeballs, flaps, etc.). We'll give this container a width of 100px. 
+
+```html
+<div class="ghost-container">
+  
+</div>
+```
+
+```css
+.ghost-container {
+  width: 100px;
+}
+```
+
+Now that we have a container, we can add another div inside for the basic ghost body. We will style the height and background color of this inner ghost-body element to look like the picture below:
+
+<img src="/images/ghost-step-one.png" alt="shapeless ghost" width="200">
+
+#### Basic Ghost Shape
+
+Let's use a border-radius to create the head of the ghost. 
+
+<img src="/images/ghost-step-two.png" alt="basic ghost" width="200">
+
+#### Ghost with Basic Flaps
+
+Next, we'll add three more divs to create flaps. Give these flaps the class of "flap". We'll use CSS to experiment with display: inline-block in order to get these divs to line up next to each other. We'll also use a percentage width and negative margins to make sure that the flaps are the same size as the body. NOTE: This part may take some tinkering, [like this]().
+
+<img src="/images/ghost-step-three.png" alt="basic flaps ghost" width="200">
+
+#### Ghost with Curved Flaps
+
+Finally, we'll use the border radius to curve the flaps on the bottom. 
+
+<img src="/images/ghost-step-four.png" alt="curved flaps ghost" width="200">
+
+<!-- ### Transformations
+
+Try this rule on for size:
+
+```css
+p {
+  transform: rotate(180deg);
+}
+```
+
+We have [quite a few transformations at our disposal](https://developer.mozilla.org/en-US/docs/Web/CSS/transform), but we'll cover just a subset today:
+
+- Rotation: `transform: rotate(180deg);` will flip the element upside down.
+- Scaling: `transform: scale(3);` will make the element bigger as defined by a vector.
+- Translating (moving): `transform: translate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
+
+<div class="try-it">
+<h2>Try It: Transformations</h2>
+
+<p>Add a transform rule to an element on your page. You can choose to rotate, scale, or transform it.</p>
+</div> -->
+
+### Transformations
+
+Add this line to your .ghost-container:
+
+```css
+.ghost-container {
+  transform: translate(200px, 50px);
+}
+```
+
+We have [quite a few transformations at our disposal](https://developer.mozilla.org/en-US/docs/Web/CSS/transform). For example: 
+
+- Rotation: `transform: rotate(180deg);` will flip the element upside down.
+- Scaling: `transform: scale(3);` will make the element bigger as defined by a vector.
+- Translating (moving): `transform: translate(25px, 10px);` will move the element 25 pixels to the right and 10 pixels down.
+
+You can also add more than one transformation. For example:
+
+```css
+.ghost-container {
+  transform: scale(0.3) rotate(-40deg);
+}
+```
+
+<div class="try-it">
+<h2>Try It: Ghost Transformations</h2>
+
+<p>Add one or more transformation values to your ghost-container and change the values to see how it changes your ghost.</p>
+</div>
+
 
 #### Animation with Keyframes
 
