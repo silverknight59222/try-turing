@@ -62,24 +62,18 @@ You can check out other JavaScript events [here](https://developer.mozilla.org/e
 <p>Copy over the JavaScript from the example and paste it below your other JS code. Modify whatever needs to be changed in order to make the left eyeball of the ghost a different color when a key is pressed.</p>
 </div>  
 
-#### Spicy Version
+<div class="try-it">
+<h2>Spicy Version</h2>
 
-If you want a challenge, make it so that one specific key changes the left eyeball color, and one specific key changes the right eyeball color.
+<p>If you want a challenge, make it so that one specific key changes the left eyeball color, and one specific key changes the right eyeball color.</p>
 
-For example, if you press "r", the right eye color should change. If you press "l", the left eye color should change. 
+<p>For example, if you press "r", the right eye color should change. If you press "l", the left eye color should change.</p>
 
-Here's a bit of code to help get you started:
+<p>Below is an example to help get you started: </p>
+</div>
 
-```js
-document.addEventListener('keypress', (event) => {
-  var keyName = event.key;
-  if (keyName === "t") {
-    alert("You pressed the letter t!")
-  } else if (keyName === "g") {
-    alert("You pressed the letter g!")
-  }
-});
-```
+<p data-height="265" data-theme-id="0" data-slug-hash="maEEez" data-default-tab="js,result" data-user="rwarbelow" data-pen-title="KeyPress with If Statement" class="codepen">See the Pen <a href="https://codepen.io/rwarbelow/pen/maEEez/">KeyPress with If Statement</a> by Rachel Warbelow (<a href="https://codepen.io/rwarbelow">@rwarbelow</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ### User Input
 
