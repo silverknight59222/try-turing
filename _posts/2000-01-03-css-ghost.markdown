@@ -115,10 +115,10 @@ This is what they look like when used in conjunction:
 
 ```css
 .ghost-body {
-  animation: camoflauge 5s linear infinite;
+  animation: camoflage 5s linear infinite;
 }
 
-@keyframes camoflauge {
+@keyframes camoflage {
   50% {
     background-color: orange;
   }
