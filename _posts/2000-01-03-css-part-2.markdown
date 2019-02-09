@@ -2,7 +2,7 @@
 title: CSS Ghost
 layout: post
 date: 2000-01-03
-permalink: css-ghost
+permalink: css-part-2
 program: front-end
 tags: front-end
 lessontype: fe-new

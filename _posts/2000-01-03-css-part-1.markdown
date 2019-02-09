@@ -2,7 +2,7 @@
 title: Cascading Style Sheets
 layout: post
 date: 2000-01-03
-permalink: css
+permalink: css-part-1
 program: front-end
 tags: front-end
 lessontype: fe-new
