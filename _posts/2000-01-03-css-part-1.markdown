@@ -37,18 +37,18 @@ In the example above, the browser will set the color of any `<h1>` text elements
 <p>Then, give your headings a new color and new font-size.</p>
 
 <p>Next, look into any of the following attributes and choose a few to play around with on your images.</p>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border">border</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-color">background-color</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow">box-shadow</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity">opacity</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width">width</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height">height</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin">margin</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding">padding</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size">font-size</a></li>
+<li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/border">border</a></li>
+<li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-color">background-color</a></li>
+<li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow">box-shadow</a></li>
+<li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity">opacity</a></li>
+<li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/width">width</a></li>
+<li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/height">height</a></li>
+<li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin">margin</a></li>
+<li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding">padding</a></li>
+<li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
+<li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size">font-size</a></li>
 
-There are a lot of colors out there! Find a color that makes you happy <a href="http://colours.neilorangepeel.com">here</a>
+There are a lot of colors out there! Find a color that makes you happy <a target="_blank" href="http://colours.neilorangepeel.com">here</a>
 </div>
 
 <!-- ### Psuedo-selectors

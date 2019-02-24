@@ -45,7 +45,7 @@ Here is an example of a slightly more robust document:
 
 <p>Use what you know about headings and paragraph tags to create at least three headings of any size (h1 - h6) and three paragraph elements. The topic is your choice!</p>
 
-<p>Need some filler text? Check out <a href="https://meettheipsums.com/">Meet the Ipsums</a>.</p>
+<p>Need some filler text? Check out <a target="_blank" href="https://meettheipsums.com/">Meet the Ipsums</a>.</p>
 </div>
 
 <!-- <div class="try-it">
@@ -113,8 +113,8 @@ We also add the `alt` attribute contains text that identifies the image to a scr
 <p>Let's update our page with three images. You can get images in three different ways:</p>
 <ol>
     <li>Click on "assets" at the bottom of your Codepen, then select the "photos" tab.</li>
-    <li>Go directly to <a href="https://unsplash.com/">Unsplash</a>, then right-click (or two-finger click) on an image you want and choose "Copy Image Address".</li>
-    <li>Go to <a href="https://www.pexels.com/">Pexels</a> and do the same thing as above.</li>
+    <li>Go directly to <a target="_blank" href="https://unsplash.com/">Unsplash</a>, then right-click (or two-finger click) on an image you want and choose "Copy Image Address".</li>
+    <li>Go to <a target="_blank" href="https://www.pexels.com/">Pexels</a> and do the same thing as above.</li>
 </ol>
 </div>
 
@@ -135,7 +135,7 @@ For example:
 <h2>Try It: Adding Links</h2>
 
 <p>Add a few links to your HTML.</p>
-<p>Want a challenge? Make an HTML <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul">list</a> and add your links as list items.</p>
+<p>Want a challenge? Make an HTML <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul">list</a> and add your links as list items.</p>
 </div>
 
 ### Inputs and Buttons
