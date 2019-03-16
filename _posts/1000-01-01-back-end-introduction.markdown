@@ -26,9 +26,9 @@ The "front-end" is the part of the application that users see, touch, and intera
 
 There are numerous technologies that can be used for back-end programming. Here are a few of them:
 
-* Languages and frameworks: Ruby/Rails, Python/Django, Elixir/Phoenix, Java, PHP, etc.
+* Languages and frameworks: Ruby/Rails, Python/Django, Elixir/Phoenix, Java/Spring, PHP/Laravel, etc.
 * Database: PostgreSQL, MySQL, MongoDB, etc.
-* Hosting: Digital Ocean, Heroku
+* Hosting: AWS (Amazon Web Services), Digital Ocean, Heroku
 
 ## What are we doing today?
 
