@@ -26,12 +26,6 @@ var name = 'Rachel';
 `Welcome, ${name}!`
 ```
 
-<div class="try-it">
-<h2>Try It: Combining Variables and Strings</h2>
-
-<p>Define a variable called numberOfCookies and give it a value of 7. Now, make a string literal that combines the variable with two strings to output "You have 7 cookies left."</p>
-</div>  
-
 ### Disappear Buttton
 
 The real power of using JavaScript to change pages emerges when we start listening for user events.
