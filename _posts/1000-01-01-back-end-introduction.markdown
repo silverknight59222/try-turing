@@ -28,10 +28,10 @@ There are numerous technologies that can be used for back-end programming. Here 
 
 * Languages and frameworks: Ruby/Rails, Python/Django, Elixir/Phoenix, Java/Spring, PHP/Laravel, etc.
 * Database: PostgreSQL, MySQL, MongoDB, etc.
-* Hosting: AWS (Amazon Web Services), Digital Ocean, Heroku
+* Hosting: AWS (Amazon Web Services), Digital Ocean, Heroku, etc.
 
 ## What are we doing today?
 
-- We'll start by looking at the basic data types in Ruby: strings, integers, floats, arrays
+- We'll start by looking at the basic data types in Ruby: strings, integers, floats
 - We'll also figure out how to take in and manipulate user input using control flow structures
 - We'll end the day working on a pair project to write a Ruby script that posts to Twitter, reads timelines, and saves search results to files.

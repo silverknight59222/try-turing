@@ -3,8 +3,8 @@ title: Arrays
 layout: post
 date: 1000-01-05
 permalink: arrays
-program: back-end
-tags: back-end
+<!-- program: back-end
+tags: back-end -->
 ---
 
 You can think of an array in Ruby as a box that can hold things: integers, strings, floats, other arrays, etc. It's a container for other elements. The elements are contained by straight brackets and separated by commas. Any number of elements can be put in an array.
