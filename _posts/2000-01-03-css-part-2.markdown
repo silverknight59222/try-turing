@@ -40,7 +40,7 @@ Let's use a border-radius to create the head of the ghost.
 
 #### Ghost with Basic Flaps
 
-Next, we'll add three more divs to create flaps. Give these flaps the class of "flap". We'll use CSS to experiment with display: inline-block in order to get these divs to line up next to each other. We'll also use a percentage width and negative margins to make sure that the flaps are the same size as the body. NOTE: This part may take some tinkering, [like this]().
+Next, we'll add three more divs to create flaps. Give these flaps the class of "flap". We'll use CSS to experiment with display: inline-block in order to get these divs to line up next to each other. We'll also use a percentage width and negative margins to make sure that the flaps are the same size as the body. NOTE: This part may take some tinkering, [like this](https://giphy.com/gifs/13XW2MJE0XCoM0).
 
 <img src="/images/ghost-step-three.png" alt="basic flaps ghost" width="200">
 
