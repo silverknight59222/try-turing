@@ -9,23 +9,26 @@ tags: back-end
 
 Let's write a program that can post tweets, read user timelines, and search for hashtags. Next, we'll add to our program by creating a bot that can automatically follow users who tweet about certain things. Finally, we'll write a program that can live-stream tweets with specific keywords.
 
+## Setting up the File
+
+Let's make a file called `tweet`
+
 ## Installing the Gem
 
 First, we'll install a Gem (which is a piece of code written by someone else) that we can use to interact with Twitter via Ruby.
 
-```
-  $ gem install twitter
-```
-
-## Setting up the File
-
-Next, we'll set up our first Twitter program:
+Because we're using repl.it (an online platform), we will need to do this slightly differently than how we normally would if we were working locally on our computers. 
 
 ```
-$ touch tweet.rb
+require 'bundler/inline'
+
+gemfile true do
+ source 'http://rubygems.org'
+ gem 'colorize'
+end
 ```
 
-Inside of that file, we'll setup a Ruby object that can communicate with Twitter:
+Under those lines of code, we'll setup a Ruby object that can communicate with Twitter:
 
 ```ruby
 require 'twitter'

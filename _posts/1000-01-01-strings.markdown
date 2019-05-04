@@ -17,7 +17,7 @@ In Ruby, a String is a series of characters between quotation marks:
 
 ## Our First Program
 
-Let's write a program where we we print strings. First, we'll need to make a file and save it as `strings.rb`.
+Let's write a program where we we print strings. First, we'll create a new repl and call it `strings`.
 
 ```ruby
 print "here is a string"
@@ -25,7 +25,7 @@ print "1234567"
 print "**** this is another string ****"
 ```
 
-To run this program, type `ruby strings.rb` from the command line.
+To run this program, click the green "run" button.
 
 Using print does not add a line between each string. If we want to do that, we can use puts:
 

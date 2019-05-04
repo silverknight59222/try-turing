@@ -7,7 +7,7 @@ program: back-end
 tags: back-end
 ---
 
-Our program isn't very exciting so far. Let's make a new program called `user_input.rb` and try this out:
+Our program isn't very exciting so far. Let's make a new repl called `user_input` and try this out:
 
 ```ruby
 puts "Enter your name: "

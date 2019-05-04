@@ -7,7 +7,7 @@ program: back-end
 tags: back-end
 ---
 
-Control Flow refers to being able to determine what the program does given certain inputs. Let's make a new file `control_flow.rb` and try this out:
+Control Flow refers to being able to determine what the program does given certain inputs. Let's make a new repl `control_flow` and try this out:
 
 ```ruby
 puts "What is the best type of cookie: "
@@ -62,6 +62,8 @@ end
 
 puts "done eating."
 ```
+
+Let's create a new repl and call it `looping`.
 
 <div class="try-it">
 <h2>Try it: Looping</h2>
