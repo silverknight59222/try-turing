@@ -28,6 +28,15 @@ h1 {
 
 In the example above, the browser will set the color of any `<h1>` text elements to red. We can define multiple sets of properties and values in a given rule.
 
+In order to style the entire background, you can use the body selector, like this:
+
+```css
+body {
+  background: yellow;
+}
+```
+
+There are a lot of colors out there! Find a color that makes you happy <a target="_blank" href="http://colours.neilorangepeel.com">here</a>
 
 <div class="try-it">
 <h2>Try It: Adding Color</h2>
@@ -47,8 +56,6 @@ In the example above, the browser will set the color of any `<h1>` text elements
 <li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding">padding</a></li>
 <li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
 <li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size">font-size</a></li>
-
-There are a lot of colors out there! Find a color that makes you happy <a target="_blank" href="http://colours.neilorangepeel.com">here</a>
 </div>
 
 <!-- ### Psuedo-selectors
