@@ -21,7 +21,7 @@ Because we're using repl.it (an online platform), we will need to do this slight
 
 Don't worry too much about the meaning of the individual lines. The block of code below will allow us to "install" the Twitter gem so that we can use it in our projects. 
 
-```
+```ruby
 require 'bundler/inline'
 
 gemfile true do
