@@ -19,12 +19,14 @@ First, we'll install a Gem (which is a piece of code written by someone else) th
 
 Because we're using repl.it (an online platform), we will need to do this slightly differently than how we normally would if we were working locally on our computers. 
 
+Don't worry too much about the meaning of the individual lines. The block of code below will allow us to "install" the Twitter gem so that we can use it in our projects. 
+
 ```
 require 'bundler/inline'
 
 gemfile true do
  source 'http://rubygems.org'
- gem 'colorize'
+ gem 'twitter'
 end
 ```
 
