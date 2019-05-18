@@ -22,4 +22,5 @@ puts "Nice to meet you, #{username}."
 
 <pre>Your name is Rachel and you live in Denver, CO. Your email address is rachel@turing.io.</pre>
 Try running your program a few times with different inputs.
+<p><b>Done?</b> Try adding string methods to your program to properly capitalize the user's name. You could also try splitting up your city and state so that you can upcase the state code.</p>
 </div>
