@@ -11,11 +11,7 @@ Let's say that we wanted to be able to search for tweets with the hashtag #learn
 
 <h4>Preparing the Program</h4>
 
-Go ahead and make a new file:
-
-```
-$ touch twitter_search.rb
-```
+Go ahead and make a new repl called `twittersearch`
 
 Then create your Twitter client again:
 
