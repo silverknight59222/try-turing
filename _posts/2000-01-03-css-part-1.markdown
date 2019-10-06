@@ -18,7 +18,7 @@ You'll notice that every single one of these web pages has the exact same HTML -
 
 ### Styling Elements
 
-In CSS, we right a bunch of rules for how our document should look. The browser evaluates those rules and styles the page accordingly. A CSS rule is defined as follows:
+In CSS, we write a bunch of rules for how our document should look. The browser evaluates those rules and styles the page accordingly. A CSS rule is defined as follows:
 
 ```css
 h1 {
