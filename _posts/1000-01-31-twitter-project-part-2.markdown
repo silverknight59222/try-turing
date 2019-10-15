@@ -16,6 +16,13 @@ Go ahead and make a new repl called `twittersearch`
 Then create your Twitter client again:
 
 ```ruby
+require 'bundler/inline'
+
+gemfile true do
+ source 'http://rubygems.org'
+ gem 'twitter'
+end
+
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
