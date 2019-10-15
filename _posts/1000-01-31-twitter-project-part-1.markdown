@@ -47,22 +47,15 @@ All of these keys and tokens are currently blank. We need to get tokens and keys
 
 ## Writing Your Program
 
-If you look at what you have so far in your program, we've created a variable called `client`. We can use that variable to do things. For example, if we want to post a new tweet, we can do this:
+If you look at what you have so far in your program, we've created a variable called `client`. We can use that variable to do things. 
+
+For example, we can do write this code underneath the configuration if we want to post a tweet:
 
 ```ruby
-require 'twitter'
-
-client = Twitter::REST::Client.new do |config|
-  config.consumer_key        = "UCZw4n5yZW4EnvbT3co9OPa4b"
-  config.consumer_secret     = "rPCzneF3DnRd8OWE90jWLjTCfCTStTnGrvkfnRtfEEVE3FWL4K"
-  config.access_token        = "710164541207398534-S6EkJrplVKgsuMtBfIcZcPTxGeINwMx"
-  config.access_token_secret = "c42YsBf1EdDt7hv1xYnZ0knhckzbiLLatKHMBuLXTgyP3"
-end
-
 client.update("I'm learning how to code at Turing School!")
 ```
 
-Check out the Twitter account to see if it worked!
+Navigate to `http://twitter.com/NAMEOFACCOUNT` to see if it worked! For example, if I'm using `1_turing`, I would go to `http://twitter.com/1_turing`. 
 
 But this is too easy. Let's add a little more to our program:
 
