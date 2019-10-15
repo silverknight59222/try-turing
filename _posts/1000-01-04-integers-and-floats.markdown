@@ -12,25 +12,9 @@ In Ruby, there are two main types of numbers:
 * Integer: positive or negative whole number
 * Float: positive or negative number with decimal places
 
-Ruby gives us an interactive console called IRB (you can think of it as a "sandbox mode" for Ruby) where we can test things out without having to write them in a file. Let's play around in this console. To get into it, type this:
+In repl.it, we can test out code using the interactive console (the dark part of the screen). 
 
-```
-$ irb
-```
-
-You'll see a prompt that looks like this:
-
-```
-2.2.4 :001 >
-```
-
-To get out of it, type exit, then hit the enter key:
-
-```
-2.2.4 :001 > exit
-```
-
-Go back into IRB and try out the following things. What do you notice? What do you think these "to_f", "to_i", and "to_s" methods do?
+In the console, try out the following lines of code. What do you notice about the outputs? What do you think these "to_f", "to_i", and "to_s" methods do?
 
 ```ruby
 x = 5
