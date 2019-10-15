@@ -42,11 +42,7 @@ Run this with different hash tags a few times to see that it works.
 
 <h4>Saving to a File</h4>
 
-Before we try to save Tweets, we need to learn how to write to files. Let's pause on our Twitter app and move to IRB. Remember how to open IRB:
-
-```
-$ irb
-```
+Before we try to save Tweets, we need to learn how to write to files. Let's pause on our Twitter app and move into the interactive console (the dark part of the repl.it screen). 
 
 Next, we will make and write to a file using this syntax:
 
@@ -63,7 +59,7 @@ my_file.write("Here's another sentence that is two lines below the previous one.
 my_file.close
 ```
 
-If you want to, go ahead and try that out, then open the file it created and look at it.
+Try that out. In the left-hand side of repl.it, you should see a file appear called `my_file.txt` (which is what you named it when you said `File.open(...)`. What appeared? Why? Where are the spaces? 
 
 <div class="try-it">
 <h2>Try it: Saving Search Results</h2>
