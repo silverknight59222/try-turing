@@ -14,29 +14,8 @@ session: 1
       <img class="section-image" src="{{ site.url }}/assets/images/goals.svg" alt="Target icon">
       <h2 class="section-header">Goals</h2>
       <ul>
-        <li>Diagram what happens behind the scenes when you visit a webpage</li>
         <li>Identify the key differences between frontend and backend engineering</li>
         <li>Categorize various technologies used in backend engineering</li>
-      </ul>
-    </section>
-    <hr>
-    <section>
-      <img class="section-image" src="{{ site.url }}/assets/images/internet.png" alt="Cloud image">
-      <h2 class="section-header">How Does the Internet Work?</h2>
-      <p>Before we talk about backend engineering, let's start by drawing a diagram of how the internet works. We'll use the scenario <b>"What happens when you type <code>google.com/calendar</code> into your browser?"</b> While creating the diagram, we'll label and discuss these terms:</p>
-      <ul>
-        <li>client</li>
-        <li>DNS lookup</li>
-        <li>domain name</li>
-        <li>IP address</li>
-        <li>HTTP request</li>
-        <li>method and path</li>
-        <li>server</li>
-        <li>database</li>
-        <li>HTML, CSS, JS</li>
-        <li>HTTP response</li>
-        <li>frontend</li>
-        <li>backend</li>
       </ul>
     </section>
     <hr />

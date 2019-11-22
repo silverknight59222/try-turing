@@ -14,27 +14,8 @@ session: 1
       <img class="section-image" src="{{ site.url }}/assets/images/goals.svg" alt="Target icon">
       <h2 class="section-header">Goals</h2>
       <ul>
-        <li>Diagram what happens behind the scenes when you visit a webpage</li>
-      </ul>
-    </section>
-    <hr>
-    <section>
-      <img class="section-image" src="{{ site.url }}/assets/images/internet.png" alt="Cloud image">
-      <h2 class="section-header">Front End vs. Backend</h2>
-      <p>Let's draw a diagram of how the internet works and in doing so, discuss the difference between frontend and backend programming. We'll use the scenario <b>"What happens when you type <code>google.com/calendar</code> into your browser?"</b> While creating the diagram, we'll label and discuss these terms:</p>
-      <ul>
-        <li>client</li>
-        <li>DNS lookup</li>
-        <li>domain name</li>
-        <li>IP address</li>
-        <li>HTTP request</li>
-        <li>method and path</li>
-        <li>server</li>
-        <li>database</li>
-        <li>HTML, CSS, JS</li>
-        <li>HTTP response</li>
-        <li>frontend</li>
-        <li>backend</li>
+        <li>Identify the key differences between frontend and backend engineering</li>
+        <li>Categorize various technologies used in frontend engineering</li>
       </ul>
     </section>
     <hr />
@@ -99,7 +80,7 @@ session: 1
         <li>Add identifiers to our HTML elements using and IDs</li>
         <li>Implement user interaction with JavaScript variables, event listeners, and if statements</li>
         <li>Use JavaScript to grab data from an external source, then add that data to our webpage</li>
-        <li>Style our webpage with CSS colors, borders, sizes, padding, margin, and border-radius</li>
+        <li>Style our webpage with various CSS properties</li>
       </ol>
     </section>
     <hr />
