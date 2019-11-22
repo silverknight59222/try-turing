@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg602" xml:space="preserve" viewBox="0 0 472.81 440.56" version="1.0">
+  <defs id="defs604">
+    <linearGradient id="linearGradient644">
+      <stop id="stop645" stop-color="#dedd07" offset="0"/>
+      <stop id="stop646" stop-color="#4ddd00" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient778" y2="690.63" gradientUnits="userSpaceOnUse" y1="323.45" gradientTransform="scale(.97672 1.0238)" x2="559.55" x1="132.5"><stop id="stop813" stop-color="#f00" offset="0"/><stop id="stop814" stop-color="#9d0000" stop-opacity=".9294" offset="1"/></linearGradient>
+    <linearGradient id="linearGradient806" y2="178.26" spreadMethod="reflect" gradientUnits="userSpaceOnUse" y1="177.72" gradientTransform="scale(.22297 4.485)" x2="-1921.5" x1="-1948.9"><stop id="stop642" stop-color="#754a3d" offset="0"/><stop id="stop643" stop-color="#7f352a" offset="1"/></linearGradient>
+    <linearGradient id="linearGradient808" y2="582.99" gradientUnits="userSpaceOnUse" y1="263.64" gradientTransform="matrix(1.0156 0 0 .98460 -127.29 -223.88)" x2="482.58" x1="118.31"><stop id="stop810" stop-color="#fff" offset="0"/><stop id="stop811" stop-color="#fff" stop-opacity="0" offset="1"/></linearGradient>
+    <linearGradient id="linearGradient636" y2="879.35" xlink:href="#linearGradient644" gradientUnits="userSpaceOnUse" y1="768.39" gradientTransform="scale(.79367 1.26)" x2="572.21" x1="544.59"/>
+    <linearGradient id="linearGradient637" y2="932.08" xlink:href="#linearGradient644" gradientUnits="userSpaceOnUse" y1="920.1" gradientTransform="scale(.97463 1.026)" x2="525.37" x1="412.16"/>
+  <linearGradient id="linearGradient2368" y2="1140.1" xlink:href="#linearGradient644" gradientUnits="userSpaceOnUse" x2="438.28" gradientTransform="scale(1.2127 .82462)" y1="1129.2" x1="335.87"/></defs>
+  <path id="path654" d="m218.52 241.62c11.88 14.55 153.07 121.66 153.07 121.66-0.32 19.13 1.89 23.04 9.08 32.44 18.66 18.29 60.17 50.23 62.26 44.06 0.64-11.12-6.87-22.89-6.37-36.31 6.12 5.52 11.81 4.11 17.72 6.17l-16.12-17.56 33.51-3.81-59.98-29.19-28.8-10.09-153.31-119.21-11.06 11.84z" fill-rule="evenodd" stroke-width="0" fill-opacity=".0921"/>
+  <path id="path800" d="m568.48 527.03a192.88 202.18 0 1 1 -385.75 0 192.88 202.18 0 1 1 385.75 0z" fill-rule="evenodd" fill-opacity=".2" transform="matrix(1.0209 0 0 1.0209 -170.71 -310.29)" fill="#00002f"/>
+  <g id="g675" fill-rule="evenodd" transform="translate(-127.29 -223.88)">
+    <path id="path774" d="m568.48 527.03a192.88 202.18 0 1 1 -385.75 0 192.88 202.18 0 1 1 385.75 0z" fill="url(#linearGradient778)" transform="matrix(1.0209 0 0 1.0209 -59.255 -107.76)"/>
+    <path id="path605" d="m568.48 527.03a192.88 202.18 0 1 1 -385.75 0 192.88 202.18 0 1 1 385.75 0z" fill="#f20000" transform="matrix(.95614 0 0 .95614 -34.924 -73.623)"/>
+    <path id="path611" d="m568.48 527.03a192.88 202.18 0 1 1 -385.75 0 192.88 202.18 0 1 1 385.75 0z" fill="#fff" transform="matrix(.85088 0 0 .85088 4.6129 -18.147)"/>
+    <path id="path612" d="m568.48 527.03a192.88 202.18 0 1 1 -385.75 0 192.88 202.18 0 1 1 385.75 0z" fill="#f20000" transform="matrix(.68421 0 0 .68421 67.214 69.691)"/>
+    <path id="path613" d="m568.48 527.03a192.88 202.18 0 1 1 -385.75 0 192.88 202.18 0 1 1 385.75 0z" fill="#fff" transform="matrix(.55540 0 0 .55540 115.59 137.58)"/>
+    <path id="path614" d="m568.48 527.03a192.88 202.18 0 1 1 -385.75 0 192.88 202.18 0 1 1 385.75 0z" fill="#f20000" transform="matrix(.36404 0 0 .36404 187.47 238.43)"/>
+    <path id="path615" d="m568.48 527.03a192.88 202.18 0 1 1 -385.75 0 192.88 202.18 0 1 1 385.75 0z" fill="#fff" transform="matrix(.22475 0 0 .22475 239.79 311.84)"/>
+  </g>
+  <g id="g660" fill-rule="evenodd" transform="matrix(.99809 -.061765 .061765 .99809 2.3995 -490.73)">
+    <rect id="rect827" transform="matrix(.48576 -.87410 .74860 .66302 -147.7 -18.384)" height="284.68" width="14.153" y="644.02" x="-362.15" fill="url(#linearGradient806)"/>
+    <path id="path632" d="m235.21 739.76l20.82 48.69 0.12-27.75 30.07 2.18-51.01-23.12z" fill="#808080" transform="matrix(.99732 -.073178 .073178 .99732 -147.7 -18.384)"/>
+    <path id="path634" d="m407.03 904.35l50.3 52.04 36.43 6.93-45.1-45.09-41.63-13.88z" fill="url(#linearGradient2368)" transform="matrix(.99732 -.073178 .073178 .99732 -147.7 -18.384)"/>
+    <path id="path635" d="m398.18 912.76l50.24 52.09 5.66 36.65-43.49-46.66-12.41-42.08z" fill="url(#linearGradient636)" transform="matrix(.99732 -.073178 .073178 .99732 -147.7 -18.384)"/>
+    <path id="path647" d="m401.46 907.16l47.61 44.34 29.44 36.77-42.43-39.99-34.62-41.12z" fill="url(#linearGradient637)" transform="matrix(.99732 -.073178 .073178 .99732 -147.7 -18.384)"/>
+  </g>
+  <path id="path1144" stroke-width="0" fill="url(#linearGradient808)" d="m65.851 316.63c113.9 37.01 141.48-65.42 132.31-115.01-9.18-49.6 40.23-128.98 132.3-115.01-63.42-72.95-174.37-80.716-247.32-17.299-72.946 63.409-80.703 174.36-17.288 247.31l-0.001 0.01z"/>
+<metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/><dc:publisher><cc:Agent rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher><dc:title>target with arrow</dc:title><dc:date>2008-02-09T04:06:29</dc:date><dc:description>archery, archery, arrow, arrow, clip art, clipart, colour, colour, equipment, equipment, goal, goal, image, media, png, public domain, sport, sport, svg, target, target, </dc:description><dc:source>http://openclipart.org/detail/13234/target-with-arrow-by-anonymous</dc:source><dc:creator><cc:Agent><dc:title>Anonymous</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>archery</rdf:li><rdf:li>arrow</rdf:li><rdf:li>clip art</rdf:li><rdf:li>clipart</rdf:li><rdf:li>colour</rdf:li><rdf:li>equipment</rdf:li><rdf:li>goal</rdf:li><rdf:li>image</rdf:li><rdf:li>media</rdf:li><rdf:li>png</rdf:li><rdf:li>public domain</rdf:li><rdf:li>sport</rdf:li><rdf:li>svg</rdf:li><rdf:li>target</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/><cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/><cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata></svg>

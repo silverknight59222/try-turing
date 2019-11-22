@@ -1,30 +1,12 @@
-<nav>
-  <ul>
-    {% for post in site.tags.back-end reversed %}
-       <li class="{% if post.program != 'intro' %} {% unless page.tags contains post.program %}hidden{% endunless %}{% endif %}">
-          <a class="{% if post.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </li>
-    {% endfor %}
-    <li class="nav-break"></li>
-    {% for post in site.tags.front-end reversed %}
-      {% if post.lessontype == "fe-new" %}  
-        <li class="{% if post.program != 'intro' %} {% unless page.tags contains post.program %}hidden{% endunless %}{% endif %}">
-          <a class="{% if post.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-    <li class="nav-break"></li>
-    {% for post in site.tags.teachers reversed %}
-       <li class="{% if post.program != 'intro' %} {% unless page.tags contains post.program %}hidden{% endunless %}{% endif %}">
-          <a class="{% if post.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </li>
-    {% endfor %}
-    <li class="nav-break"></li>
-    {% for post in site.tags.remote reversed %}
-       <li class="{% if post.program != 'intro' %} {% unless page.tags contains post.program %}hidden{% endunless %}{% endif %}">
-          <a class="{% if post.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </li>
-    {% endfor %}
-    <li class="nav-break"></li>
+<nav role="navigation">
+  <ul class="nav-links">
+    <li>
+      <a href="/" class="home-logo-link">
+        <img src="/assets/icons/TuringSchool_LogoMark_Gray.png"
+         alt="Turing School of Software and Design logo">
+      </a>
+    </li>
+    <li class="uppercase"><a href="https://www.eventbrite.com/o/turing-school-of-software-amp-design-9895674202" target="blank">Upcoming Courses</a></li>
+    <li class="uppercase"><a href="https://turing.io" target="blank">Turing School</a></li>
   </ul>
 </nav>

@@ -2,6 +2,7 @@ code {
   font-family: monospace;
   font-size: 1.2em;
   padding: 3px;
+  background-color: #f4f4f4;
 }
 
 pre {
@@ -18,7 +19,7 @@ pre {
 }
 
 .highlight .hll { background-color: #d6d6d6 }
-.highlight  { background: #ffffff; color: #4d4d4c }
+.highlight  { background: #f4f4f4; color: #4d4d4c } /*bjm 8-15-16*/
 .highlight .c { color: #8e908c } /* Comment */
 .highlight .err { color: #c82829 } /* Error */
 .highlight .k { color: #8959a8 } /* Keyword */
@@ -82,3 +83,27 @@ pre {
 .highlight .vg { color: #c82829 } /* Name.Variable.Global */
 .highlight .vi { color: #c82829 } /* Name.Variable.Instance */
 .highlight .il { color: #f5871f } /* Literal.Number.Integer.Long */
+
+table {
+  border-collapse: collapse;
+  margin: 20px 0 0;
+  padding: 0;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+table tr th, table tr td {
+  border: 1px solid #ccc;
+  margin: 0;
+  padding: 6px 20px;
+}
+

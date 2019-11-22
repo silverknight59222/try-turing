@@ -1,6 +1,6 @@
-title: "Try Turing - Turing School of Software and Design"
-description: "Open source curriculum for the Turing School of Software and Design's Try Turing Weekend."
-url: "//try.turing.io/"
+title: "Try Coding Curriculum - Turing School of Software and Design"
+description: "Open source curriculum for the Turing School of Software and Design's second shift program."
+url: "https://try.turing.io"
 
 baseurl: ''
 permalink: /:title
@@ -30,3 +30,6 @@ assets:
 
 images:
   root_url: '/assets/images'
+
+plugins:
+  - jemoji
