@@ -52,10 +52,10 @@ session: 2
       </ul>
       <p><span class="vocab">Frontend programming</span>, being that it is closer to the user, is more concerned with:</p>
       <ul>
-        <li>Creating look and feel of a web app</li>
-        <li>Programming user interactions within the web app</li>
-        <li>Processing raw data to display it in an understandable and friendly way</li>
-        <li>Desiging user interactions and experiences</li>
+        <li>Processing large, complex data sets in a performant and efficient way</li>
+        <li>Building applications that are accessible for the greatest number of users</li>
+        <li>Developing unified visual systems within a product</li>
+        <li>Programming digital interactions that enhance and streamline the experience for a user</li>
       </ul>
     </section>
     <hr>
