@@ -21,7 +21,7 @@ session: 1
     <hr />
     <section>
       <img class="section-image" src="{{ site.url }}/assets/images/backend.png" alt="AWS logo">
-      <h2 class="section-header">What is Frontend?</h2>
+      <h2 class="section-header">What is Front-end?</h2>
       <p>The "front-end" is the part of the application that users see, touch, and interact with. The "back-end" typically handles stuff like storing information in databases and authenticating users; it's what happens behind the scenes.</p>
       <p>When we're talking about web development, the front-end is the part of the code base that takes care of rendering the user interface in the web browser.</p>
       <p>Over the last decade, the web has evolved from a platform that served static web pages with content to a platform that provides rich, interactive experiences to users.</p>
@@ -77,7 +77,7 @@ session: 1
       <p>We're going to dive into the three technologies used on the frontend:</p>
       <ol>
         <li>Structure web pages using HTML headers, paragraphs, inputs, buttons, images, and divs</li>
-        <li>Add identifiers to our HTML elements using and IDs</li>
+        <li>Add identifiers to our HTML elements using classes and IDs</li>
         <li>Implement user interaction with JavaScript variables, event listeners, and if statements</li>
         <li>Use JavaScript to grab data from an external source, then add that data to our webpage</li>
         <li>Style our webpage with various CSS properties</li>
@@ -86,8 +86,8 @@ session: 1
     <hr />
     <section> 
       <h2 class="section-header">The codepen.io Interface</h2>
-      <p>Before we move into writing code, let's look at the parts of the <a href="http://codepen.io" target="blank">codepen.io</a> interface. Codepen.io is an online <span class="vocab">Integrated Development Environment</span> (or IDE) for frontend development that we can use to write and run code. Codepen.io is generally considered a teaching/learning tool. In order to write and develop code for production, most people download and install the languages and tools onto their own laptops instead of running code in the browser.</p>
-      <p> In this curriculum, you'll see embedded repls like the one below for code examples:</p>
+      <p>Before we move into writing code, let's look at the parts of the <a href="http://codepen.io" target="blank">codepen.io</a> interface. Codepen.io is an online <span class="vocab">Integrated Development Environment</span> (or IDE) for front-end development that we can use to write and run code. Codepen.io is generally considered a teaching/learning tool. In order to write and develop code for production, most people download and install the languages and tools onto their own laptops instead of running code in the browser.</p>
+      <p> In this curriculum, you'll see embedded codepens like the one below for code examples:</p>
       <p class="codepen" data-height="266" data-theme-id="0" data-default-tab="html,result" data-user="turingtrycoding" data-slug-hash="abbqEgR" style="height: 266px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Welcome">
   <span>See the Pen <a href="https://codepen.io/turingtrycoding/pen/abbqEgR">
   Welcome</a> by Turing School of Software and Design (<a href="https://codepen.io/turingtrycoding">@turingtrycoding</a>)

@@ -25,7 +25,8 @@ session: 4
       <h2 class="section-header">What's an API?</h2>
       <p><span class="vocab">API</span> stands for Application Programming Interface. It can refer to a lot of different things, but in our case today, we're going to think of it as a service we can ask for data.</p>
       <p>We're going to use an API that stores compliment data. We'll ask it to give us a compliment back, then we (as front end developers) will decide how that data gets displayed to the page.</p>
-      <p>Let's look at the example below:</p>
+      <p>The API that we're going to be using today has an endpoint (or URL) that gives us back a random string of a compliment. Before we integrate the API into our code, let's check out the endpoint (or URL) to see the raw data that it gives us: <a target="blank" href="https://8768zwfurd.execute-api.us-east-1.amazonaws.com/v1/compliments">Compliment API Endpoint</a>. <b>Refresh the page a few times,</b> as this endpoint is set up to generate a random string for each request.</p>
+      <p>Now, let's look at how we can use that endpoint in our JavaScript code. </p>
       <p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turingtrycoding" data-slug-hash="LYYvNVg" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Compliment API Example">
   <span>See the Pen <a href="https://codepen.io/turingtrycoding/pen/LYYvNVg">
   Compliment API Example</a> by Turing School of Software and Design (<a href="https://codepen.io/turingtrycoding">@turingtrycoding</a>)

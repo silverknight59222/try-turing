@@ -120,7 +120,7 @@ session: 2
     	<div class="try-it">
 				<h2>Try it: Using String Methods</h2>
 				<p>Modify your program to upcase the pet_name, reverse the food, and capitalize the toy.</p>
-				<pre>Fluffy plays with STUFFED MICE after eating hsif anut.</pre>
+				<pre>FLUFFY plays with Stuffed mice after eating hsif anut.</pre>
 				Run your program a few times with different values for each variable to make sure it works.
 				<div class="spicy">
 					<h4 class="spicy-click">🌶 Spicy Challenge 🌶 <small>(click!)</small></h4>

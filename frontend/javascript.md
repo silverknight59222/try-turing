@@ -36,7 +36,7 @@ var school = 'Turing School of Software and Design;
 var firstName = 'Rachel';</code></pre>
       <div class="try-it">
         <h2>Try It: Creating Variables</h2>
-        <p>In your JavaScript tab, create a variable for <code>greeting</code>. The variable should contain the text "Do you need a compliment?"</p>
+        <p>In the JavaScript tab of your Compliment Generator codepen, create a variable for <code>greeting</code>. The variable should contain the text "Do you need a compliment?"</p>
       </div>
     </section>
     <hr>
@@ -93,7 +93,7 @@ var firstName = 'Rachel';</code></pre>
       <img class="section-image" src="{{ site.url }}/assets/images/rabbit.png" alt="Rabbit in hat icon">
       <h2 class="section-header">Dynamically Adding HTML with JavaScript</h2>
       <p>JavaScript is also used to add brand new HTML elements to the page. On some social media sites, once you finish scrolling to the bottom of the page, you'll see a button that says <b>See More</b>. When you click it, new things magically show up! How does this happen?</p>
-      <p>Let's look at the example below in pairs. <b>Click on "Edit on Codepen" to open it in a new window. Seeing the full code will help you start to recognize JS patterns.</b>With your neighbor, walk through the code and see how much you can understand on your own. Then, we'll come back together and discuss.</p>
+      <p>Let's look at the example below in pairs. <b>Click on "Edit on Codepen" to open it in a new window. Seeing the full code will help you start to recognize JS patterns.</b> With your neighbor, walk through the code and see how much you can understand on your own. Then, we'll come back together and discuss.</p>
       <p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turingtrycoding" data-slug-hash="RwwONZY" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Variable Interaction, Part 3">
   <span>See the Pen <a href="https://codepen.io/turingtrycoding/pen/RwwONZY">
   JavaScript Variable Interaction, Part 3</a> by Turing School of Software and Design (<a href="https://codepen.io/turingtrycoding">@turingtrycoding</a>)
@@ -105,6 +105,22 @@ var firstName = 'Rachel';</code></pre>
         <p>Go back to your Compliment Generator. Find the section that shows the user their compliment. Instead of having the content in your HTML, generate it dynamically from JavaScript! The header, paragraph, and image should all appear when the user clicks the button that says "Compliment Me".</p>
         <p>Need help? Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/MWWRYBb">this example</a>.</p>
       </div>
+    </section>
+    <hr>
+    <section>
+      <img class="section-image" src="{{ site.url }}/assets/images/plus.svg" alt="Plus symbol icon">
+      <h2 class="section-header">String Interpolation in JavaScript</h2>
+      <p>Just like in Ruby, we can combine string and static text in JavaScript. Let's look at the syntax below:</p>
+      <pre><code>var name = 'Emily';
+var personalizedGreeting = `Hello, ${name}, it's nice to see you!`</code></pre>
+      <p>Notice that we use <b>backticks</b> (`) instead of quotation marks, and a <b>dollar sign</b> ($) instead of a pound sign.</p>
+      <p>Here's how you can use string interpolation in code:</p>
+      <p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turingtrycoding" data-slug-hash="zYYQoWW" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Variable Interaction, Part 5">
+  <span>See the Pen <a href="https://codepen.io/turingtrycoding/pen/zYYQoWW">
+  JavaScript Variable Interaction, Part 5</a> by Turing School of Software and Design (<a href="https://codepen.io/turingtrycoding">@turingtrycoding</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
     </section>
     <hr>
     <section>
@@ -131,7 +147,7 @@ var firstName = 'Rachel';</code></pre>
       <p>In this case, we have two paths that we want to go down:</p>
       <ol>
         <li>The user enters their name: Great! Our program should function like we intended. We've already built this out.</li>
-        <li>The user does not enter their name: Our program shoudl use something generic like "buddy" or "pal" to address the user in the compliment.</li>
+        <li>The user does not enter their name: Our program should use something generic like "buddy" or "pal" to address the user in the compliment.</li>
       </ol>
       <p>Like always, let's start by exploring the code below in pairs, then we'll discuss it as a group:</p>
       <p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turingtrycoding" data-slug-hash="QWWPwRN" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Variable Interaction, Part 5">

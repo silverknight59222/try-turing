@@ -84,7 +84,7 @@ session: 2
       <p>Instead we'll focus on two elements:</p>
       <ul>
         <li><span class="vocab">&lt;button&gt; &lt;/button&gt;</span> creates a button. It has a closing tag since there will be content (the button's text) that is displayed to the user.</li>
-        <li><span class="vocab">&lt;input&gt;</span> creates an input field. Because an input is just an empty box and doesn't have any content, it <b>does not have a closing tag</b>. It can take an optional <code>type</code> attribute that helps validate user input in some browsers.</b></li>
+        <li><span class="vocab">&lt;input&gt;</span> creates an input field. Because an input is just an empty box and doesn't have any content, it <b>does not have a closing tag</b>. It can take an optional <code>type</code> attribute that helps validate user input in some browsers.</li>
       </ul>
       <p>Before we move on, let's talk briefly about <span class="vocab">attributes</span>. An attribute is a bit of extra data that the browser can use for a variety of reasons: to figure out what to do, how to process information, or how to display an element.</p>
       <p>In the case of the <b>input</b>, the <b>type</b> attribute tells the browser what type of data to expect: is it text? a number? a password? a date? something else? Here's what the <b>type</b> attribute looks like:</p>
