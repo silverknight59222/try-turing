@@ -9,7 +9,7 @@ session: 2
 <div id="wrapper">
   {% include frontend_navigation.html %}
   <div id="content-container">
-  	{% include title_banner.html %}
+    {% include title_banner.html %}
     <section>
       <img class="section-image" src="{{ site.url }}/assets/images/goals.svg" alt="Target icon">
       <h2 class="section-header">Goals</h2>
@@ -157,7 +157,7 @@ img {
       <p>Let's start a new Codepen to practice putting all of our skills together.</p>
       <br>
       <div class="try-it">
-        <p>Use what you know about HTML to create the follwing webpage (you can choose your own images). Add section tags for anything that belongs together.</p>
+        <p>Use what you know about HTML to create the follwing webpage (you can choose your own images). Although your sections will be invisible, the image below shows dotted lines around the two separate sections you should have.</p>
       <img style="border: 1px solid black; width: 60%;" src="{{ site.url }}/assets/images/compliment_skeleton.png" alt="Compliment skeleton website">
         <p>Lost? Stuck? Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/zYYRmYL">the completed code here</a>.</p>
       </div>
@@ -165,9 +165,9 @@ img {
   </div>
 </div>
 <script>
-	$( ".spicy-click" ).click(function(e) {
-	  $( e.target ).next( ".spicy-appear" ).slideToggle( "slow" );
-	});
+  $( ".spicy-click" ).click(function(e) {
+    $( e.target ).next( ".spicy-appear" ).slideToggle( "slow" );
+  });
 </script>
 <script
 src="https://code.jquery.com/jquery-3.2.1.min.js"

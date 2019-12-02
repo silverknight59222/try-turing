@@ -23,12 +23,7 @@ session: 6
       <div class="try-it">
         <h2>Try It: Greedy Counter</h2>
         <p>Take your counter to the next level! Add an if statement that tells the user they are being greedy if they ask for more than 10 compliments.</p>
-      </div>
-      <br>
-      <div class="try-it">
-        <h2>Try It: Random Image</h2>
-        <p>Right now, the same image shows up every time you get a compliment. Make a randomly selected image show up instead!</p>
-        <p>Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/OJJGNab?editors=1010">this example</a> for inspiration to get started on random images.</p>
+        <p>Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/GRgRdbr?editors=1010">this example</a> for inspiration to get started on random images.</p>
       </div>
       <br>
       <div class="try-it">
@@ -36,6 +31,27 @@ session: 6
         <p><a href="https://fonts.google.com/">Google Fonts</a> hosts a bunch of fun fonts that you can use on your website. It's not as easy as just typing the name of the font, but it's also not that bad.</p>
         <p>Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/qBBwZLz">this example</a> to see how you can add a Google Font.</p>
       </div>
+      <br>
+      <div class="try-it">
+        <h2>Try It: Images, Part I</h2>
+        <p>Can you make an image appear when you generate a compliment?</p>
+        <p>Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/xxbxzxK">this example</a> to see how to append not only a paragraph, but also an image.</p>
+      </div>
+      <br>
+      <div class="try-it">
+        <h2>Try It: Images, Part II</h2>
+        <p>Note: This challenge requires the previous challenge to be implemented.</p>
+        <p>The code inside of our click event handler is getting a bit long! Let's extract it out into functions.</p>
+        <p>Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/rNaNKab">this example</a> to see how we can create packages of code (functions) that we reference inside of the event handler.</p>
+      </div>
+      <br>
+      <div class="try-it">
+        <h2>Try It: Images, Part III</h2>
+        <p>Note: This challenge requires the previous challenge to be implemented.</p>
+        <p>Right now, the same image shows up every time you get a compliment. Make a randomly selected image show up instead!</p>
+        <p>Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/OJJGNab?editors=1010">this example</a> for inspiration to get started on random images.</p>
+      </div>
+      <br>
     </section>
     <hr>
   </div>
