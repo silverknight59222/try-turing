@@ -60,7 +60,7 @@ z.to_s</pre>
     <section>
       <img class="section-image" src="{{ site.url }}/assets/images/world.png" alt="World in hand">
       <h2>Everything, Together!</h2>
-      <p>Now that we've learned about while loops, if/else statements, integers, strings, and variables, we're ready to write our first program that brings it all together! (And let's be honest, probably the only thing your friends will think is somewhat cool from today).</p>
+      <p>Now that we've learned about until loops, if/else statements, integers, strings, and variables, we're ready to write our first program that brings it all together! (And let's be honest, probably the only thing your friends will think is somewhat cool from today).</p>
       <p>We'll do this challenge <b>all together</b>, and we'll start by writing <span class="vocab">pseudocode</span> to fully understand all of the discrete pieces.</p>
       <p>Pseudocode is an English-like version of code that will help us define all of the individual steps that need to happen in order to play the number guessing game. We'll act it out as humans, pausing to jot down everything that needs to happen.</p>
       <p>Here are the specifications:</p>
