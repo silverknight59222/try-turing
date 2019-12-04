@@ -39,15 +39,15 @@ session: 6
       </div>
       <br>
       <div class="try-it">
-        <h2>Try It: Images, Part II</h2>
-        <p>Note: This challenge requires the previous challenge to be implemented.</p>
+        <h2>Try It: Functions</h2>
+        <p>Note: This challenge requires the previous challenge (Images, Part I) to be implemented.</p>
         <p>The code inside of our click event handler is getting a bit long! Let's extract it out into functions.</p>
         <p>Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/rNaNKab">this example</a> to see how we can create packages of code (functions) that we reference inside of the event handler.</p>
       </div>
       <br>
       <div class="try-it">
-        <h2>Try It: Images, Part III</h2>
-        <p>Note: This challenge requires the previous challenge to be implemented.</p>
+        <h2>Try It: Images, Part II</h2>
+        <p>Note: This challenge requires the previous two challenges (Images, Part I; and Functions) to be implemented.</p>
         <p>Right now, the same image shows up every time you get a compliment. Make a randomly selected image show up instead!</p>
         <p>Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/OJJGNab?editors=1010">this example</a> for inspiration to get started on random images.</p>
       </div>
