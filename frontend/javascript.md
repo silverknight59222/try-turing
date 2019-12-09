@@ -29,6 +29,7 @@ session: 3
       <img class="section-image" src="{{ site.url }}/assets/images/box.png" alt="Computer mouse icon">
       <h2 class="section-header">JavaScript Variables</h2>
       <p>In JavaScript, we declare variables using the <span class="vocab">var</span> keyword. This tells JavaScript that we're about to make a variable.</p>
+      <p>A variable is like a box with a label on it. You can put something in the box, label it, and be able to reference that thing later by its label.</p>
       <p>Variables can be strings (text in between quotation marks), numbers, HTML elements, among many other things. Here are a few examples of JavaScript variables:</p>
       <pre><code>var age = 12;
 var school = 'Turing School of Software and Design;
@@ -90,7 +91,7 @@ var firstName = 'Rachel';</code></pre>
       <div class="try-it">
         <h2>Try It: Let's Break Things!</h2>
         <p>One of the best ways to figure out what exactly is happening in code is by changing things to see what happens. What parts of the Javascript and HTML are connected? What things are arbitrary?</p>
-        <p>Together, let's make a fork of the example above and try changing a few things. Your instructor will guide you in testing out some changes, but we'll start with this one in your JavaScript: <i>What happens if you change <code>#heading</code> to <code>#title</code>?</i></p>
+        <p>Together, let's make a fork of the example above and try changing a few things. Your instructor will guide you in testing out some changes, but we'll start with this one in your JavaScript: <i>What would break if you change <code>#banner-text</code> to <code>#pageHeader</code>?</i></p>
       </div>
       <br>
       <div class="try-it">
@@ -113,16 +114,21 @@ var firstName = 'Rachel';</code></pre>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
       <div class="try-it">
         <h2>Try It: Adding HTML Dynamically</h2>
-        <p>Go back to your Compliment Generator and follow the steps below.</p>
+        <p>Go back to your Compliment Generator and follow the steps below in your HTML.</p>
         <ol>
-          <li>In your HTML, an ID of <b>generate-compliment</b> to your button.</li>
-          <li>In your JavaScript, create a variable called <b>complimentButton</b> and use <b>querySelector</b> to grab the button with the ID of <b>generate-compliment</b>.</li>
-          <li>In your HTML, add an ID of <b>compliment-result</b> to the <b>section</b> that contains your compliment paragraph. Remove that paragraph from your HTML because you're going to be adding it in JavaScript instead.</li>
-          <li>In your JavaScript, create a variable called <b>complimentContainer</b> and use <b>querySelector</b> to grab the button with the ID of <b>compliment-result</b>.</li>
-          <li>Create a new event listener that watches for a click on the <b>complimentButton</b>.</li>
-          <li>Inside of that event listener, create a paragraph, add the <b>innerText</b> of the paragraph, and append that paragraph to the <b>complimentContainer</b>.</li>
+          <li>Remove the compliment paragraph.</li>
+          <li>Add an ID to your button.</li>
+          <li>Add an ID to your section.</li>
         </ol>
-        <p>Find the section that shows the user their compliment. Instead of having the content in your HTML, generate it dynamically from JavaScript! The header, paragraph, and image should all appear when the user clicks the button that says "Compliment Me".</p>
+        <p>In your JavaScript, complete these steps <b>under</b> your already written code:</p>
+        <ol>
+          <li>Create a variable for the button using querySelector and the ID you chose.</li>
+          <li>Create a variable for the section using querySelector and the ID you chose.</li>
+          <li>Create a click event listener for the button.</li>
+          <li>Inside of the event listener, create an empty paragraph.</li>
+          <li>Add compliment text to that empty paragraph.</li>
+          <li>Use appendChild to insert the paragraph to your compliment section.</li>
+        </ol>
         <p>Need help? Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/KKwKZqy?editors=1010">this example</a>.</p>
         <div class="spicy">
           <h4 class="spicy-click">🌶 Spicy Challenge 🌶 <small>(click!)</small></h4>
@@ -132,58 +138,6 @@ var firstName = 'Rachel';</code></pre>
             <p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turingtrycoding" data-slug-hash="RwwONZY" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Variable Interaction, Part 3">
   <span>See the Pen <a href="https://codepen.io/turingtrycoding/pen/RwwONZY">
   JavaScript Variable Interaction, Part 3</a> by Turing School of Software and Design (<a href="https://codepen.io/turingtrycoding">@turingtrycoding</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-          </div>
-        </div>
-      </div>
-    </section>
-    <hr>
-    <section>
-      <img class="section-image" src="{{ site.url }}/assets/images/plus.svg" alt="Plus symbol icon">
-      <h2 class="section-header">String Interpolation in JavaScript</h2>
-      <p>We can combine string and static text in JavaScript. Let's look at the syntax below:</p>
-      <pre><code>var name = 'Emily';
-var personalizedGreeting = `Hello, ${name}, it's nice to see you!`</code></pre>
-      <p>Notice that we use <b>backticks</b> (`) instead of quotation marks and a <b>dollar sign</b> $ with <b>curly braces</b> {}</p>
-      <p>Here's how you can use string interpolation in code:</p>
-      <p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turingtrycoding" data-slug-hash="zYYQoWW" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Variable Interaction, Part 5">
-  <span>See the Pen <a href="https://codepen.io/turingtrycoding/pen/zYYQoWW">
-  JavaScript Variable Interaction, Part 5</a> by Turing School of Software and Design (<a href="https://codepen.io/turingtrycoding">@turingtrycoding</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-    </section>
-    <hr>
-    <section>
-      <img class="section-image" src="{{ site.url }}/assets/images/keyboard.png" alt="Keyboard icon">
-      <h2 class="section-header">Getting User Input</h2>
-      <p>We have an input box on our page, but right now it's not functional. Let's look at the example code below and see if we can figure out what's going on. We'll use the same structure that we did for the last example -- discuss in pairs first, then we'll review whole group.</p>
-      <p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turingtrycoding" data-slug-hash="jOOREdq" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Variable Interaction, Part 4">
-  <span>See the Pen <a href="https://codepen.io/turingtrycoding/pen/jOOREdq">
-  JavaScript Variable Interaction, Part 4</a> by Turing School of Software and Design (<a href="https://codepen.io/turingtrycoding">@turingtrycoding</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-      <div class="try-it">
-        <h2>Try It: Incorporating User Input</h2>
-        <p>Go back to your Compliment Generator and follow the steps below:</p>
-        <ol>
-          <li>In your HTML, add an ID of <b>username</b> to the input field.</li>
-          <li>In your JavaScript, find the event listener that adds a compliment. Inside of there, create a variable called <b>name</b> and make it the value of whatever the user has typed into the box.</li>
-          <li>Find the line where you change the <b>innerText</b> of your paragraph. Switch from single quotes to backticks.</li>
-          <li>Replace whatever name you have hardcoded into the string to your name variable <b>${name}</b>.</li>
-        </ol>
-        <p>Need help? Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/QWWPwoy?editors=1010">this example</a>.</p>
-        <div class="spicy">
-          <h4 class="spicy-click">🌶 Spicy Challenge 🌶 <small>(click!)</small></h4>
-          <div class="spicy-appear">
-          <p>What happens if the user doesn't type in a name? Try it out.</p>
-          <p>Let's make it so that our program uses the word "Friend" instead of being blank. Take a look at the example below for help:</p>
-          <p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turingtrycoding" data-slug-hash="QWWPwRN" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Variable Interaction, Part 5">
-  <span>See the Pen <a href="https://codepen.io/turingtrycoding/pen/QWWPwRN">
-  JavaScript Variable Interaction, Part 5</a> by Turing School of Software and Design (<a href="https://codepen.io/turingtrycoding">@turingtrycoding</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>

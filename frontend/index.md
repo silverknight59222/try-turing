@@ -76,10 +76,10 @@ session: 1
       <h2 class="section-header">What are we doing today?</h2>
       <p>We're going to dive into the three technologies used on the frontend:</p>
       <ol>
-        <li>Structure web pages using HTML headers, paragraphs, inputs, buttons, images, and divs</li>
-        <li>Add identifiers to our HTML elements using classes and IDs</li>
+        <li>Structure web pages using HTML headers, paragraphs, buttons, images, and sections</li>
         <li>Implement user interaction with JavaScript variables and event listeners</li>
         <li>Use JavaScript to grab data from an external source, then add that data to our webpage</li>
+        <li>Add identifiers to our HTML elements using classes and IDs</li>
         <li>Style our webpage with various CSS properties</li>
       </ol>
     </section>

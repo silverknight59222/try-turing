@@ -22,8 +22,15 @@ session: 6
       <br>
       <div class="try-it">
         <h2>Try It: Greedy Counter</h2>
+        <p>Note: This challenge requires the previous challenge (Counter) to be implemented.</p>
         <p>Take your counter to the next level! Add an if statement that tells the user they are being greedy if they ask for more than 10 compliments.</p>
         <p>Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/GRgRdbr?editors=1010">this example</a> to see how you can change the display depending on the count variable.</p>
+      </div>
+      <br>
+      <div class="try-it">
+        <h2>Try It: User Input</h2>
+        <p>Wouldn't it be nice to be able to compliment somebody using their name? Add a user input field and whatever functionality is necessary in JavaScript in order to create a compliment that incorporates the user's name.</p>
+        <p>Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/QWWPwRN">this example</a> to see how you can take in and use input from the user.</p>
       </div>
       <br>
       <div class="try-it">

@@ -15,7 +15,7 @@ session: 2
       <h2 class="section-header">Goals</h2>
       <ul>
         <li>Identify what HTML is used for in frontend development</li>
-        <li>Add headings, paragraphs, inputs, buttons, images, and divs to a webpage</li>
+        <li>Add headings, paragraphs, buttons, images, and divs to a webpage</li>
         <li>Identify individual HTML elements with IDs and classes</li>
       </ul>
     </section>
@@ -78,19 +78,10 @@ session: 2
     <hr>
     <section>
       <img class="section-image" src="{{ site.url }}/assets/images/button.png" alt="HTML icon">
-      <h2 class="section-header">Inputs and Buttons</h2>
-      <p>So far, we've done an excellent job of displaying information to the user, but we haven't really asked them for their input. HTML also includes a set of elements for building forms.</p>
-      <p>There are a lot to forms that we go into depth on in the full program, but we're going to blissfully ignore today.</p>
-      <p>Instead we'll focus on two elements:</p>
-      <ul>
-        <li><span class="vocab">&lt;button&gt; &lt;/button&gt;</span> creates a button. It has a closing tag since there will be content (the button's text) that is displayed to the user.</li>
-        <li><span class="vocab">&lt;input&gt;</span> creates an input field. Because an input is just an empty box and doesn't have any content, it <b>does not have a closing tag</b>. It can take an optional <code>type</code> attribute that helps validate user input in some browsers.</li>
-      </ul>
-      <p>Before we move on, let's talk briefly about <span class="vocab">attributes</span>. An attribute is a bit of extra data that the browser can use for a variety of reasons: to figure out what to do, how to process information, or how to display an element.</p>
-      <p>In the case of the <b>input</b>, the <b>type</b> attribute tells the browser what type of data to expect: is it text? a number? a password? a date? something else? Here's what the <b>type</b> attribute looks like:</p>
-      <img style="border: 1px solid black;" src="{{ site.url }}/assets/images/inputattribute.png" alt="Input HTML tag">
-      <p>The whole thing is an opening tag! There is no closing tag, because we don't need to enclose any text that the user sees.</p>
-      <p>Here's an example of several input types and a button:</p>
+      <h2 class="section-header">Buttons</h2>
+      <p>We can include buttons on our page for users to click. With just HTML, we won't be able to have our buttons do anything, but we'll add in that functionality later when we get to JavaScript. </p>
+      <span class="vocab">&lt;button&gt; &lt;/button&gt;</span> creates a button. It has a closing tag since there will be content (the button's text) that is displayed to the user.
+      <p>Although we won't be adding ls s today, here's an example of several input types and a button:</p>
       <p class="codepen" data-height="265" data-theme-id="0" data-default-tab="html,result" data-user="turingtrycoding" data-slug-hash="XWWZEyj" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Inputs and Buttons">
   <span>See the Pen <a href="https://codepen.io/turingtrycoding/pen/XWWZEyj">
   Inputs and Buttons</a> by Turing School of Software and Design (<a href="https://codepen.io/turingtrycoding">@turingtrycoding</a>)
@@ -98,15 +89,15 @@ session: 2
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
       <div class="try-it">
-        <h2>Try It: Inputs and Buttons</h2>
-        <p>Add at least four inputs and two buttons to your page.</p> 
+        <h2>Try It: Buttons</h2>
+        <p>Add at least two buttons to your page.</p> 
       </div>
     </section>
     <hr>
     <section>
       <img class="section-image" src="{{ site.url }}/assets/images/camera.png" alt="Camera icon">
       <h2 class="section-header">Images</h2>
-      <p>Similar to an input element, and image element also does not have a closing tag because an image has no text!</p>
+      <p>An image element also does not have a closing tag because an image has no text!</p>
       <p>However, an image element has two important attributes:</p>
       <ul>
         <li><span class="vocab">src</span>: the src (or source) attribute indicates what file the browser should display. Is it headshot.jpg? funny.gif?</li>
@@ -157,7 +148,7 @@ img {
       <p>Let's start a new Codepen to practice putting all of our skills together.</p>
       <br>
       <div class="try-it">
-        <p>Use what you know about HTML to create the follwing webpage (you can choose your own images). Although your sections will be invisible, the image below shows dotted lines around the two separate sections you should have.</p>
+        <p>Use what you know about HTML to create the follwing webpage. You may choose your own image. Wrap your compliment in a section (indicated by the dotted line in the screenshot below).</p>
       <img style="border: 1px solid black; width: 60%;" src="{{ site.url }}/assets/images/compliment_skeleton.png" alt="Compliment skeleton website">
         <p>Lost? Stuck? Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/zYYRmYL">the completed code here</a>.</p>
       </div>

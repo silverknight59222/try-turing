@@ -60,15 +60,21 @@ session: 5
         <li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding">padding</a></li>
         <li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
         <li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size">font-size</a></li>
-        <p>Need help? Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/RwwOaLw">this example</a>.</p>
+        <p>Need help? Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/dyPGeQK?editors=1010">this example</a>.</p>
       </div>
     </section>
     <hr>
     <section>
       <img class="section-image" src="{{ site.url }}/assets/images/labels.png" alt="Labels icon">
       <h2 class="section-header">CSS Classes</h2>
-      <p>What happens if we have two of one particular type of element, and we want to style them differently? Right now, both of our images are styled the same. Both of our paragraphs are styled the same.</p>
-      <p>We can use a <span class="vocab">class</span> to do this. Think of a class as a label. When we put a label on one thing but not another, it indicates that it's different in some way.</p>
+      <p>Right now, all of our elements are unique. We have one h1, one image, and one button.</p>
+      <p>What would happen if we had multiple paragraphs that we wanted to style differently? Let's try this out.</p>
+      <div class="try-it">
+        <h2>Try It: Add Instruction Paragraph</h2>
+        <p>Before we apply different styles to the same types of elements, we need to add a paragraph to our HTML.</p>
+        <p>Underneath your h1, add a paragraph element that explains how to work your compliment generator.</p>
+      </div>
+      <p>We can use a <span class="vocab">class</span> to style this paragraph differently from our compliment paragraphs. Think of a class as a label. When we put a label on one thing but not another, it indicates that it's different in some way.</p>
       <p>Let's look at this example to see how we can differentiate between two different elements in code: </p>
       <p class="codepen" data-height="265" data-theme-id="default" data-default-tab="css,result" data-user="turingtrycoding" data-slug-hash="mddgPxJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CSS Class Example">
   <span>See the Pen <a href="https://codepen.io/turingtrycoding/pen/mddgPxJ">
@@ -78,8 +84,8 @@ session: 5
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
       <div class="try-it">
         <h2>Try It: CSS Classes</h2>
-        <p>Go back to your Compliment Generator. It's time to get creative! Add a class to an element that you have more than one of (like your buttons and/or images) and style them differently from each other.</p>
-        <p>Even better, add a class to every one of your HTML elements and style them using the class instead of the element name.</p>
+        <p>Go back to your Compliment Generator. Add a class to your instructions paragraph, and style it differently from the compliment paragraphs.</p>
+        <p>Want more practice? Add a class to every one of your HTML elements and style them using the class instead of the element name.</p>
       </div>
     </section>
   </div>
