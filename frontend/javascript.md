@@ -21,6 +21,29 @@ session: 3
     <hr>
     <section>
       <img class="section-image" src="{{ site.url }}/assets/images/braces.png" alt="HTML icon">
+      <h2 class="section-header">Programming is Challenging (and fun!)</h2>
+      <p>In this next section, we'll dive into the fundamentals of JavaScript. <b>It will be hard.</b></p>
+      <p>That said, it's entirely possible to learn and get better at! It's also 100% ok to not know everything.</p>
+      <div class="try-it">
+        <h2>Try It: Experienced Developer Tweets</h2>
+        <p>Take a moment to look through some <a target="blank "href="https://twitter.com/i/events/835969005668220930?lang=en">tweets from experienced developers</a>.</p>
+        <ol>
+          <li>With the person next to you, discuss: what themes do you notice?</li>
+          <li>When was the last time you failed at something? How did you react? What did you do?</li>
+          <li>What is something you used to struggle with but now feel comfortable with?</li>
+        </ol>
+      </div>
+      <h4>Traits of Successful Developers</h4>
+      <ul>
+        <li>Curiosity</li>
+        <li>Questioning</li>
+        <li>Resourcefulness</li>
+        <li>Teamwork</li>
+      </ul>
+    </section>
+    <hr>
+    <section>
+      <img class="section-image" src="{{ site.url }}/assets/images/braces.png" alt="HTML icon">
       <h2 class="section-header">What is JavaScript?</h2>
       <p>JavaScript is a language that allows us to interact with a webpage. With JavaScript, we can create logic, just as we can in Ruby. JavaScript lets us declare variables, functions, and more.</p>
     </section>
@@ -32,7 +55,7 @@ session: 3
       <p>A variable is like a box with a label on it. You can put something in the box, label it, and be able to reference that thing later by its label.</p>
       <p>Variables can be strings (text in between quotation marks), numbers, HTML elements, among many other things. Here are a few examples of JavaScript variables:</p>
       <pre><code>var age = 12;
-var school = 'Turing School of Software and Design;
+var school = 'Turing School of Software and Design';
 var firstName = 'Rachel';</code></pre>
       <h3>Why variables?</h3>
       <p>Why would we use variables? Well, since JavaScript is in charge of user interactions, we may want to hold a onto a piece of information for later use. For example, when the user clicks a button, we might want the text of a heading to change whenever the user clicks a button. Where do we keep that new text before the user clicks? In a variable! We'll see this in action a little later.</p>
@@ -68,9 +91,9 @@ var firstName = 'Rachel';</code></pre>
         <h2>Try It: Changing Text</h2>
         <ol>
           <li>Add an ID of <b>heading</b> to the &lt;h1&gt; in your HTML.</li>
-          <li>In your JavaScript tab, use <b>querySelector</b> to find that </li>
+          <li>In your JavaScript tab, use <b>querySelector</b> to find that ID.</li>
+          <li>Use <b>innerText</b> to change the text of that heading.</li>
         </ol>
-        <p>Use an ID in your HTML and querySelector in your JavaScript to change the text of your heading for your compliment page.</p>
         <p>Need help? Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/XWWQWML?editors=1010">this example</a>.</p>
       </div>
     </section>
