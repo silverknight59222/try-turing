@@ -134,10 +134,6 @@ session: 2
         </ol>
         <pre>section {
   background: yellow;
-}
-
-img {
-  width: 50%;
 }</pre>
       </div>
     </section>
