@@ -16,7 +16,6 @@ session: 2
       <ul>
         <li>Identify what HTML is used for in frontend development</li>
         <li>Add headings, paragraphs, buttons, images, and divs to a webpage</li>
-        <li>Identify individual HTML elements with IDs and classes</li>
       </ul>
     </section>
     <hr>

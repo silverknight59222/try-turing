@@ -70,8 +70,8 @@ var firstName = 'Rachel';</code></pre>
       <h2 class="section-header">Interacting with HTML</h2>
       <p>Variables can also represent parts of the HTML that we've written. For example, if we wanted a variable to represent the h1 heading at the top of our page, we'd need to do two things:</p>
       <ol>
-        <li>Add an ID to the h1 heading in the HTML.</li>
-        <li>Use the JavaScript method <code>querySelector</code> to go look for that element using the <code>#</code> symbol to indicate we're looking for an ID.</li>
+        <li>Add a class to the h1 heading in the HTML.</li>
+        <li>Use the JavaScript method <code>querySelector</code> to go look for that element using the <code>.</code> symbol to indicate we're looking for an class.</li>
       </ol>
       <p>Here's how that looks in practice:</p>
       <p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turingtrycoding" data-slug-hash="LYYvYVE" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="LYYvYVE">
@@ -90,8 +90,8 @@ var firstName = 'Rachel';</code></pre>
       <div class="try-it">
         <h2>Try It: Changing Text</h2>
         <ol>
-          <li>Add an ID of <b>heading</b> to the &lt;h1&gt; in your HTML.</li>
-          <li>In your JavaScript tab, use <b>querySelector</b> to find that ID.</li>
+          <li>Add a class of <b>heading</b> to the &lt;h1&gt; in your HTML.</li>
+          <li>In your JavaScript tab, use <b>querySelector</b> to find that class.</li>
           <li>Use <b>innerText</b> to change the text of that heading.</li>
         </ol>
         <p>Need help? Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/XWWQWML?editors=1010">this example</a>.</p>
@@ -140,13 +140,13 @@ var firstName = 'Rachel';</code></pre>
         <p>Go back to your Compliment Generator and follow the steps below in your HTML.</p>
         <ol>
           <li>Remove the compliment paragraph.</li>
-          <li>Add an ID to your button.</li>
-          <li>Add an ID to your section.</li>
+          <li>Add a class to your button.</li>
+          <li>Add a class to your section.</li>
         </ol>
         <p>In your JavaScript, complete these steps <b>under</b> your already written code:</p>
         <ol>
-          <li>Create a variable for the button using querySelector and the ID you chose.</li>
-          <li>Create a variable for the section using querySelector and the ID you chose.</li>
+          <li>Create a variable for the button using querySelector and the class you chose.</li>
+          <li>Create a variable for the section using querySelector and the class you chose.</li>
           <li>Create a click event listener for the button.</li>
           <li>Inside of the event listener, create an empty paragraph.</li>
           <li>Add compliment text to that empty paragraph.</li>

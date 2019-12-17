@@ -94,7 +94,7 @@ crossorigin="anonymous"></script>
   openEtherpadButton.addEventListener('click', function(){
     var etherpadName = document.querySelector('#etherpadurl').value
     document.querySelector('#etherpadurl').value = ""
-    var win = window.open(`http://etherpad.net/p/${etherpadName}`, '_blank');
+    var win = window.open(`https://pad.riseup.net/p/${etherpadName}-keep`, '_blank');
     win.focus();
   })
 </script>
