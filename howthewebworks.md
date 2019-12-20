@@ -2,7 +2,7 @@
 title: How the Internet Works
 layout: page
 course: "Try Coding"
-courselanding: /backend/
+courselanding: /
 session: 2
 ---
 
