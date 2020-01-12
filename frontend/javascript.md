@@ -26,20 +26,24 @@ session: 3
       <p>That said, it's entirely possible to learn and get better at! It's also 100% ok to not know everything.</p>
       <div class="try-it">
         <h2>Try It: Experienced Developer Tweets</h2>
-        <p>Take a moment to look through some <a target="blank "href="https://twitter.com/i/events/835969005668220930?lang=en">tweets from experienced developers</a>.</p>
+        <p>Take a moment to look through some tweets from experienced developers.</p>
+        <ul>
+          <li><a target="blank" href="https://twitter.com/getify/status/972495616600293381?lang=en">Tweet #1</a></li>
+          <li><a target="blank" href="https://twitter.com/MollyATX/status/834605666887151617">Tweet #2</a></li>
+          <li><a target="blank" href="https://twitter.com/StabbyCutyou/status/1019567754968485888">Tweet #3</a></li>
+          <li><a target="blank" href="https://twitter.com/Malarkey/status/1009825823262588929">Tweet #4</a></li>
+          <li><a target="blank" href="https://twitter.com/hacks4pancakes/status/835979787248222212">Tweet #5</a></li>
+          <li><a target="blank" href="https://twitter.com/OneDevloperArmy/status/1028964083813560320">Tweet #6</a></li>
+          <li><a target="blank" href="https://twitter.com/jschauma/status/835960607606202375">Tweet #7</a></li>
+        </ul>
+        <p>With the person next to you, discuss:</p>
         <ol>
-          <li>With the person next to you, discuss: what themes do you notice?</li>
+          <li>What themes do you notice?</li>
           <li>When was the last time you failed at something? How did you react? What did you do?</li>
           <li>What is something you used to struggle with but now feel comfortable with?</li>
         </ol>
       </div>
-      <h4>Traits of Successful Developers</h4>
-      <ul>
-        <li>Curiosity</li>
-        <li>Questioning</li>
-        <li>Resourcefulness</li>
-        <li>Teamwork</li>
-      </ul>
+      <p><b>Key Takeaway:</b> To be a developer, you don't have to remember everything. What's more important is that you're curious, resourceful, communicative, and you're not afraid to question how things work.</p>
     </section>
     <hr>
     <section>
@@ -91,7 +95,7 @@ var firstName = 'Rachel';</code></pre>
         <h2>Try It: Changing Text</h2>
         <ol>
           <li>Add a class of <b>heading</b> to the &lt;h1&gt; in your HTML.</li>
-          <li>In your JavaScript tab, use <b>querySelector</b> to find that class.</li>
+          <li>In your JavaScript tab, make a variable called <b>pageHeader</b> use <b>querySelector</b> to find that class.</li>
           <li>Use <b>innerText</b> to change the text of that heading.</li>
         </ol>
         <p>Need help? Check out <a target="blank" href="https://codepen.io/turingtrycoding/pen/XWWQWML?editors=1010">this example</a>.</p>
