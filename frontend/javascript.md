@@ -118,7 +118,7 @@ var firstName = 'Rachel';</code></pre>
       <div class="try-it">
         <h2>Try It: Let's Break Things!</h2>
         <p>One of the best ways to figure out what exactly is happening in code is by changing things to see what happens. What parts of the Javascript and HTML are connected? What things are arbitrary?</p>
-        <p>Together, let's make a fork of the example above and try changing a few things. Your instructor will guide you in testing out some changes, but we'll start with this one in your JavaScript: <i>What would break if you change <code>#banner-text</code> to <code>#pageHeader</code>?</i></p>
+        <p>Together, let's make a fork of the example above and try changing a few things. Your instructor will guide you in testing out some changes, but we'll start with this one in your JavaScript: <i>What would break if you change <code>.banner-text</code> to <code>.pageHeader</code>?</i></p>
       </div>
       <br>
       <div class="try-it">
