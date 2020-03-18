@@ -10,7 +10,6 @@ layout: lesson
 - Create variables to store Strings and Numbers
 - Combine static string data with variables using String interpolation
 
-
 ## What is JavaScript?
 
 JavaScript is a language that allows us to _interact_ with a webpage. We can write JavaScript that can access HTML elements and change their appearance or content based on the way a user interacts with the page.
