@@ -1,0 +1,48 @@
+.card-container {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  margin: 0 auto;
+  justify-content: space-around;
+  padding-top: 4rem;
+}
+
+.card {
+  background-color: white;
+  padding: 2rem 2rem 1.5rem;
+  display: inline-block;
+  box-shadow: 0 0 2px 1px rgba(0,0,0,.2);
+  min-height: 32rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40%;
+  max-height: 80%;
+}
+
+.fe-card {
+  border-top: .75rem solid #f9ae06;
+}
+
+.be-card {
+  border-top: .75rem solid #ef3852;
+}
+
+.fe-logo, .be-logo {
+  height: 7rem;
+}
+
+.card-title {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.card-text {
+  text-align: center;
+  height: 7rem;
+}
+
+.curriculum-btn {
+  width: 18rem;
+  margin-bottom: 1rem;
+}
