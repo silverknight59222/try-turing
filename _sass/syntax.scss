@@ -1,8 +1,9 @@
 code {
   font-family: monospace;
-  font-size: 1.2em;
-  padding: 3px;
-  background-color: #f4f4f4;
+  font-size: 1.5rem;
+  padding: 3px 5px;
+  border-radius: 2px;
+  background-color: #fff;
 }
 
 pre {
@@ -19,7 +20,7 @@ pre {
 }
 
 .highlight .hll { background-color: #d6d6d6 }
-.highlight  { background: #f4f4f4; color: #4d4d4c } /*bjm 8-15-16*/
+.highlight  { background: #fff; color: #4d4d4c } /*bjm 8-15-16*/
 .highlight .c { color: #8e908c } /* Comment */
 .highlight .err { color: #c82829 } /* Error */
 .highlight .k { color: #8959a8 } /* Keyword */
@@ -106,4 +107,3 @@ table tr th, table tr td {
   margin: 0;
   padding: 6px 20px;
 }
-
