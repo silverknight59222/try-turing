@@ -3,10 +3,35 @@
   margin: auto;
   max-width: 1200px;
 
+  h1, h2, h3, li, p {
+    color: $dark-gray;
+  }
+
   h1 {
+    font-family: "Helvetica Neue Heavy",sans-serif;
     padding-left: 0;
+    font-size: 2.5rem;
   }
-  li {
-    font-size: 22px;
+
+  h2 {
+    font-family: "Helvetica Neue", sans-serif;
+    margin-top: 1.75rem;
+    margin-bottom: 1rem;
+    font-size: 1.75rem;
   }
+
+  h3 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  li, p {
+    font-size: 20px;
+  }
+
+  ul {
+    padding-left: 3rem;
+  }
+
 }
