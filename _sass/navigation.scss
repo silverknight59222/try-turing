@@ -35,6 +35,10 @@ nav {
     }
   }
 
+  li:not(:first-child):hover {
+    background-color: #fff;
+  }
+  
   .home-logo-link img {
     display: block;
     height: 80px;
