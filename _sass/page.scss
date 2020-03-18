@@ -154,7 +154,7 @@ section ul {
 }
 
 section code {
-  font-size: 16px;
+  font-size: 1.25rem;
   color: #fc4b60
 }
 
@@ -200,6 +200,14 @@ textarea {
 
 li:hover, p:hover {
   background-color: #eeeeee;
+}
+
+.try-it-new {
+  box-shadow: 0 0 2px 1px rgba(0,0,0,.2);
+  padding: .5rem 3rem 1rem;
+  border-top: .75rem solid $teal;
+  background-color: white;
+  margin-bottom: 4rem;
 }
 
 .try-it {
@@ -249,7 +257,7 @@ li:hover, p:hover {
 .section-header {
   margin-top: 1px;
   border-bottom: 3px solid lighten($medium-gray, 20);
-  display: table; 
+  display: table;
 }
 
 .screenshot {
