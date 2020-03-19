@@ -17,6 +17,9 @@ As we wrap up our day together, take a moment to reflect on the questions below.
   </ul>
 </div>
 
-## Additional Resources
-
 ## Contact
+
+- For technical questions regarding the content we learned today, you can email Amy at amy@turing.io
+- For questions regarding applying, enrolling, or financing, please email Erin at erin@turing.io
+
+## Additional Resources
