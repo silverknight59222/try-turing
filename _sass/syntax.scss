@@ -19,6 +19,13 @@ pre {
   overflow: auto;
 }
 
+.highlight {
+  code {
+    span {
+      line-height: 1.75rem;
+    }
+  }
+}
 .highlight .hll { background-color: #d6d6d6 }
 .highlight  { background: #fff; color: #4d4d4c } /*bjm 8-15-16*/
 .highlight .c { color: #8e908c } /* Comment */
