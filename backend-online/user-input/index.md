@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: lesson
 ---
 
 # User Input
