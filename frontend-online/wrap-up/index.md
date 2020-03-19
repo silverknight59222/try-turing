@@ -27,3 +27,5 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 - <a target="blank" href="https://www.codecademy.com/learn/introduction-to-javascript">Codeacademy’s Javascript Course</a>
 - Jon Duckett's front-end books (you can find these with a Google search)
 - <a target="blank" href="https://scrimba.com/g/gflexbox">Scrimba Flexbox course</a>
+
+<a href="../">Back to Curriculum Index</a>

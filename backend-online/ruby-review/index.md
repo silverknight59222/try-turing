@@ -4,6 +4,8 @@ layout: lesson
 
 # Ruby Review
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Classify data as the Number, String, or Boolean data type

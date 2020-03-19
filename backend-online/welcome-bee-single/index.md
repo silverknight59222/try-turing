@@ -20,3 +20,5 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - **12:00 - 12:30** Student/Alum Panel, Turing Info
 - **12:30 - 2:15**  Instruction (2 breaks)
 - **2:15  - 2:30**  Wrap Up
+
+<a href="../">Back to Curriculum Index</a>

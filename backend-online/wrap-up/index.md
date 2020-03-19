@@ -26,3 +26,5 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 
 - <a target="blank" href="https://www.codeacademy.com/learn/learn-ruby">Codecademy’s Ruby course</a>
 - <a target="blank" href="https://pine.fm/learntoprogram/" >Chris Pine’s Ruby Book</a> (Free online, just click the chapters on the left hand side
+
+<a href="../">Back to Curriculum Index</a>

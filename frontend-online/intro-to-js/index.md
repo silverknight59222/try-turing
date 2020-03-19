@@ -4,6 +4,8 @@ layout: lesson
 
 # Intro to JavaScript
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Identify Strings and Numbers as JavaScript data types

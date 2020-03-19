@@ -4,6 +4,8 @@ layout: lesson
 
 # User Input
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Read code and predict what it does

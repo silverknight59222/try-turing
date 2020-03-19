@@ -4,6 +4,8 @@ layout: lesson
 
 # Control Flow
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Describe the purpose of a conditional statement

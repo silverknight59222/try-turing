@@ -4,6 +4,8 @@ layout: lesson
 
 # Dynamically Adding HTML
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Create new HTML elements in JavaScript

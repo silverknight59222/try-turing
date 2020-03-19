@@ -4,6 +4,8 @@ layout: lesson
 
 # Programming is Hard
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Develop an understanding for the type of mindset a developer must have

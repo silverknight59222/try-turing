@@ -4,6 +4,8 @@ layout: lesson
 
 # Event Listeners
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Understand the concept of an event listener

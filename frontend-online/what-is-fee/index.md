@@ -4,6 +4,8 @@ layout: lesson
 
 # What is FEE?
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Identify the key differences between front-end and back-end engineering

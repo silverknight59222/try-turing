@@ -4,6 +4,8 @@ layout: lesson
 
 # HTML Review
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Understand the purpose of HTML

@@ -4,6 +4,8 @@ layout: lesson
 
 # Twitter
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Define API

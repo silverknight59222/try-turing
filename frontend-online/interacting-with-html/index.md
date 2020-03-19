@@ -4,6 +4,8 @@ layout: lesson
 
 # Interacting with HTML
 
+<a href="../">Back to Curriculum Index</a>
+
 ## Goals
 
 - Declare variables that store HTML elements
