@@ -37,11 +37,8 @@ The code below shows four different variables. The numbers at the beginning of t
 
 ```ruby
 width = 50
-
 year_founded = 2014
-
 dinner_description = "Impossible burger with no onions"
-
 greeting = "Welcome to Try Coding!"
 ```
 

@@ -208,6 +208,13 @@ li:hover, p:hover {
   border-top: .75rem solid $teal;
   background-color: white;
   margin-bottom: 4rem;
+  pre {
+    border: 1px solid $dark-gray;
+    background-color: $dark-gray;
+    color: white;
+    font-size: 1.25rem;
+    border-radius: 2px;
+  }
 }
 
 .try-it {
