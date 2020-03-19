@@ -268,7 +268,7 @@ header {
 
     iframe {
       height: 400px;
-      
+
       @media (max-width: $phone-width) {
         width: 250px;
       }
@@ -279,7 +279,7 @@ header {
     display: block;
 
     iframe {
-      width: 800px; 
+      width: 800px;
       height: 400px;
     }
 
@@ -423,7 +423,7 @@ nav {
 
 .nav-links {
   display: grid;
-  grid-template-columns: auto 200px 200px;
+  grid-template-columns: auto 230px 230px;
   grid-template-rows: 120px;
   align-items: center;
   justify-items: center;
