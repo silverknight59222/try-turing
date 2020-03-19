@@ -9,7 +9,7 @@ layout: lesson
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
 - In another tab, open up <a target="blank" href="https://try.turing.io/">try.turing.io</a>
 - Make sure you have a fully charged computer or a charger close by
-- We recommend using headphones and finding a quiet work space to limit distractions.
+- We recommend using headphones and finding a quiet work space to limit distractions
 
 ### What to Expect
 

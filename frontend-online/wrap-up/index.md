@@ -23,3 +23,7 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 - For questions regarding applying, enrolling, or financing, please email Erin at erin@turing.io
 
 ## Additional Resources
+
+- Codeacademy’s Javascript Course: https://www.codecademy.com/learn/introduction-to-javascript
+- Jon Duckett's front-end books (you can find these with a Google search)
+- Scrimba Flexbox course: https://scrimba.com/g/gflexbox

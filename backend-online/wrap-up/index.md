@@ -23,3 +23,6 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 - For questions regarding applying, enrolling, or financing, please email Erin at erin@turing.io
 
 ## Additional Resources
+
+- Codecademy’s Ruby course: https://www.codeacademy.com/learn/learn-ruby
+- Chris Pine’s Ruby Book (Free online, just click the chapters on the left hand side: https://pine.fm/learntoprogram/
