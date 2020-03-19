@@ -4,6 +4,8 @@ layout: lesson
 
 # Back-End Online Curriculum
 
+<!-- - [Welcome](./welcome-bee-single) -->
+- [Welcome](./welcome-bee-weekend)
 - [How the Web Works](./how-the-web-works)
 - [What is Back-End Engineering?](./what-is-bee)
 - [Ruby Review](./ruby-review)
@@ -12,3 +14,4 @@ layout: lesson
 - [Control Flow](./control-flow)
 - [Twitter Project](./twitter)
 - [Loops](./code-challenge)
+- [Wrap Up](./wrap-up)
