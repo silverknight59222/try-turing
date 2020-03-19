@@ -22,8 +22,8 @@ puts "Hi, #{username}! It's so nice to meet you."
 <div class="try-it-new">
   <h2>Try It: Reading Unknown Code</h2>
   <ol>
-    <li>Look at the code snippet above below. With the person next to you, predict what will happen when we run this code.</li>
-    <li>Once you've made your predictions, run the code and look at the output. With the person next to you, review your original guesses and correct anything you wrongly predicted.</li>
+    <li>Look at the code snippet above. Predict what will happen when we run this code.</li>
+    <li>Once you've made your predictions, run the code and look at the output. Review your original guesses and correct anything you wrongly predicted. Be ready to share out!</li>
   </ol>
   <p><em>Finished Early?</em> How could you modify this code so that the user's name is capitalized correctly, no matter how they entered it?</p>
 </div>
