@@ -40,7 +40,6 @@ Take a moment to look through some tweets from experienced developers, then refl
   <ul>
     <li>What themes do you notice?</li>
     <li>When was the last time you failed at something? How did you react? What did you do?</li>
-    <li>What is the content inside the first <code>li</code> element?</li>
     <li>What is something you used to struggle with but now feel comfortable with? What did it take to get where you are now?</li>
   </ul>
 </div>
