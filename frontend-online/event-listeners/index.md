@@ -39,3 +39,6 @@ When we "break" code, we are engaging in a process of tinkering with it to bette
   <h2>Try It: Breaking Code</h2>
   <p>We'll first model breaking the code from the CodePen above, then have you try breaking the code in <a href="https://codepen.io/turing-school/pen/zYGayVY?editors=1010" target="blank">this CodePen</a>.</p>
 </div>
+
+<br>
+<a href="../">Back to Curriculum Index</a>

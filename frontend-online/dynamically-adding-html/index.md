@@ -42,3 +42,6 @@ Let's look at the example below in groups of 3. Click on "Edit on CodePen" to op
   </ul>
   <p><a href="https://codepen.io/turingtrycoding/pen/KKwKZqy?editors=1010" target="blank">Here is one completed example</a> if you are looking for a little more support!</p>
 </div>
+
+<br>
+<a href="../">Back to Curriculum Index</a>

@@ -64,3 +64,6 @@ Before we talk through it, take a minute to sit in that productive struggle and 
   <p>When you've completed this, you should see a different title and set of facts in your browser!</p>
   <p><em>Finished early and ready for a challenge?</em> Do some research to figure out how you can change the <code>src</code> attribute of an <code>img</code> tag in JavaScript! Then, update your image with one that goes with your new facts!</p>
 </div>
+
+<br>
+<a href="../">Back to Curriculum Index</a>

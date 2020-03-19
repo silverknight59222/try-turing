@@ -80,3 +80,6 @@ The `<button>` element has an opening and closing tag, and should have content.
   <p>Add two buttons to the HTML in your CodePen. The content can be whatever you choose!</p>
   <p><em>Finish Early?</em> Add a different ID to each button.</p>
 </div>
+
+<br>
+<a href="../">Back to Curriculum Index</a>

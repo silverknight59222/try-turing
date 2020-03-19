@@ -57,3 +57,6 @@ At Turing, we frame our thinking (which informs curriculum, instruction, and coa
   - solicit feedback to improve
   - view others' success as inspiration
 2. **Productive struggle** is a state of engagement where learners can work through increasingly challenging problems and problems they have never seen before. Strong developers learn to monitor their struggle and assess whether it is productive or unproductive. When it becomes unproductive, it's important to ask for help! Productive struggle helps people continue to develop their grit and creative problem solving!
+
+<br>
+<a href="../">Back to Curriculum Index</a>
