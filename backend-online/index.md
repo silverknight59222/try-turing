@@ -6,7 +6,6 @@ layout: lesson
 
 <!-- - [Welcome](./welcome-bee-single) -->
 - [Welcome](./welcome-bee-weekend)
-- [How the Web Works](./how-the-web-works)
 - [What is Back-End Engineering?](./what-is-bee)
 - [Ruby Review](./ruby-review)
 - [User Input](./user-input)

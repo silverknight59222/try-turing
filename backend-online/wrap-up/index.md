@@ -19,10 +19,10 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 
 ## Contact
 
-- For technical questions regarding the content we learned today, you can email Amy at amy@turing.io
-- For questions regarding applying, enrolling, or financing, please email Erin at erin@turing.io
+- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong>
+- For questions regarding enrollment and financing, please email Darren at <strong>darren@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/darrenatturing" >set up a time to work with him here</a>.
 
 ## Additional Resources
 
-- Codecademy’s Ruby course: https://www.codeacademy.com/learn/learn-ruby
-- Chris Pine’s Ruby Book (Free online, just click the chapters on the left hand side: https://pine.fm/learntoprogram/
+- <a target="blank" href="https://www.codeacademy.com/learn/learn-ruby">Codecademy’s Ruby course</a>
+- <a target="blank" href="https://pine.fm/learntoprogram/" >Chris Pine’s Ruby Book</a> (Free online, just click the chapters on the left hand side

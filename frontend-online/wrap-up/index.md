@@ -19,11 +19,11 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 
 ## Contact
 
-- For technical questions regarding the content we learned today, you can email Amy at amy@turing.io
-- For questions regarding applying, enrolling, or financing, please email Erin at erin@turing.io
+- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong>
+- For questions regarding enrollment and financing, please email Darren at <strong>darren@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/darrenatturing" >set up a time to work with him here</a>.
 
 ## Additional Resources
 
-- Codeacademy’s Javascript Course: https://www.codecademy.com/learn/introduction-to-javascript
+- <a target="blank" href="https://www.codecademy.com/learn/introduction-to-javascript">Codeacademy’s Javascript Course</a>
 - Jon Duckett's front-end books (you can find these with a Google search)
-- Scrimba Flexbox course: https://scrimba.com/g/gflexbox
+- <a target="blank" href="https://scrimba.com/g/gflexbox">Scrimba Flexbox course</a>
