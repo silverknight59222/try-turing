@@ -2,13 +2,13 @@
 layout: lesson
 ---
 
-# What is Back-End-Engineering?
+# What is Back-End Engineering?
 
 <a href="../">Back to Curriculum Index</a>
 
 ## Goals
 
-- Identify the key differences between frontend and backend engineering
+- Identify the key differences between front-end and back-end engineering
 - Categorize various technologies used in backend engineering
 
 ## What is Back-End?
