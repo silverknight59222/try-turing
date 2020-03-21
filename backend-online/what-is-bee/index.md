@@ -34,7 +34,7 @@ When we talk about back-end programming, we're often thinking of the programming
 - Manipulating, analyzing, and/or calculating data
 - Making sure data can be retrieved quickly and easily
 
-## So, to sum up:
+## Back-End & Front-End
 
 The **front-end** is the part of the application that users see, touch, and interact with. This is the code that produces the experience in front of the user.
 
