@@ -4,7 +4,7 @@ layout: lesson
 
 # Welcome to Try Coding!
 
-### To Get Set Up:
+### To Get Set Up
 
 - Open up <a target="blank" href="http://codepen.io/">codepen.io</a> in a browser (preferably Chrome) and login to your account
 - In another tab, open up <a target="blank" href="https://try.turing.io/">try.turing.io</a>

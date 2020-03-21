@@ -4,7 +4,7 @@ layout: lesson
 
 # Welcome to Try Coding!
 
-### To Get Set Up:
+### To Get Set Up
 
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
