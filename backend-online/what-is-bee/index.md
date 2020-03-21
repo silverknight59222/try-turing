@@ -44,9 +44,9 @@ The **back-end** typically handles stuff like storing information in databases, 
 
 There are numerous technologies that can be used for back-end programming. Here are a few of them:
 
-- **Languages and frameworks**: Ruby/Rails, Python/Django, Elixir/Phoenix, Java/Spring, PHP/Laravel, etc. A framework is kind of like a set of Lincoln Logs. You can think of a framework as providing "pre-cut" pieces of code that you'll need in order to build an application, just like Lincoln Logs provide "pre-cut" pieces wood that you can use to build a tiny house.
-- **Databases**: PostgreSQL, MySQL, Oracle Database, MongoDB, DynamoDB, etc.
-Hosting: AWS (Amazon Web Services), Digital Ocean, GoDaddy, Heroku, etc.
+- **Languages and frameworks**: Ruby/Rails, Python/Django, Elixir/Phoenix, Java/Spring, and more. A framework is kind of like a set of Lincoln Logs. You can think of a framework as providing "pre-cut" pieces of code that you'll need in order to build an application, just like Lincoln Logs provide "pre-cut" pieces wood that you can use to build a tiny house.
+- **Databases**: PostgreSQL, MySQL, Oracle Database, MongoDB, etc.
+- **Hosting**: AWS (Amazon Web Services), Digital Ocean, GoDaddy, Heroku, etc.
 
 We won't be talking about anything except for a teeny tiny part of Ruby. However, we hope that these terms give you a lay of the land so that next time you hear one of these words, you can say "Aha! That's a database."
 
