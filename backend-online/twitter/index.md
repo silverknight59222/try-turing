@@ -23,9 +23,12 @@ We'll start Part 1 here in class, but the remainder is meant as a take-home proj
 
 Fair warning, the code for this setup portion can look a little confusing 😬. Instead of diving into the details of what everything in the setup is doing, we will just look at a high-level overview and trust that the pieces will do their jobs.
 
-Follow the directions below in a _new repl_.
+If your last name starts with A-G, use this repl.
+If your last name starts with H-M, use this repl.
+If your last name starts with N-T, use this repl.
+If your last name starts with U-z, use this repl.
 
-#### Installing the Gem
+### Installing the Gem
 
 First, we'll install a Gem (which is a piece of code written by someone else) that we can use to interact with Twitter via Ruby. If we use the Lincoln Logs analogy again, installing the Twitter Gem is like going to the toy store and buying a box of Lincoln Logs, pieces we'll use to build our application.
 

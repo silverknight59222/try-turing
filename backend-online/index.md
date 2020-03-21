@@ -12,5 +12,6 @@ layout: lesson
 - [Programming is Hard](./programming)
 - [Control Flow](./control-flow)
 - [Looping](./looping)
-- [Twitter Project](./twitter)
+<!-- - [Twitter Project](./twitter) -->
+- [Final Challenge](./code-challenge)
 - [Wrap Up](./wrap-up)
