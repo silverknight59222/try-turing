@@ -6,6 +6,7 @@ layout: lesson
 
 ### To Get Set Up:
 
+- Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
 - In another tab, open up <a target="blank" href="https://try.turing.io/">try.turing.io</a>
 - Make sure you have a fully charged computer or a charger close by
