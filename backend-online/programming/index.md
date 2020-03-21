@@ -16,7 +16,7 @@ layout: lesson
   <h2>Discussion</h2>
   <ul>
     <li>What sparked your interest in coding?</li>
-    <li>Which, if any, of the examples shared in the previous section spoke to you most?</li>
+    <li>Do you currently know if you are more interested in front-end or back-end?</li>
   </ul>
 </div>
 
