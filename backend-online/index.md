@@ -11,6 +11,6 @@ layout: lesson
 - [User Input](./user-input)
 - [Programming is Hard](./programming)
 - [Control Flow](./control-flow)
+- [Looping](./looping)
 - [Twitter Project](./twitter)
-- [Loops](./code-challenge)
 - [Wrap Up](./wrap-up)

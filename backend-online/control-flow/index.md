@@ -37,7 +37,7 @@ Great! Let's make it slightly more complicated:
     <iframe height="400px" width="100%" src="https://repl.it/@turingtrycoding/controlflowifelsif?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
     <li>Once you've made your predictions, run the code and look at the output. With the person next to you, review your original guesses and correct anything you wrongly predicted.</li>
   </ol>
-  <p><em>Finished Early?</em> 1: What would you need to change about the program in order to print out "Meh" if the user types in "Snickerdoodle"? 2: Without adding any new lines of code (just modifying existing lines), could you make it say "Correct!" for **either** Chocolate Chip **or** Peanut Butter?</p>
+  <p><em>Finished Early?</em> Without adding any new lines of code (just modifying existing lines), could you make it say "Correct!" for **either** Chocolate Chip **or** Peanut Butter?</p>
 </div>
 
 ## Solving Problems Without Knowing Everything
@@ -60,5 +60,9 @@ Luckily for you, we won't make this _too_ difficult today. The following resourc
 Turing
 Even!</pre>
 <p>Try running your program a few times with different inputs.</p>
-  <p><em>Finished Early?</em> 1: Can you make your program tell the user not only if a word has an even or odd number of characters, but also how many characters they entered? For example, your program would say: Even! (6) or Odd! (3) 2: 🔥 Can you make your program only count characters, but ignore spaces? For example, if the user types in chocolate chip cookies are the best, your program should return 30, not 35. It might help to google something like how do you ___________ in Ruby?</p>
+  <p><em>Finished Early?</em></p>
+  <ul>
+    <li>Can you make your program tell the user not only if a word has an even or odd number of characters, but also how many characters they entered? For example, your program would say: Even! (6) or Odd! (3)</li>
+    <li>Can you make your program only count characters, but ignore spaces? For example, if the user types in chocolate chip cookies are the best, your program should return 30, not 35. It might help to google something like how do you ___________ in Ruby?</li>
+  </ul>
 </div>
