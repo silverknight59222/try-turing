@@ -19,7 +19,7 @@ If we think about our favorite web applications, what generally makes them speci
 
 Consider a popular website like Amazon. When we view an Amazon page, what are the parts we actually care about? Why did we come here in the first place?
 
-In the screenshot below, the pink boxes represent examples of **dynamic data** that had to be stored somewhere. That "somewhere" is what backend programming is concerned with.
+In the screenshot below, the pink boxes represent examples of **dynamic data** that had to be stored somewhere. That "somewhere" is what back-end programming is concerned with.
 
 <img src="{{ site.url }}/assets/images/amazon.png" alt="Amazon.com screenshot">
 
