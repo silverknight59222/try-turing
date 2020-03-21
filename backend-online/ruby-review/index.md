@@ -52,7 +52,7 @@ If it helps, you can think of a variable as a labeled box, and inside that box i
 
 Once you've defined variables, you can use them like this:
 
-<iframe height="400px" width="100%" src="https://repl.it/@turingtrycoding/printingstrings?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@ameseee/variables?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 <div class="try-it-new">
   <h2>Try It: Variables</h2>
