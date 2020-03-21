@@ -23,7 +23,7 @@ layout: lesson
   <ol>
     <li>Look at the code in the repl below. Jot down your prediction of what will happen when we run this code.</li>
     <iframe height="400px" width="100%" src="https://repl.it/@turingtrycoding/controlflowbasic?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-    <li>Once you've made your predictions, run the code and look at the output. With the person next to you, review your original guesses and correct anything you wrongly predicted.</li>
+    <li>Once you've made your predictions, run the code and look at the output. Review your original guesses and correct anything you wrongly predicted.</li>
   </ol>
   <p><em>Finished Early?</em> How could you modify this code so that it doesn't matter whether or not the user types capital letters or lower case letters?</p>
 </div>
@@ -35,7 +35,7 @@ Great! Let's make it slightly more complicated:
   <ol>
     <li>Look at the code in the repl below. Jot down your prediction of what will happen when we run this code.</li>
     <iframe height="400px" width="100%" src="https://repl.it/@turingtrycoding/controlflowifelsif?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-    <li>Once you've made your predictions, run the code and look at the output. With the person next to you, review your original guesses and correct anything you wrongly predicted.</li>
+    <li>Once you've made your predictions, run the code and look at the output. Review your original guesses and correct anything you wrongly predicted.</li>
   </ol>
   <p><em>Finished Early?</em> Without adding any new lines of code (just modifying existing lines), could you make it say "Correct!" for **either** Chocolate Chip **or** Peanut Butter?</p>
 </div>
