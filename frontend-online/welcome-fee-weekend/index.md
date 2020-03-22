@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Welcome to Try Coding!
+# Welcome Back!
 
 ### To Get Set Up
 
@@ -13,14 +13,14 @@ layout: lesson
 
 ### What to Expect
 
-Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day:
+Over the course of the day, we will write code, continue to embrace productive struggle, and learn more about Turing.  We will ask you to share your code and be proactive about asking questions! Below is our agenda for the day:
 
-- **10:00 - 11:45** Welcome, Intros, and Instruction (1 break)
+- **10:00 - 11:45** Welcome, Intros, and Instruction
 - **11:45 - 12:00** Break
-- **12:00 - 12:30** Turing Info: Enrollment, Admissions, & Financing
-- **12:30 - 2:15**  Instruction (2 breaks)
+- **12:00 - 12:30** Turing Info Session
+- **12:30 - 12:45** Break
+- **12:45 - 2:15**  Instruction
 - **2:15  - 2:30**  Wrap Up
 
-<img src="./assets/images/zoom-markedup.png" alt="screenshot of zoom">
 
 <a href="../">Back to Curriculum Index</a>
