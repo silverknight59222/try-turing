@@ -15,7 +15,7 @@ layout: lesson
 
 JavaScript is also used to add brand new HTML elements to the page. On some social media sites, once you finish scrolling to the bottom of the page, you'll see a button that says See More. When you click it, new things magically show up! How does this happen?
 
-Open the CodePen below in a new tab. Seeing the full code will help you start to recognize JavaScript patterns. With your small group, walk through the code and see how much you can understand on your own. Then, we'll come back together and discuss.
+Open the CodePen below in a new tab. Seeing the full code will help you start to recognize JavaScript patterns. Read through the code and see how much you can understand on your own. Then, we'll come back together and discuss.
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing-school" data-slug-hash="PoqaVex" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="PoqaVex">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/PoqaVex">
