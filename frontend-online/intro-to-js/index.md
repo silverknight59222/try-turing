@@ -66,7 +66,7 @@ Variables are at the core of everything we do in programming and this isn't uniq
 <div class="try-it-new">
   <h2>Try It: Variables</h2>
   <p>Create a new pen in CodePen. For this exercise, you will be working in the JavaScript (JS) pane.</p>
-  <p>Declare 4 variables, using the names <code>name</code>, <code>email</code>, <code>numberOfPets</code>, and<code>location</code>. Assign each to an appropriate value.</p>
+  <p>Declare 4 variables, using the names <code>name</code>, <code>email</code>, <code>numberOfPets</code>, and<code>myLocation</code>. Assign each to an appropriate value.</p>
 </div>
 
 ## Interpolation
