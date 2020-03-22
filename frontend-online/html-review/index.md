@@ -10,7 +10,7 @@ layout: lesson
 
 - Understand the purpose of HTML
 - Be able to read through an HTML file and anticipate what the browser will render
-- Apply classes and IDs to HTML elements
+- Apply IDs to HTML elements
 - Create buttons in HTML
 
 ## HTML
@@ -19,7 +19,7 @@ Of all of the major technologies used on the web, on either the front- or the ba
 
 HTML is still an essential part of modern web applications. It holds the content and creates the structure of a webpage.
 
-insert image here of a screen shot of this page, with the HTML structure.
+<img src="{{ site.url}}/assets/images/header-buckets.png" alt="Marked up nav bar showing how elements are nested"/>
 
 ## Tags, Content, Elements
 

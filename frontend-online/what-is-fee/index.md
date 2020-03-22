@@ -9,7 +9,7 @@ layout: lesson
 ## Goals
 
 - Identify the key differences between front-end and back-end engineering
-- Categorize various technologies used in frontend engineering
+- Categorize various technologies used in front-end engineering
 
 ## What is Front-End?
 
@@ -57,7 +57,7 @@ Big numbers are difficult to imagine. How can you imagine a billion? Even a thou
 ## You Don't Have to Be a Designer
 
 <img class="small-img" src="{{ site.url }}/assets/images/comp.jpg" alt="To Do list application">
-<img class="small-img" src="{{ site.url }}/assets/images/comp-details.jpg" alt="One section of To Do List application, arrows pointing to each section to notate size and colors.">
+<img class="small-img" src="{{ site.url }}/assets/images/comp-details.png" alt="One section of To Do List application, arrows pointing to each section to notate size and colors.">
 
 Front-end developers often work with designers, who provide detailed comps like the one above. These comps allow a front-end developer to focus on managing the complicated interactions of the site.
 

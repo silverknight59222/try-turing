@@ -39,7 +39,13 @@ When we "break" code, we are engaging in a process of tinkering with it to bette
 
 <div class="try-it-new">
   <h2>Try It: Breaking Code</h2>
-  <p>We'll first model breaking the code from the CodePen above, then have you try breaking the code in <a href="https://codepen.io/turing-school/pen/zYGayVY?editors=1010" target="blank">this CodePen</a>.</p>
+  <p>We'll first model breaking the code from the CodePen above, then have you try breaking the code in <a href="https://codepen.io/turing-school/pen/zYGayVY?editors=1010" target="blank">this CodePen</a>. Follow the prompts below to explore it!</p>
+  <ul>
+    <li>What happens if you remove lines 2-5 from the code?</li>
+    <li>Bring back lines 2-4, now remove line 5. What happens?</li>
+    <li>Bring back line 5. Remove line 7. What happens?</li>
+    <li>Bring back line 7. Remove lines 10-16. What happens?</li>
+  </ul>
 </div>
 
 <br>

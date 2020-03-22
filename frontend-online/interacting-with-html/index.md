@@ -16,24 +16,24 @@ layout: lesson
 Variables can also represent parts of the HTML that we've written. For example, if we wanted a variable to represent the h1 heading at the top of our page, we'd need to do two things:
 
 1. Add a class to the `h1` element in the HTML
-2. Use the JavaScript method `.querySelector` to access that element
+2. Use the JavaScript method `.getElementById` to access that element
 
 Here's how that looks in practice:
 
 ```html
-<h1 class="greeting">Hello, world!</h1>
+<h1 id="greeting">Hello, world!</h1>
 ```
 
 ```js
-var greetingMessage = document.querySelector('.greeting');
+var greetingMessage = document.getElementById('greeting');
 
 console.log(greetingMessage);
-// "<h1 class="greeting">Hello, world!</h1>" will print out to the console
+// "<h1 id="greeting">Hello, world!</h1>" will print out to the console
 ```
 
 <div class="try-it-new">
   <h2>Try It: Accessing HTML Elements</h2>
-  <p>Fork <a href="https://codepen.io/turing-school/pen/rNVKQjG?editors=1010" target="blank">this CodePen</a>. Declare four variables, each storing one of the four text-based HTML elements already written. You can decide the variable names to use!</p>
+  <p>Fork <a href="https://codepen.io/turing-school/pen/rNVKQjG?editors=1010" target="blank">this CodePen</a>. Declare four variables, each storing one of the four text-based HTML elements already written. You can decide the variable names to use! In order to access each element, you'll need a <em>unique</em> way to identify each one.</p>
   <p>Print each variable out to the console to verify your syntax is correct.</p>
   <p><em>Keep this pen open in a tab; we'll come back to it in the next section!</em></p>
 </div>

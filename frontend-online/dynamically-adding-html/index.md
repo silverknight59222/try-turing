@@ -26,7 +26,8 @@ Let's look at the example below in groups of 3. Click on "Edit on CodePen" to op
 
 <div class="try-it-new">
   <h2>Try It: Putting it All Together</h2>
-  <p>Use <a href="https://codepen.io/turing-school/pen/zYGayVY?editors=1010" target="blank">this CodePen</a> as a starter for this final challenge! Your goal is to build an application that displays a fun picture and button. When the user clicks the button, they get surprised with a compliment! You can determine what level of challenge you are up for. Spicy: take those directions and get to work. Medium: follow the steps below for a little guidance.</p>
+  <p>Use <a href="https://codepen.io/turing-school/pen/zYGayVY?editors=1010" target="blank">this CodePen</a> as a starter for this final challenge! Your goal is to build an application that displays a fun picture and button. When the user clicks the button, they get surprised with a compliment! You can determine what level of challenge you are up for. <em<Spicy</em>: take those directions and get to work.</p>
+  <p>Not ready for the Spicy challenge? That's ok! Follow the steps below for a little guidance.</p>
   <p>Complete these steps in the HTML pane:</p>
   <ul>
     <li>Add values to the <code>src</code> and <code>alt</code> attributes in the <code>img</code> tag in HTML</li>

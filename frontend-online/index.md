@@ -13,4 +13,5 @@ layout: lesson
 - [Interacting with HTML](./interacting-with-html)
 - [Event Listeners](./event-listeners)
 - [Dynamically Adding HTML](./dynamically-adding-html)
+- [Connecting a Front-End and Back-End](./frontend-backend)
 - [Wrap Up](./wrap-up)
