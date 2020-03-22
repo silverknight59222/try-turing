@@ -86,8 +86,8 @@ Anything inside the back ticks will be read as a string. But, when the interpret
 
 <div class="try-it-new">
   <h2>Try It: Interpolation</h2>
-  <p>Using interpolation and at least two of the variables you declared in the previous section, write a sentence about yourself!</p>
-  <p>Change the value of one of the Strings you interpolated a re-run your code. Is the difference reflected in the output?</p>
+  <p>Using interpolation and at least two of the variables you declared in the previous section, write a sentence about yourself! Make sure to print that sentence out to the console.</p>
+  <p>Change the value of one of the Strings you interpolated and re-run your code. Is the difference reflected in the output?</p>
 </div>
 
 <br>
