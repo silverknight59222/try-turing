@@ -45,7 +45,16 @@ When we "break" code, we are engaging in a process of tinkering with it to bette
     <li>Bring back lines 2-4, now remove line 5. What happens?</li>
     <li>Bring back line 5. Remove line 7. What happens?</li>
     <li>Bring back line 7. Remove lines 10-16. What happens?</li>
+    <li>Why isn't the image changing? Look at lines 5 in both HTML and JS and see if you can identify the problem.</li>
   </ul>
+</div>
+
+## Applying What We've Learned
+
+<div class="try-it-new">
+  <h2>Try It: Breaking Code</h2>
+  <p>Back in your puppy CodePen, add a button in the HTML.</p>
+  <p>Write code in the JavaScript pane so that when the button is clicked, the title of the webpage changes!</p>
 </div>
 
 <br>

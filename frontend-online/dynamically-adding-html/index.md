@@ -26,13 +26,13 @@ Open the CodePen below in a new tab. Seeing the full code will help you start to
 
 <div class="try-it-new">
   <h2>Try It: Putting it All Together</h2>
-  <p>Use <a href="https://codepen.io/turing-school/pen/zYGayVY?editors=1010" target="blank">this CodePen</a> as a starter for this final challenge! Your goal is to build an application that displays a fun picture and button. When the user clicks the button, they get surprised with a compliment! You can determine what level of challenge you are up for. <em<Spicy</em>: take those directions and get to work.</p>
+  <p>Use <a target="blank" href="https://codepen.io/turing-school/pen/BaNOdjj?editors=1010">this CodePen as a starter</a>. Your goal is to build an application that displays a fun picture and button. When the user clicks the button, they get surprised with a compliment! You can determine what level of challenge you are up for. <em<Spicy</em>: take those directions and get to work.</p>
   <p>Not ready for the Spicy challenge? That's ok! Follow the steps below for a little guidance.</p>
   <p>Complete these steps in the HTML pane:</p>
   <ul>
     <li>Add values to the <code>src</code> and <code>alt</code> attributes in the <code>img</code> tag in HTML</li>
-    <li>Add a class to the <code>button</code> in the HTML</li>
-    <li>Add a class to the <code>div</code> in the HTML</li>
+    <li>Add an id to the <code>button</code> in the HTML</li>
+    <li>Add an id to the <code>div</code> in the HTML</li>
   </ul>
   <p>Complete these steps in the JS file:</p>
   <ul>
