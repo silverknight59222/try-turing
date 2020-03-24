@@ -20,7 +20,7 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 ## Contact
 
 - For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong>
-- For questions regarding enrollment and financing, please email Darren at <strong>darren@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/darrenatturing" >set up a time to work with him here</a>.
+- For questions regarding admissions and enrollment, please email Erin at <strong>darren@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/Erincall" >set up a time to work with her here</a>.
 
 ## Additional Resources
 
