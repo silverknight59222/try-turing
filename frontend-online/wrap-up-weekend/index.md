@@ -12,7 +12,7 @@ As we wrap up our day together, take a moment to reflect on the questions below.
   <h2>Wrap Up: Reflection</h2>
   <ul>
     <li>What was FUN about coding today?</li>
-    <li>When did you demonstrate a growth mindset?</li>
+    <li>Do you feel more excited about back-end or front-end now, and why?</li>
     <li>What lingering questions do you have about the technical work we did today?</li>
   </ul>
 </div>
@@ -24,8 +24,9 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 
 ## Additional Resources
 
-- <a target="blank" href="https://www.codeacademy.com/learn/learn-ruby">Codecademy’s Ruby course</a>
-- <a target="blank" href="https://pine.fm/learntoprogram/" >Chris Pine’s Ruby Book</a> (Free online, just click the chapters on the left hand side
+- <a target="blank" href="https://www.codecademy.com/learn/introduction-to-javascript">Codeacademy’s Javascript Course</a>
+- Jon Duckett's front-end books (you can find these with a Google search)
+- <a target="blank" href="https://scrimba.com/g/gflexbox">Scrimba Flexbox course</a>
 
 <br>
 <a href="../">Back to Curriculum Index</a>
