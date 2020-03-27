@@ -17,11 +17,11 @@ In a broad sense, back-end programming is concerned with managing ​data​ (ak
 
 If we think about our favorite web applications, what generally makes them special and useful to us is their ability to **do dynamic things**. In most cases, we'd like our website to be able to ​do things -- to record data we tell it to record, store information for us, and be able to retrieve that data later.
 
-Consider a popular website like Amazon. When we view an Amazon page, what are the parts we actually care about? Why did we come here in the first place?
+Consider an increasingly popular website like Instacart. When we view an Instacart page, what are the parts we actually care about? Why did we come here in the first place?
 
-In the screenshot below, the pink boxes represent examples of **dynamic data** that had to be stored somewhere. That "somewhere" is what back-end programming is concerned with.
+In the screenshot below, the blue boxes represent examples of **dynamic data** that had to be stored somewhere. That "somewhere" is what back-end programming is concerned with.
 
-<img src="{{ site.url }}/assets/images/amazon.png" alt="Amazon.com screenshot">
+<img src="{{ site.url }}/assets/images/instacart.png" alt="Instacart.com screenshot">
 
 All of the stylistic pieces (including the layout, colors, sizes, and user interactions) are considered **front-end** concerns.
 
