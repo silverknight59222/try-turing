@@ -66,3 +66,5 @@ Even!</pre>
     <li>Can you make your program only count characters, but ignore spaces? For example, if the user types in chocolate chip cookies are the best, your program should return 30, not 35. It might help to google something like how do you ___________ in Ruby?</li>
   </ul>
 </div>
+
+<a href="../">Back to Curriculum Index</a>

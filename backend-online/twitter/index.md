@@ -90,6 +90,8 @@ Now that you've got the setup down, it's time to add some more interesting funct
   <p><em>Spicy Challenge:</em> Can you modify your program so it continues to prompt the user until they enter a tweet that is less than 140 characters? <em>Hint: You'll need a loop 🍩!</em></p>
 </div>
 
+<a href="../">Back to Curriculum Index</a>
+
 <script>
   var openTwitterButton = document.querySelector('#twitterbutton2');
   openTwitterButton.addEventListener('click', function(){

@@ -76,3 +76,5 @@ print "Welcome to Try Coding, #{first_name}!"
   <p>Next, predict what will happen if you change the string that the <code>first_name</code> variable is storing. What will print?</p>
   <p>Finally, type the code into your repl and run it - does that verify or falsify your prediction?</p>
 </div>
+
+<a href="../">Back to Curriculum Index</a>

@@ -81,3 +81,5 @@ Have you ever been a car with a five-year-old?
   <p><b>Training Wheels:</b> If you're not sure how to start, you can use <a target="blank" href="https://repl.it/@turingtrycoding/loopingtrainingwheels">this starter code</a>.</p>
   <p><em>Finished Early?</em> Can you make your program case-insensitive? This means that the user should be able to enter "YES" or "Yes" or "yes" or "yEs", etc.</p>
 </div>
+
+<a href="../">Back to Curriculum Index</a>

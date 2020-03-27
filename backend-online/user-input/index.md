@@ -8,10 +8,9 @@ layout: lesson
 
 ## Goals
 
-- Read code and predict what it does
 - Write a program that gets and uses input from the user
 
-## Reading Unknown Code
+## Getting User Input
 
 Our programs haven't been very exciting so far because we already know what will happen just by looking at the code. What if your program incorporated input from the user?
 
@@ -21,12 +20,11 @@ username = gets.chomp
 puts "Hi, #{username}! It's so nice to meet you."
 ```
 
+Let's run this code in a _repl_ to see what happens!
+
 <div class="try-it-new">
-  <h2>Try It: Reading Unknown Code</h2>
-  <ol>
-    <li>Look at the code snippet above. Predict what will happen when we run this code.</li>
-    <li>Once you've made your predictions, run the code and look at the output. Review your original guesses and correct anything you wrongly predicted. Be ready to share out!</li>
-  </ol>
+  <h2>Try It: Getting User Input</h2>
+  <p>Write a small program that asks a user for their favorite snack, then responds with a sentence of your choice! <em>Consider: what variable name will you use to label that user input?</em></p>
   <p><em>Finished Early?</em> How could you modify this code so that the user's name is capitalized correctly, no matter how they entered it?</p>
 </div>
 
@@ -41,3 +39,5 @@ We know how to get one input from a user. How do we go about getting multiple in
   <p>Try running your program a few times with different values stored in the variables.</p>
   <p><em>Finished Early?</em> First, try adding a string method to your program to lowercase the user's email address. If you're ready for a bigger challenge, try splitting up your city and state so that you can upcase the state and capitalize the city.</p>
 </div>
+
+<a href="../">Back to Curriculum Index</a>

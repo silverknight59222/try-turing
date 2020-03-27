@@ -24,3 +24,5 @@ Too high!
 9
 Correct!</pre>
 </div>
+
+<a href="../">Back to Curriculum Index</a>
