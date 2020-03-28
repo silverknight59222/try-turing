@@ -22,7 +22,7 @@ layout: lesson
 
 ## Tweets From Experienced Developers
 
-In this next section, we'll dive into the fundamentals of JavaScript. **It will be hard**. That said, it's entirely possible to learn and get better at! It's also 100% ok to not know everything.
+In this next section, we'll dive deeper into the fundamentals of Ruby. **It will be hard**. That said, it's entirely possible to learn and get better at! It's also 100% ok to not know everything.
 
 Take a moment to look through some tweets from experienced developers, then reflect on the questions below.
 
