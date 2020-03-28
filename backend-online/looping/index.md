@@ -28,15 +28,8 @@ A _sentry variable_ is the piece of data that is in full control of whether or n
 - Keep taking bites until your dinner is finished: sentry variable is `dinner_finished`
 
 <div class="try-it-new">
-  <h2>Try It: Identifying Sentry Variables and Looping Examples</h2>
-  <p>Look at the scenarios below. Identify the sentry variable in each case, and be ready to share out!</p>
-  <ul>
-    <li>Keep pressing keys <b>until</b> your essay is finished: sentry variable is <code>________</code></li>
-    <li>(on a page of 20 math problems) Keep solving math problems <b>until</b> you have done all 20: sentry variable is <code>_________</code></li>
-    <li>Keep making burritos <b>until</b> you have enough to feed all of your friends: sentry variable is <code>________</code></li>
-    <li>Keep washing dishes <b>until</b> until there are no more in the sink: sentry variable is <code>________</code></li>
-  </ul>
-  <p>Next, brainstorm:</p>
+  <h2>Try It: Looping Examples</h2>
+  <p>Brainstorm:</p>
   <ol>
     <li>An example of a loop in real life that happens a set number of times. What is the sentry variable? </li>
     <li>An example of a loop in real life that might happen an indefinite number of times. What is the sentry variable? </li>
