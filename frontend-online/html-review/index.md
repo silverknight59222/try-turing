@@ -80,7 +80,12 @@ The `<button>` element has an opening and closing tag, and should have content.
 <div class="try-it-new">
   <h2>Try It: Buttons</h2>
   <p>Add two buttons to the HTML in your CodePen. The content can be whatever you choose!</p>
-  <p><em>Finish Early?</em> Add a different ID to each button.</p>
+  <div class="spicy-container">
+    <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>
+    <div class="spicy-toggle">
+      <p>Add a different ID to each button.</p>
+    </div>
+  </div>
 </div>
 
 <br>
