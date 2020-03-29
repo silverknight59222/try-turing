@@ -59,12 +59,19 @@ Luckily for you, we won't make this _too_ difficult today. The following resourc
   <pre>Enter a piece of text:
 Turing
 Even!</pre>
+<pre>Enter a piece of text:
+Hello
+Odd!</pre>
 <p>Try running your program a few times with different inputs.</p>
-  <p><em>Finished Early?</em></p>
-  <ul>
-    <li>Can you make your program tell the user not only if a word has an even or odd number of characters, but also how many characters they entered? For example, your program would say: Even! (6) or Odd! (3)</li>
-    <li>Can you make your program only count characters, but ignore spaces? For example, if the user types in chocolate chip cookies are the best, your program should return 30, not 35. It might help to google something like how do you ___________ in Ruby?</li>
-  </ul>
+  <div class="spicy-container">
+    <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>
+    <div class="spicy-toggle">
+      <ul>
+        <li>Can you make your program tell the user not only if a word has an even or odd number of characters, but also how many characters they entered? For example, your program would say: Even! (6) or Odd! (3)</li>
+        <li>Can you make your program only count characters, but ignore spaces? For example, if the user types in chocolate chip cookies are the best, your program should return 30, not 35. It might help to google something like how do you ___________ in Ruby?</li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 <a href="../">Back to Curriculum Index</a>
