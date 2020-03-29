@@ -39,7 +39,13 @@ When we "break" code, we are engaging in a process of tinkering with it to bette
 
 <div class="try-it-new">
   <h2>Try It: Breaking Code</h2>
-  <p>We'll first model breaking the code from the CodePen above, then have you try breaking the code in <a href="https://codepen.io/turing-school/pen/zYGayVY?editors=1010" target="blank">this CodePen</a>. Follow the prompts below to explore it!</p>
+  <p>We'll first model breaking the code from the CodePen above, then have you try breaking the code below. Click "Edit on Codepen", then follow the prompts below to explore it!</p>
+  <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing-school" data-slug-hash="zYGayVY" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Breaking Code!">
+  <span>See the Pen <a href="https://codepen.io/turing-school/pen/zYGayVY">
+  Breaking Code!</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
   <ul>
     <li>What happens if you remove lines 2-5 from the code?</li>
     <li>Bring back lines 2-4, now remove line 5. What happens?</li>
@@ -52,8 +58,8 @@ When we "break" code, we are engaging in a process of tinkering with it to bette
 ## Applying What We've Learned
 
 <div class="try-it-new">
-  <h2>Try It: Breaking Code</h2>
-  <p>Back in your puppy CodePen, add a button in the HTML.</p>
+  <h2>Try It: Changing HTML with JavaScript</h2>
+  <p>Back in your own puppy CodePen, add a button in the HTML.</p>
   <p>Write code in the JavaScript pane so that when the button is clicked, the title of the webpage changes!</p>
 </div>
 
