@@ -16,7 +16,7 @@ layout: lesson
   <h2>Discussion</h2>
   <ul>
     <li>What sparked your interest in coding?</li>
-    <li>Do you currently know if you are more interested in front-end or back-end?</li>
+    <li>What, if anything, stuck out to you about what the panelists said in regards to the mindset a developer needs to have?</li>
   </ul>
 </div>
 
