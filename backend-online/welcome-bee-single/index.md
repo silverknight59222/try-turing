@@ -35,12 +35,12 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 ### Zoom Features
 
-<img src="{{ site.url }}/assets/images/zoom-faces.png" alt="screenshot of zoom">
-<br>
-<br>
-<br>
-<br>
 <img src="{{ site.url }}/assets/images/zoom-controls.png" alt="screenshot of zoom">
+<br>
+<br>
+<br>
+<br>
+<img src="{{ site.url }}/assets/images/zoom-faces.png" alt="screenshot of zoom">
 <br>
 <br>
 <br>
