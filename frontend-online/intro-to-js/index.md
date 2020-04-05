@@ -40,6 +40,21 @@ Another data type in JavaScript is a Number. Just like we interact with numbers 
 //=> 21
 ```
 
+## console.log()
+
+As we learn about JavaScript today, we will use the `console.log()` method to print the data we are working with out to the console in CodePen.
+
+Here's the syntax:
+
+```js
+console.log('I am a string!');
+console.log(4 + 5);
+```
+
+When we run the code above, we will see the associated values print out in the console.
+
+<img src="{{ site.url }}/assets/images/console-log.png" alt="screen shot of CodePen and arrow pointing to 'open console' button">
+
 ## Variables
 
 In JavaScript, we declare variables using the `var` keyword. This tells JavaScript that we're about to make a variable.
@@ -88,6 +103,13 @@ Anything inside the back ticks will be read as a string. But, when the interpret
   <h2>Try It: Interpolation</h2>
   <p>Using interpolation and at least two of the variables you declared in the previous section, write a sentence about yourself! Make sure to print that sentence out to the console.</p>
   <p>Change the value of one of the Strings you interpolated and re-run your code. Is the difference reflected in the output?</p>
+
+  <div class="spicy-container">
+    <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>
+    <div class="spicy-toggle">
+      <p>What happens if you interpolate <code>numberOfPets * 4</code>? What does that tell you about how interpolation works?</p>
+    </div>
+  </div>
 </div>
 
 <br>
