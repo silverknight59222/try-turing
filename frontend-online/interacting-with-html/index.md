@@ -64,7 +64,13 @@ Before we talk through it, take a minute to sit in that productive struggle and 
   <h2>Try It: Changing Text of an Element</h2>
   <p>Back in your puppy CodePen, write JavaScript that will change the content of all four text-based HTML elements you created variables for earlier.</p>
   <p>When you've completed this, you should see a different title and set of facts in your browser!</p>
-  <p><em>Finished early and ready for a challenge?</em> Do some research to figure out how you can change the <code>src</code> attribute of an <code>img</code> tag in JavaScript! Then, update your image with one that goes with your new facts!</p>
+
+  <div class="spicy-container">
+    <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>
+    <div class="spicy-toggle">
+      <p>Do some research to figure out how you can change the <code>src</code> attribute of an <code>img</code> tag in JavaScript! Then, update your image with one that goes with your new facts!</p>
+    </div>
+  </div>
 </div>
 
 <br>

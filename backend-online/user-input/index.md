@@ -37,7 +37,17 @@ We know how to get one input from a user. How do we go about getting multiple in
   <p>Write a program that asks a user for their <code>name</code>, <code>location</code>, and <code>email_address</code>. Output the following:</p>
   <pre>Your name is Amy and you live in Denver, CO. Your email address is amy@turing.io.</pre>
   <p>Try running your program a few times with different values stored in the variables.</p>
-  <p><em>Finished Early?</em> First, try adding a string method to your program to lowercase the user's email address. If you're ready for a bigger challenge, try splitting up your city and state so that you can upcase the state and capitalize the city.</p>
+
+  <div class="spicy-container">
+    <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>
+    <div class="spicy-toggle">
+      <ul>
+        <li>Try adding a string method to your program to lowercase the user's email address</li>
+        <li>Now, split up your city and state so that you can upcase the state and capitalize the city</li>
+      </ul>
+    </div>
+  </div>
+  
 </div>
 
 <a href="../">Back to Curriculum Index</a>

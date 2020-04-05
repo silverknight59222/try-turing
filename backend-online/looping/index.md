@@ -72,7 +72,12 @@ Have you ever been a car with a five-year-old?
   <p>Back on repl.it, create a new repl.</p>
   <p>Write a program that asks a user "Are we there yet?" The user can enter anything. If they enter "yes", then the loop should stop and the program should print out "Finally!"</p>
   <p><b>Training Wheels:</b> If you're not sure how to start, you can use <a target="blank" href="https://repl.it/@turingtrycoding/loopingtrainingwheels">this starter code</a>.</p>
-  <p><em>Finished Early?</em> Can you make your program case-insensitive? This means that the user should be able to enter "YES" or "Yes" or "yes" or "yEs", etc.</p>
+  <div class="spicy-container">
+    <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>
+    <div class="spicy-toggle">
+      <p>Can you make your program case-insensitive? This means that the user should be able to enter "YES" or "Yes" or "yes" or "yEs", etc.</p>
+    </div>
+  </div>
 </div>
 
 <a href="../">Back to Curriculum Index</a>

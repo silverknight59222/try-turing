@@ -35,3 +35,18 @@
   }
 
 }
+
+.spicy-container {
+  padding: 10px 20px;
+  margin: 10px 0px;
+  background-color: lighten(#f9ae06, 45);
+  border-radius: 2px;
+}
+
+.spicy-click {
+  font-weight: bold;
+}
+
+.spicy-toggle {
+  display: none;
+}
