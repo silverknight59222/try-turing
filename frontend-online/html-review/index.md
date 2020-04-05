@@ -80,10 +80,11 @@ The `<button>` element has an opening and closing tag, and should have content.
 <div class="try-it-new">
   <h2>Try It: Buttons</h2>
   <p>Add two buttons to the HTML in your CodePen. The content can be whatever you choose!</p>
+  <p>Then, add a different ID to each button.</p>
   <div class="spicy-container">
     <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>
     <div class="spicy-toggle">
-      <p>Add a different ID to each button.</p>
+      <p>Explore the <a target="https://www.w3schools.com/tags/tag_input.asp" href="https://www.w3schools.com/tags/tag_input.asp">input tag</a>. Add several inputs to your page. Give each one a different value for the <a target="blank" href="https://www.w3schools.com/tags/att_input_type.asp">type attribute</a>!</p>
     </div>
   </div>
 </div>
