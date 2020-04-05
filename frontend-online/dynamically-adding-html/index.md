@@ -26,24 +26,22 @@ Open the CodePen below in a new tab. Seeing the full code will help you start to
 
 <div class="try-it-new">
   <h2>Try It: Putting it All Together</h2>
-  <p>Use <a target="blank" href="https://codepen.io/turing-school/pen/BaNOdjj?editors=1010">this CodePen as a starter</a>. Your goal is to build an application that displays a fun picture and button. When the user clicks the button, they get surprised with a compliment! You can determine what level of challenge you are up for. <em>Spicy</em>: take those directions and get to work.</p>
+  <p>For this challenge, use <a target="blank" href="https://codepen.io/turing-school/pen/wvaLXam">this CodePen as a starter</a>. Your goal is to build an application that displays a new button. When the user clicks the button, they get surprised with a new fact! You can determine what level of challenge you are up for. <em>Spicy</em>: take those directions and get to work.</p>
   <p>Not ready for the Spicy challenge? That's ok! Follow the steps below for a little guidance.</p>
   <p>Complete these steps in the HTML pane:</p>
   <ul>
-    <li>Add values to the <code>src</code> and <code>alt</code> attributes in the <code>img</code> tag in HTML</li>
     <li>Add an id to the <code>button</code> in the HTML</li>
-    <li>Add an id to the <code>div</code> in the HTML</li>
+    <li>Add an id to the <code>section</code> in the HTML</li>
   </ul>
   <p>Complete these steps in the JS file:</p>
   <ul>
     <li>Declare a variable that stores the <code>button</code> element</li>
-    <li>Declare a variable that stores the <code>div</code> element</li>
+    <li>Declare a variable that stores the <code>section</code> element</li>
     <li>Write a click event listener for the button</li>
     <li>Inside of the event listener, create an empty paragraph</li>
-    <li>Add compliment text to that empty paragraph</li>
+    <li>Add <code>puppyFact</code> text to that empty paragraph</li>
     <li>Use <code>appendChild</code> to insert the paragraph to your compliment section.</li>
   </ul>
-  <p><a href="https://codepen.io/turingtrycoding/pen/KKwKZqy?editors=1010" target="blank">Here is one completed example</a> if you are looking for a little more support!</p>
 </div>
 
 <br>

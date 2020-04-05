@@ -13,7 +13,7 @@ layout: lesson
 
 ## Accessing an Element
 
-Variables can also represent parts of the HTML that we've written. For example, if we wanted a variable to represent the h1 heading at the top of our page, we'd need to do two things:
+Variables can also represent parts of the HTML that we've written. For example, if we wanted a variable to represent the `h1` heading at the top of our page, we'd need to do two things:
 
 1. Add an ID to the `h1` element in the HTML
 2. Use the JavaScript method `.getElementById` to access that element

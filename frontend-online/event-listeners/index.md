@@ -37,30 +37,33 @@ We're going to take a few minutes to really "break" this code to build a deeper 
 
 When we "break" code, we are engaging in a process of tinkering with it to better understand it. To identify which piece of code plays which role in the functionality, it's important to only **break one tiny thing at a time**!
 
-<div class="try-it-new">
-  <h2>Try It: Breaking Code</h2>
-  <p>We'll first model breaking the code from the CodePen above, then have you try breaking the code below. Click "Edit on Codepen", then follow the prompts below to explore it!</p>
-  <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing-school" data-slug-hash="zYGayVY" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Breaking Code!">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/zYGayVY">
-  Breaking Code!</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing-school" data-slug-hash="GRJbdPW" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Break Things">
+  <span>See the Pen <a href="https://codepen.io/turing-school/pen/GRJbdPW">
+  Break Things</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-  <ul>
-    <li>What happens if you remove lines 2-5 from the code?</li>
-    <li>Bring back lines 2-4, now remove line 5. What happens?</li>
-    <li>Bring back line 5. Remove line 7. What happens?</li>
-    <li>Bring back line 7. Remove lines 10-16. What happens?</li>
-    <li>Why isn't the image changing? Look at lines 5 in both HTML and JS and see if you can identify the problem.</li>
-  </ul>
-</div>
+
+- What happens if you remove lines 2-4 from the JavaScript?
+- Bring back lines 2-4, now remove line 5. What happens?
+- Bring back line 5. Remove lines 10-16. What happens?
+- Why isn't the image changing? Look at line 3 in HTML and line 5 in JS to see if you can identify the problem.
+
 
 ## Applying What We've Learned
 
 <div class="try-it-new">
   <h2>Try It: Changing HTML with JavaScript</h2>
   <p>Back in your own puppy CodePen, add a button in the HTML.</p>
-  <p>Write code in the JavaScript pane so that when the button is clicked, the title of the webpage changes!</p>
+  <p>Write code in the JavaScript pane so that when the button is clicked, the title of the webpage changes to a different topic!</p>
+  <p>If you complete that with extra time, change the text in the <code>p</code> tags so that when the button is clicked, the facts match your new topic!</p>
+
+  <div class="spicy-container">
+    <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>
+    <div class="spicy-toggle">
+      <p>Wouldn't it be nice if the user could toggle back and forth between Puppy Facts and your other facts? Add another button, then implement the code to make this happen.</p>
+    </div>
+  </div>
 </div>
 
 <br>
