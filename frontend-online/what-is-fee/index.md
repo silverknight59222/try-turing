@@ -32,7 +32,7 @@ Over the last decade, the web has evolved from a platform that served static web
 
 ### It Can Bring Awareness and Bring People Together
 
-<img src="{{ site.url }}/assets/images/inclusive-safety.jpg" alt="Inclusive Safety Project screenshot">
+<img src="{{ site.url }}/assets/images/inclusive-safety.png" alt="Inclusive Safety Project screenshot">
 <p><a href="https://www.inclusivesafety.com/" target="blank">The Inclusive Safety Project</a> is working to end technology-facilitated domestic violence worldwide.</p>
 
 ### It Can Guide a User Through a Complicated Task
