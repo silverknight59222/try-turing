@@ -25,10 +25,15 @@ Over the last decade, the web has evolved from a platform that served static web
 
 <p data-height="500" data-theme-id="23788" data-slug-hash="eZxEBO" data-default-tab="result" data-user="dissimulate" data-embed-version="2" data-pen-title="Tearable Cloth v2" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/dissimulate/pen/eZxEBO/">Tearable Cloth v2</a> by dissimulate (<a href="http://codepen.io/dissimulate">@dissimulate</a>) on <a href="http://codepen.io">CodePen</a>.</p><script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-### It Can Be Beautiful & Fun
+<!-- ### It Can Be Beautiful & Fun
 
 <p data-height="500" data-theme-id="dark" data-slug-hash="acAgx" data-default-tab="result" data-user="jackrugile" data-embed-version="2" data-pen-title="Canvas Fireworks" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/jackrugile/pen/acAgx/">Canvas Fireworks</a> by Jack Rugile (<a href="http://codepen.io/jackrugile">@jackrugile</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script> -->
+
+### It Can Bring Awareness and Bring People Together
+
+<img src="{{ site.url }}/assets/images/inclusive-safety.jpg" alt="Inclusive Safety Project screenshot">
+<p><a href="https://www.inclusivesafety.com/" target="blank">The Inclusive Safety Project</a> is working to end technology-facilitated domestic violence worldwide.</p>
 
 ### It Can Guide a User Through a Complicated Task
 
