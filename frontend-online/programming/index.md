@@ -15,9 +15,9 @@ layout: lesson
 <div class="try-it-new">
   <h2>Discussion</h2>
   <ul>
-    <li>Share your name, pronouns, and where you are joining from today.</li>
     <li>What sparked your interest in coding?</li>
-    <li>Which, if any, of the examples shared in the previous section spoke to you most?</li>
+    <li>Which, if any, of the examples shared in the opening section spoke to you most?</li>
+    <li>Did any of the conversations from today's panel really stick out to you?</li>
   </ul>
 </div>
 
