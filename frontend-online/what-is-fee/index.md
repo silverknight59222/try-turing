@@ -59,6 +59,10 @@ Big numbers are difficult to imagine. How can you imagine a billion? Even a thou
 
 <p>Check out <a href="http://www.sbs.com.au/theboat/" target="blank">The Boat</a> -- an interactive graphic novel about the Vietnam War using CSS/JS/Parallax.</p>
 
+## No Matter Your Passion, You're Needed in FE
+
+While many people become developers because it can provide a stable career and lifestyle, it can also allow you to contribute towards something you are passionate about! Whether that be problems solving, exposing important data, or helping people do daily tasks, or anything in between, front-end developers play an essential role.
+
 ## You Don't Have to Be a Designer
 
 <img class="small-img" src="{{ site.url }}/assets/images/comp.jpg" alt="To Do list application">
