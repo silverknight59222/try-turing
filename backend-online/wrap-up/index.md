@@ -4,7 +4,7 @@ layout: lesson
 
 # Wrap Up
 
-## Reflection
+<!-- ## Reflection
 
 As we wrap up our day together, take a moment to reflect on the questions below.
 
@@ -15,11 +15,15 @@ As we wrap up our day together, take a moment to reflect on the questions below.
     <li>When did you demonstrate a growth mindset?</li>
     <li>What lingering questions do you have about the technical work we did today?</li>
   </ul>
-</div>
+</div> -->
+
+## Thank you and CONGRATS 🎉
+
+Today might have been your first time coding - you did it! Thanks for spending your day with us.
 
 ## Contact
 
-- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong> or Rachel at <strong>rachel@turing.io<strong>
+- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io</strong> or Rachel at <strong>rachel@turing.io</strong>
 - For questions regarding admissions and enrollment, please email Erin at <strong>erin@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/Erincall" >set up a time to work with her here</a>.
 
 ## Additional Resources

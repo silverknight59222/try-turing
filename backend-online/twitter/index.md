@@ -57,8 +57,6 @@ client = Twitter::REST::Client.new do |config|
 end
 ```
 
-#### Identifying Ourselves
-
 These keys and secret tokens are how our program will identify itself to Twitter. It's kind of like a username and password, but for computer programs instead of people.
 
 Inside of the empty quotation marks (""), keys and tokens from pre-made accounts have been filled into your starter repl.
