@@ -8,7 +8,6 @@ layout: lesson
 - [What is Front-End Engineering?](./what-is-fee)
 - [HTML Review](./html-review)
 - [Intro to JavaScript](./intro-to-js)
-- [Programming is Hard](./programming)
 - [Interacting with HTML](./interacting-with-html)
 - [Event Listeners](./event-listeners)
 - [Dynamically Adding HTML](./dynamically-adding-html)
