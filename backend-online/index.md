@@ -10,9 +10,8 @@ layout: lesson
 - [User Input](./user-input)
 - [Programming is Hard](./programming)
 - [Control Flow](./control-flow)
-- [Looping](./looping)
-<!-- - [Twitter Project](./twitter) -->
-- [Final Challenge](./code-challenge)
+- [Twitter Project](./twitter)
+- [Loops](./looping)
 - [Wrap Up](./wrap-up)
 
 <!-- # Back-End Online Curriculum (Weekend)
@@ -23,7 +22,6 @@ layout: lesson
 - [User Input](./user-input)
 - [Programming is Hard](./programming)
 - [Control Flow](./control-flow)
-- [Looping](./looping)
-- [Twitter Project](./twitter) 
-- [Final Challenge](./code-challenge)
+- [Code Challenge](./code-challenge)
+- [Twitter Project](./twitter)
 - [Wrap Up](./wrap-up) -->
