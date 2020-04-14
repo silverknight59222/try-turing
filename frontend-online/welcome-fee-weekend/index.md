@@ -7,7 +7,7 @@ layout: lesson
 ### To Get Set Up
 
 - Open up <a target="blank" href="http://codepen.io/">codepen.io</a> in a browser (preferably Chrome) and login to your account
-- In another tab, open up <a target="blank" href="https://try.turing.io/">try.turing.io</a>
+- In another tab, open up <a target="blank" href="https://try.turing.io/frontend-online">try.turing.io</a>
 - Make sure you have a fully charged computer or a charger close by
 - We recommend using headphones and finding a quiet work space to limit distractions
 
