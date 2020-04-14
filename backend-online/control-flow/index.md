@@ -40,6 +40,20 @@ Great! Let's make it slightly more complicated:
   <p><em>Finished Early?</em> Without adding any new lines of code (just modifying existing lines), could you make it say "Correct!" for **either** Chocolate Chip **or** Peanut Butter?</p>
 </div>
 
+## One Level Up
+
+<div class="try-it-new">
+  <h2>Try It: Checking for Long Words</h2>
+  <p>Write a program in Ruby that asks the user for a word. If it is longer than 10 characters, print out "Wow, that's a big word!". If it's shorter, print out "That's all you've got?".</p>
+  <p>This is what the program should look like when it runs:</p>
+  <pre>Gimme a word:
+Coding
+That's all you've got?</pre>
+<pre>Gimme a word:
+floccinaucinihilipilification
+Wow, that's a big word!</pre>
+</div>
+
 ## Solving Problems Without Knowing Everything
 
 As a programmer, you will constantly be solving problems that you don't necessarily know how to solve. This is the fun of coding! Coding involves solving puzzles, guess-and-check, and figuring things out.
