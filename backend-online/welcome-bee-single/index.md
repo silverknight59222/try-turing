@@ -18,8 +18,8 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - **10:00 - 11:45** Welcome, Intros, and Instruction
 - **11:45 - 12:00** Break
 - **12:00 - 12:45** Student/Alum Panel, Turing Info
-- **12:45 - 2:15**  Instruction
-- **2:15  - 2:30**  Wrap Up
+- **12:45 - 2:20**  Instruction
+- **2:20  - 2:30**  Wrap Up
 
 <br>
 
@@ -32,7 +32,6 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - You might be sharing your screen with your team at some point during the class -- if you have anything open that you don't want to accidentally share, close or minimize it now.
 - Questions? Type into the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself.
 - Disconnected? Jump back on! If the host or TAs get disconnected, hold tight, and the session will resume shortly.
-- We recommend using headphones and finding a quiet work space to limit distractions. However, we also understand that things come up!
 
 ### Zoom Features
 

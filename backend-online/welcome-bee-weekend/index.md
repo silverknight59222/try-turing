@@ -8,7 +8,7 @@ layout: lesson
 
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
-- In another tab, open up <a target="blank" href="https://try.turing.io/backend-online">try.turing.io</a>
+- In another tab, open up <a target="blank" href="https://try.turing.io/backend-online">try.turing.io/backend-online</a>
 - Make sure you have a fully charged computer or a charger close by
 - We recommend using headphones and finding a quiet work space to limit distractions
 
@@ -20,10 +20,21 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - **11:45 - 12:00** Break
 - **12:00 - 12:45** Student & Alum Panel
 - **12:45 - 1:00**  Break
-- **12:30 - 2:15**  Instruction
-- **2:15  - 2:30**  Wrap Up
+- **12:30 - 2:20**  Instruction
+- **2:20  - 2:30**  Wrap Up
 
 
+<br>
+
+### Online Session Protocol
+
+- Mute yourself **unless** you're talking.
+- Keep your camera on during class and breakout sessions; ok to turn off during independent work time
+- Change Zoom display name to first name, last initial, pronouns; ie - Rachel W. (she/her)
+- Use features in the Participants Pane to answer yes/no, raise your hand, or give a thumbs up.
+- You might be sharing your screen with your team at some point during the class -- if you have anything open that you don't want to accidentally share, close or minimize it now.
+- Questions? Type into the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself.
+- Disconnected? Jump back on! If the host or TAs get disconnected, hold tight, and the session will resume shortly.
 <br>
 
 ### Zoom Features

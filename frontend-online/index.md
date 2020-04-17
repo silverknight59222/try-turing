@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Front-End Online Curriculum
+<!-- # Front-End Online Curriculum
 
 - [Welcome](./welcome-fee-single)
 - [What is Front-End Engineering?](./what-is-fee)
@@ -12,10 +12,10 @@ layout: lesson
 - [Event Listeners](./event-listeners)
 - [Dynamically Adding HTML](./dynamically-adding-html)
 - [Connecting a Front-End and Back-End](./frontend-backend)
-- [Wrap Up](./wrap-up-single)
+- [Wrap Up](./wrap-up-single) -->
 
 
-<!-- # Front-End Online Curriculum (Weekend)
+# Front-End Online Curriculum (Weekend)
 
 - [Welcome](./welcome-fee-weekend)
 - [What is Front-End Engineering?](./what-is-fee)
@@ -25,4 +25,4 @@ layout: lesson
 - [Event Listeners](./event-listeners)
 - [Dynamically Adding HTML](./dynamically-adding-html)
 - [Connecting a Front-End and Back-End](./frontend-backend)
-- [Wrap Up](./wrap-up-weekend) -->
+- [Wrap Up](./wrap-up-weekend)

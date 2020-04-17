@@ -2,19 +2,19 @@
 layout: lesson
 ---
 
-# Back-End Online Curriculum
+<!-- # Back-End Online Curriculum
 
 - [Welcome](./welcome-bee-single)
 - [What is Back-End Engineering?](./what-is-bee)
 - [Ruby Review](./ruby-review)
 - [User Input](./user-input)
-<!-- - [Programming is Hard](./programming) -->
+- [Programming is Hard](./programming)
 - [Control Flow](./control-flow)
 - [Twitter Project](./twitter)
 - [Loops](./looping)
-- [Wrap Up](./wrap-up)
+- [Wrap Up](./wrap-up) -->
 
-<!-- # Back-End Online Curriculum (Weekend)
+# Back-End Online Curriculum (Weekend)
 
 - [Welcome](./welcome-bee-weekend)
 - [What is Back-End Engineering?](./what-is-bee)
@@ -22,6 +22,6 @@ layout: lesson
 - [User Input](./user-input)
 - [Programming is Hard](./programming)
 - [Control Flow](./control-flow)
-- [Code Challenge](./code-challenge)
 - [Twitter Project](./twitter)
-- [Wrap Up](./wrap-up) -->
+- [Loops](./looping)
+- [Wrap Up](./wrap-up)

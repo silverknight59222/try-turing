@@ -7,7 +7,7 @@ layout: lesson
 ### To Get Set Up
 
 - Open up <a target="blank" href="http://codepen.io/">codepen.io</a> in a browser (preferably Chrome) and login to your account
-- In another tab, open up <a target="blank" href="https://try.turing.io/frontend-online">try.turing.io</a>
+- In another tab, open up <a target="blank" href="https://try.turing.io/frontend-online">try.turing.io/frontend-online</a>
 - Make sure you have a fully charged computer or a charger close by
 - We recommend using headphones and finding a quiet work space to limit distractions
 
@@ -19,8 +19,8 @@ Over the course of the day, we will write code, continue to embrace productive s
 - **11:45 - 12:00** Break
 - **12:00 - 12:30** Turing Info Session
 - **12:30 - 12:45** Break
-- **12:45 - 2:15**  Instruction
-- **2:15  - 2:30**  Wrap Up
+- **12:45 - 2:20**  Instruction
+- **2:20  - 2:30**  Wrap Up
 
 
 <a href="../">Back to Curriculum Index</a>
