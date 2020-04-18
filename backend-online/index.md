@@ -24,4 +24,5 @@ layout: lesson
 - [Control Flow](./control-flow)
 - [Twitter Project](./twitter)
 - [Loops](./looping)
+- [Number Game](./code-challenge)
 - [Wrap Up](./wrap-up)
