@@ -53,6 +53,6 @@ We won't be talking about anything except for a teeny tiny part of Ruby. However
 
 1. Write programs that print and combine pieces of text using the String data types
 2. Take in and manipulate user input using control flow structures
-3. Solve a code challenge that requires several programming concepts, in a way we haven't seen them presented before
+3. Interact with a live Twitter account from our code!
 
 <a href="../">Back to Curriculum Index</a>
