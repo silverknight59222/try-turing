@@ -6,7 +6,7 @@ layout: lesson
 
 ## Reflection
 
-As we wrap up our day together, take a moment to reflect on the questions below.
+As we wrap up our time together, take a moment to reflect on the questions below.
 
 <div class="try-it-new">
   <h2>Wrap Up: Reflection</h2>
@@ -19,7 +19,7 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 
 ## Contact
 
-- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong> or Rachel at <strong>rachel@turing.io<strong> 
+- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong> or Rachel at <strong>rachel@turing.io<strong>
 - For questions regarding admissions and enrollment, please email Erin at <strong>erin@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/Erincall" >set up a time to work with her here</a>.
 
 ## Additional Resources
