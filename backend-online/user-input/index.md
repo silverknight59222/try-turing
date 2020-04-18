@@ -25,7 +25,15 @@ Let's run this code in a _repl_ to see what happens!
 <div class="try-it-new">
   <h2>Try It: Getting User Input</h2>
   <p>Write a small program that asks a user for their favorite snack, then responds with a sentence of your choice! <em>Consider: what variable name will you use to label that user input?</em></p>
-  <p><em>Finished Early?</em> How could you modify this code so that the user's name is capitalized correctly, no matter how they entered it?</p>
+
+  <div class="spicy-container">
+    <p class="spicy-click">Finished Early?</p>
+    <div class="spicy-toggle">
+    <p>How could you modify this code so that the user's name is capitalized correctly, no matter how they entered it?</p>
+    <p><a target="blank" href="http://lesseverything.com/blog/how-to-convert-a-string-to-upper-or-lower-case-in-ruby/">This resource</a> may help!</p>
+    </div>
+  </div>
+
 </div>
 
 ## Multiple User Inputs
@@ -47,7 +55,7 @@ We know how to get one input from a user. How do we go about getting multiple in
       </ul>
     </div>
   </div>
-  
+
 </div>
 
 <a href="../">Back to Curriculum Index</a>
