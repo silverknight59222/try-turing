@@ -11,7 +11,7 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 <div class="try-it-new">
   <h2>Wrap Up: Reflection</h2>
   <ul>
-    <li>What was FUN about coding today?</li>
+    <li>What was FUN about coding this weekend?</li>
     <li>Do you feel more excited about back-end or front-end now, and why?</li>
     <li>What lingering questions do you have about the technical work we did today?</li>
   </ul>
@@ -19,7 +19,7 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 
 ## Contact
 
-- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong>
+- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong> or Rachel at <strong>rachel@turing.io<strong> 
 - For questions regarding admissions and enrollment, please email Erin at <strong>erin@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/Erincall" >set up a time to work with her here</a>.
 
 ## Additional Resources
