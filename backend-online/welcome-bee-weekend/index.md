@@ -53,4 +53,12 @@ Over the course of the day, we will write code, explore the mindsets that succes
 <br>
 <img src="{{ site.url }}/assets/images/zoom-markedup.png" alt="screenshot of zoom">
 
+
+### Zoom Practice!
+
+- Use the chat box to introduce yourself: 1) Where are you from? 2) Why did you decide to spend your weekend learning to code? 3) Optional: share something else about yourself. 
+- Raise your Zoom hand if you want to tell us your favorite or least favorite thing about being stuck inside
+- Thumbs up in the camera
+- Breakout rooms: in a web browser tab, pull up a photo of a really cute animal :) Be ready to practice sharing your screen in your breakout room. 
+
 <a href="../">Back to Curriculum Index</a>
