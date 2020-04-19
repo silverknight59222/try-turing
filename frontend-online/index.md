@@ -23,6 +23,5 @@ layout: lesson
 - [Intro to JavaScript](./intro-to-js)
 - [Interacting with HTML](./interacting-with-html)
 - [Event Listeners](./event-listeners)
-- [Dynamically Adding HTML](./dynamically-adding-html)
-- [Connecting a Front-End and Back-End](./frontend-backend)
+- [Extensions](./extensions)
 - [Wrap Up](./wrap-up-weekend)
