@@ -42,7 +42,7 @@ Open the CodePen below in a new tab. Seeing the full code will help you start to
     <li>Write a click event listener for the button</li>
     <li>Inside of the event listener, create an empty paragraph</li>
     <li>Add <code>puppyFact</code> text to that empty paragraph</li>
-    <li>Use <code>appendChild</code> to insert the paragraph to your compliment section.</li>
+    <li>Use <code>appendChild</code> to insert the paragraph to your puppy facts section.</li>
   </ul>
 </div>
 
