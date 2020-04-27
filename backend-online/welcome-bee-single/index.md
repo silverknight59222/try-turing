@@ -23,7 +23,10 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 <br>
 
-### Online Session Protocol
+### Learning Norms
+
+
+### Online Session Norms
 
 - Mute yourself **unless** you're talking.
 - Keep your camera on during class and breakout sessions; ok to turn off during independent work time
@@ -35,11 +38,6 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 ### Zoom Features
 
-<img src="{{ site.url }}/assets/images/zoom-controls.png" alt="screenshot of zoom">
-<br>
-<br>
-<br>
-<br>
 <img src="{{ site.url }}/assets/images/zoom-markedup.png" alt="screenshot of zoom">
 <br>
 <br>
