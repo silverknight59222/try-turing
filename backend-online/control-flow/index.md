@@ -25,19 +25,53 @@ layout: lesson
     <iframe height="400px" width="100%" src="https://repl.it/@turingtrycoding/controlflowbasic?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
     <li>Once you've made your predictions, run the code and look at the output. Review your original guesses and correct anything you wrongly predicted.</li>
   </ol>
-  <p><em>Finished Early?</em> How could you modify this code so that it doesn't matter whether or not the user types capital letters or lower case letters?</p>
+
+  <div class="spicy-container">
+    <p class="spicy-click">Finished Early?</p>
+    <div class="spicy-toggle">
+      <p>How could you modify this code so that it doesn't matter whether or not the user types capital letters or lower case letters?</p>
+    </div>
+  </div>
+
 </div>
 
 Great! Let's make it slightly more complicated:
 
+
+## if/elsif/else Statements
+
+We can provide our program with as many options as we'd like by utilizing the `elsif` keyword. Check out an example:
+
+```ruby
+print "What is the best type of cookie: "
+cookie_type = gets.chomp
+
+if cookie_type == "Chocolate Chip"
+  puts "Correct!"
+elsif cookie_type == "Oatmeal Raisin"
+  puts "Yuck!"
+else
+  puts "Hmm. I don't recognize that kind of cookie."
+end
+```
+
+Some important things to note:
+- An if statement must always begin with one `if` keyword and end with one `end` keyword
+- We can have as many `elsif` conditions as we want
+- Like `if`, we must provide a condition to `elsif`
+- `else` can be used once or not at all
+
 <div class="try-it-new">
-  <h2>Try It: Reading if/elsif/else Statements</h2>
-  <ol>
-    <li>Look at the code in the repl below. Jot down your prediction of what will happen when we run this code.</li>
-    <iframe height="400px" width="100%" src="https://repl.it/@turingtrycoding/controlflowifelsif?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-    <li>Once you've made your predictions, run the code and look at the output. Review your original guesses and correct anything you wrongly predicted.</li>
-  </ol>
-  <p><em>Finished Early?</em> Without adding any new lines of code (just modifying existing lines), could you make it say "Correct!" for **either** Chocolate Chip **or** Peanut Butter?</p>
+  <h2>Try It: Writing if/elsif/else Statements</h2>
+  <p>In a repl, write a small program that asks a user what their favorite season is.</p>
+  <p>Once you have their response, give them some a seasonally appropriate greeting of your choice!</p>
+
+  <div class="help-container">
+    <button class="help-click">🤚Help Me!</button>
+    <div class="help-toggle">
+      <p>Check out <a target="blank" href="https://repl.it/@ameseee/GrossMysteriousSupercollider">this example</a>.</p>
+    </div>
+  </div>
 </div>
 
 ## One Level Up
@@ -52,6 +86,14 @@ That's all you've got?</pre>
 <pre>Gimme a word:
 floccinaucinihilipilification
 Wow, that's a big word!</pre>
+
+<div class="help-container">
+  <button class="help-click">🤚Help Me!</button>
+  <div class="help-toggle">
+    <p>Check out <a target="blank" href="https://repl.it/@ameseee/MagnificentUncomfortableDll">this example</a>.</p>
+  </div>
+</div>
+
 </div>
 
 ## Solving Problems Without Knowing Everything
