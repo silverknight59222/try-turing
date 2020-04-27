@@ -50,3 +50,32 @@
 .spicy-toggle {
   display: none;
 }
+
+.help-container {
+  margin: 10px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.help-click {
+  cursor: pointer;
+  background-color: #ef3852;
+  color: white;
+  border: 0;
+  padding: 2px 10px;
+}
+
+.help-toggle {
+  display: none;
+  p {
+    text-align: right;
+    margin-bottom: 0;
+  }
+}
+
+.left-align {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}

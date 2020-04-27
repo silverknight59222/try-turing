@@ -29,21 +29,30 @@ Open the CodePen below in a new tab. Seeing the full code will help you start to
 <div class="try-it-new">
   <h2>Try It: Puppy Fact Generator</h2>
   <p>For this challenge, use <a target="blank" href="https://codepen.io/turing-school/pen/wvaLXam">this CodePen as a starter</a>. Your goal is to build an application that displays a new button. When the user clicks the button, they get surprised with a new fact! You can determine what level of challenge you are up for. <em>Spicy</em>: take those directions and get to work.</p>
-  <p>Not ready for the Spicy challenge? That's ok! Follow the steps below for a little guidance.</p>
-  <p>Complete these steps in the HTML pane:</p>
-  <ul>
-    <li>Add an id to the <code>button</code> in the HTML</li>
-    <li>Add an id to the <code>section</code> in the HTML</li>
-  </ul>
-  <p>Complete these steps in the JS file:</p>
-  <ul>
-    <li>Declare a variable that stores the <code>button</code> element</li>
-    <li>Declare a variable that stores the <code>section</code> element</li>
-    <li>Write a click event listener for the button</li>
-    <li>Inside of the event listener, create an empty paragraph</li>
-    <li>Add <code>puppyFact</code> text to that empty paragraph</li>
-    <li>Use <code>appendChild</code> to insert the paragraph to your puppy facts section.</li>
-  </ul>
+
+  <div class="help-container">
+    <button class="help-click">🤚I'm not ready for the Spicy Challenge!</button>
+    <div class="help-toggle">
+    <div class="left-align">
+      <p>That's ok! Follow the steps below for a little guidance.</p>
+      <p>Complete these steps in the HTML pane:</p>
+      <ul>
+        <li>Add an id to the <code>button</code> in the HTML</li>
+        <li>Add an id to the <code>section</code> in the HTML</li>
+      </ul>
+      <p>Complete these steps in the JS file:</p>
+      <ul>
+        <li>Declare a variable that stores the <code>button</code> element</li>
+        <li>Declare a variable that stores the <code>section</code> element</li>
+        <li>Write a click event listener for the button</li>
+        <li>Inside of the event listener, create an empty paragraph</li>
+        <li>Add <code>puppyFact</code> text to that empty paragraph</li>
+        <li>Use <code>appendChild</code> to insert the paragraph to your fact section.</li>
+      </ul>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 ## Connecting a Front-End and Back-End
@@ -73,7 +82,14 @@ Now, let's look at how we can use that endpoint in our JavaScript code.
 <div class="try-it-new">
   <h2>Try It: Integrating the API</h2>
   <p>Go back to your Puppy Fact Generator. Right now, we've <em>hard-coded</em> a compliment. Where can you integrate the call to the dog fact API so that you can get back a random fact and show that to the user?</p>
-  <p>Need help? Check out <a target="blank" href="https://codepen.io/turing-school/pen/eYNLzLR?editors=1010">this example</a>.</p>
+
+  <div class="help-container">
+    <button class="help-click">🤚Help Me!</button>
+    <div class="help-toggle">
+      <p>Check out <a target="blank" href="https://codepen.io/turing-school/pen/eYNLzLR?editors=1010">this example</a>.</p>
+    </div>
+  </div>
+
 </div>
 
 <br>

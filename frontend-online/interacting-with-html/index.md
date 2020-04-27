@@ -33,9 +33,16 @@ console.log(greetingMessage);
 
 <div class="try-it-new">
   <h2>Try It: Accessing HTML Elements</h2>
-  <p>Fork <a href="https://codepen.io/turing-school/pen/rNVKQjG?editors=1010" target="blank">this CodePen</a>. Declare four variables, each storing one of the four text-based HTML elements already written. You can decide the variable names to use! In order to access each element, you'll need a <em>unique</em> way to identify each one.</p>
+  <p>Fork <a href="https://codepen.io/turing-school/pen/rNVKQjG?editors=1010" target="blank">this Puppy Facts CodePen starter</a>. Declare four variables, each storing one of the four text-based HTML elements already written. You can decide the variable names to use! In order to access each element, you'll need a <em>unique</em> way to identify each one.</p>
   <p>Print each variable out to the console to verify your syntax is correct.</p>
   <p><em>Keep this pen open in a tab; we'll come back to it in the next section!</em></p>
+  <div class="help-container">
+    <button class="help-click">🤚Help Me!</button>
+    <div class="help-toggle">
+      <p>Need to see an example of this completed? <a target="blank" href="https://codepen.io/turing-school/pen/KKdqwVY">Here you go!</a></p>
+    </div>
+  </div>
+
 </div>
 
 ## Changing Text of an Element
@@ -62,8 +69,11 @@ Before we talk through it, take a minute to sit in that productive struggle and 
 
 <div class="try-it-new">
   <h2>Try It: Changing Text of an Element</h2>
-  <p>Back in your puppy CodePen, write JavaScript that will change the content of all four text-based HTML elements you created variables for earlier.</p>
+  <p>Back in your Puppy Facts CodePen, write JavaScript that will change the content of all four text-based HTML elements you created variables for earlier.</p>
   <p>When you've completed this, you should see a different title and set of facts in your browser!</p>
+  <a target="blank" href="https://codepen.io/turing-school/pen/YzyQPqx"><em>Here's a CodePen you can start with if you closed yours or didn't get it done.</em></a>
+  <br>
+  <br>
 
   <div class="spicy-container">
     <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>

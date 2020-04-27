@@ -23,3 +23,19 @@ allSpicyTitles.forEach(function(title) {
   });
 
 });
+
+//help me! show/hide
+var allPleasForHelp = document.querySelectorAll(".help-click");
+
+allPleasForHelp.forEach(function(title) {
+
+  title.addEventListener("click", function(e) {
+    var content = e.target.nextSibling.nextSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+
+});
