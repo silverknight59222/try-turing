@@ -4,7 +4,7 @@ layout: lesson
 
 # Advanced Front-End Online Curriculum
 
-- [Welcome + Intros](./welcome-fee-weekend)
+- [Welcome + Intros](./welcome-fee-advanced)
 - [Event Listener Review](./event-listeners)
 - [Functions](./functions)
 - [Arrays](./arrays)
