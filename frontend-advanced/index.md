@@ -5,8 +5,8 @@ layout: lesson
 # Advanced Front-End Online Curriculum
 
 - [Welcome + Intros](./welcome-fee-advanced)
-- [Event Listener Review](./event-listeners)
 - [Functions](./functions)
+- [DOM Manipulation](./dom-manipulation)
 - [Arrays](./arrays)
 - [Mood Tracker Project](./mood-tracker)
 - [Extensions](./extensions)

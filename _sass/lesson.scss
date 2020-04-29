@@ -60,10 +60,15 @@
 
 .help-click {
   cursor: pointer;
-  background-color: #ef3852;
   color: white;
   border: 0;
   padding: 2px 10px;
+  background-color: #F55D73;
+  border-radius: 2px;
+}
+
+.help-click:hover {
+  background-color: #ef3852;
 }
 
 .help-toggle {
