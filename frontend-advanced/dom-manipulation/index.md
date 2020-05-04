@@ -3,6 +3,7 @@ layout: lesson
 ---
 
 # DOM Manipulation
+<a href="../">Back to Curriculum Index</a>
 
 ## Goals
 
@@ -40,8 +41,8 @@ We will need to create several variables in our programs - one for each HTML ele
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
     <div class="help-toggle">
-      <pre>var button = document.getElementById('.add-btn');
-var allToDos = document.getElementById('.all-todos');</pre>
+      <pre>var button = document.getElementById('add-btn');
+var allToDos = document.getElementById('all-todos');</pre>
     </div>
   </div>
 </div>
@@ -93,12 +94,14 @@ When this code runs, the HTML will not change. But the browser will read the Jav
     <li>Do you see a little red dot to the left of your new line of code? That's because Glitch is trying to tell you that it doesn't know about a function named <code class="try-it-code">addToDo</code>. Below your event listener, define that function!</li>
     <li>Inside of the <code class="try-it-code">addToDo</code> function, append a new paragraph tag to the section. The paragraph can contain any text you'd like!</li>
   </ol>
-  <a target="blank" href=""><em>Here's a Glitch project you can remix and use if you closed yours or just want a fresh start.</em></a>
   <br>
 
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
     <div class="help-toggle">
-      <p><a target="blank" href="">Here's a Glitch project</a> with the completed challenge.</p>
+      <p><a target="blank" href="https://glitch.com/edit/#!/dom-manipulation-solution">Here's a Glitch project</a> with the completed challenge.</p>
+    </div>
   </div>
 </div>
+
+<a href="../">Back to Curriculum Index</a>

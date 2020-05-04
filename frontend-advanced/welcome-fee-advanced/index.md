@@ -7,8 +7,8 @@ layout: lesson
 ### To Get Set Up
 
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
-- Open up <a target="blank" href="http://codepen.io/">codepen.io</a> in a browser (preferably Chrome) and login to your account
-- In another tab, open up <a target="blank" href="https://try.turing.io/frontend-online">try.turing.io/frontend-online</a>
+- Open up <a target="blank" href="http://codepen.io/">Glitch</a> in a browser (preferably Chrome) and login to your account
+- In another tab, open up <a target="blank" href="https://try.turing.io/frontend-online">try.turing.io/frontend-advanced</a>
 - Make sure you have a fully charged computer or a charger close by
 - We recommend using headphones and finding a quiet work space to limit distractions
 
@@ -31,13 +31,14 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 ### Online Session Norms
 
-- Mute yourself **unless** you're talking.
+- Mute yourself unless you're talking
 - Keep your camera on during class and breakout sessions; ok to turn off during independent work time
-- Change Zoom display name to first name, last initial, pronouns; ie - Rachel W. (she/her)
+- Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
+- It is very normal in an online setting to accidentally talk over someone. If that happens, apologize and be sure to clarify who is speaking next
 - Use features in the Participants Pane to answer yes/no, raise your hand, or give a thumbs up.
-- You might be sharing your screen with your team at some point during the class -- if you have anything open that you don't want to accidentally share, close or minimize it now.
-- Type questions the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself.
-- Disconnected? Jump back on! If the host or TAs get disconnected, hold tight, and the session will resume shortly.
+- You might be sharing your screen today - if you have anything open that you don't want to accidentally share, close or minimize it now
+- Type questions the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself
+- Disconnected? Jump back on! If the host or TAs get disconnected, hold tight, and the session will resume shortly
 
 ### Zoom Features
 
@@ -49,5 +50,9 @@ Over the course of the day, we will write code, explore the mindsets that succes
 <br>
 <br>
 <img src="{{ site.url }}/assets/images/zoom-markedup.png" alt="screenshot of zoom">
+
+### Using Glitch
+
+Today we will be using Glitch to write and run our code, and view the apps we build! We will all start with [this starter project - please remix it now](https://glitch.com/edit/#!/try-coding-advanced-starter).
 
 <a href="../">Back to Curriculum Index</a>
