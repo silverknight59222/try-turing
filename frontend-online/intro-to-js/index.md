@@ -72,7 +72,7 @@ var firstName = 'Amy';
 
 ### Why Variables?
 
-Why would we use variables? Well, since JavaScript is in charge of user interactions, we may want to hold onto a piece of information for later use.
+Since JavaScript is in charge of user interactions, we may want to hold onto a piece of information for later use.
 - In [Flag Fest](https://flag-fest.herokuapp.com/flag-fest), the developer has variables for `region`, `activeAmount`, and `flag`. In order for the game to work, the developer has to "hold on" to the data the user has provided. (This app was made by a FE student!)
 - On social media sites, there is usually a `username` or `handle` variable. If you are logged in, the variable will be set to your information. If another user was logged in, for the instance of that session, the variable would be set to that other users information.
 
