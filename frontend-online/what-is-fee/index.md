@@ -63,6 +63,7 @@ Big numbers are difficult to imagine. How can you imagine a billion? Even a thou
 
 While many people become developers because it can provide a stable career and lifestyle, it can also allow you to contribute towards something you are passionate about! Whether that be problems solving, exposing important data, or helping people do daily tasks, or anything in between, front-end developers play an essential role.
 
+<br>
 ## You Don't Have to Be a Designer
 
 <img class="small-img" src="{{ site.url }}/assets/images/comp.jpg" alt="To Do list application">
@@ -78,7 +79,7 @@ The front-end of the web is based on three major technologies:
 
 1. **HTML**: HyperText Markup Language (HTML) defines the structure and semantics of web pages on the web.
 2. **CSS**: Cascading Style Sheets (CSS) sets the look and style of a web page. CSS provides style to the structure provided by HTML.
-3. **JS**: JavaScript (JS) allows us to define interaction in our pages. What happens when a user clicks on a certain area?
+3. **JavaScript**: JavaScript allows us to define interaction in our pages. What happens when a user clicks on a certain area?
 
 Many libraries and frameworks have been built _on top_ of JavaScript that make front-end development even more robust and powerful! If you hear terms like React, Vue, Ember, Angular... those are all JavaScript frameworks used to build professional level applications.
 

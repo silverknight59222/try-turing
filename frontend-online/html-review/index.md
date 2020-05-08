@@ -21,7 +21,7 @@ HTML is still an essential part of modern web applications. It holds the content
 
 ## Tags, Content, Elements
 
-HTML is made up of a series of **elements**. Each element is made up of at least one **tag**, and most have **content** between an opening and closing tag.
+HTML is made up of a series of **elements**. Each element is made up of at least one **tag**, and most have **content** between an opening and closing tag. We can think of many elements as containers, which store and organize other elements.
 
 <img src="{{ site.url}}/assets/images/header-buckets.png" alt="Marked up nav bar showing how elements are nested"/>
 
@@ -35,6 +35,7 @@ The header/nav bar at the top of this page is written with code that looks somet
     <li>Turing School</li>
   </ul>
 </nav>
+<h1>Welcome to Try Coding</h1>
 ```
 
 <div class="try-it-new">
