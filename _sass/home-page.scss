@@ -85,6 +85,64 @@
   }
 }
 
+.card-container {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  margin: 0 auto;
+  justify-content: space-around;
+  padding-top: 2rem;
+  padding: 2rem;
+}
+
+.card {
+  background-color: white;
+  padding: 2rem 2rem 1.5rem;
+  display: inline-block;
+  box-shadow: 0 0 2px 1px rgba(0,0,0,.2);
+  min-height: 32rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40%;
+  max-height: 80%;
+
+  img {
+    height: 7rem;
+  }
+
+  h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #5F5F5F;
+  }
+
+  p {
+    text-align: center;
+    height: 7rem;
+    color: #5F5F5F;
+  }
+
+  .curriculum-btn {
+    width: 18rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: $light-gray;
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
+.fe-card {
+  border-top: .75rem solid #f9ae06;
+}
+
+.be-card {
+  border-top: .75rem solid #ef3852;
+}
+
+
 @media (max-width: $tablet-width) {
   .splash {
     height: 350px;
