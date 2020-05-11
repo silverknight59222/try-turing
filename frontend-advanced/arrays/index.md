@@ -3,6 +3,7 @@ layout: lesson
 ---
 
 # Arrays
+<a href="../">Back to Curriculum Index</a>
 
 ## Goals
 
@@ -132,3 +133,6 @@ emails.forEach(function(email) {
     </div>
   </div>
 </div>
+
+<br>
+<a href="../">Back to Curriculum Index</a>

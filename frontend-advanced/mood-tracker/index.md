@@ -39,9 +39,11 @@ In the JavaScript, we already have variables declared for the `button` and `sect
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
     <div class="help-toggle">
-      <pre>submitButton.addEventListener('click', function() {
-    var userInput = document.getElementById('input');
-    alert(userInput);
+      <pre>submitButton.addEventListener('click', addToDo);
+
+function addToDo() {
+  var userInput = document.getElementById('input');
+  alert(userInput);
 });</pre>
     </div>
   </div>
@@ -54,6 +56,8 @@ If we `console.log` or `alert` that input right now, we don't have quite what we
 var userInput = document.getElementById('input').value;
 ```
 
+Now, run the program and click the button. This time, we should see the value that was typed in, in our `console.log` or `alert`.
+
 ## Add Input to Array
 
 Now that we have the value of the text the user most recently provided, let's add it to the list of all inputs.
@@ -65,9 +69,11 @@ Now that we have the value of the text the user most recently provided, let's ad
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
     <div class="help-toggle">
-      <pre>submitButton.addEventListener('click', function() {
-    var userInput = document.getElementById('input').value;
-    allInputs.push(userInput);
+    <pre>submitButton.addEventListener('click', addToDo);
+
+function addToDo() {
+  var userInput = document.getElementById('input').value;
+  allInputs.push(userInput);
 });</pre>
     </div>
   </div>
@@ -85,13 +91,15 @@ Now that we have an updated list of `allInputs`, let's show each of those to our
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
     <div class="help-toggle">
-      <pre>submitButton.addEventListener('click', function() {
-    var userInput = document.getElementById('input').value;
-    allInputs.push(userInput);
+    <pre>submitButton.addEventListener('click', addToDo);
 
-    allInputs.forEach(function(input) {
-      section.innerHTML += input;
-    });
+function addToDo() {
+  var userInput = document.getElementById('input').value;
+  allInputs.push(userInput);
+
+  allInputs.forEach(function(input) {
+    section.innerHTML += input;
+  });
 });</pre>
     </div>
   </div>
@@ -108,7 +116,7 @@ This is working! But we have, what we call in development, our first [bug](https
     <button class="help-click">🐛 Debugging</button>
     <div class="help-toggle" style="width: 72.5%;">
       <p>The <code>innerHTML +=</code> takes the existing HTML and adds on. So we were giving the program the instructions to leave the list as-is, and <em>then</em> add everything inside the array onto that.</p>
-      <p>We need to give instructions to clear out the HTML in the section before we iterate over the array. We can add this line of code right before the <code>.forEach</code>.</p>
+      <p>We need to give instructions to clear out the HTML in the section <em>before</em> we iterate over the array. We can add this line of code right before the <code>.forEach</code>.</p>
       <pre>section.innerHTML = "";</pre>
     </div>
   </div>
