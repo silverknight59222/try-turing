@@ -35,7 +35,7 @@ function addUp() {
 ```
 ## Calling a Function
 
-We have a function written, but we need to **call** it for the function to actually run. The great thing about functions is you can decide _when_ they do their job. Maybe we only want a particular function to run when a user interacts with our site in a specific way. This puts us in complete control.
+We have a function written, but we need to **call** it for the function to actually run. Until we call the function, the code will just sit around and do nothing.
 
 ```js
 addUp();

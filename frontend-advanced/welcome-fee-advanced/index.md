@@ -9,8 +9,7 @@ layout: lesson
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="http://codepen.io/">Glitch</a> in a browser (preferably Chrome) and login to your account
 - In another tab, open up <a target="blank" href="https://try.turing.io/frontend-online">try.turing.io/frontend-advanced</a>
-- Make sure you have a fully charged computer or a charger close by
-- We recommend using headphones and finding a quiet work space to limit distractions
+- Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 
 ### What to Expect
 
@@ -23,7 +22,6 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - **2:20  - 2:30**  Wrap Up
 
 <br>
-
 ### Learning Norms
 
 - No question is too small. No question is a bad question. Ask them!
@@ -33,7 +31,6 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 - Mute yourself unless you're talking
 - Keep your camera on during class and breakout sessions; ok to turn off during independent work time
-- Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 - It is very normal in an online setting to accidentally talk over someone. If that happens, apologize and be sure to clarify who is speaking next
 - Use features in the Participants Pane to answer yes/no, raise your hand, or give a thumbs up.
 - You might be sharing your screen today - if you have anything open that you don't want to accidentally share, close or minimize it now

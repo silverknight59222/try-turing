@@ -46,6 +46,8 @@ Over time, we may want to add or remove elements from an array. Today we will fo
 var emails = ['amy@turing.io', 'rachel@turing.io', 'anna@turing.io'];
 
 emails.push('erin@turing.io');
+
+console.log(emails);
 // ['amy@turing.io', 'rachel@turing.io', 'anna@turing.io', 'erin@turing.io']
 ```
 
@@ -103,14 +105,14 @@ toDos.forEach(function(toDo) {
 
 </div>
 
-## Putting it All Together
+## Putting It All Together
 
 Alert messages, or logging to the console won't do our user much good. As front-end developers, most of our job is about presenting the data to the user in the browser.
 
 Using everything we've learned up until now, let's break this code down:
 
 ```js
-var emailConfirmations = document.getElementById('.confirm-section');
+var emailConfirmations = document.getElementById('confirm-section');
 var emails = ['amy@turing.io', 'rachel@turing.io', 'anna@turing.io'];
 
 emails.forEach(function(email) {

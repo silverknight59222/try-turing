@@ -69,6 +69,26 @@ function showAlert() {
 }
 ```
 
+<div class="try-it-new">
+  <h2>Try It: Set up Listener</h2>
+  <ol>
+    <li>In your Glitch project, attach an event listener to the button. Instruct it to call a function named <code class="try-it-code">addToDo</code>.</li>
+    <li>Do you see a little red dot to the left of your new line of code? That's because Glitch is trying to tell you that it doesn't know about a function named <code class="try-it-code">addToDo</code>. Below your event listener, define that function! At this point, you shoud not have any code inside of the <em>block</em>.</li>
+
+  </ol>
+
+  <div class="help-container">
+    <button class="help-click">🤚 Help Me!</button>
+    <div class="help-toggle">
+      <pre>button.addEventListener('click', addToDo);
+
+function addToDo() {
+
+}</pre>
+    </div>
+  </div>
+</div>
+
 ## Adding New Elements
 
 Most content that appears in a web application was not "hard-coded", or, typed character-by-character into the HTML. Rather, it was added dynamically.
@@ -89,17 +109,19 @@ When this code runs, the HTML will not change. But the browser will read the Jav
 
 <div class="try-it-new">
   <h2>Try It: Adding New Elements</h2>
-  <ol>
-    <li>In your Glitch project, attach an event listener to the button. Instruct it to call a function named <code class="try-it-code">addToDo</code>.</li>
-    <li>Do you see a little red dot to the left of your new line of code? That's because Glitch is trying to tell you that it doesn't know about a function named <code class="try-it-code">addToDo</code>. Below your event listener, define that function!</li>
-    <li>Inside of the <code class="try-it-code">addToDo</code> function, append a new paragraph tag to the section. The paragraph can contain any text you'd like!</li>
-  </ol>
+  <p>Inside of the <code class="try-it-code">addToDo</code> function, append a new paragraph tag to the section. The paragraph can contain any text you'd like!</p>
   <br>
 
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
     <div class="help-toggle">
+    <pre>button.addEventListener('click', addToDo);
+
+function addToDo() {
+  allToDos.innerHTML += "< p>Walk the pups!</p>"
+}</pre>
       <p><a target="blank" href="https://glitch.com/edit/#!/dom-manipulation-solution">Here's a Glitch project</a> with the completed challenge.</p>
+      <p>If your code isn't working and it feels easier, you can remix this project and use it moving forward!</p>
     </div>
   </div>
 </div>
