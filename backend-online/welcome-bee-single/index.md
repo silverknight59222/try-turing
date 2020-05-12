@@ -9,7 +9,7 @@ layout: lesson
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
 - In another tab, open up <a target="blank" href="https://try.turing.io/backend-online">try.turing.io</a>
-- Make sure you have a fully charged computer (or can plug in to a charger when necessary)
+- Change Zoom display name to first name, last initial, pronouns; ie - Rachel W. (she/her)
 
 ### What to Expect
 
@@ -30,7 +30,6 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 - Mute yourself **unless** you're talking.
 - Keep your camera on during class and breakout sessions; ok to turn off during independent work time
-- Change Zoom display name to first name, last initial, pronouns; ie - Rachel W. (she/her)
 - Use features in the Participants Pane to answer yes/no, raise your hand, or give a thumbs up.
 - You might be sharing your screen with your team at some point during the class -- if you have anything open that you don't want to accidentally share, close or minimize it now.
 - Questions? Type into the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself.
