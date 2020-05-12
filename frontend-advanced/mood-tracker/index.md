@@ -3,6 +3,7 @@ layout: lesson
 ---
 
 # Mood Tracker Project
+<a href="../">Back to Curriculum Index</a>
 
 ## Goals
 
@@ -155,3 +156,6 @@ date.toLocaleString();
 ```
 
 Once you've explored this, decide how you want to incorporate the date. You probably want to move your date variable declaration inside of the event listener!
+
+<br>
+<a href="../">Back to Curriculum Index</a>
