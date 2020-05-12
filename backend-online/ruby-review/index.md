@@ -34,7 +34,6 @@ true
 
  **Variables** can either be single letters or full words or phrases. In addition, they can represent any data types. The code below shows four different variables. The numbers at the beginning of the line are not part of the code; they just represent the line number.
 
-
 ```ruby
 width = 50
 year_founded = 2014
