@@ -23,8 +23,11 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - **12:30 - 2:20**  Instruction
 - **2:20  - 2:30**  Wrap Up
 
-
 <br>
+### Learning Norms
+
+- No question is too small. No question is a bad question. Ask them!
+- We all benefit from each others ideas! Push yourself to share out and make sure you aren't sharing _so_ much that others don't have the space to do so.
 
 ### Online Session Norms
 
