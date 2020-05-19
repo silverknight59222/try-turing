@@ -18,8 +18,9 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - **10:00 - 11:45** Welcome, Intros, and Instruction
 - **11:45 - 12:00** Break
 - **12:00 - 12:30** Industry Panel
-- **12:30 - 2:20**  Instruction
-- **2:20  - 2:30**  Wrap Up
+- **12:30 - 12:45** Break
+- **12:45 - 2:45**  Instruction
+- **2:45  - 3:00**  Wrap Up, Questions
 
 <br>
 ### Learning Norms
@@ -36,17 +37,6 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - You might be sharing your screen today - if you have anything open that you don't want to accidentally share, close or minimize it now
 - Type questions the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself
 - Disconnected? Jump back on! If the host or TAs get disconnected, hold tight, and the session will resume shortly
-
-### Zoom Features
-
-<img src="{{ site.url }}/assets/images/zoom-controls.png" alt="screenshot of zoom">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img src="{{ site.url }}/assets/images/zoom-markedup.png" alt="screenshot of zoom">
 
 ### Using Glitch
 
