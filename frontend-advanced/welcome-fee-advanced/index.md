@@ -20,7 +20,7 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - **12:00 - 12:30** Industry Panel
 - **12:30 - 12:45** Break
 - **12:45 - 2:45**  Instruction
-- **2:45  - 3:00**  Wrap Up, Questions
+- **2:45 - 3:00**  Wrap Up, Questions
 
 <br>
 ### Learning Norms
