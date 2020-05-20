@@ -121,7 +121,7 @@ This is working! But we have, what we call in development, our first [bug](https
       <p>We need to give instructions to clear out the HTML in the section <em>before</em> we iterate over the array. We can add this line of code right before the <code>.forEach</code>.</p>
       <pre>section.innerHTML = "";</pre>
       <p>
-        <a target="blank" href="https://glitch.com/edit/#!/tc-complete-mood-tracker">Here is a completed Mood Tracker!</a>
+        <a target="blank" href="https://glitch.com/edit/#!/tc-mood-tracker-complete">Here is a completed Mood Tracker!</a>
       </p>
     </div>
   </div>
