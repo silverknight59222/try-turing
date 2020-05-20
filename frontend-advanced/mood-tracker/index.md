@@ -31,11 +31,12 @@ In the HTML, we can see that there are several elements in the body:
 - `button` - user will click to let the program know they are ready to submit
 - `section` - this will hold all past inputs
 
-In the JavaScript, we already have variables declared for the `button` and `section`, and one named `allInputs` that stores an empty array.
+In the JavaScript, we already have variables declared for the `button` and one named `allInputs` that stores an empty array.
 
 <div class="try-it-new">
   <h2>Get User Input</h2>
-  <p>Attach an event listener to the button. When it is clicked, create a variable that stores the input element.</p>
+  <p>Attach an event listener to the button. When it is clicked, call a function. Inside that function, create a variable that stores the input element.</p>
+  <p>Then, <code>console.log</code> or <code>alert</code> that variable, to check what you are storing.</p>
 
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
@@ -99,7 +100,7 @@ function addToDo() {
   allInputs.push(userInput);
 
   allInputs.forEach(function(input) {
-    section.innerHTML += input;
+    section.innerHTML += `< p>${input}</p>`;
   });
 });</pre>
     </div>
@@ -119,6 +120,9 @@ This is working! But we have, what we call in development, our first [bug](https
       <p>The <code>innerHTML +=</code> takes the existing HTML and adds on. So we were giving the program the instructions to leave the list as-is, and <em>then</em> add everything inside the array onto that.</p>
       <p>We need to give instructions to clear out the HTML in the section <em>before</em> we iterate over the array. We can add this line of code right before the <code>.forEach</code>.</p>
       <pre>section.innerHTML = "";</pre>
+      <p>
+        <a target="blank" href="https://glitch.com/edit/#!/tc-complete-mood-tracker">Here is a completed Mood Tracker!</a>
+      </p>
     </div>
   </div>
 </div>
@@ -132,7 +136,7 @@ As a user, we usually expect that once we fill out a form, the inputs are wiped 
 Once we've collected the users input and displayed all the inputs, we can give instructions to clear out the `value` of the input element.
 
 ```javascript
-document.getElementById('input').value = "";
+document.getElementById('user-input').value = "";
 ```
 
 ### Determine The Day
