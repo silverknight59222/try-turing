@@ -9,15 +9,25 @@ layout: lesson
 - Brainstorm and pseudo-code where our API requests would live in the code
 - Implement the syntax to make an API request
 
-**Note:** For this extension, you will start with a new Starter Kit. It has the completed Mood Tracker project with some additional pieces that are essential to this working. [Start by remixing this project](). 
+**Note:** For this extension, you will start with a new Starter Kit. It has the completed Mood Tracker project with some additional pieces that are essential to this working. [Start by remixing this project](https://glitch.com/edit/#!/tc-api-mood-starter).
 
 ## Data APIs
 
-High level explanation
+API is an acronym for Application Programming Interface. An API is the predefined instructions we have to interact with a data set, or application. Yelp has all sorts of interesting data about restaurants, their API has different ways that we can interact with (read) that data. The Google Maps API lets us look at different maps in different ways, using their API we can be detailed about what we want the map to look like.
+
+Today, we will be working with an API that holds data. Here are some of the APIs our students enjoy working with while building projects at Turing:
+- PandaScore: An API for esports data
+- New York Times: Multiple APIs - from archives to move reviews to top stories
+- COVID-19: An API for data on the Coronavirus, data sourced from Johns Hopkins CSSE
+- IQ Air: An APIR with historical, real-time and forecast air quality data
 
 ## Making API Requests
 
-Many different ways to accomplish, since we are talking to an API built into the same project, we will use jQuery's `ajax` methods that look like this:
+There are many different ways we can write code to make requests to an API. Today, we will use jQuery's `ajax` methods. Some syntax examples are provided below.
+
+### GET
+
+The `get` method is used to read or retrieve data from an API.
 
 ```javascript
 $.get('/moods', function(moods) {
@@ -25,6 +35,10 @@ $.get('/moods', function(moods) {
   // moods will be the variable that holds the array of moods
 });
 ```
+
+### POST
+
+The `post` method is used to create a new entry in the database. Many APIs are read-only, but since we built the one we are using today, we will be able to post to it!
 
 ```javascript
 $.post('/moods', function() {
@@ -36,7 +50,11 @@ $.post('/moods', function() {
 
 ## Pseudo-Coding
 
-What is it, why we do it.
+One of the greatest tools in a developers tool belt is **pseudo-coding**. Pseudo-coding is the secretly-complex skill of writing down what you want your code to do, without writing any code. It helps to think about your code as a series of instructions for a well-meaning but _very literal_ and kind of foolish robot.
+
+[This video](https://www.youtube.com/watch?time_continue=9&v=FN2RM-CHkuI&feature=emb_logo) gives you an idea of the level of detail we have to get into our pseudo-code.
+
+
 Let's make our own plan.
 
 - When do we need to ask the database to store an entry?
