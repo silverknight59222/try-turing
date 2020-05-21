@@ -16,10 +16,10 @@ layout: lesson
 API is an acronym for Application Programming Interface. An API is the predefined instructions we have to interact with a data set, or application. Yelp has all sorts of interesting data about restaurants, their API has different ways that we can interact with (read) that data. The Google Maps API lets us look at different maps in different ways, using their API we can be detailed about what we want the map to look like.
 
 Today, we will be working with an API that holds data. Here are some of the APIs our students enjoy working with while building projects at Turing:
-- PandaScore: An API for esports data
-- New York Times: Multiple APIs - from archives to move reviews to top stories
-- COVID-19: An API for data on the Coronavirus, data sourced from Johns Hopkins CSSE
-- IQ Air: An APIR with historical, real-time and forecast air quality data
+- **PandaScore:** An API for esports data
+- **New York Times:** Multiple APIs - from archives to movie reviews to top stories
+- **COVID-19:** An API for data on the Coronavirus, data sourced from Johns Hopkins CSSE
+- **IQ Air:** An API with historical, real-time and forecast air quality data
 
 ## Making API Requests
 
@@ -55,8 +55,7 @@ One of the greatest tools in a developers tool belt is **pseudo-coding**. Pseudo
 [This video](https://www.youtube.com/watch?time_continue=9&v=FN2RM-CHkuI&feature=emb_logo) gives you an idea of the level of detail we have to get into our pseudo-code.
 
 
-Let's make our own plan.
-
+Let's write some pseudo-code for our app while we consider these questions:
 - When do we need to ask the database to store an entry?
 - When do we need to ask the database to give us all the entries?
 
