@@ -11,10 +11,14 @@ layout: lesson
 - Explain the purpose of a function
 - Use the syntax to define and call a function
 
+<br>
 ## What is a Function?
 
-A function is an _action_ in our code. It has a specific job, and it sits around waiting to be asked to do it. It can perform its job as many or as few times as we need. It can have a very small job (add two numbers together) or a very big job (find the standard deviation of 1 million numbers). We define them, so we have control over what each function does!
+A function is an _action_ in our code. It has a specific job, and it sits around waiting to be asked to do it. It can perform its job as many or as few times as we need. We can also define a function as a set of commands. Let's brainstorm about commands we might give a dog🐶.
 
+We write the functions, so we have control over what each function does!
+
+<br>
 ## Defining a Function
 
 To define a function, we start with the keyword `function`, then name our function whatever we want. The name should describe the type of action our function is taking. Like variables, we use camelCase.
@@ -23,14 +27,14 @@ Directly after the function name, we see open and close parentheses `()`, then o
 
 ```js
 //empty function definition
-function addUp() {}
+function rollOver() {}
 ```
 
 ```js
 //function definition with code inside block
-function addUp() {
-  var sum = 3 + 4;
-  alert("I added two numbers!", sum);
+function rollOver() {
+  var dogName = 'Oscar';
+  alert(`Roll over, ${dogName}!`);
 }
 ```
 ## Calling a Function
@@ -38,7 +42,7 @@ function addUp() {
 We have a function written, but we need to **call** it for the function to actually run. Until we call the function, the code will just sit around and do nothing.
 
 ```js
-addUp();
+rollOver();
 ```
 
 <div class="try-it-new">

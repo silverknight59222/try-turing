@@ -18,10 +18,12 @@ As a user,
 
 The example we will walk through will be a mood tracker, but you can choose to ask your user for any type of data!
 
+<br>
 ## Set Up
 
 Let's start with a fresh Glitch project. [Remix this project](https://glitch.com/edit/#!/tc-mood-tracker-starter). You _may_ want to keep your other project open so you can reference it!
 
+<br>
 ## Get User Input
 
 In the HTML, we can see that there are several elements in the body:
@@ -60,6 +62,7 @@ var userInput = document.getElementById('input').value;
 
 Now, run the program and click the button. This time, we should see the value that was typed in, in our `console.log` or `alert`.
 
+<br>
 ## Add Input to Array
 
 Now that we have the value of the text the user most recently provided, let's add it to the list of all inputs.
@@ -81,6 +84,7 @@ function addToDo() {
   </div>
 </div>
 
+<br>
 ## Display All Inputs
 
 Now that we have an updated list of `allInputs`, let's show each of those to our user!
@@ -127,6 +131,7 @@ This is working! But we have, what we call in development, our first [bug](https
   </div>
 </div>
 
+<br>
 ## Level Up Options:
 
 ### Clear Input

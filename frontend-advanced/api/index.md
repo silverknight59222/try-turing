@@ -11,6 +11,7 @@ layout: lesson
 
 **Note:** For this extension, you will start with a new Starter Kit. It has the completed Mood Tracker project with some additional pieces that are essential to this working. [Start by remixing this project](https://glitch.com/edit/#!/tc-api-mood-starter).
 
+<br>
 ## Data APIs
 
 API is an acronym for Application Programming Interface. An API is the predefined instructions we have to interact with a data set, or application. Yelp has all sorts of interesting data about restaurants, their API has different ways that we can interact with (read) that data. The Google Maps API lets us look at different maps in different ways, using their API we can be detailed about what we want the map to look like.
@@ -21,6 +22,7 @@ Today, we will be working with an API that holds data. Here are some of the APIs
 - **COVID-19:** An API for data on the Coronavirus, data sourced from Johns Hopkins CSSE
 - **IQ Air:** An API with historical, real-time and forecast air quality data
 
+<br>
 ## Making API Requests
 
 There are many different ways we can write code to make requests to an API. Today, we will use jQuery's `ajax` methods. Some syntax examples are provided below.
@@ -48,6 +50,7 @@ $.post('/moods', function() {
 });
 ```
 
+<br>
 ## Pseudo-Coding
 
 One of the greatest tools in a developers tool belt is **pseudo-coding**. Pseudo-coding is the secretly-complex skill of writing down what you want your code to do, without writing any code. It helps to think about your code as a series of instructions for a well-meaning but _very literal_ and kind of foolish robot.
@@ -58,6 +61,7 @@ Let's write some pseudo-code for our app while we consider these questions:
 - When do we need to ask the database to store an entry?
 - When do we need to ask the database to give us all the entries?
 
+<br>
 ## Implementation
 
 <div class="try-it-new">

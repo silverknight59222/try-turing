@@ -30,7 +30,7 @@ Over the course of the day, we will write code, start developing some developer 
 
 ### Online Session Norms
 
-- Mute yourself unless you're talking
+- Mute your mic unless you're talking
 - Keep your camera on during class and breakout sessions; ok to turn off during independent work time
 - It is very normal in an online setting to accidentally talk over someone. If that happens, apologize and be sure to clarify who is speaking next
 - Use features in the Participants Pane to answer yes/no, raise your hand, or give a thumbs up.

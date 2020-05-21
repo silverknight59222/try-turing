@@ -10,10 +10,12 @@ layout: lesson
 - Research and implement some common CSS properties
 - Implement hover states and transition for a great user experience
 
+<br>
 ## What is CSS?
 
 CSS is a way to add style to HTML documents on the web. It's incredibly powerful! Let's take a look at some examples of CSS in action: [CSS Zen Garden](http://www.csszengarden.com/). You'll notice that every single one of these web pages has the exact same HTML - all the differences in layout and look are achieved through CSS!
 
+<br>
 ## CSS Rules and Syntax
 
 In CSS, we write a bunch of rules for how our document should look. The browser evaluates those rules and styles the page accordingly. A CSS rule is defined as follows:
@@ -75,7 +77,7 @@ There are a lot of colors out there! Find a color that makes you happy [here](ht
   </ul>
 </div>
 
-
+<br>
 ## What are Hover States?
 
 CSS has many _pseudo-classes_ that give us even more control. This definition is from the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes):
@@ -92,6 +94,7 @@ CSS has many _pseudo-classes_ that give us even more control. This definition is
   <p>Want to learn more? <a target="blank" href="https://uxplanet.org/button-ux-design-best-practices-types-and-states-647cf4ae0fc6">Read this blog post</a> for some suggestions on best practices.</p>
 </div>
 
+<br>
 ## Hover State Syntax
 
 If we want to give instructions to the browser to show a purple button, but change that button the have a yellow background when the user hovers over it, we might write these two rules:

@@ -12,6 +12,7 @@ layout: lesson
 - Use the syntax to attach an event listener on a button
 - Append new HTML elements to an existing container
 
+<br>
 ## Storing HTML Elements
 
 JavaScript variables can store parts of the HTML that we've written. If we wanted a variable to represent the `h1` heading at the top of our page, we'd need to do two things:
@@ -36,7 +37,7 @@ We will need to create several variables in our programs - one for each HTML ele
 
 <div class="try-it-new">
   <h2>Try It: Storing Elements</h2>
-  <p>In your Glitch project, declare two variables. One should store the button and the other should store the section in the HTML file.</p>
+  <p>In your Glitch project, declare two variables. One should store the <code>button</code> and the other should store the <code>section</code> in the HTML file.</p>
 
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
@@ -47,12 +48,14 @@ var allToDos = document.getElementById('all-todos');</pre>
   </div>
 </div>
 
+<br>
 ## What Are Event Listeners?
 
 Imagine that you’ve just ordered food from GrubHub and are waiting for it to arrive. When the doorbell rings, you’ll stand up from the couch, walk over to the door, open it, and take your food. Guess what? You programmed yourself with an event listener.
 
 In JavaScript, an event listener is a way to set up code to run only when a very specific thing happens. You’ll give instructions to the program to listen for the mouse to click on a specific element on the page. When that element is clicked, the program will call a specific function for you.
 
+<br>
 ## Listen For a Button Click
 
 If you attended the first Try Coding workshop, the concept of an event listener may seem familiar. The syntax below, however, may be new.
@@ -62,15 +65,16 @@ When the button with the ID of `submit-btn` is clicked, the named function `show
 ```javascript
 var button = document.getElementById('submit-btn');
 
-button.on('click', showAlert);
+button.addEventListener('click', showAlert);
 
 function showAlert() {
-  alert("You did it! You clicked the button!")
+  alert('You did it! You clicked the button!')
 }
 ```
 
 <div class="try-it-new">
   <h2>Try It: Set up Listener</h2>
+  <p>We will no longer need the <code>giveReminder</code> function you wrote in the previous section. You can delete it or comment it out and keep it as a reference for syntax!</p>
   <ol>
     <li>In your Glitch project, attach an event listener to the button. Instruct it to call a function named <code class="try-it-code">addToDo</code>.</li>
     <li>Do you see a little red dot to the left of your new line of code? That's because Glitch is trying to tell you that it doesn't know about a function named <code class="try-it-code">addToDo</code>. Below your event listener, define that function! At this point, you shoud not have any code inside of the <em>block</em>.</li>
@@ -89,6 +93,7 @@ function addToDo() {
   </div>
 </div>
 
+<br>
 ## Adding New Elements
 
 Most content that appears in a web application was not "hard-coded", or, typed character-by-character into the HTML. Rather, it was added dynamically.
@@ -100,16 +105,16 @@ Container elements, like `<div>`, `<nav>`, and `<section>` have the responsibili
 ```javascript
 var container = document.getElementById('.container-id');
 
-container.innerHTML += "<p>Hi</p>";
-container.innerHTML += "<p>Hey</p>";
-container.innerHTML += "<p>Hello</p>";
+container.innerHTML += '<p>Hi</p>';
+container.innerHTML += '<p>Hey</p>';
+container.innerHTML += '<p>Hello</p>';
 ```
 
 When this code runs, the HTML will not change. But the browser will read the JavaScript and append, or insert, the 3 new `<p>` elements inside of the `<section>` element.
 
 <div class="try-it-new">
   <h2>Try It: Adding New Elements</h2>
-  <p>Inside of the <code class="try-it-code">addToDo</code> function, append a new paragraph tag to the section. The paragraph can contain any text you'd like!</p>
+  <p>Inside of the <code class="try-it-code">addToDo</code> function, add a new paragraph tag inside of the section. The paragraph can contain any text you'd like! Add as many as you want!</p>
   <br>
 
   <div class="help-container">
@@ -118,9 +123,9 @@ When this code runs, the HTML will not change. But the browser will read the Jav
     <pre>button.addEventListener('click', addToDo);
 
 function addToDo() {
-  allToDos.innerHTML += "< p>Walk the pups!</p>"
+  allToDos.innerHTML += '< p>Walk the pups!</p>';
 }</pre>
-      <p><a target="blank" href="https://glitch.com/edit/#!/dom-manipulation-solution">Here's a Glitch project</a> with the completed challenge.</p>
+      <p><a target="blank" href="https://glitch.com/edit/#!/tc-dom-manipulation-solution">Here's a Glitch project</a> with the completed challenge.</p>
       <p>If your code isn't working and it feels easier, you can remix this project and use it moving forward!</p>
     </div>
   </div>

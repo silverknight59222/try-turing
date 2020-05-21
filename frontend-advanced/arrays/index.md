@@ -12,24 +12,34 @@ layout: lesson
 - Use the `.forEach` method to iterate over arrays
 - Iterate over an array of strings and display each one in the browser
 
+<br>
 ## What are Arrays?
 
-An array stores an ordered **list** of values. Each value is referred to as an **element**. You should consider using an array whenever you are working with a collection of values, or values that are related to one another.
+An array stores an ordered **list** of values. You should consider using an array whenever you are working with a collection of values that are related to one another.
 
 Some common scenarios in which developers use arrays:
 - **Social Media:** list of followers, list of posts, list of DMs
-- **E-Commerce:** list of products, list of items/prices in a cart
+- **E-Commerce:** list of products, list of items in a cart
 - **Email Service:** list of emails for all ads, list for certain ads
 
+<br>
 ## Array Syntax
 
-You can put different types of data into an array, and there is not a certain number of elements an array can or should contain:
+Each value is referred to as an **element**. You can put different types of data into an array, and there is not a certain number of elements an array can or should contain.
+
+Here is an array of 3 elements, all strings:
 
 ```js
 var followers = ['@DS_Storoz', '@kefimochi', '@LetaCodes'];
+```
+
+Here is an array of 6 elements, all numbers:
+
+```js
 var cartItemPrices = [33, 72, 64, 18, 17, 85];
 ```
-You can also write an array with values on separate lines, like so:
+
+Arrays can also be written with values on separate lines, like so:
 
 ```js
 var emails = [
@@ -67,6 +77,7 @@ toDos.push('feed pups');</pre>
 
 </div>
 
+<br>
 ## Iteration
 
 Iteration is defined as _the repetition of a process_. In programming, we will define that more specifically as taking action on every element in an array. Here are some examples of why we need and use iteration:
@@ -80,7 +91,7 @@ var emails = ['amy@turing.io', 'rachel@turing.io', 'anna@turing.io'];
 
 emails.forEach(function(email) {
   var message = `Thanks for being a loyal customer, ${email}!`;
-  alert(message);
+  console.log(message);
 });
 ```
 
@@ -91,7 +102,7 @@ Breakdown:
 
 <div class="try-it-new">
   <h2>Try It: Iterating over Arrays</h2>
-  <p>Back in the <code>scripts.js</code> file of your Glitch project, iterate over your list of to-dos. For each, alert the user with a reminder about what they need to do!</p>
+  <p>Back in the <code>scripts.js</code> file of your Glitch project, iterate over your list of to-dos. For each, <code>console.log</code> a reminder about what the user needs to do!</p>
 
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
@@ -106,6 +117,7 @@ toDos.forEach(function(toDo) {
 
 </div>
 
+<br>
 ## Putting It All Together
 
 Alert messages, or logging to the console won't do our user much good. As front-end developers, most of our job is about presenting the data to the user in the browser.
@@ -113,23 +125,23 @@ Alert messages, or logging to the console won't do our user much good. As front-
 Using everything we've learned up until now, let's break this code down:
 
 ```js
-var emailConfirmations = document.getElementById('confirm-section');
-var emails = ['amy@turing.io', 'rachel@turing.io', 'anna@turing.io'];
-
-emails.forEach(function(email) {
-  var message = `<p>An email has been sent to: ${email}!</p>`
-  emailConfirmations.innerHTML += message;
-});
+var emailConfirmations = document.getElementById('confirm-section');  // 1
+var emails = ['amy@turing.io', 'rachel@turing.io', 'anna@turing.io']; // 2
+                                                                      // 3
+emails.forEach(function(email) {                                      // 4
+  var message = `<p>An email has been sent to: ${email}!</p>`;        // 5
+  emailConfirmations.innerHTML += message;                            // 6
+});                                                                   // 7
 ```
 
 <div class="try-it-new">
   <h2>Try It: Iterating + DOM Manipulation</h2>
-  <p>Modify the <code>forEach</code> in your project. Instead of an alert, insert a paragraph inside of the <code>section</code> for each to-do.</p>
+  <p>Modify the <code>forEach</code> in your project. Instead of a <code>console.log</code>, insert a paragraph inside of the <code>section</code> for each to-do.</p>
 
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
     <div class="help-toggle">
-      <p><a target="blank" href="https://glitch.com/edit/#!/arrays-solution">Here's a Glitch project</a> with the completed challenge.</p>
+      <p><a target="blank" href="https://glitch.com/edit/#!/tc-arrays-solution">Here's a Glitch project</a> with the completed challenge.</p>
     </div>
   </div>
 </div>
