@@ -8,7 +8,7 @@ layout: lesson
 
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="http://codepen.io/">Glitch</a> in a browser (preferably Chrome) and login to your account
-- In another tab, open up <a target="blank" href="https://try.turing.io/frontend-online">try.turing.io/frontend-advanced</a>
+- In another tab, open up <a target="blank" href="https://try.turing.io/frontend-advanced">try.turing.io/frontend-advanced</a>
 - Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 
 ### What to Expect
