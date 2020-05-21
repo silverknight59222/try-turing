@@ -11,7 +11,6 @@ We hope you had some fun and got a feel for if Front-End is something you'd like
 ## Contact
 
 - For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong>
-- Amy is also available for one-on-one coaching sessions to help you prepare for the logic portion of the interview. <a target="blank" href="https://go.oncehub.com/Amycoaching" >Sign up here</a>
 - For questions regarding admissions and enrollment, <a target="blank" href="https://go.oncehub.com/darrenatturing" >set up a time to chat with Darren</a>
 
 ## Additional Resources

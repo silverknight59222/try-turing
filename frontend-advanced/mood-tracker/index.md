@@ -37,8 +37,9 @@ In the JavaScript, we already have variables declared for the `button` and one n
 
 <div class="try-it-new">
   <h2>Get User Input</h2>
-  <p>Attach an event listener to the button. When it is clicked, call a function. Inside that function, create a variable that stores the input element.</p>
-  <p>Then, <code>console.log</code> or <code>alert</code> that variable, to check what you are storing.</p>
+  <p>Attach an event listener to the button. When it is clicked, call a function. Name the function something that feels appropriate based on what you know about your code so far (you can always change it later!).</p>
+  <p>Inside that function, create a variable that stores the input element.</p>
+  <p>Then, <code>console.log</code> that variable to check what you are storing.</p>
 
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
@@ -47,20 +48,20 @@ In the JavaScript, we already have variables declared for the `button` and one n
 
 function addToDo() {
   var userInput = document.getElementById('input');
-  alert(userInput);
+  console.log(userInput);
 });</pre>
     </div>
   </div>
 </div>
 
 
-If we `console.log` or `alert` that input right now, we don't have quite what we want yet. Let's add `.value` to the end of that new variable to pull out the value that was typed into that element:
+If we `console.log` that input right now, we don't have quite what we want yet. Let's add `.value` to the end of that new variable to pull out the value that was typed into that element:
 
 ```js
 var userInput = document.getElementById('input').value;
 ```
 
-Now, run the program and click the button. This time, we should see the value that was typed in, in our `console.log` or `alert`.
+Now, view your app in the browser and click the button. This time, we should see the value that was typed into the input in our `console.log`.
 
 <br>
 ## Add Input to Array
@@ -92,7 +93,7 @@ Now that we have an updated list of `allInputs`, let's show each of those to our
 <div class="try-it-new">
   <h2>Display All Inputs</h2>
   <p>Iterate over the <code>allInputs</code> array. For each string in the array, insert a new paragraph inside of the <code>section</code>.</p>
-  <p>Think carefully: Should this new piece of code live inside or outside of the event listener? Why?</p>
+  <p><strong>Think carefully:</strong> Should this new line of code live inside or outside of the event listener? Why?</p>
 
   <div class="help-container">
     <button class="help-click">🤚 Help Me!</button>
