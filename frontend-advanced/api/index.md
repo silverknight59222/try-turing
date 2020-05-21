@@ -52,15 +52,18 @@ $.post('/moods', function() {
 
 One of the greatest tools in a developers tool belt is **pseudo-coding**. Pseudo-coding is the secretly-complex skill of writing down what you want your code to do, without writing any code. It helps to think about your code as a series of instructions for a well-meaning but _very literal_ and kind of foolish robot.
 
-[This video](https://www.youtube.com/watch?time_continue=9&v=FN2RM-CHkuI&feature=emb_logo) gives you an idea of the level of detail we have to get into our pseudo-code.
-
+🥜🍓[This fun video](https://www.youtube.com/watch?time_continue=9&v=FN2RM-CHkuI&feature=emb_logo) gives you an idea of the level of detail we have to get into our pseudo-code.
 
 Let's write some pseudo-code for our app while we consider these questions:
 - When do we need to ask the database to store an entry?
 - When do we need to ask the database to give us all the entries?
 
-How do those two things fit in with the code we currently have? Let's add some notes into our existing code.
+## Implementation
 
+<div class="try-it-new">
+  <h2>Implement GET and POST</h2>
+  <p>Let's hop over to the new starter kit and add some pseudo-code notes into our existing code.</p>
+  <p>Then, let's work to implement those pieces!</p>
+</div>
 
-
-Provide a link to a completed Mood Tracker with API calls they can check out
+Here is a [completed Mood Tracker with API requests](https://glitch.com/edit/#!/tc-api-mood-complete) you can check out!
