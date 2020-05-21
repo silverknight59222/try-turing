@@ -20,7 +20,7 @@ The example we will walk through will be a mood tracker, but you can choose to a
 
 ## Set Up
 
-Let's start with a fresh Glitch project. [Remix this project](). It's recommended that you keep your other project open so you can reference it, if needed!
+Let's start with a fresh Glitch project. [Remix this project](https://glitch.com/edit/#!/tc-mood-tracker-starter). You _may_ want to keep your other project open so you can reference it!
 
 ## Get User Input
 
