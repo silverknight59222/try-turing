@@ -47,7 +47,7 @@ In the JavaScript, we already have variables declared for the `button` and one n
       <pre>submitButton.addEventListener('click', addToDo);
 
 function addToDo() {
-  var userInput = document.getElementById('input');
+  var userInput = document.getElementById('user-input');
   console.log(userInput);
 });</pre>
     </div>
