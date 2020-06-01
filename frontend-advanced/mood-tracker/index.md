@@ -54,7 +54,6 @@ function addToDo() {
   </div>
 </div>
 
-
 If we `console.log` that input right now, we don't have quite what we want yet. Let's add `.value` to the end of that new variable to pull out the value that was typed into that element:
 
 ```js

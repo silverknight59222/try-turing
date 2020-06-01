@@ -14,9 +14,9 @@ layout: lesson
 <br>
 ## What is a Function?
 
-A function is an _action_ in our code. It has a specific job, and it sits around waiting to be asked to do it. It can perform its job as many or as few times as we need. We can also define a function as a set of commands. Let's brainstorm about commands we might give a dog🐶.
+A function is an _action_ in our code. It has a specific job, and it sits around waiting to be asked to do it. It can perform its job as many or as few times as we need. We can also define a function as a set of commands. Let's brainstorm about commands we might give a dog 🐶.
 
-We write the functions, so we have control over what each function does!
+We write the functions, so we have control over _what_ each function does!
 
 <br>
 ## Defining a Function
@@ -39,7 +39,7 @@ function rollOver() {
 ```
 ## Calling a Function
 
-We have a function written, but we need to **call** it for the function to actually run. Until we call the function, the code will just sit around and do nothing.
+We write the functions, so we also have control over _when_ each function does its job! We have a function written, but we need to **call** it for the function to actually run. Until we call the function, the code will just sit around and do nothing.
 
 ```js
 rollOver();

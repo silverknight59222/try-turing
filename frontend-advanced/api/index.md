@@ -2,14 +2,15 @@
 layout: lesson
 ---
 
-# Connect Mood Tracker to a Back-End API
+# Connect To Do List to a Back-End API
+<a href="../extensions">Back to All Extensions</a>
 
 ## Goals
 
 - Brainstorm and pseudo-code where our API requests would live in the code
 - Implement the syntax to make an API request
 
-**Note:** For this extension, you will start with a new Starter Kit. It has the completed Mood Tracker project with some additional pieces that are essential to this working. [Start by remixing this project](https://glitch.com/edit/#!/tc-api-mood-starter).
+**Note:** For this extension, you will start with a new Starter Kit. It has the completed To Do List project with some additional pieces that are essential to this working. [Start by remixing this project](https://glitch.com/edit/#!/tc-api-mood-starter).
 
 <br>
 ## Data APIs
@@ -32,9 +33,9 @@ There are many different ways we can write code to make requests to an API. Toda
 The `get` method is used to read or retrieve data from an API.
 
 ```javascript
-$.get('/moods', function(moods) {
+$.get('/todos', function(toDos) {
   // any code we want to run after we make the request
-  // moods will be the variable that holds the array of moods
+  // toDos will be the variable that holds the array of to-do strings
 });
 ```
 
@@ -43,10 +44,10 @@ $.get('/moods', function(moods) {
 The `post` method is used to create a new entry in the database. Many APIs are read-only, but since we built the one we are using today, we will be able to post to it!
 
 ```javascript
-$.post('/moods', function() {
+$.post('/todos', function() {
   // any code we want to run after we make the request
   // because we are asking to add something to the database, not get something
-    // we don't have a moods variable
+    // we don't have a toDos variable
 });
 ```
 
@@ -70,4 +71,7 @@ Let's write some pseudo-code for our app while we consider these questions:
   <p>Then, let's work to implement those pieces!</p>
 </div>
 
-Here is a [completed Mood Tracker with API requests](https://glitch.com/edit/#!/tc-api-mood-complete) you can check out!
+Here is a [completed To Do List with API requests](https://glitch.com/edit/#!/tc-api-mood-complete) you can check out!
+
+<br>
+<a href="../extensions">Back to All Extensions</a>

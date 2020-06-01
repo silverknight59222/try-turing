@@ -2,7 +2,8 @@
 layout: lesson
 ---
 
-# Style Mood Tracker with CSS
+# Style To Do List with CSS
+<a href="../extensions">Back to All Extensions</a>
 
 ## Goals
 
@@ -62,7 +63,7 @@ There are a lot of colors out there! Find a color that makes you happy [here](ht
 
 <div class="try-it-new">
   <h2>Try It: CSS Styles</h2>
-  <p>In your Mood Tracker project, open the <code>styles.css</code> file. Write at least 2 rules that target elements in from HTML file. Use any of the properties listed below (or any others you know of or research)!</p>
+  <p>In your To Do List project, open the <code>styles.css</code> file. Write at least 2 rules that target elements in from HTML file. Use any of the properties listed below (or any others you know of or research)!</p>
 
   <p>Not sure where to start? Could you add some styles to the paragraph elements so that when each "mood" that is logged stands out? Maybe a background color and border? Next up, could you make the button really look like a button that you'd want to click?!</p>
 
@@ -121,7 +122,10 @@ button {
 
 <div class="try-it-new">
   <h2>Try It: Hover States</h2>
-  <p>When the button in your Mood Tracker is hovered over, change at least two things about it.</p>
+  <p>When the button in your To Do List project is hovered over, change at least two things about it.</p>
 </div>
 
-[Here is a Mood Tracker with styles]() in place, including everything covered in the Try It sections.
+[Here is a To Do List with styles]() in place, including everything covered in the Try It sections.
+
+<br>
+<a href="../extensions">Back to All Extensions</a>

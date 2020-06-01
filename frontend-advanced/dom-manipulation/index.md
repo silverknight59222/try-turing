@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# DOM Manipulation
+# Event Listeners
 <a href="../">Back to Curriculum Index</a>
 
 ## Goals
@@ -37,6 +37,7 @@ We will need to create several variables in our programs - one for each HTML ele
 
 <div class="try-it-new">
   <h2>Try It: Storing Elements</h2>
+  <p>We will no longer need the <code>giveReminder</code> function you wrote in the previous section. You can delete it or comment it out and keep it as a reference for syntax!</p>
   <p>In your Glitch project, declare two variables. One should store the <code>button</code> and the other should store the <code>section</code> in the HTML file.</p>
 
   <div class="help-container">
@@ -74,7 +75,6 @@ function showAlert() {
 
 <div class="try-it-new">
   <h2>Try It: Set up Listener</h2>
-  <p>We will no longer need the <code>giveReminder</code> function you wrote in the previous section. You can delete it or comment it out and keep it as a reference for syntax!</p>
   <ol>
     <li>In your Glitch project, attach an event listener to the button. Instruct it to call a function named <code class="try-it-code">addToDo</code>.</li>
     <li>Do you see a little red dot to the left of your new line of code? That's because Glitch is trying to tell you that it doesn't know about a function named <code class="try-it-code">addToDo</code>. Below your event listener, define that function! At this point, you shoud not have any code inside of the <em>block</em>.</li>

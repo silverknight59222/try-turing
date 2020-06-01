@@ -6,8 +6,8 @@ layout: lesson
 
 - [Welcome + Intros](./welcome-fee-advanced)
 - [Functions](./functions)
-- [DOM Manipulation](./dom-manipulation)
+- [Event Listeners](./dom-manipulation)
 - [Arrays](./arrays)
-- [Mood Tracker Project](./mood-tracker)
+- [Building a Dynamic To-Do List](./dynamic-to-do)
 - [Extensions](./extensions)
 - [Wrap Up](./wrap-up-fe-advanced)
