@@ -81,7 +81,7 @@ Now, let's look at how we can use that endpoint in our JavaScript code.
 
 <div class="try-it-new">
   <h2>Try It: Integrating the API</h2>
-  <p>Go back to your Puppy Fact Generator. Right now, we've <em>hard-coded</em> a compliment. Where can you integrate the call to the dog fact API so that you can get back a random fact and show that to the user?</p>
+  <p>Go back to your Puppy Fact Generator. Right now, we've <em>hard-coded</em> a fact. Where can you integrate the call to the dog fact API so that you can get back a random fact and show that to the user?</p>
 
   <div class="help-container">
     <button class="help-click">🤚Help Me!</button>
