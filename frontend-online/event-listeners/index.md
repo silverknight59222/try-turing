@@ -46,7 +46,7 @@ When we "break" code, we are engaging in a process of tinkering with it to bette
 
 - What happens if you remove lines 2-4 from the JavaScript?
 - Bring back lines 2-4, now remove line 5. What happens?
-- Bring back line 5. Remove lines 10-16. What happens?
+- Bring back line 5. Remove lines 8-12. What happens?
 - Why isn't the image changing? Look at line 3 in HTML and line 5 in JS to see if you can identify the problem.
 
 
