@@ -9,6 +9,7 @@ layout: lesson
 ## Goals
 
 - Use container elements to group elements
+- Write ordered and unordered lists
 - Explore the idea Developer Empathy
 
 ## Nesting & Wrapping
@@ -16,6 +17,11 @@ layout: lesson
 - explain the concept of nesting, reference lists from earlier
 - talk about indentation for readability, developer empathy
 
+### Lists
+
+Lists are common on webpages. From bulleted items, to navigation menus with horizontal lists, to a list of followers - they are everywhere! Today, we will focus on numbered and bulleted lists.
+
+TRY IT:
 
 ## Containers
 

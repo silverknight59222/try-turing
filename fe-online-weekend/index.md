@@ -14,6 +14,8 @@ layout: lesson
 - [CSS Box Model](./box-model)
 - [Wrap Up](./foundations-wrap-up)
 
+<br>
+
 ## Day 2 - Intro to Accessibility
 
 - [Welcome](./welcome-access-weekend)

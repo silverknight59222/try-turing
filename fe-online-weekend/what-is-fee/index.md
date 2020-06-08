@@ -44,18 +44,6 @@ Big numbers are difficult to imagine. How can you imagine a billion? Even a thou
 
 <p>Check out <a href="http://www.sbs.com.au/theboat/" target="blank">The Boat</a> -- an interactive graphic novel about the Vietnam War using CSS/JS/Parallax.</p>
 
-## All Front-End Developers Have a Responsibility
-
-While solving these logical challenges and building interfaces that users can use seamlessly, Front-End developers have a responsibility to make sure **all** people have equal access to anything the site or application provides. Specifically, users with disabilities, including but not limited to: auditory, cognitive, mobility and visual disabilities.
-
-Unfortunately, accessibility is sometimes considered an "edge case" or a "nice-to-have". Front-End developers who put time and energy into learning about this and bringing to their teams can make a huge impact on making the web more accessible!
-
-<br>
-## No Matter Your Passion, You're Needed in FE
-
-While many people become developers because it can provide a stable career and lifestyle, it can also allow you to contribute towards something you are passionate about! Whether that be problems solving, exposing important data, making the web more accessible or anything in between, front-end developers play an essential role.
-
-<br>
 ## You Don't Have to Be a Designer
 
 <img class="small-img" src="{{ site.url }}/assets/images/comp.jpg" alt="To Do list application">
@@ -63,8 +51,21 @@ While many people become developers because it can provide a stable career and l
 
 Front-end developers often work with designers, who provide detailed comps like the one above. These comps allow a front-end developer to focus on managing the complicated interactions of the site.
 
-There's a common misconception that the front-end is only about colors, fonts, and having a good eye. However, front-end development is more focused on making data useful, accessible, and interactive. The code we write in JavaScript and other frameworks does a lot of heavy logical lifting.
+There's a common misconception that the front-end is only about colors, fonts, and having a good eye. However, front-end development is more focused on making data useful, accessible, and interactive. The code we write in JavaScript does a lot of heavy logical lifting.
 
+<br>
+## No Matter Your Passion, You're Needed in FE
+
+While many people become developers because it can provide a stable career and lifestyle, it can also allow you to contribute towards something you are passionate about! Whether that be problems solving, exposing important data, making the web more accessible or anything in between, front-end developers play an essential role.
+
+<br>
+## All Front-End Developers Have a Responsibility
+
+While solving these logical challenges and building interfaces that users can use seamlessly, Front-End developers have a responsibility to make sure **all** users have access to anything the site or application provides. Specifically, users with disabilities, including but not limited to: auditory, cognitive, mobility and visual disabilities.
+
+Unfortunately, accessibility is sometimes considered an "edge case" or a "nice-to-have". Front-End developers who put time and energy into learning about this and bringing to their teams can make a huge impact on making the web more accessible!
+
+<br>
 ## What technologies are used on the Front-End?
 
 The front-end of the web is based on three major technologies:
