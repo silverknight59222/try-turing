@@ -39,8 +39,8 @@ We will use an `<ul>` element to wrap as many `<li>` elements as we have list it
   <h3>Try It: Lists</h3>
   <p>Before you think about the code, it's recommended that you jot down your plan. What type of list could you add to your page? What text will each item display?</p>
   <p>Open the <code>index.html</code> file of your Glitch project. Somewhere inside of the <code>body</code> tags, make a list on your page.</p>
-  <p>Try using both <code>ul</code> and <code>ol</code> - what is the difference?</p>
-  <p>Check in on the "View" of your app to make sure things are showing up as expected.</p>
+  <p>Check in on the "View" of your app to see the result of these new elements.</p>
+  <p>Try using both <code>ul</code> and <code>ol</code> - what is the difference? What do you think <code>ul</code>, <code>ol</code> and <code>li</code> stand for? Feel free to Google!</p>
   <p> Early Finisher? give them a link for how to remove or style bullet points in CSS.</p>
 </div>
 
