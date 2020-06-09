@@ -24,15 +24,12 @@ HTML is made up of a series of **elements**. Each element is made up of at least
 
 Let's assume we are starting with some text. We'll call this content.
 
-```html
-Hello, World!
-```
+<img src="./assets/content.png" alt="the text of 'Hello, World!' in an orange color." />
+
 
 To tell the browser that this is a paragraph, we'll **mark up** the content with HTML tags:
 
-```html
-<p>Hello, World!</p>
-```
+<img src="./assets/element.png" alt="The code for an HTML paragraph element. The opening <p> is labeled opening tag, the text 'Hello, World!' is labeled content, and the closing </p> is labeled closing tag. All three pieces are enclosed in a brace and labeled element." />
 
 We use the `<p>` (the opening tag) to signal to the browser that everything that's about to follow is part of a paragraph and `</p>` (the closing tag) to let the browser know that this paragraph is done. When a user visits our application, the browser loads up the HTML and parses it into the elements that will eventually make up our user interface.
 
