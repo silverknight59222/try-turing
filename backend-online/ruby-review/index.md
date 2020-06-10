@@ -57,22 +57,23 @@ puts first_name
   <h2>Review: Ruby Data Types & Variables</h2>
 </div>
 
-## String Interpolation
+## Re-assigning Variables, puts vs. print
 
-String Interpolation allows us to do something really powerful - but in the spirit of exploring to learn, we aren't gong to tell what what exactly it does. Here's an example of the syntax:
+In the spirit of exploring to learn, we aren't gong to tell what what exactly the code below does. Here's an example of the syntax:
 
 ```ruby
 first_name = "Oscar"
-print "Welcome to Try Coding, #{first_name}!"
+puts "Welcome to Try Coding, #{first_name}!"
 
 first_name = "Sodie"
-print "Welcome to Try Coding, #{first_name}!"
+puts "Welcome to Try Coding, #{first_name}!"
 ```
 
 <div class="try-it-new">
-  <h2>Try It: Exploring String Interpolation</h2>
+  <h2>Try It: Exploring Re-assignment</h2>
   <p>Read the code above and try to predict what will happen when it is run. Try to explain why.</p>
-  <p>Finally, type the code into your repl and run it - does that verify or falsify your prediction?</p>
+  <p>Now, type the code into your repl and run it - does that verify or falsify your prediction?</p>
+  <p>Last, change both instances of <code>puts</code> to <code>print</code>. Observe the change in output. What does that tell you about the job that each command has?</p>
 </div>
 
 <a href="../">Back to Curriculum Index</a>
