@@ -59,7 +59,7 @@ puts first_name
 
 ## Re-assigning Variables, puts vs. print
 
-In the spirit of exploring to learn, we aren't gong to tell what what exactly the code below does. Here's an example of the syntax:
+In the spirit of exploring to learn, we aren't gong to tell what what exactly the code below does.
 
 ```ruby
 first_name = "Oscar"
