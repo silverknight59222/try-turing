@@ -120,7 +120,7 @@ toDos.forEach(function(toDo) {
 <br>
 ## Putting It All Together
 
-Alert messages, or logging to the console won't do our user much good. As front-end developers, most of our job is about presenting the data to the user in the browser.
+Alert messages, or logging to the console won't do our user much good. As Front-End developers, most of our job is about presenting the data to the user in the browser.
 
 Using everything we've learned up until now, let's break this code down:
 

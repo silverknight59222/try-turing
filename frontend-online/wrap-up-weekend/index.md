@@ -12,7 +12,7 @@ As we wrap up our time together, take a moment to reflect on the questions below
   <h2>Wrap Up: Reflection</h2>
   <ul>
     <li>What was FUN about coding this weekend?</li>
-    <li>Do you feel more excited about back-end or front-end now, and why?</li>
+    <li>Do you feel more excited about Back-End or Front-End now, and why?</li>
     <li>What lingering questions do you have about the technical work we did today?</li>
   </ul>
 </div>
@@ -25,7 +25,7 @@ As we wrap up our time together, take a moment to reflect on the questions below
 ## Additional Resources
 
 - <a target="blank" href="https://www.codecademy.com/learn/introduction-to-javascript">Codeacademy’s Javascript Course</a>
-- Jon Duckett's front-end books (you can find these with a Google search)
+- Jon Duckett's Front-End books (you can find these with a Google search)
 - <a target="blank" href="https://scrimba.com/g/gflexbox">Scrimba Flexbox course</a>
 
 <br>

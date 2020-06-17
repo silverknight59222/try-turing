@@ -15,7 +15,7 @@ layout: lesson
 
 **API** stands for Application Programming Interface. It can refer to a lot of different things, but in our case today, we're going to think of it as a service we can ask for data.
 
-We're going to use an API that stores facts. We'll ask it to give us a fact back. Then, as front-end developers, we will decide _how_ that data gets displayed to the page.
+We're going to use an API that stores facts. We'll ask it to give us a fact back. Then, as Front-End developers, we will decide _how_ that data gets displayed to the page.
 
 The API that we're going to be using today has an endpoint (or URL) that gives us back a random string of a fact. Before we integrate the API into our code, let's check out the endpoint to see the raw data that it gives us: [Dog Fact API Endpoint](https://dog-api.kinduff.com/api/facts). Refresh the page a few times, as this endpoint is set up to generate a random string for each request under the "Facts" section.
 

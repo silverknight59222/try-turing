@@ -8,7 +8,7 @@ layout: lesson
 
 ## Goals
 
-- Identify the key differences between front-end and back-end engineering
+- Identify the key differences between Front-End and Back-End engineering
 - Categorize various technologies used in backend engineering
 
 ## What is Back-End?
@@ -23,7 +23,7 @@ In the screenshot below, the blue boxes represent examples of **dynamic data** t
 
 <img src="{{ site.url }}/assets/images/instacart.png" alt="Instacart.com screenshot">
 
-All of the stylistic pieces (including the layout, colors, sizes, and user interactions) are considered **front-end** concerns.
+All of the stylistic pieces (including the layout, colors, sizes, and user interactions) are considered **Front-End** concerns.
 
 Modern software, and web software especially, is driven by this data -- without the content, most of it wouldn't be worth bothering with. And all of that content has to live somewhere. It needs to be stored, retrieved, manipulated, formatted, etc.
 
@@ -36,7 +36,7 @@ When we talk about back-end programming, we're often thinking of the programming
 
 ## Back-End & Front-End
 
-The **front-end** is the part of the application that users see, touch, and interact with. This is the code that produces the experience in front of the user.
+The **Front-End** is the part of the application that users see, touch, and interact with. This is the code that produces the experience in front of the user.
 
 The **back-end** typically handles stuff like storing information in databases, manipulating that data, authenticating users, etc.; it's what happens behind the scenes.
 

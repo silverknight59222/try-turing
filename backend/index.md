@@ -22,7 +22,7 @@ session: 1
     <section>
       <img class="section-image" src="{{ site.url }}/assets/images/backend.png" alt="AWS logo">
       <h2 class="section-header">What is Backend?</h2>
-      <p>In a broad sense, back-end programming is concerned with managing ​<b>data</b>​ (aka information).</p> 
+      <p>In a broad sense, back-end programming is concerned with managing ​<b>data</b>​ (aka information).</p>
       <p>If we think about our favorite web applications, what generally makes them special and useful to us is their ability to do <i>dynamic</i> things. In most cases, we'd like our website to be able to ​do things -- to record data we tell it to record, store information for us, and be able to retrieve that data later.</p>
       <p>Consider a popular website like Amazon. When we view an Amazon page, what are the parts we actually care about? Why did we come here in the first place?</p>
       <p>In the screenshot below, the pink boxes represent examples of <b>dynamic data</b> that had to be stored somewhere. That "somewhere" is what backend programming is concerned with.</p>
@@ -38,7 +38,7 @@ session: 1
       </ul>
       <hr>
       <h2>So, to sum up:</h2>
-      <p>The <span class="vocab">front-end</span> is the part of the application that users see, touch, and interact with. This is the code that produces the experience in <b>front</b> of the user.</p> 
+      <p>The <span class="vocab">Front-End</span> is the part of the application that users see, touch, and interact with. This is the code that produces the experience in <b>front</b> of the user.</p> 
       <p>The <span class="vocab">back-end</span> typically handles stuff like storing information in databases, manipulating that data, authenticating users, etc.; it's what happens <b>behind</b> the scenes.</p>
     </section>
     <hr />
@@ -67,7 +67,7 @@ session: 1
       </ol>
     </section>
     <hr />
-    <section> 
+    <section>
       <h2 class="section-header">The repl.it Interface</h2>
       <p>Before we move into writing code, let's look at the parts of the <a href="http://repl.it" target="blank">repl.it</a> interface. Repl.it is an online <span class="vocab">Integrated Development Environment</span> (or IDE) that we can use to write and run code. Repl.it is generally considered a teaching/learning tool. In order to write and develop code for production, most people download and install the languages and tools onto their own laptops instead of running code in the browser.</p>
       <p> In this curriculum, you'll see embedded repls like the one below for code examples:</p>

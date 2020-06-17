@@ -49,14 +49,14 @@ Big numbers are difficult to imagine. How can you imagine a billion? Even a thou
 <img class="small-img" src="{{ site.url }}/assets/images/comp.jpg" alt="To Do list application">
 <img class="small-img" src="{{ site.url }}/assets/images/comp-details.png" alt="One section of To Do List application, arrows pointing to each section to notate size and colors.">
 
-Front-end developers often work with designers, who provide detailed comps like the one above. These comps allow a front-end developer to focus on managing the complicated interactions of the site.
+Front-end developers often work with designers, who provide detailed comps like the one above. These comps allow a Front-End developer to focus on managing the complicated interactions of the site.
 
-There's a common misconception that the front-end is only about colors, fonts, and having a good eye. However, front-end development is more focused on making data useful, accessible, and interactive. The code we write in JavaScript does a lot of heavy logical lifting.
+There's a common misconception that the Front-End is only about colors, fonts, and having a good eye. However, this part of web development development is more focused on making data useful, accessible, and interactive. The code we write in JavaScript does a lot of heavy logical lifting.
 
 <br>
 ## No Matter Your Passion, You're Needed in FE
 
-While many people become developers because it can provide a stable career and lifestyle, it can also allow you to contribute towards something you are passionate about! Whether that be problems solving, exposing important data, making the web more accessible or anything in between, front-end developers play an essential role.
+While many people become developers because it can provide a stable career and lifestyle, it can also allow you to contribute towards something you are passionate about! Whether that be problems solving, exposing important data, making the web more accessible or anything in between, Front-End developers play an essential role.
 
 <br>
 ## All Front-End Developers Have a Responsibility
@@ -68,7 +68,7 @@ Unfortunately, accessibility is sometimes considered an "edge case" or a "nice-t
 <br>
 ## What technologies are used on the Front-End?
 
-The front-end of the web is based on three major technologies:
+The Front-End of the web is based on three major technologies:
 
 1. **HTML**: HyperText Markup Language (HTML) defines the structure and semantics of web pages on the web.
 2. **CSS**: Cascading Style Sheets (CSS) sets the look and style of a web page. CSS provides style to the structure provided by HTML.
@@ -76,7 +76,7 @@ The front-end of the web is based on three major technologies:
 
 ## What are we doing this weekend?
 
-1. Dive into two of the technologies used on the frontend: HTML and CSS
+1. Dive into two of the technologies used on the Front-End: HTML and CSS
 2. Explore tools and best practices to make web applications accessible to all users
 
 <br>
