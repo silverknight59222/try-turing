@@ -8,7 +8,7 @@ layout: lesson
 
 ## Goals
 
-- Identify the key differences between Front-End and back-end engineering
+- Identify the key differences between Front-End and Back-End engineering
 - Categorize various technologies used in Front-End engineering
 
 ## What is Front-End?

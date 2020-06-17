@@ -15,7 +15,7 @@ layout: lesson
 
 ## HTML
 
-Of all of the major technologies used on the web, on either the front- or the back-end, HTML, or _Hyper Text Markup Language_, is the oldest. In the beginning, the web was just a bunch of HTML documents that you wrote by hand. They had these cool things called hyperlinks that would allow a user to click on a word on one page and be taken to another page.
+Of all of the major technologies used on the web, on either the front- or the Back-End, HTML, or _Hyper Text Markup Language_, is the oldest. In the beginning, the web was just a bunch of HTML documents that you wrote by hand. They had these cool things called hyperlinks that would allow a user to click on a word on one page and be taken to another page.
 
 HTML is still an essential part of modern web applications. It holds the content and creates the structure of a webpage.
 
