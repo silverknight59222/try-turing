@@ -90,7 +90,7 @@ We're going to dive into the three technologies used on the frontend:
 1. Review the structure of web pages that we can build with HTML
 2. Add identifiers to our HTML elements using IDs
 3. Use JavaScript to access HTML elements that appear in the browser
-4. Listen and respond to user interactions such as _clicks_ and _mouseovers_.
+4. Listen and respond to user interactions such as _clicks_ and _mouseovers_
 
 <br>
 <a href="../">Back to Curriculum Index</a>

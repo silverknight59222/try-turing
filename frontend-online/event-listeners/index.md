@@ -57,7 +57,7 @@ When we "break" code, we are engaging in a process of tinkering with it to bette
   <p>Back in your own Puppy Facts CodePen, add a button in the HTML.</p>
   <p>Write code in the JavaScript pane so that when the button is clicked, the title of the webpage changes to a different topic!</p>
   <p>If you complete that with extra time, change the text in the <code>p</code> tags so that when the button is clicked, the facts match your new topic!</p>
-  <a target="blank" href="https://codepen.io/turing-school/pen/zYvzxZq"><em>Here's a CodePen you can start with if you closed yours or didn't the last activity completed.</em></a>
+  <a target="blank" href="https://codepen.io/turing-school/pen/zYvzxZq"><em>Here's a CodePen you can start with!</em></a>
   <br>
   <br>
 
