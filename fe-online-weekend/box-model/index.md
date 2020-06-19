@@ -96,11 +96,30 @@ We can combine this knowledge with our skills of using the dev tools to dig more
 
 ## Display
 
-- inline, block, none
-- Show how dev tools can help us ID how much space an element is taking up
-- show how non can be used to hide ads or annoying popups
+In addition to `margin` and `padding`, we have another property that can help us control the layout of a page. `display` is a CSS property that can take several values. For today, we will focus on the following:
 
-TRY IT: change some things from inline to block in your project
+- `display: block;`: The element will start on a new line and take up the whole width of the line
+- `display: inline`: The element will be displayed on the same line of its parent element. Declarations for height and width will be ignored
+- `display: none;`: The element is completely removed
+
+Each HTML has a default display property attached to it - either `block` or `inline`. Let's use the dev tools to inspect elements and discover what type of display property they have!
+
+<div class="try-it-new">
+  <h3>Explore: Display</h3>
+  <p>Inspect your own site right now. Determine if a <code>p</code> element is block or inline. How about a <code>button</code>? Other elements? How do you know?</p>
+  <p>Finished Early? Explore your favorite or most-used site to continue poking around!</p>
+</div>
+
+The one you probably didn't get to see in action is `display: none`. What's the purpose of that?
+- Hiding content from your user
+- Hiding content on a site you are using (in dev tools!)
+
+<br>
+<div class="try-it-new">
+  <h3>Work Time: Apply & Continue Learning</h3>
+  <p>Knowing what you know now, what changes do you want to make to your site? You may not have enough time to do it all, but take this time to implement any of the CSS properties we've learned about!</p>
+  <p><strong>Just to be clear:</strong> This is most likely still a bit of an exploration; you don't know it all yet and that's totally ok. That's what learning is all about!</p>
+</div>
 
 <br>
 <a href="../">Back to Curriculum Index</a>

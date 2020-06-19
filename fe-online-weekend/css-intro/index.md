@@ -30,9 +30,10 @@ How do we write CSS code that instructs the browser to make elements appear diff
 There are [520 properties](https://css-tricks.com/how-many-css-properties-are-there/) available in the CSS language. It is unlikely that any developer knows every single one. But, there are many commonly used properties that folks who write CSS with some regularity will come to memorize.
 
 Here are a few great places to start:
-- [**background-color**](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color) and [**color**](https://developer.mozilla.org/en-US/docs/Web/CSS/color): each need a value of either a [built-in color name](https://htmlcolorcodes.com/color-names/), or a [hex code](https://htmlcolorcodes.com/). There are other ways we can provide color values that we won't go into today. Example declaration: `color: #401AA5;`
+- [**background-color**](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color) and [**color**](https://developer.mozilla.org/en-US/docs/Web/CSS/color): each need a value of either a [built-in color name](https://htmlcolorcodes.com/color-names/) or a [hex code](https://htmlcolorcodes.com/). There are other ways we can provide color values that we won't go into today. Example declaration: `color: #401AA5;`
 - [**font-size**](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size): this property expects a value with a unit; today we'll introduce `px` (pixels) and `%` (percent). Example declaration: `font-size: 150%;`
 - [**border**](https://developer.mozilla.org/en-US/docs/Web/CSS/border): accepts 3 pieces of information: the width of the line, the style of the line, and the color. Example declaration: `border: 2px solid #401AA5;`
+- [**height**](https://developer.mozilla.org/en-US/docs/Web/CSS/height) & [**width**](https://developer.mozilla.org/en-US/docs/Web/CSS/width): each of these properties needs a value with a unit. We recommend starting with pixels. Example declaration: `height: 200px;`
 
 <div class="try-it-new">
   <h3>Try It: Exploring CSS</h3>
