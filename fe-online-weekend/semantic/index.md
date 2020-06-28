@@ -27,6 +27,10 @@ layout: lesson
 
 TRY IT: Refactor your app - change any divs that make sense to be something else, to that something else.
 
+## Manual testing
+- disable css
+- validate markup - https://www.ashleysheridan.co.uk/blog/Accessibility+Testing+for+Developers#validate-markup
+
 ## WAI-ARIA
 
 - what is it? Docs?

@@ -4,11 +4,8 @@ layout: lesson
 
 # Thank you!
 
-<a href="../">Back to Curriculum Index</a>
+## Homework
 
-## Goals
+Read article, guiding questions.
 
-## Content
-
-<br>
 <a href="../">Back to Curriculum Index</a>
