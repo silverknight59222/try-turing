@@ -9,7 +9,7 @@ layout: lesson
 ## Goals
 
 - Build an understanding of how our HTML impacts users that use a screen reader
-- Learn some alternatives to the `div` element
+- Learn some alternatives to the `div` element, and why they are important
 - Start learning about WAI-ARIA
 
 ## Screen Readers
@@ -25,7 +25,11 @@ layout: lesson
 
 - alternatives to `div`
 
-TRY IT: Refactor your app - change any divs that make sense to be something else, to that something else.
+<div class="try-it-new">
+  <h3>Try It: Semantic Containers</h3>
+  <p>Refactor your HTML so that any <code class="try-it-code">div</code> elements that make sense to be something else are changed.</p>
+  <p>Check your live site in the browser. In theory, you should see no change!</p>
+</div>
 
 ## Manual Testing
 
@@ -45,7 +49,7 @@ To check on this, you can temporarily disable CSS. There are two ways to do this
 After taking step 1 or 2, you should see a plain looking, Times New Roman using, site. Is your content still all available and in the same order?
 
 <div class="try-it-new">
-  <h3>Try It: Disable Your CSS</h3>
+  <h2>Try It: Disable Your CSS</h2>
   <p>After taking step 1 or 2, you should see a plain looking, Times New Roman using, site. Is your content still all available and in the same order?</p>
 </div>
 
@@ -60,7 +64,7 @@ For our purposes, we can use this 1 of 2 ways:
 While violations caught by this may have a lot of cross-over with Lighthouse, it can never hurt to check with as many reputable testing options as possible.
 
 <div class="try-it-new">
-  <h3>Try It: Validate Your Markup</h3>
+  <h2>Try It: Validate Your Markup</h2>
   <p>Run your HTML through the <a href="https://validator.w3.org/#validate_by_input">W3C Markup Validation Service</a>. If you have any violations, share them in the chat and we can problem solve together!</p>
 </div>
 
