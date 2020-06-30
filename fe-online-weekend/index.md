@@ -12,7 +12,7 @@ layout: lesson
 - [Intro to CSS](./css-intro)
 - [Containers & Nesting](./containers)
 - [CSS Box Model](./box-model)
-- [What is a11y?](./what-is-a11y)
+- [What is Accessibility?](./what-is-a11y)
 - [Wrap Up](./foundations-wrap-up)
 
 <br>
@@ -20,6 +20,7 @@ layout: lesson
 ## Day 2 - Intro to Accessibility
 
 - [Welcome](./welcome-access-weekend)
+- [Accessibility Discussion](./discussion)
 - [Tools for Accessibility](./tools)
 - [Accessible Colors](./colors)
 - [Semantic HTML & Readability](./semantic)

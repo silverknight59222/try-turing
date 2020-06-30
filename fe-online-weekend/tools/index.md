@@ -19,13 +19,13 @@ Because of our limited time together this weekend, we won't go all in on every c
 
 ## Lighthouse
 
-Available in your dev tools, Lighthouse can run an audit on your site and give you back a score (out of 100) as well as specific issues that are limiting on your site.
+Available in your Dev Tools, Lighthouse can run an audit on your site and give you back a score (out of 100) as well as specific issues that are limiting on your site.
 
 Let's run a Lighthouse audit on a few sites and see what we find.
 
 <div class="try-it-new">
   <h3>Try It: Lighthouse</h3>
-  <p>Run a Lighthouse audit in the dev tools on your site.</p>
+  <p>Run a Lighthouse audit in the Dev Tools on your site.</p>
   <ol>
     <li>What errors/warnings do you have? Share in the chat.</li>
     <li>Take a few minutes to address those issues in your code. Run the audit again to see if you made the necessary improvements.</li>
