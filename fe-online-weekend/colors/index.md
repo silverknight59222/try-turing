@@ -28,7 +28,7 @@ Using the chrome extension, let's take a moment to explore some examples and non
 
 <div class="try-it-new">
   <h3>Try It: Colorblind Check</h3>
-  <p>Install the [Colorblinding Chrome Extension](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa/related?hl=en) and test out your 2 sites.</p>
+  <p>Install the <a href="https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa/related?hl=en">Colorblinding Chrome Extension</a> and test out your 2 sites.</p>
   <p><strong>Be ready to discuss:</strong> If you are not colorblind, did you miss out on any features of the site, or get confused about anything as a temporary colorblind user?</p>
 </div>
 
@@ -67,17 +67,23 @@ In addition to the emotion(s) you want to invoke for your user while visiting th
 
 <img class="small-img" src="./assets/color-wheel.png" alt="Outline of a color wheel with 12 blocks of color" />
 
-TRY IT: Take 10 minutes to find a palette, implement.
-Provide 3 options to create a palette. Tell them to check contrast ratios.
-- https://colors.muz.li/
-- https://htmlcolorcodes.com/color-picker/
-- https://coolors.co/2364aa-3da5d9-73bfb8-fec601-ea7317
+<div class="try-it-new">
+  <h3>Try It: Choose a Palette With a11y in Mind</h3>
+  <p>Use one of the three resources below to select a color palette for your site. Make sure to include the colors you plan to use for text in the palette!</p>
+  <ul>
+    <li>a href="https://colors.muz.li/">Muzli Colors</a></li>
+    <li>a href="https://htmlcolorcodes.com/color-picker/">HTML Color Codes</a></li>
+    <li>a href=https://coolors.co/2364aa-3da5d9-73bfb8-fec601-ea7317"">Coolers</a></li>
+  </ul>
+  <p>Use the <a target="blank" href="https://webaim.org/resources/contrastchecker/">WebAIM Contrast Checker</a> to ensure that there is adequate ratio between the background and text colors you selected.</p>
+  <p>We'd love to get inspired! Share your palette by taking a screenshot then pasting it in <a href="">this document</a>.</p>
+</div>
 
-Share screen shot of palette in a google doc?
-
-10 minutes to implement your palette into your app.
-Run Lighthouse Audit to make sure you don't have any violations in regard to color.
-
+<div class="try-it-new">
+  <h3>Try It: Update Site with Color Palette</h3>
+  <p>Now that you've done the research and curated the perfect palette for your site, it's time to bring it to life! Spend this chunk of work time taking the hex or RGB codes provided in your palette and updating your CSS file. Check in on how things look in the browser.</p>
+  <p>Run Lighthouse Audit to make sure you don't have any violations in regard to color. If you do, address them, then run the check again!</p>
+</div>
 
 <br>
 <a href="../">Back to Curriculum Index</a>
