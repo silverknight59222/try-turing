@@ -14,7 +14,7 @@ layout: lesson
 
 ## Why Does Color Matter?
 
-For users who can see color, it many times is associated with meaning. We associate red with an error, green with a success message, and various colors with specific emotions. If you're interested in learning more about color theory, a great place to start is by watching [this conference talk](http://confreaks.tv/videos/keeprubyweird2018-the-teenage-mutant-ninja-turtles-guide-to-color-theory).
+For users who can see color, it many times is associated with meaning. We associate red with an error, green with a success message, and various colors with specific emotions. We'll talk more about color theory later!
 
 While color can have a positive impact on a users experience, not all users will necessarily get that impact. Colorblind users may actually have a negative impact if the color scheme is used in a way that causes confusion. For these reasons, **we cannot rely on color to convey meaning**.
 
@@ -28,8 +28,8 @@ Using the chrome extension, let's take a moment to explore some examples and non
 
 <div class="try-it-new">
   <h3>Try It: Colorblind Check</h3>
-  <p>Install the extension and test out your 2 sites.</p>
-  <p>Be ready to discuss: If you are not colorblind, did you miss out on any features of the site, or get confused about anything as a temporary colorblind user?</p>
+  <p>Install the [Colorblinding Chrome Extension](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa/related?hl=en) and test out your 2 sites.</p>
+  <p><strong>Be ready to discuss:</strong> If you are not colorblind, did you miss out on any features of the site, or get confused about anything as a temporary colorblind user?</p>
 </div>
 
 ## Contrast & Color Accessibility
@@ -40,6 +40,7 @@ Contrast is a measure of the difference in brightness between two colors. White 
 - Outlines on text inputs
 - Checkboxes
 - Icons
+
 Large scale text and logotypes are exempt; large scale text need a contrast ratio of at least 3:1. [More info here!](https://webaim.org/articles/contrast/)
 
 <div class="try-it-new">
@@ -50,13 +51,33 @@ Large scale text and logotypes are exempt; large scale text need a contrast rati
 
 ## Color Palettes
 
-Overview on colors-emotions, too much contrast, complementary, supplementary, etc.
+Whether we are conscious of it or not, colors can influence our emotions! Marketers use the psychology of colors to draw people in to their products.
 
-- link some resources to generators
-- link an article or two about good design
+<img class="medium-img" src="./assets/color-emotion-guide.png" alt="Color emotion guide graphic. Yellow is labeled optimism, orange - friendly, red - excitement, purple- creative, blue - trust, green - peaceful, grey - balance, multi- diversity." />
 
-TRY IT: Take 10-15 minutes to find a palette, implement.
-? Is there a site they can generate a palette and SHARE with everyone?? - https://colors.muz.li/ copy and paste into a google doc???
+If you're interested in learning more about color theory, a great place to start is by watching [this conference talk](http://confreaks.tv/videos/keeprubyweird2018-the-teenage-mutant-ninja-turtles-guide-to-color-theory).
+
+In addition to the emotion(s) you want to invoke for your user while visiting the site, we should keep contrast in mind. While we need to have a high enough contrast ratio to be inclusive, we want to provide a pleasant experience for users who see full color. This is where the color wheel comes in.
+
+- Complementary Colors
+- Triadic Colors
+- Analogous Color
+
+[Here's a breakdown of the basic color chords](https://www.tigercolor.com/color-lab/color-theory/color-harmonies.htm).
+
+<img class="small-img" src="./assets/color-wheel.png" alt="Outline of a color wheel with 12 blocks of color" />
+
+TRY IT: Take 10 minutes to find a palette, implement.
+Provide 3 options to create a palette. Tell them to check contrast ratios.
+- https://colors.muz.li/
+- https://htmlcolorcodes.com/color-picker/
+- https://coolors.co/2364aa-3da5d9-73bfb8-fec601-ea7317
+
+Share screen shot of palette in a google doc?
+
+10 minutes to implement your palette into your app.
+Run Lighthouse Audit to make sure you don't have any violations in regard to color.
+
 
 <br>
 <a href="../">Back to Curriculum Index</a>
