@@ -37,8 +37,8 @@ Over the course of the day, we will write code, start developing some developer 
 - Type questions the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself
 - Disconnected? Jump back on! If the host or TAs get disconnected, hold tight, and the session will resume shortly
 
-### Using Glitch
+### Using repl.it
 
-Today we will be using Glitch to write our code and see the results! We will all start with [this starter project - please remix it now]().
+Today we will be using repl.it to write our code and see the results! We will all start with [this starter project - please fork it now]().
 
 <a href="../">Back to Curriculum Index</a>

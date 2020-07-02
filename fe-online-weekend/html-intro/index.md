@@ -31,7 +31,7 @@ To tell the browser that this is a paragraph, we'll **mark up** the content with
 
 <img src="./assets/element.png" alt="The code for an HTML paragraph element. The opening <p> is labeled opening tag, the text 'Hello, World!' is labeled content, and the closing </p> is labeled closing tag. All three pieces are enclosed in a brace and labeled element." />
 
-We use the `<p>` (the opening tag) to signal to the browser that everything that's about to follow is part of a paragraph and `</p>` (the closing tag) to let the browser know that this paragraph is done. When a user visits our application, the browser loads up the HTML and parses it into the elements that will eventually make up our user interface.
+We use the `<p>` (the opening tag) to signal to the browser that everything that's about to follow is part of a paragraph and `</p>` (the closing tag) to let the browser know that this paragraph is done. The entire line - opening tag, closing tag and any content in between - is referred to as an **element**. When a user visits our application, the browser loads up the HTML and parses it into the elements that will eventually make up our user interface.
 
 ## Headings
 
@@ -50,12 +50,12 @@ There are six heading elements, representing six levels of importance. `h1` is t
 - `h5`
 - `h6`
 
-Even though the browser will display these headers as different sizes, don't use the elements simply to change the size. Screen readers will use the headings to construct tables of contents, so it's important that you use the elements in order. It's also a good idea to only have one `h1` on the page.
+Even though the browser will display these headers as different sizes, don't use the elements simply to change the size. Screen readers will use the headings to construct tables of contents, so it's important that you use the elements in order. It's also best practice to only have one `h1` on the page.
 
 <div class="try-it-new">
   <h3>Try It: Text Based Elements</h3>
-  <p>Before you think about the code, it's recommended that you jot down your plan. What is the title of your page? Subheadings? What content will live below each subheading?</p>
-  <p>Open the <code>index.html</code> file of your Glitch project. Inside of the <code>body</code> tags, type out the HTML elements and content you'd like to have on your site. Include at least 3 headings and at least 3 paragraphs.</p>
+  <p><em>Before you think about the code, we recommend that you jot down your plan. What is the title of your page? Subheadings? What content will live below each subheading?</em></p>
+  <p>Open the <code>index.html</code> file of your repl project. Inside of the <code>body</code> tags, type out the HTML elements and content you'd like to have on your site. Include at least 3 headings and at least 3 paragraphs.</p>
   <p>If you'd like some filler text to save time/put your focus on the code, check out <a href="https://meettheipsums.com/">Meet the Ipsums</a>.</p>
   <p>Check in on the "View" of your app to make sure things are showing up as expected.</p>
 </div>
@@ -78,7 +78,7 @@ The `input` element is a bit different, though. An input itself doesn't require 
 
 <div class="try-it-new">
   <h3>Try It: A Small Form</h3>
-  <p>Go back to the tab with your Glitch project. Again, somewhere inside of the <code>body</code> tags, use at least one input and one button to make a small form.</p>
+  <p>Go back to the tab with your repl project. Again, somewhere inside of the <code>body</code> tags, write at least one input element and one button element to make a small form.</p>
   <p>Check in on the "View" of your app to make sure things are showing up as expected.</p>
 </div>
 
@@ -96,8 +96,8 @@ HTML provides us with some attributes just for `input` elements. Check out the e
 
 <div class="try-it-new">
   <h3>Try It: Improving Our Form</h3>
-  <p>Before taking this step in your code, you may want to take a moment to think/write some notes on what info you want from your user.</p>
-  <p>Go back to the tab with your Glitch project. Update any <code>input</code> elements with a <code>type</code> attribute, and consider if you want to use the <code>placeholder</code> attribute. You can find a list of other form types <a href="https://www.w3schools.com/html/html_form_input_types.asp">here</a>.</p>
+  <p><em>Before taking this step in your code, you may want to take a moment to think/write some notes on what info you want from your user.</em></p>
+  <p>Go back to the tab with your repl project. Update any <code>input</code> elements with a <code>type</code> attribute, and consider if you want to use the <code>placeholder</code> attribute. You can find a list of other form types <a href="https://www.w3schools.com/html/html_form_input_types.asp">here</a>.</p>
   <p>Check in on the "View" of your app to make sure things are showing up as expected.</p>
 </div>
 
@@ -105,7 +105,7 @@ HTML provides us with some attributes just for `input` elements. Check out the e
 
 The `img` element is what allows us to display images on a webpage. Like `input`, `img` is a self-closing tag because it doesn't have any text content to show. We must use an attribute and value to instruct the browser which image to display to the user.
 - The `src` attribute is short for source. The browser looks for that - and whatever value is provided, the browser will look to that location for an image.
-- The `alt` attribute is short for alternative, referring to alternative text. The value provided to that attribute should hold a text description of the image, which is incredibly useful for accessibility.
+- The `alt` attribute is short for alternative, referring to alternative text. The value provided to that attribute should hold a text description of the image, which is incredibly useful for accessibility. A user who is blind or has low vision can read the description, as well as a user who has a poor internet connection and can't download the image.
 
 ```html
 <img src="https://bit.ly/hedgie-pic" alt="Hedgehog lounging on the patio" />
@@ -117,7 +117,7 @@ The `img` element is what allows us to display images on a webpage. Like `input`
   <p>There are two ways you can include images in a Glitch project:</p>
   <ol>
     <li>Google search an image, right click it, and select "Copy image address". Paste that in as the value of your <code>src</code> attribute.</li>
-    <li>If you have an image file on your computer that you'd like to use, select "assets" from the left-side menu of your Glitch project, then drag and drop files int the main part of the page. Once it uploads, click it, then click "copy". Paste the link that was copied in as the value of your <code>src</code> attribute.</li>
+    <li>If you have an image file on your computer that you'd like to use, you can drag and drop it into the file tree - the area on the repl whitespace where your <code>HTML</code> and <code>CSS</code> file names appear. The value of the <code>src</code> attribute should match the name of the file, including the extensions, such as <code>.png</code>.</li>
   </ol>
   <p>Check in on the "View" of your app to make sure things are showing up as expected. </p>
 </div>

@@ -10,6 +10,7 @@ layout: lesson
 
 - Define web accessibility (a11y)
 - Understand the considerations that should be made while developing a web application
+- Deepen our understanding of the impact a11y has on real people
 
 ## What is a11y?
 

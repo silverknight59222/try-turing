@@ -23,7 +23,7 @@ In the screenshot below, the blue boxes represent examples of **dynamic data** t
 
 <img src="{{ site.url }}/assets/images/instacart.png" alt="Instacart.com screenshot">
 
-All of the stylistic pieces (including the layout, colors, sizes, and user interactions) are considered **Front-End** concerns.
+All of the stylistic pieces (layout, colors, sizes), in addition to logic around user interactions, are considered **Front-End** concerns.
 
 Modern software, and web software especially, is driven by this data -- without the content, most of it wouldn't be worth bothering with. And all of that content has to live somewhere. It needs to be stored, retrieved, manipulated, formatted, etc.
 
