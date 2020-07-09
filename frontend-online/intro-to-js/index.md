@@ -57,9 +57,9 @@ When we run the code above, we will see the associated values print out in the c
 
 ## Variables
 
-In JavaScript, we declare variables using the `var` keyword. This tells JavaScript that we're about to make a variable.
-
 A variable is like a box with a label on it. You can put something in the box, label it, and be able to reference that thing later by its label.
+
+In JavaScript, we declare variables using the `var` keyword. This tells JavaScript that we're about to make a variable.
 
 Variables can store strings (text in between quotation marks), numbers, HTML elements, among many other things! Here are a few examples of JavaScript variables:
 
@@ -82,6 +82,7 @@ Variables are at the core of everything we do in programming and this isn't uniq
   <h2>Try It: Variables</h2>
   <p>Create a new pen in CodePen. For this exercise, you will be working in the JavaScript (JS) pane.</p>
   <p>Declare 4 variables, using the names <code>name</code>, <code>email</code>, <code>numberOfPets</code>, and<code>myLocation</code>. Assign each to an appropriate value.</p>
+  <p>Finished? Declare at least two more variables - you choose the name and values!</p>
 </div>
 
 ## Interpolation
