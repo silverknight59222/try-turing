@@ -6,7 +6,7 @@ layout: lesson
 
 - [Welcome](./welcome-teachers)
 - [What is Back-End Engineering?](./what-is-bee)
-- [Data Types & Variables](./data-types-vars)
+- [Ruby Review](./ruby-review)
 - [Arrays](./arrays)
 - [Iteration](./iteration)
 - [Exporting to CSV](./csv)
