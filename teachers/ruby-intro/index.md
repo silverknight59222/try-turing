@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Ruby Review
+# Ruby Intro
 
 <a href="../">Back to Curriculum Index</a>
 
@@ -62,18 +62,45 @@ puts student_name
 In the spirit of exploring to learn, we aren't gong to tell what what exactly the code below does.
 
 ```ruby
-students = "Frankie"
-puts "Welcome to class, #{students}!"
+student = "Frankie"
+puts "Welcome to class, #{student}!"
 
-students = "Taylor"
-puts "Welcome to class, #{students}!"
+student = "Taylor"
+puts "Welcome to class, #{student}!"
+puts "Welcome to class, #{student}!"
+
+student = "Jeremiah"
+puts "Welcome to class, #{student}!"
 ```
 
 <div class="try-it-new">
   <h2>Try It: Exploring Re-assignment</h2>
   <p>Read the code above and predict what will happen when it is run. Try to explain why.</p>
   <p>Now, type the code into your repl and run it - does that verify or falsify your prediction?</p>
-  <p>Last, change both instances of <code>puts</code> to <code>print</code>. Observe the change in output. What does that tell you about the job that each command (puts and print) has?</p>
+  <p>Last, change all instances of <code>puts</code> to <code>print</code>. Observe the change in output. What does that tell you about the job that each command (puts and print) has?</p>
+</div>
+
+## Methods
+
+A ruby **method** is a piece of code that packages up instructions for the program to follow. Some other languages refer to them as functions. Many methods are built-in to the ruby language to make developers work easier and code cleaner. Developers can also write their own methods. 
+
+Today, we will focus on using built-in ruby methods. Imagine this real-world scenario: a (well-trained) dog can react to the command `sit`, `bark`, `roll_over`, etc. In code, we might write these like this:
+
+```ruby
+dog.sit
+dog.bark
+dog.roll_over
+```
+
+We would call these Dog methods since they are specific to a dog - you wouldn't tell a human to "roll over" or "bark"!
+
+Just like we have these (made up) dog methods, we also have (real, ruby) String methods.
+
+<div class="try-it-new">
+  <h2>Try It: String Methods</h2>
+  <p>Look at the code in <a href="https://repl.it/@turingtrycoding/stringmethods?lite=true#main.rb">this repl. Line by line, predict what will print out to the console based on the name of the method called on <code class="try-it-code">message</code>.</a></p>
+  <p>Then, click the green "run" button to run the code. What did you learn? Any surprises?</p>
+  <p>Discuss: Does this make you wonder anything like "I wonder if ruby has a method for ____?". Share out, then if time, get wild and google it and see if you can find an answer!</p>
 </div>
 
 <a href="../">Back to Curriculum Index</a>

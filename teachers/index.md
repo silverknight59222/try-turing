@@ -6,9 +6,8 @@ layout: lesson
 
 - [Welcome](./welcome-teachers)
 - [What is Back-End Engineering?](./what-is-bee)
-- [Ruby Review](./ruby-review)
+- [Ruby Intro](./ruby-intro)
 - [Arrays](./arrays)
 - [Iteration](./iteration)
-- [Exporting to CSV](./csv)
-- [Extensions](./extensions)
+- [Hashes](./hashes)
 - [Wrap Up](./wrap-up-teachers)
