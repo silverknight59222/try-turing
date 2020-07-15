@@ -71,9 +71,9 @@ In addition to the emotion(s) you want to invoke for your user while visiting th
   <h3>Try It: Choose a Palette With a11y in Mind</h3>
   <p>Use one of the three resources below to select a color palette for your site. Make sure to include the colors you plan to use for text in the palette!</p>
   <ul>
-    <li>a href="https://colors.muz.li/">Muzli Colors</a></li>
-    <li>a href="https://htmlcolorcodes.com/color-picker/">HTML Color Codes</a></li>
-    <li>a href=https://coolors.co/2364aa-3da5d9-73bfb8-fec601-ea7317"">Coolers</a></li>
+    <li><a href="https://colors.muz.li/">Muzli Colors</a></li>
+    <li><a href="https://htmlcolorcodes.com/color-picker/">HTML Color Codes</a></li>
+    <li><a href="https://coolors.co/2364aa-3da5d9-73bfb8-fec601-ea7317">Coolers</a></li>
   </ul>
   <p>Use the <a target="blank" href="https://webaim.org/resources/contrastchecker/">WebAIM Contrast Checker</a> to ensure that there is adequate ratio between the background and text colors you selected.</p>
   <p>We'd love to get inspired! Share your palette by taking a screenshot then pasting it in <a href="">this document</a>.</p>
@@ -82,7 +82,7 @@ In addition to the emotion(s) you want to invoke for your user while visiting th
 <div class="try-it-new">
   <h3>Try It: Update Site with Color Palette</h3>
   <p>Now that you've done the research and curated the perfect palette for your site, it's time to bring it to life! Spend this chunk of work time taking the hex or RGB codes provided in your palette and updating your CSS file. Check in on how things look in the browser.</p>
-  <p>Run Lighthouse Audit to make sure you don't have any violations in regard to color. If you do, address them, then run the check again!</p>
+  <p>Run the Lighthouse Audit to make sure you don't have any violations in regard to color. If you do, address them, then run the check again!</p>
 </div>
 
 <br>
