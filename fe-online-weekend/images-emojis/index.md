@@ -30,7 +30,7 @@ If you have a meme on a site (or any image with text overlay), ensure that your 
 
 ## Emojis
 
-This [blog post](https://dev.to/finallynero/accessible-emojis--1pjh) nicely lays out what we need to do to make an emoji accessible. The snippet below shows a completed example:
+This [blog post](https://dev.to/finallynero/accessible-emojis--1pjh) nicely lays out what we need to do to make an emoji accessible. We will use two ARIA attributes! The snippet below shows a completed example:
 
 ```html
 <p>Coding is so fun! 
@@ -55,9 +55,9 @@ In web development:
 - Provide `alt` text for images. If the image includes text overlay, that should be included in the `alt` text
 
 As a social media user:
-- [Limit emojis](https://twitter.com/aardrian/status/1159066496540319744?lang=en)
-- Thread or include in original post the `alt` text of an image
+- [Consider limiting emojis](https://twitter.com/aardrian/status/1159066496540319744?lang=en)
 - [Capitalize each word in your hashtags](https://twitter.com/LareneLg/status/1271677933149536256)
+- Thread or include in original post the `alt` text of an image
 
 <br>
 <a href="../">Back to Curriculum Index</a>
