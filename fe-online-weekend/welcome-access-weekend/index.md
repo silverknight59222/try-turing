@@ -2,7 +2,8 @@
 layout: lesson
 ---
 
-# Welcome to Try Coding Weekend on Accessibility
+# Welcome to Try Coding - _Accessibility Focus_
+<br>
 
 ### To Get Set Up
 
@@ -23,8 +24,6 @@ Below is our agenda for each day:
 - **12:45 - 2:45**  Instruction
 - **2:45 - 3:00**  Wrap Up, Questions
 
-<br>
-
 ### Learning Norms
 
 - No question is too small. No question is a bad question. Ask them!
@@ -44,7 +43,9 @@ Below is our agenda for each day:
 
 - Name, pronouns
 - Location
-- 2 sites/apps you regularly use or love (Google Search isn't allowed!)
+- What brought you here this weekend
+
+Share 2 sites/apps you regularly use or love (Google Search isn't allowed!) on [this board](https://sitcky-note.glitch.me/)!
 
 ### Using repl.it
 
