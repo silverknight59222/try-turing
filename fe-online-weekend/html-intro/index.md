@@ -14,20 +14,20 @@ layout: lesson
 
 ## What is HTML?
 
-Of all of the major technologies used on the web, on either the Front-End or the Back-End, HTML, or Hyper Text Markup Language, is the oldest. In the beginning, the web was just a bunch of HTML documents that you wrote by hand. They had these _cool_ things called hyperlinks that would allow a user to click on a word on one page and be taken to another page.
+Of all of the major technologies used on the web, on either the Front-End or the Back-End, HTML, or Hyper Text Markup Language, is the oldest. [In the beginning](http://info.cern.ch/), the web was just a bunch of HTML documents that you wrote by hand. They had these _cool_ things called hyperlinks that would allow a user to click on a word on one page and be taken to another page.
 
 HTML is still an essential part of modern web applications. It holds the content and creates the structure of a webpage.
 
 ## Tags, Content, Elements
 
-HTML is made up of a series of **elements**. Each element is made up of at least one **tag**, and most have **content** between an opening and closing tag. We can think of many elements as containers, which store and organize other elements.
+HTML is made up of a series of **elements**. Each element is made up of at least one **tag**, and most have **content** between an opening and closing tag.
 
-Let's assume we are starting with some text. We'll call this content.
+Let's assume we are starting with some text. We'll call this **content**.
 
 <img src="./assets/content.png" alt="the text of 'Hello, World!' in an orange color." />
 
 
-To tell the browser that this is a paragraph, we'll **mark up** the content with HTML tags:
+To tell the browser that this is a paragraph, we'll _**mark up**_ the content with HTML **tags**:
 
 <img src="./assets/element.png" alt="The code for an HTML paragraph element. The opening <p> is labeled opening tag, the text 'Hello, World!' is labeled content, and the closing </p> is labeled closing tag. All three pieces are enclosed in a brace and labeled element." />
 
@@ -57,7 +57,7 @@ Even though the browser will display these headers as different sizes, don't use
   <p><em>Before you think about the code, we recommend that you jot down your plan. What is the title of your page? Subheadings? What content will live below each subheading?</em></p>
   <p>Open the <code>index.html</code> file of your repl project. Inside of the <code>body</code> tags, type out the HTML elements and content you'd like to have on your site. Include at least 3 headings and at least 3 paragraphs.</p>
   <p>If you'd like some filler text to save time/put your focus on the code, check out <a href="https://meettheipsums.com/">Meet the Ipsums</a>.</p>
-  <p>Check in on the "View" of your app to make sure things are showing up as expected.</p>
+  <p>Check in on the view of your live app to make sure things are showing up as expected.</p>
 </div>
 
 ## Forms
@@ -79,7 +79,7 @@ The `input` element is a bit different, though. An input itself doesn't require 
 <div class="try-it-new">
   <h3>Try It: A Small Form</h3>
   <p>Go back to the tab with your repl project. Again, somewhere inside of the <code>body</code> tags, write at least one input element and one button element to make a small form.</p>
-  <p>Check in on the "View" of your app to make sure things are showing up as expected.</p>
+  <p>Check in on the view of your live app to make sure things are showing up as expected.</p>
 </div>
 
 ## Attributes
@@ -98,7 +98,7 @@ HTML provides us with some attributes just for `input` elements. Check out the e
   <h3>Try It: Improving Our Form</h3>
   <p><em>Before taking this step in your code, you may want to take a moment to think/write some notes on what info you want from your user.</em></p>
   <p>Go back to the tab with your repl project. Update any <code>input</code> elements with a <code>type</code> attribute, and consider if you want to use the <code>placeholder</code> attribute. You can find a list of other form types <a href="https://www.w3schools.com/html/html_form_input_types.asp">here</a>.</p>
-  <p>Check in on the "View" of your app to make sure things are showing up as expected.</p>
+  <p>Check in on the view of your live app to make sure things are showing up as expected.</p>
 </div>
 
 ## Images
@@ -118,7 +118,7 @@ The `img` element is what allows us to display images on a webpage. Like `input`
   <ol>
     <li>Google search an image, right click it, and select "Copy image address". Paste that in as the value of your <code>src</code> attribute.</li>
   </ol>
-  <p>Check in on the "View" of your app to make sure things are showing up as expected. </p>
+  <p>Don't forget to check in on the view of your live app!</p>
 </div>
 
 <br>

@@ -40,7 +40,7 @@ Here are a few great places to start:
   <p>Open the <code>style.css</code> file in your repl project. Notice that the first few lines have a rule written that targets any <code class="try-it-code">h2</code> element. You can use that as a reference!</p>
   <p>Write a rule that targets the paragraphs, then change their background-color and font-size.</p>
   <p>Next, write a rule that targets the main heading - change the color of the text and add a border.</p>
-  <p>Check in on the "View" of your app to make sure things are showing up as expected.</p>
+  <p>Check in on the view of your live app to make sure things are showing up as expected.</p>
   <p>Finished Early? Play around! AMY Add drop down.</p>
 </div>
 
@@ -77,7 +77,7 @@ To target them in CSS, we need to use a specific syntax:
   <h3>Try It: Classes & IDs</h3>
   <p>In the <code>style.css</code> file, use a class attribute to give the same styles to 2 of your paragraphs, but not to the other(s).</p>
   <p>Based on how you'd like to style your page, if you see the need for other classes or IDs, go ahead and implement them!</p>
-  <p>Check in on the "View" of your app to make sure things are showing up as expected.</p>
+  <p>As you are probably in the habit of by now, check in on the view of your live app!</p>
 </div>
 
 <br>

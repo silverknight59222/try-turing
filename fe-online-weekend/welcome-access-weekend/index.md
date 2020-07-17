@@ -7,7 +7,7 @@ layout: lesson
 ### To Get Set Up
 
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
-- In Chrome, open up <a target="blank" href="https://try.turing.io/fe-online-weekend">try.turing.io/frontend-advanced</a>
+- In Chrome, open up <a target="blank" href="https://try.turing.io/fe-online-weekend">try.turing.io/fe-online-weekend</a>
 - Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 
 ### What to Expect
@@ -39,6 +39,6 @@ Over the course of the day, we will write code, start developing some developer 
 
 ### Using repl.it
 
-Today we will be using repl.it to write our code and see the results! We will all start with [this starter project - please fork it now]().
+Today we will be using repl.it to write our code and see the results! We will all start with [this starter project - please fork it now](https://repl.it/@ameseee/FE-Weekend-Starter).
 
 <a href="../">Back to Curriculum Index</a>
