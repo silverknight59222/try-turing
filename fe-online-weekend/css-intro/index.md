@@ -41,7 +41,13 @@ Here are a few great places to start:
   <p>Write a rule that targets the paragraphs, then change their background-color and font-size.</p>
   <p>Next, write a rule that targets the main heading - change the color of the text and add a border.</p>
   <p>Check in on the view of your live app to make sure things are showing up as expected.</p>
-  <p>Finished Early? Play around! AMY Add drop down.</p>
+
+  <div class="spicy-container">
+    <p class="spicy-click">🌶 Finished? Click here for a Spicy Challenge 🌶</p>
+    <div class="spicy-toggle">
+      <p>Check out the <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity" target="blank">opacity</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow" target="blank">box-shadow</a> properties and implement them on your site.</p>
+    </div>
+  </div>
 </div>
 
 ## Classes and IDs
