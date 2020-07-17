@@ -26,5 +26,4 @@ layout: lesson
 - [Semantic HTML](./semantic)
 - [Intro to WAI-ARIA](./wai-aria)
 - [Images & Emojis](./images-emojis)
-- [Resources](./resource)
 - [Wrap Up](./access-wrap-up)

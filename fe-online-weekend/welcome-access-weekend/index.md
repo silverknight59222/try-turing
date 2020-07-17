@@ -44,10 +44,10 @@ Below is our agenda for each day:
 
 - Name, pronouns
 - Location
-- 1-2 sites/apps you regularly use or love
+- 2 sites/apps you regularly use or love (Google Search isn't allowed!)
 
 ### Using repl.it
 
-Today we will be using repl.it to write our code and see the results! We will all start with [this starter project - please fork it now](https://repl.it/@ameseee/FE-Weekend-Starter).
+Today we will be using repl.it to write our code and see the results! We will all start with [this starter project](https://repl.it/@ameseee/FE-Weekend-Starter). Let's walk through the set up so everyone is ready to go when it's time to code!
 
 <a href="../">Back to Curriculum Index</a>

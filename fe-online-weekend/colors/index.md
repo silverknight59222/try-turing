@@ -28,7 +28,7 @@ Using the chrome extension, let's take a moment to explore some examples and non
 
 <div class="try-it-new">
   <h3>Try It: Colorblind Check</h3>
-  <p>Install the <a href="https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa/related?hl=en">Colorblinding Chrome Extension</a> and test out your 2 sites.</p>
+  <p>Install the <a href="https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa/related?hl=en">Colorblinding Chrome Extension</a> and test out your 2 favorite/most used sites.</p>
   <p><strong>Be ready to discuss:</strong> If you are not colorblind, did you miss out on any features of the site, or get confused about anything as a temporary colorblind user?</p>
 </div>
 
@@ -46,12 +46,12 @@ Large scale text and logotypes are exempt; large scale text need a contrast rati
 <div class="try-it-new">
   <h3>Try It: Check Color Ratios</h3>
   <p>Visit the <a target="blank" href="https://webaim.org/resources/contrastchecker/">WebAIM Contrast Checker</a>.</p>
-  <p>Check the contrast ratio for any content on your page. If your ratio doesn't meet the criteria yet - that's ok. We'll have work time in the next section to change our palettes.</p>
+  <p>Check the contrast ratio for any content on your live app. If your ratio doesn't meet the criteria yet - that's ok. We'll have work time in the next section to change our palettes.</p>
 </div>
 
 ## Color Palettes
 
-Whether we are conscious of it or not, colors can influence our emotions! Marketers use the psychology of colors to draw people in to their products.
+Whether we are conscious of it or not, colors can influence our emotions! Marketing and design teams use the psychology of colors to draw people in to their products.
 
 <img class="medium-img" src="./assets/color-emotion-guide.png" alt="Color emotion guide graphic. Yellow is labeled optimism, orange - friendly, red - excitement, purple- creative, blue - trust, green - peaceful, grey - balance, multi- diversity." />
 
@@ -76,7 +76,7 @@ In addition to the emotion(s) you want to invoke for your user while visiting th
     <li><a href="https://coolors.co/2364aa-3da5d9-73bfb8-fec601-ea7317">Coolers</a></li>
   </ul>
   <p>Use the <a target="blank" href="https://webaim.org/resources/contrastchecker/">WebAIM Contrast Checker</a> to ensure that there is adequate ratio between the background and text colors you selected.</p>
-  <p>We'd love to get inspired! Share your palette by taking a screenshot then pasting it in <a href="">this document</a>.</p>
+  <p>We'd love to get inspired! Share your palette by taking a screenshot then pasting it in <a href="https://docs.google.com/document/d/1V0PiDnYJdfS7WJb2SLGXRXNU43yfBsYvK12p2wxetrg/edit">this document</a>.</p>
 </div>
 
 <div class="try-it-new">

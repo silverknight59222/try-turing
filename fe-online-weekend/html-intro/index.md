@@ -60,6 +60,8 @@ Even though the browser will display these headers as different sizes, don't use
   <p>Check in on the view of your live app to make sure things are showing up as expected.</p>
 </div>
 
+> <span role="img" aria-label="cross fingers">🤞</span>Check in on code comments!
+
 ## Forms
 
 After text content, the next thing we engage with most regularly is probably forms - providing information and/or requesting information within a web application by interacting with input fields and buttons.
