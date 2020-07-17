@@ -8,6 +8,7 @@ layout: lesson
 
 - [2017 WebAIM Screen Reader User Survey Results](https://webaim.org/projects/screenreadersurvey7/)
 - [WAI-ARIA Documentation from W3C](https://www.w3.org/TR/wai-aria-1.1/)
+- [The a11y Project](https://www.a11yproject.com/)
 
 ## Articles, Blogs, Videos
 

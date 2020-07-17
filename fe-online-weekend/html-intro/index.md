@@ -114,10 +114,9 @@ The `img` element is what allows us to display images on a webpage. Like `input`
 <div class="try-it-new">
   <h3>Try It: Images</h3>
   <p>Add at least one image to your HTML, using the <code>src</code> and <code>alt</code> attributes.</p>
-  <p>There are two ways you can include images in a Glitch project:</p>
+  <p>To include images in a repl project:</p>
   <ol>
     <li>Google search an image, right click it, and select "Copy image address". Paste that in as the value of your <code>src</code> attribute.</li>
-    <li>If you have an image file on your computer that you'd like to use, you can drag and drop it into the file tree - the area on the repl whitespace where your <code>HTML</code> and <code>CSS</code> file names appear. The value of the <code>src</code> attribute should match the name of the file, including the extensions, such as <code>.png</code>.</li>
   </ol>
   <p>Check in on the "View" of your app to make sure things are showing up as expected. </p>
 </div>
