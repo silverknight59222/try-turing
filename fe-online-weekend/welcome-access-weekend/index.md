@@ -12,16 +12,19 @@ layout: lesson
 
 ### What to Expect
 
-Over the course of the day, we will write code, start developing some developer habits, and learn a little more about the tech industry.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day:
+Over the course of the day, we will write code, start developing some developer habits, and learn a little more about the tech industry, specifically what web accessibility looks like in the industry.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! 
+
+Below is our agenda for each day:
 
 - **10:00 - 11:45** Welcome, Intros, and Instruction
 - **11:45 - 12:00** Break
-- **12:00 - 12:30** Frond-End Developer Panel
+- **12:00 - 12:45** Turing Info/Panel
 - **12:30 - 12:45** Break
 - **12:45 - 2:45**  Instruction
 - **2:45 - 3:00**  Wrap Up, Questions
 
 <br>
+
 ### Learning Norms
 
 - No question is too small. No question is a bad question. Ask them!
@@ -30,12 +33,18 @@ Over the course of the day, we will write code, start developing some developer 
 ### Online Session Norms
 
 - Mute your mic unless you're talking
-- Keep your camera on during class and breakout sessions; ok to turn off during independent work time
 - It is very normal in an online setting to accidentally talk over someone. If that happens, apologize and be sure to clarify who is speaking next
+- Keep your camera on during class and breakout sessions; ok to turn off during independent work time
 - Use features in the Participants Pane to answer yes/no, raise your hand, or give a thumbs up.
 - You might be sharing your screen today - if you have anything open that you don't want to accidentally share, close or minimize it now
 - Type questions the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself
 - Disconnected? Jump back on! If the host or TAs get disconnected, hold tight, and the session will resume shortly
+
+### Intros
+
+- Name, pronouns
+- Location
+- 1-2 sites/apps you regularly use or love
 
 ### Using repl.it
 
