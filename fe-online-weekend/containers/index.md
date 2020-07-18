@@ -41,7 +41,13 @@ We will use an `<ul>` element to wrap as many `<li>` elements as we have list it
   <p>Open the <code>index.html</code> file of your repl project. Somewhere inside of the <code>body</code> tags, make a list on your page.</p>
   <p>Check in on the view of your live app to see the result of these new elements.</p>
   <p>Try using both <code>ul</code> and <code>ol</code> - what is the difference? What do you think <code>ul</code>, <code>ol</code> and <code>li</code> stand for? Feel free to Google!</p>
-  <p> Early Finisher? AMY give them a link for how to remove or style bullet points in CSS.</p>
+  
+  <div class="spicy-container">
+    <p class="spicy-click">🌶 Finished? Click here for a Spicy Challenge 🌶</p>
+    <div class="spicy-toggle">
+      <p>Check out the <a href="https://css-tricks.com/almanac/properties/l/list-style/" target="blank">this resource</a> to learn about strategies to style list items!</p>
+    </div>
+  </div>
 </div>
 
 ## Containers
