@@ -106,7 +106,7 @@ Here are a few conventions specific to HTML:
 
 <div class="try-it-new">
   <h3>Try It: Cleaning Up Code</h3>
-  <p>Open and fork <a href="">this repl project</a>. First, check out the "View" of the app. Then, read through the HTML document - it may be harder to sift through than it should be! Clean up anything you notice to get this file in shape according to the conventions listed above.</p>
+  <p>Open and fork <a href="https://repl.it/@ameseee/clean-me-up#index.html" target="blank">this repl project</a>. First, check out the view of the live app. Then, read through the HTML document - it may be harder to sift through than it should be! Clean up anything you notice to get this file in shape according to the conventions listed above.</p>
   <p>Check in on the view of this live app to make sure things are showing up the same as they were before your clean up!</p>
 </div>
 
