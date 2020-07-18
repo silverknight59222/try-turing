@@ -116,10 +116,7 @@ The `img` element is what allows us to display images on a webpage. Like `input`
 <div class="try-it-new">
   <h3>Try It: Images</h3>
   <p>Add at least one image to your HTML, using the <code>src</code> and <code>alt</code> attributes.</p>
-  <p>To include images in a repl project:</p>
-  <ol>
-    <li>Google search an image, right click it, and select "Copy image address". Paste that in as the value of your <code>src</code> attribute.</li>
-  </ol>
+  <p><em>To include images in a repl project:</em> Google search an image, right click it, and select "Copy image address". Paste that in as the value of your <code>src</code> attribute.</p>
   <p>Don't forget to check in on the view of your live app!</p>
 </div>
 
