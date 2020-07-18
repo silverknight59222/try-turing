@@ -42,7 +42,13 @@ To change the styles of an element:
   <p>Go to one of your favorite or most used sites and open the dev tools.</p>
   <p>Select an element of your choice. Edit a rule in the styles pane.</p>
   <p>Check the element in the browser - is it displaying the changes?</p>
-  <p>Early Finisher: https://www.lucidchart.com/techblog/2018/05/01/live-editing-html-css-chrome-devtools/</p>
+  
+  <div class="spicy-container">
+    <p class="spicy-click">🌶 Finished? Click here for a Spicy Challenge 🌶</p>
+    <div class="spicy-toggle">
+      <p>Check out the <a href="https://www.lucidchart.com/techblog/2018/05/01/live-editing-html-css-chrome-devtools/" target="blank">this resource</a>. Using what you learn by browsing it, can you change  the content of some HTML elements on a page? (It's very fun to change news headlines, highly recommend trying it out!)</p>
+    </div>
+  </div>
 </div>
 
 ## Box Model
