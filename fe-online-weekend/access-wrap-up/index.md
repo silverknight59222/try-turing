@@ -19,6 +19,8 @@ As we wrap up our day together, take a moment to reflect on the questions below.
   </ul>
 </div>
 
+> Please complete the [survey!](bit.ly/try-coding-feedback) We actually read your feedback, promise.
+
 ## Contact
 
 - To start your application, <a target="blank" href="https://apply.turing.io/">apply.turing.io</a>
