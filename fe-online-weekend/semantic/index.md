@@ -16,7 +16,7 @@ layout: lesson
 
 <img src="./assets/teapot.png" alt="Short, squatty, turquoise cast iron teapot with dragonfly carved into top" />
 
-An afforance is a clue about what and object is and how it should be used. In the physical world, when we see a teapot or an ice cream scoop or a pair of headphones, we may have never seen that exact item before, but can use context to understand what it is and how one would use it. 
+An afforance is a clue about what and object is and how it should be used. In the physical world, when we see a teapot or an ice cream scoop or a pair of headphones, we may have never seen that exact item before, but can use context to understand what it is and how one would use it.
 
 In the digital world, when we see a form, a button, items on a page change when we hover over them, etc. we have context for what they mean and what we can do with them. If a user can't see a button on the page, we have to provide that information in a way that their assistive technology can communicate it to them.
 
@@ -26,7 +26,7 @@ In the digital world, when we see a form, a button, items on a page change when 
 
 Screen readers are software programs that allow blind or low vision users to read the text on a computer screen. It can be read either through a speech synthesizer or braille display. A user that uses a screen reader will use a keyboard or Braille input device to tab through a webpage.
 
-- Show diagram of HTML to DOM to a11y tree 
+- Show diagram of HTML to DOM to a11y tree
 - Show video clip of someone going through a semantic page vs a not.
 
 There is a long list of available screen readers. Some popular ones are [NVDA](https://www.nvaccess.org/), [JAWS](https://www.freedomscientific.com/products/software/jaws/) and [VoiceOver](https://www.apple.com/accessibility/mac/vision/) (comes with Mac).
@@ -49,7 +49,7 @@ Best practices for headings:
 
 ## Containers
 
-Yesterday, we learned about the `<div>` element. We talked about how it can be used to visually group other elements together.
+Earlier, we learned about the `<div>` element. We talked about how it can be used to visually group other elements together.
 
 Sometimes, we use container elements, like a `div` purely to control layout. Other times, we group elements together becauase the content is related. Consider the screenshots below:
 

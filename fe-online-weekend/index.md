@@ -11,7 +11,7 @@ layout: lesson
 - [Intro to HTML](./html-intro)
 - [Intro to CSS](./css-intro)
 - [Containers & Nesting](./containers)
-- [CSS Box Model](./box-model)
+<!-- - [CSS Box Model](./box-model) -->
 - [What is Accessibility?](./what-is-a11y)
 - [Wrap Up](./foundations-wrap-up)
 
@@ -24,6 +24,6 @@ layout: lesson
 - [Tools for Accessibility](./tools)
 - [Accessible Colors](./colors)
 - [Semantic HTML](./semantic)
-- [Intro to WAI-ARIA](./wai-aria)
+<!-- - [Intro to WAI-ARIA](./wai-aria) -->
 - [Images & Emojis](./images-emojis)
 - [Wrap Up](./access-wrap-up)
