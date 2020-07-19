@@ -17,6 +17,17 @@ There are _many_ tools that exist to help developers check the accessibility of 
 
 Because of our limited time together this weekend, we won't go all in on every corner of this. We will dig into two tools pretty extensively and give an overview of others you can check out on your own after this weekend, if you are interested.
 
+## Developer Tools
+
+The Chrome Dev Tools are a set of tools for developers to edits pages on the fly and diagnose problems, all within the Chrome browser. Other browsers have their own set of tools, but for consistency, we will all use Chrome today.
+
+The Dev Tools are very robust; today we will explore a small piece of what they allow us to do.
+
+To open the Dev Tools:
+- While in the browser, right-click and select "inspect" from the drop-down menu that appears. Or use the keyboard shortcuts: Mac: `opt + cmd + i`, PC: `ctrl + shft + j`
+- From the horizontal menu at the top, select "Lighthouse"
+- To change the location of the Dev Tools, click the three small dots at the top-right corner and select a different location
+
 ## Lighthouse
 
 Available in your Dev Tools, Lighthouse can run an audit on your site and give you back a score (out of 100) as well as specific issues that are limiting on your site.
