@@ -26,9 +26,6 @@ In the digital world, when we see a form, a button, items on a page change when 
 
 Screen readers are software programs that allow blind or low vision users to read the text on a computer screen. It can be read either through a speech synthesizer or braille display. A user that uses a screen reader will use a keyboard or Braille input device to tab through a webpage.
 
-- Show diagram of HTML to DOM to a11y tree
-- Show video clip of someone going through a semantic page vs a not.
-
 There is a long list of available screen readers. Some popular ones are [NVDA](https://www.nvaccess.org/), [JAWS](https://www.freedomscientific.com/products/software/jaws/) and [VoiceOver](https://www.apple.com/accessibility/mac/vision/) (comes with Mac).
 
 ### Motor & Dexterity
