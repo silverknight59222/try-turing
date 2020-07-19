@@ -3,11 +3,11 @@ layout: lesson
 ---
 
 # Welcome to Try Coding - _Accessibility Focus_
-<br>
+
+Official start time is 10:10 on Sunday, to give you some time back to read the artile about Twitter! 
 
 ### To Get Set Up
 
-- Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - In Chrome, open up <a target="blank" href="https://try.turing.io/fe-online-weekend">try.turing.io/fe-online-weekend</a>
 - Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 
