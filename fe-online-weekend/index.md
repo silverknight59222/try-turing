@@ -20,6 +20,7 @@ layout: lesson
 ## Day 2 - Intro to Accessibility
 
 - [Welcome](./welcome-access-weekend)
+- [HTML & CSS Review](./review)
 - [Accessibility Discussion](./discussion)
 - [Tools for Accessibility](./tools)
 - [Accessible Colors](./colors)

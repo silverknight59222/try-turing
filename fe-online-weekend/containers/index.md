@@ -41,7 +41,7 @@ We will use an `<ul>` element to wrap as many `<li>` elements as we have list it
   <p>Open the <code>index.html</code> file of your repl project. Somewhere inside of the <code>body</code> tags, make a list on your page.</p>
   <p>Check in on the view of your live app to see the result of these new elements.</p>
   <p>Try using both <code>ul</code> and <code>ol</code> - what is the difference? What do you think <code>ul</code>, <code>ol</code> and <code>li</code> stand for? Feel free to Google!</p>
-  
+
   <div class="spicy-container">
     <p class="spicy-click">🌶 Finished? Click here for a Spicy Challenge 🌶</p>
     <div class="spicy-toggle">
@@ -87,7 +87,7 @@ Here's an example of the syntax we might use to start creating something similar
   <p>Find a place in your existing project where a <code>div</code> may be helpful. Add at least one <code>div</code> so that it nests some existing elements.</p>
   <p>Then, add a border or background color so you can see it.</p>
 </div>
-
+<!--
 ## Code Readability
 
 While reviewing code that others in the class share out, you may have noticed that yours looks a bit different - some people may have blank lines here and there, some may tab in certain elements and others don't.
@@ -108,7 +108,7 @@ Here are a few conventions specific to HTML:
   <h3>Try It: Cleaning Up Code</h3>
   <p>Open and fork <a href="https://repl.it/@ameseee/clean-me-up#index.html" target="blank">this repl project</a>. First, check out the view of the live app. Then, read through the HTML document - it may be harder to sift through than it should be! Clean up anything you notice to get this file in shape according to the conventions listed above.</p>
   <p>Check in on the view of this live app to make sure things are showing up the same as they were before your clean up!</p>
-</div>
+</div> -->
 
 <br>
 <a href="../">Back to Curriculum Index</a>
