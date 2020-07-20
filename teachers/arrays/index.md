@@ -50,13 +50,17 @@ It’s very likely that every application you’ve used - on a phone or laptop -
 We can’t see all the code that built every application, but there are some places where it’s very clear that an array would be the best tool to use. Here are some examples from sites we may be familiar with:
 
 - [Instagram](https://www.instagram.com/alfie_the_alpaca_in_adelaide/) uses arrays to hold all the posts for a given user. Alfie the Alpaca has over 800 posts, so the array is over 800 elements long!
-- [TikTok](https://www.tiktok.com/discover?lang=en) has an array of trending creators stored in their program. TikTok shows the information of the first four creators on the “Discover” page. When a user clicks the arrow to see more, TikTok shows the information of the next four trending creators, etc.
 - [Khan Academy](https://www.khanacademy.org/) uses an Array to hold a users Badge Counts
 
 <img 
   class="medium-img" 
   src="./assets/badge-count.png" 
   alt="Screenshot of a close up of the Badge Count on Khan Academy user profile, showing 1, 0, 0, 2, 4, 102 badges">
+
+<img 
+  class="medium-img" 
+  src="./assets/badge-count-anno.png" 
+  alt="Screenshot of a close up of the Badge Count on Khan Academy user profile, showing 1, 0, 0, 2, 4, 102 badges. Before the first badge is an opening [ square bracket, and after the last is a ] closing angle bracket. Inbetween each badge sits a comma.">
 
 ```ruby
 badge_count = [1, 0, 0, 2, 4, 102]
@@ -79,8 +83,14 @@ courses_offered = ["Math", "Science", "ELA", "Theater"]
 The syntax to access an element is below. We instruct the program to that we want to look at the `student_names` array, then more specifically, the element at `X` position.
 
 ```ruby
+courses_offered[0]
+# --> "Math"
+
 courses_offered[1]
 # --> "Science"
+
+courses_offered[2]
+# --> "ELA"
 
 courses_offered[3]
 # --> "Theater"
@@ -88,7 +98,7 @@ courses_offered[3]
 
 <div class="try-it-new">
   <h2>Try It: Declaring Arrays & Accessing Values</h2>
-  <p>In repl, declare a variable that stores an array of at least 5 elements - each being a student name.</p>
+  <p>In repl, declare a variable that stores an array of at least 5 elements, each being a <strong>student name</strong>.</p>
   <p>Print out the entire array, then individually print out all 5 student names to the console.</p>
 </div>
 
@@ -122,7 +132,7 @@ puts courses_offered
 _Real world connection: When a Kahoot ends, a 1st place winner is determined, then 2nd then 3rd and those names are displayed on the final screen. The pop method could be used three times to grab those from the array, if the array was sorted by score._
 
 ### .push
-The push method allows us to add an element to the end of the array it is called on. In order to tell ruby what element to add, we must include inside of `( )` after `.push`
+The push method allows us to add an element to the end of the array it is called on. In order to tell Ruby what element to add, we must include inside of `( )` after `.push`
 
 ```ruby
 courses_offered = ["Math", "ELA", "Theater"]
@@ -134,17 +144,30 @@ puts courses_offered
 
 _Real world connection: When an user creates a new Kahoot, it is pushed into the array of all Kahoots._
 
+### Quick Recap:
+
+- `.count` counts the total number of elements in the array
+- `.push` adds an element to the end of the array
+- `.pop` removes the last element from the array
+
 <div class="try-it-new">
   <h2>Try It: Array Methods</h2>
-  <p>Earlier, you delcared a variable that stores an array of student names. Below that code, write code to remove all the students in that array, one by one.</p>
-  <p>Print out the array, and programmatically check (and print out) the length of the array.</p>
-  <p>Now, add in 5 new students to the array! Print it out to make sure they are in there.</p>
-  <p>Extension: shift and unshift (link a resource)</p>
+  <p>Earlier, you delcared a variable that stores an array of student names. Below that code, write code to <strong>remove all the students in that array</strong>, one by one.</p>
+  <p>Print out the array. Then, programmatically check (and print out) the length of the array.</p>
+  <p>Now, <strong>add in 5 new students</strong> to the array! Print the array again out to make sure they are in there.</p>
+
+  <div class="spicy-container">
+    <p class="spicy-click">Click here for an Early Finisher Challenge!</p>
+    <div class="spicy-toggle">
+      <p>Look into two other Ruby methods: <code class="try-it-code">shift</code> and <code class="try-it-code">unshift</code>. You can run a google search or start with <a href="https://dev.to/ddhogan/quick-reference-for-array-methods-pushpop-vs-shiftunshift-4g7h">this resource!</a></p>
+    </div>
+  </div>
+
 </div>
 
 ## Choosing a Random Element
 
-There are myriad real world connections we can make to web or mobile apps using randomization: quote/photos of the day, shuffling the order of songs on a playlist, Kahoot will randomize the order of questions so quizzes aren't too predictable
+There are myriad real world connections we can make to web or mobile apps using randomization: quote/photos of the day, shuffling the order of songs on a playlist, Kahoot will randomize the order of questions so quizzes aren't too predictable.
 
 There are a few ways we can go about it programmatically. Let's first consider the path laid out in this _pseudo-code_:
 
@@ -154,7 +177,7 @@ There are a few ways we can go about it programmatically. Let's first consider t
 # 3. access the element at that index position
 ```
 
-The example above works and is the main path to implementation in other languages, but ruby is so friendly that it [built in a method that shuffles an array](https://stackoverflow.com/questions/1816378/how-to-randomly-sort-scramble-an-array-in-ruby)! Check out this simpler pseudo-code path:
+The example above works and is the main path to implementation in other languages, but Ruby is so friendly that it [built in a method that shuffles an array](https://stackoverflow.com/questions/1816378/how-to-randomly-sort-scramble-an-array-in-ruby)! Check out this simpler pseudo-code path:
 
 ```ruby
 # 1. shuffle the array
@@ -166,7 +189,15 @@ The example above works and is the main path to implementation in other language
   <p>Write the code the shuffle the array, then print out the name of the student in position 0.</p>
   <p>Run the program several times to verify it's working as expected.</p>
   <p>Now, use string interpolation to ask a question to the student you are calling on.</p>
-  <p>Extension: Your current popsicle stick jar is probably operating in a way that is equivalent to putting th stick back in the jar after calling a student. What if, after calling a student's name, you wanted to take their name out of the jar? <em>(Hint: you might need to google how to remove the first element of an array in ruby!)</em></p>
+  
+  <div class="spicy-container">
+    <p class="spicy-click">Click here for an Early Finisher Challenge!</p>
+    <div class="spicy-toggle">
+      <p>Your current popsicle stick jar is probably operating in a way that is equivalent to putting the stick back in the jar after calling a student. What if, after calling a student's name, you wanted to take their name out of the jar? <em>(Hint: you might need to google how to remove the first element of an array in Ruby if you haven't already!)</em></p>
+    </div>
+  </div>
+
+
 </div>
 
 <a href="../">Back to Curriculum Index</a>
