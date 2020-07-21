@@ -13,19 +13,27 @@ layout: lesson
 
 ## Iteration 
 
-Iteration IRL - grading papers. 
-- Collection: papers
-- For each: paper
-- Do: read through it, mark score on top, record in gradebook
-- Then: repeat with next paper
+**Iteration** is defined as _the repetition of a process_. We see iteration in the physical world all the time. Here's one:
 
-In Programming:
-- Collection: email addresses
-- For each: email address
-- Do: send an email off to that address at 5:30am
-- Then: repeat with next email address
+Grading papers
+- You have a **collection** of papers
+- For **each** paper...
+  - We read through it, mark score on top, record in gradebook
+- Then, repeat with next paper. Continue until all papers are graded
+
+In programming, we follow a similar cadence. Let's think about all those promotional emails we wake up to every morning:
+- The app has a long **list** of email addresses in it's database
+- For **each** email address...
+  - The app sends an email off to that address at 5:30am
+- Then, repeat with next email address. Continue until all email addresses have been used
 
 ## Syntax for Iteration
+
+To write code that iterates over an array, we will follow the cadence we saw in the examples above:
+- Start with a **collection** (Array)
+- Identify **each** element
+- **Do** something with/to it
+- Repeat until all elements have been worked with
 
 [Let's walk through](https://repl.it/@ameseee/each-intro#main.rb) what each piece of the code below is doing:
 

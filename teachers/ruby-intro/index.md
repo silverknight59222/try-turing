@@ -98,7 +98,7 @@ Just like we have these (made up) dog methods, we also have (real, ruby) String 
 
 <div class="try-it-new">
   <h2>Try It: String Methods</h2>
-  <p>Look at the code in <a href="https://repl.it/@turingtrycoding/stringmethods?lite=true#main.rb">this repl. Line by line, predict what will print out to the console based on the name of the method called on <code class="try-it-code">message</code>.</a></p>
+  <p>In your breakout rooms, look at the code in <a href="https://repl.it/@turingtrycoding/stringmethods?lite=true#main.rb">this repl</a>. Line by line, predict what will print out to the console based on the name of the method called on <code class="try-it-code">message</code>.</p>
   <p>Then, click the green "run" button to run the code. What did you learn? Any surprises?</p>
   <p>Discuss: Does this make you wonder anything like "I wonder if ruby has a method for ____?". Share out, then if time, get wild and google it and see if you can find an answer!</p>
 </div>
