@@ -13,9 +13,7 @@ layout: lesson
 
 ## Iteration 
 
-**Iteration** is defined as _the repetition of a process_. We see iteration in the physical world all the time. Here's one:
-
-Grading papers
+**Iteration** is defined as _the repetition of a process_. We see iteration in the physical world all the time. Let's think about the process of grading papers:
 - You have a **collection** of papers
 - For **each** paper...
   - We read through it, mark score on top, record in gradebook
