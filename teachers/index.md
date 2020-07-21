@@ -10,4 +10,4 @@ layout: lesson
 - [Arrays](./arrays)
 - [Iteration](./iteration)
 - [Hashes](./hashes)
-- [Wrap Up](./wrap-up-teachers)
+- [Wrap Up](./wrap-up)
