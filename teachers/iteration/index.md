@@ -45,7 +45,11 @@ courses_offered = ["Math", "Science", "ELA", "Theater"]
 courses_offered.each do |course|
   puts "Welcome to #{course}!"
 end
+
+print "courses_offered array is unchanged: #{courses_offered}"
 ```
+
+Using `each` in the way we are above, we will not mutate, or change, the original array!
 
 <div class="try-it-new">
   <h2>Try It: Iteration</h2>
@@ -55,9 +59,9 @@ end
 ## A More Advanced Method
 
 Sometimes, we don't want to perform the exact same action on every element in an array. Let's think about the favoriting feature on Kahoot:
-- A user can favorite a kahoot
+- A user can "favorite" a kahoot
 - A user can view all kahoots
-- A user can click a button to _just_ view favorited kahoots
+- A user can click a button to view favorited kahoots _only_
 
 How did the program sift through all the elements in the `kahoots` array and know to only show some? Again, since Ruby is _such_ a friendly language, it gives us a method called `select` that does the heavy lifting for us.
 
