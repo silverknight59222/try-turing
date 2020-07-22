@@ -6,8 +6,8 @@ layout: lesson
 
 ### To Get Set Up
 
-- In Chrome, open up <a target="blank" href="https://try.turing.io/fe-online-weekend">try.turing.io/fe-online-weekend</a>
-- Open up repl.it and login to your account
+- In Chrome, open up <a target="blank" href="https://try.turing.io/teachers">try.turing.io/teachers</a>
+- Open up <a href="https://repl.it/~" target="blank">repl.it</a> and login to your account
 - Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 
 ### What to Expect
