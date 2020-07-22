@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Welcome to Try Coding for Teachers
+# Welcome to Try Coding for Teachers <span role="img" aria-label="apple">🍎</span>
 
 ### To Get Set Up
 
