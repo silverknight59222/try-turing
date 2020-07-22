@@ -125,7 +125,7 @@ kahoots = [
 
 While this looks like a LOT of code and at first glance is quite complex, we can break it down:
 - `kahoots` is a variable that stores an Array
-- The `kahoots` Array has 3 elements. Each of them in a Hash
+- The `kahoots` Array has 3 elements. Each of them is a Hash
 - Each Hash element has 4 key/value pairs and the keys are consistent
 
 <div class="try-it-new">
