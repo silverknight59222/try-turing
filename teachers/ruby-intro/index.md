@@ -59,7 +59,7 @@ puts student_name
 
 ## Re-assigning Variables, puts vs. print
 
-In the spirit of exploring to learn, we aren't gong to tell what what exactly the code below does.
+In the spirit of exploring to learn, we aren't gong to tell what what exactly [the code below](https://repl.it/@ameseee/explore-reassigning) does.
 
 ```ruby
 student = "Frankie"
@@ -76,7 +76,7 @@ puts "Welcome to class, #{student}!"
 <div class="try-it-new">
   <h2>Try It: Exploring Re-assignment</h2>
   <p>Read the code above and predict what will happen when it is run. Try to explain why.</p>
-  <p>Now, type the code into your repl and run it - does that verify or falsify your prediction?</p>
+  <p>Now, run the code by pressing the green "run" button in repl to run the code. Does the output verify or falsify your prediction?</p>
   <p>Last, change all instances of <code>puts</code> to <code>print</code>. Observe the change in output. What does that tell you about the job that each command (puts and print) has?</p>
 </div>
 

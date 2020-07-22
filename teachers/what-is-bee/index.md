@@ -17,11 +17,11 @@ In a broad sense, Back-End programming is concerned with managing ​data​ (ak
 
 If we think about our favorite web applications, what generally makes them special and useful to us is their ability to **do dynamic things**. In most cases, we'd like our website to be able to ​do things -- to record data we tell it to record, store information for us, and be able to retrieve that data later.
 
-Consider an increasingly popular website for teacher and kids - Khan Academy. When a user looks at their dashboard, what are the parts we actually care about? Why did we come here in the first place?
+Consider an increasingly popular website for teacher and kids - Kahoot! When a user looks at their dashboard, what are the parts we actually care about? Why did we come here in the first place?
 
-In the screenshot below, the red boxes represent examples of **dynamic data** that had to be stored somewhere. That "somewhere" is what Back-End programming is concerned with.
+In the screenshot below, the outlines represent examples of **dynamic data** that had to be stored somewhere. That "somewhere" is what Back-End programming is concerned with.
 
-<img src="./assets/khan.png" alt="Khan academy screenshot, with username, bages earned and points earned all circled to highlight data that is specfic to the user logged in.">
+<img src="./assets/kahoot.png" alt="Kahoot screenshot with annotations for places a back end would play a role. 1 - username, 2 - all kahoots stored, 3 - favorited kahoots, 4 - reports">
 
 All of the stylistic pieces (layout, colors, sizes), in addition to logic around user interactions, are considered **Front-End** concerns.
 
@@ -49,8 +49,10 @@ We won't be talking about anything except for a teeny tiny part of Ruby. However
 
 ## What are we doing today?
 
-1. Store students in lists in _Arrays_
+1. Store students in lists called _Arrays_
 2. Randomly select a student from a list
-3. Create racndom pairs or small groups
+3. Explore ways to store student data
+
+<span role="img" aria-label="twinkle stars">✨</span>You will probably leave today with more questions than answers!<span role="img" aria-label="twinkle stars">✨</span>
 
 <a href="../">Back to Curriculum Index</a>

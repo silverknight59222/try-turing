@@ -86,7 +86,18 @@ puts small_numbers
 <div class="try-it-new">
   <h2>Try It: Select</h2>
   <p>Using the <code class="try-it-code">select</code> method, iterate over your array of student names select only the names that are longer than 4 characters.</p>
+  <div class="help-container">
+    <button class="help-click">🤚Help Me!</button>
+    <div class="help-toggle">
+      <pre>students = ["Allie", "Ruby", "Lisa", "Maile", "Kai"]
 
+long_names = students.select do |student|
+  student.length > 4
+end
+
+puts long_names</pre>
+    </div>
+  </div>
   <div class="spicy-container">
     <p class="spicy-click">Click here for an Early Finisher Challenge!</p>
     <div class="spicy-toggle">

@@ -50,20 +50,20 @@ It’s very likely that every application you’ve used - on a phone or laptop -
 We can’t see all the code that built every application, but there are some places where it’s very clear that an array would be the best tool to use. Here are some examples from sites we may be familiar with:
 
 - [Instagram](https://www.instagram.com/alfie_the_alpaca_in_adelaide/) uses arrays to hold all the posts for a given user. Alfie the Alpaca has over 800 posts, so the array is over 800 elements long!
-- [Khan Academy](https://www.khanacademy.org/) uses an Array to hold a users Badge Counts
+- [Kahoot](https://www.kahoot.com/) uses an Array to hold all Kahoot quizzes on a users account
 
 <img 
-  class="medium-img" 
-  src="./assets/badge-count.png" 
+  class="large-img" 
+  src="./assets/kahoot-arrays.png" 
   alt="Screenshot of a close up of the Badge Count on Khan Academy user profile, showing 1, 0, 0, 2, 4, 102 badges">
 
 <img 
   class="medium-img" 
-  src="./assets/badge-count-anno.png" 
+  src="./assets/kahoot-arrays-anno.png" 
   alt="Screenshot of a close up of the Badge Count on Khan Academy user profile, showing 1, 0, 0, 2, 4, 102 badges. Before the first badge is an opening [ square bracket, and after the last is a ] closing angle bracket. Inbetween each badge sits a comma.">
 
 ```ruby
-badge_count = [1, 0, 0, 2, 4, 102]
+my_kahoots = ["Swift Loops", "Swift Dictionaries", "Intro to Objects", "Swift Arrays", "Functions"]
 ```
 
 <div class="try-it-new">
@@ -100,6 +100,19 @@ courses_offered[3]
   <h2>Try It: Declaring Arrays & Accessing Values</h2>
   <p>In repl, declare a variable that stores an array of at least 5 elements, each being a <strong>student name</strong>.</p>
   <p>Print out the entire array, then individually print out all 5 student names to the console.</p>
+  <div class="help-container">
+    <button class="help-click">🤚Help Me!</button>
+    <div class="help-toggle">
+      <pre>students = ["Allie", "Ruby", "Lisa", "Maile", "Kai"]
+
+puts students[0]
+puts students[1]
+puts students[2]
+puts students[3]
+puts students[4]</pre>
+    </div>
+  </div>
+
 </div>
 
 ## Array Methods
@@ -156,6 +169,18 @@ _Real world connection: When an user creates a new Kahoot, it is pushed into the
   <p>Print out the array. Then, programmatically check (and print out) the length of the array.</p>
   <p>Now, <strong>add in 5 new students</strong> to the array! Print the array again out to make sure they are in there.</p>
 
+ <div class="help-container">
+    <button class="help-click">🤚Help Me!</button>
+    <div class="help-toggle">
+      <pre>students = ["Allie", "Ruby", "Lisa", "Maile", "Kai"]
+
+students.pop # repeat this line 4 more times
+puts students
+puts students.length
+students.push("Andy") # repeat 4 more times, with diff names</pre>
+    </div>
+  </div>
+
   <div class="spicy-container">
     <p class="spicy-click">Click here for an Early Finisher Challenge!</p>
     <div class="spicy-toggle">
@@ -189,7 +214,15 @@ The example above works and is the main path to implementation in other language
   <p>Write the code the shuffle the array, then print out the name of the student in position 0.</p>
   <p>Run the program several times to verify it's working as expected.</p>
   <p>Now, use string interpolation to ask a question to the student you are calling on.</p>
-  
+  <div class="help-container">
+    <button class="help-click">🤚Help Me!</button>
+    <div class="help-toggle">
+      <pre>students = ["Allie", "Ruby", "Lisa", "Maile", "Kai"]
+
+students.shuffle 
+puts students[0]</pre>
+    </div>
+  </div>
   <div class="spicy-container">
     <p class="spicy-click">Click here for an Early Finisher Challenge!</p>
     <div class="spicy-toggle">
