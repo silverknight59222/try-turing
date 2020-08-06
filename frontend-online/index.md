@@ -10,6 +10,7 @@ layout: lesson
 - [Intro to JavaScript](./intro-to-js)
 - [Interacting with HTML](./interacting-with-html)
 - [Event Listeners](./event-listeners)
+- [Programming is Hard](./programming)
 - [Extensions](./extensions)
 - [Wrap Up](./wrap-up-single)
 

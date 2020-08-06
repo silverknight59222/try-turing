@@ -15,8 +15,7 @@ layout: lesson
 <div class="try-it-new">
   <h2>Discussion</h2>
   <ul>
-    <li>What sparked your interest in coding?</li>
-    <li>Which, if any, of the examples shared in the opening section spoke to you most?</li>
+    <li>Has coding felt difficult for you today? If yes, how did that feel?</li>
     <li>Did any of the conversations from today's panel really stick out to you?</li>
   </ul>
 </div>
