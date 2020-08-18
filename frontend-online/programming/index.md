@@ -15,7 +15,7 @@ layout: lesson
 <div class="try-it-new">
   <h2>Discussion</h2>
   <ul>
-    <li>Has coding felt difficult for you today? If yes, how did that feel?</li>
+    <li>Has coding felt difficult for you today? If yes, how did that ?</li>
     <li>Did any of the conversations from today's panel really stick out to you?</li>
   </ul>
 </div>
