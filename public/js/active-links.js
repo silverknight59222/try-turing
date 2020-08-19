@@ -39,3 +39,22 @@ allPleasForHelp.forEach(function(title) {
   });
 
 });
+
+// toggle projects ebing displyaed on what-students-learn page
+var beProjectsBtn = document.querySelector('#show-be-projects-btn');
+var feProjectsBtn = document.querySelector('#show-fe-projects-btn');
+
+var beProjects = document.querySelector('.be-project-section');
+var feProjects = document.querySelector('.fe-project-section');
+
+var isFEDisplayed = true;
+
+beProjectsBtn.addEventListener("click", function() {
+  beProjects.style.display = 'block';
+  feProjects.style.display = 'none';
+});
+
+feProjectsBtn.addEventListener("click", function () {
+  beProjects.style.display = 'none';
+  feProjects.style.display = 'block';
+});
