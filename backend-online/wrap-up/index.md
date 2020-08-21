@@ -28,6 +28,7 @@ Today might have been your first time coding - you did it! Thanks for spending y
 
 ## Additional Resources
 
+- Learn more about the difference between Front-End and Back-End, and what you will learn and build at Turing by checking out [the program progression](../../what-students-learn)
 - <a target="blank" href="https://www.codeacademy.com/learn/learn-ruby">Codecademy’s Ruby course</a>
 - <a target="blank" href="https://pine.fm/learntoprogram/" >Chris Pine’s Ruby Book</a> (Free online, just click the chapters on the left hand side
 

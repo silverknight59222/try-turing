@@ -24,6 +24,7 @@ As we wrap up our time together, take a moment to reflect on the questions below
 
 ## Additional Resources
 
+- Learn more about the difference between Front-End and Back-End, and what you will learn and build at Turing by checking out [the program progression](../../what-students-learn)
 - <a target="blank" href="https://www.codecademy.com/learn/introduction-to-javascript">Codeacademy’s Javascript Course</a>
 - Jon Duckett's Front-End books (you can find these with a Google search)
 - <a target="blank" href="https://scrimba.com/g/gflexbox">Scrimba Flexbox course</a>
