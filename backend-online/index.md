@@ -12,8 +12,8 @@ layout: lesson
 - [Programming is Hard](./programming)
 - [Extension](./looping)
 - [Wrap Up](./wrap-up)
-<!-- 
-# Back-End Online Curriculum (Weekend)
+
+<!-- # Back-End Online Curriculum (Weekend)
 
 - [Welcome](./welcome-bee-weekend)
 - [What is Back-End Engineering?](./what-is-bee)
