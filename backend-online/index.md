@@ -1,7 +1,7 @@
 ---
 layout: lesson
 ---
-<!-- 
+
 # Back-End Online Curriculum
 
 - [Welcome](./welcome-bee-single)
@@ -11,8 +11,8 @@ layout: lesson
 - [Programming is Hard](./programming)
 - [Control Flow](./control-flow)
 - [Extension](./looping)
-- [Wrap Up](./wrap-up) -->
-
+- [Wrap Up](./wrap-up)
+<!-- 
 # Back-End Online Curriculum (Weekend)
 
 - [Welcome](./welcome-bee-weekend)
@@ -22,4 +22,4 @@ layout: lesson
 - [Programming is Hard](./programming)
 - [Control Flow](./control-flow)
 - [Extensions](./extensions)
-- [Wrap Up](./wrap-up)
+- [Wrap Up](./wrap-up) -->

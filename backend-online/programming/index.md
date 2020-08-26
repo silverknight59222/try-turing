@@ -12,13 +12,13 @@ layout: lesson
 - Start building a positive relationship with the idea of _struggle_
 - Define _productive struggle_
 
-<div class="try-it-new">
+<!-- <div class="try-it-new">
   <h2>Discussion</h2>
   <ul>
     <li>What sparked your interest in coding?</li>
-    <!-- <li>What, if anything, stuck out to you about what the panelists said in regards to the mindset a developer needs to have?</li> -->
+    <li>What, if anything, stuck out to you about what the panelists said in regards to the mindset a developer needs to have?</li>
   </ul>
-</div>
+</div> -->
 
 ## Tweets From Experienced Developers
 
