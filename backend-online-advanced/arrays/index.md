@@ -76,23 +76,23 @@ recommended_videos = ["Mountain Bike", "Hamilton Mixtape", "David Hasselhoff", "
 We can rely on Arrays to keep our data in order. Each element, based on it's location in the Array, is assigned an index position. In programming, numbering starts at 0, so the first element is in position 0.
 
 ```ruby
-courses_offered = ["Math", "Science", "ELA", "Theater"]
+cities = ["Denver", "LA", "NYC", "Philadelphia"]
 ```
 
-The syntax to access an element is below. We instruct the program to that we want to look at the `student_names` array, then more specifically, the element at `X` position.
+The syntax to access an element is below. We instruct the program to that we want to look at the `cities` array, then more specifically, the element at `n` position.
 
 ```ruby
-courses_offered[0]
-# --> "Math"
+cities[0]
+# --> "Denver"
 
-courses_offered[1]
-# --> "Science"
+cities[1]
+# --> "LA"
 
-courses_offered[2]
-# --> "ELA"
+cities[2]
+# --> "NYC"
 
-courses_offered[3]
-# --> "Theater"
+cities[3]
+# --> "Philadelphia"
 ```
 
 <div class="try-it-new">
@@ -119,33 +119,37 @@ puts frequent_sites[4]</pre>
 Similar to the `.length`, `.upcase` and other methods we briefly saw in action for Strings, there is a whole set of Array methods available to us. We'll just dive into a few in our work today, but as always, let your curiosity guide you if you want to explore more!
 
 ### .count
+
 The count method allows us to check the number of elements in the array it is called on
+
 ```ruby
-courses_offered = ["Math", "ELA", "Theater"]
-puts courses_offered.count
-# --> 3
+cities = ["Denver", "LA", "NYC", "Philadelphia"]
+puts cities.count
+# --> 4
 ```
 
 ### .pop
+
 The pop method allows us to remove the last element from the array it it called on
 
 ```ruby
-courses_offered = ["Math", "ELA", "Theater"]
-courses_offered.pop
+cities = ["Denver", "LA", "NYC", "Philadelphia"]
+cities.pop
 
-puts courses_offered
-# --> ["Math", "ELA"]
+puts cities
+# --> [["Denver", "LA", "NYC"]
 ```
 
 ### .push
+
 The push method allows us to add an element to the end of the array it is called on. In order to tell Ruby what element to add, we must include inside of `( )` after `.push`
 
 ```ruby
-courses_offered = ["Math", "ELA", "Theater"]
-courses_offered.push("Science")
+cities = ["Denver", "LA", "NYC", "Philadelphia"]
+cities.push("Austin")
 
-puts courses_offered
-# --> ["Math", "ELA", "Theater", "Science"]
+puts cities
+# --> ["Math", "ELA", "Theater", "Science", "Austin"]
 ```
 
 ### Quick Recap:
