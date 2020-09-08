@@ -33,7 +33,7 @@ To write code that iterates over an array, we will follow the cadence we saw in 
 - **Do** something with/to it
 - Repeat until all elements have been worked with
 
-[Let's walk through](https://repl.it/@ameseee/each-intro#main.rb) what each piece of the code below is doing:
+[Let's walk through](https://repl.it/@ameseee/each-intro-20#main.rb) what each piece of the code below is doing:
 
 ```ruby
 numbers = [2, 5, 9, 5]
@@ -64,12 +64,12 @@ Using `each` in the way we are above, we will not mutate, or change, the origina
 
 ## A More Advanced Method
 
-Sometimes, we don't want to perform the exact same action on every element in an array. Let's think about the favoriting feature on Kahoot:
-- A user can "favorite" a kahoot
-- A user can view all kahoots
-- A user can click a button to view favorited kahoots _only_
+Sometimes, we don't want to perform the exact same action on every element in an array. Let's think about the favoriting feature on YouTube:
+- A user can "favorite" a video
+- A user can view a dashboard that potentially unlocks all videos
+- A user can click a button to view favorited videos _only_
 
-How did the program sift through all the elements in the `kahoots` array and know to only show some? Again, since Ruby is _such_ a friendly language, it gives us a method called `select` that does the heavy lifting for us.
+How did the program sift through all the elements in the `videos` array and know to only show some? Again, since Ruby is _such_ a friendly language, it gives us a method called `select` that does the heavy lifting for us.
 
 [Let's take a look](https://repl.it/@ameseee/select-intro) at the syntax:
 
