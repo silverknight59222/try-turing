@@ -78,9 +78,9 @@ Just like we have these (made up) dog methods, we also have (real, Ruby) String 
 
 <div class="try-it-new">
   <h2>Try It: String Methods</h2>
-  <p>In your breakout rooms, look at the code in <a href="https://repl.it/@turingtrycoding/stringmethods?lite=true#main.rb">this repl</a>. Line by line, predict what will print out to the console based on the name of the method called on <code class="try-it-code">message</code>.</p>
+  <p>In your breakout rooms, look at the code in <a href="https://repl.it/@ameseee/stringmethods?lite=true#main.rb">this repl</a>. Line by line, predict what will print out to the console based on the name of the method called on <code class="try-it-code">message</code>.</p>
   <p>Then, click the green "run" button to run the code. What did you learn? Any surprises?</p>
-  <p>Discuss: Does this make you wonder anything like "I wonder if ruby has a method for ____?". Share out, then if time, get wild and google it and see if you can find an answer!</p>
+  <p>Discuss: Does this make you wonder anything like "I wonder if Ruby has a method for ____?". Share out, then if time, get wild and google it and see if you can find an answer!</p>
   <p>Now, uncomment (or, delete the `#` character at the start of) lines 12 and 13. Re-run the program. Read the error carefully, and try to make sense of why that line 13 didn't behave the same way line 4 did.</p>
 </div>
 
