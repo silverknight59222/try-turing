@@ -8,10 +8,9 @@ layout: lesson
 
 ## Goals
 
-- Classify data as the Number, String, or Boolean data type
-- Store various data types in variables
-- Be comfortable using the _repl.it_ interface
-- Use String interpolation to write sentences with dynamic data
+- Store Integer, String, or Boolean data types in variables
+- Change the value stored in a variable
+- Implement built-in String methods
 
 ## Basic Data Types
 
@@ -63,9 +62,9 @@ puts "Welcome to class, #{student}!"
 
 ## Methods
 
-A ruby **method** is a piece of code that packages up instructions for the program to follow. Some other languages refer to them as functions. Many methods are built-in to the ruby language to make developers work easier and code cleaner. Developers can also write their own methods. 
+A Ruby **method** is a piece of code that packages up instructions for the program to follow. Some other languages refer to them as functions. Many methods are built-in to the Ruby language to make developers work easier and code cleaner. Developers can also write their own methods. 
 
-Today, we will focus on using built-in ruby methods. Imagine this real-world scenario: a (well-trained) dog can react to the command `sit`, `bark`, `roll_over`, etc. In code, we might write these like this:
+Today, we will focus on using built-in Ruby methods. Imagine this real-world scenario: a (well-trained) dog can react to the command `sit`, `bark`, `roll_over`, etc. In code, we might write these like this:
 
 ```ruby
 dog.sit
@@ -73,9 +72,9 @@ dog.bark
 dog.roll_over
 ```
 
-We would call these Dog methods since they are specific to a dog - you wouldn't tell a human to "roll over" or "bark"!
+We would call these `Dog` methods since they are specific to a dog - you wouldn't tell a human to "roll over" or "bark"!
 
-Just like we have these (made up) dog methods, we also have (real, ruby) String methods.
+Just like we have these (made up) dog methods, we also have (real, Ruby) String methods.
 
 <div class="try-it-new">
   <h2>Try It: String Methods</h2>
