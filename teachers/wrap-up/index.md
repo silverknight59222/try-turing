@@ -16,7 +16,7 @@ As we wrap up our day together, take a moment to reflect on the questions below.
   </ul>
 </div>
 
-> Please complete the [survey!](bit.ly/try-coding-feedback) We actually read your feedback, promise.
+> Please complete the [survey!](https://bit.ly/try-coding-feedback) We actually read your feedback, promise.
 
 ## Contact
 
