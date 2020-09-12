@@ -53,7 +53,7 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 ### Zoom Practice!
 
-- Introduce yourself! Unmute and tell us 1) Where you're rfrom 2) Why you decided to spend your weekend learning to code 3) Optional: either the most boring or most interesting fact about yourself
+- Introduce yourself! Unmute and tell us 1) Where you're from 2) Why you decided to spend your weekend learning to code 3) Optional: either the most boring or most interesting fact about yourself
 - Breakout rooms: in a web browser tab, pull up a photo of a really cute animal :) Be ready to practice sharing your screen in your breakout room.
 
 <a href="../">Back to Curriculum Index</a>
