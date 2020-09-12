@@ -34,7 +34,6 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - Mute yourself **unless** you're talking.
 - Keep your camera on during class and breakout sessions; ok to turn off during independent work time
 - Change Zoom display name to first name, last initial, pronouns; ie - Rachel W. (she/her)
-- Use features in the Participants Pane to answer yes/no, raise your hand, or give a thumbs up.
 - You might be sharing your screen with your team at some point during the class -- if you have anything open that you don't want to accidentally share, close or minimize it now.
 - Questions? Type into the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself.
 - Disconnected? Jump back on! If the host or TAs get disconnected, hold tight, and the session will resume shortly.
@@ -54,9 +53,7 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 ### Zoom Practice!
 
-- Use the chat box to introduce yourself: 1) Where are you from? 2) Why did you decide to spend your weekend learning to code? 3) Optional: share something else about yourself.
-- Raise your Zoom hand if you want to tell us your favorite or least favorite thing about being stuck inside
-- Thumbs up in the camera
+- Introduce yourself! Unmute and tell us 1) Where you're rfrom 2) Why you decided to spend your weekend learning to code 3) Optional: either the most boring or most interesting fact about yourself
 - Breakout rooms: in a web browser tab, pull up a photo of a really cute animal :) Be ready to practice sharing your screen in your breakout room.
 
 <a href="../">Back to Curriculum Index</a>
