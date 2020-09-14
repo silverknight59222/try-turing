@@ -64,8 +64,6 @@ Before we talk through it, take a minute to sit in that productive struggle and 
   - What does `firstListItem` reference?
   - What _might_ `.innerText` be doing?
   - Does `"Front End Workshop"` look familiar?
-- On lines 6-7 of the code:
-  - Based on what you inferred from working through the previous questions, what do you think these two lines of code are doing?
 
 <div class="try-it-new">
   <h2>Try It: Changing Text of an Element</h2>
