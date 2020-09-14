@@ -54,16 +54,16 @@ We can’t see all the code that built every application, but there are some pla
 
 <img 
   class="large-img" 
-  src="./assets/yt-rec.png" 
+  src="./assets/jamison-yt.png" 
   alt="Screenshot of a close up of the Badge Count on Khan Academy user profile, showing 1, 0, 0, 2, 4, 102 badges">
 
 <img 
   class="medium-img" 
-  src="./assets/yt-rec-markedup.png" 
+  src="./assets/jamison-yt-mu.png" 
   alt="Screenshot of a close up of the Badge Count on Khan Academy user profile, showing 1, 0, 0, 2, 4, 102 badges. Before the first badge is an opening [ square bracket, and after the last is a ] closing angle bracket. Inbetween each badge sits a comma.">
 
 ```ruby
-recommended_videos = ["Mountain Bike", "Hamilton Mixtape", "David Hasselhoff", "Uncle Roger", "How Much I Made..", "Ferda Girls"]
+videos = ["Surviving Mod 1 Week 1", "My Weekday Morning Routine", "Arriving in Denver", "Last Day Living In Texas"]
 ```
 
 <div class="try-it-new">
