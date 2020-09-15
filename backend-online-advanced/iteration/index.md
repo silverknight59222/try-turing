@@ -11,6 +11,10 @@ layout: lesson
 - Use Ruby syntax to iterate over arrays
 - Filter through an array, given specific criteria
 
+## Setup
+
+Open a new repl file. Declare a variable that stores an array of 5 Strings - your favorite site/app names. Feel free to copy and paste the array you created in the last section!
+
 ## Iteration 
 
 **Iteration** is defined as _the repetition of a process_. We see iteration in the physical world all the time. Let's think about the process of washing dishes:
@@ -85,7 +89,7 @@ puts small_numbers
 
 <div class="try-it-new">
   <h2>Try It: Select</h2>
-  <p>Using the <code class="try-it-code">select</code> method, iterate over your array of site/app names select only the names that are longer than 6 characters.</p>
+  <p>Using the <code class="try-it-code">select</code> method, iterate over your array of site/app names and select only the names that are longer than 6 characters.</p>
   <div class="help-container">
     <button class="help-click">🤚Help Me!</button>
     <div class="help-toggle">

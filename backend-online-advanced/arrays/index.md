@@ -206,28 +206,33 @@ The example above works and is the main path to implementation in other language
 
 ```ruby
 messages = [
-  "😎All clear.", 
-  "🚜You're all read. Here's a tractor.",
-  "🏎 There. All caught up.",
-  "✌️ All caught up. What's next?",
-  "🙌That's everything!",
-  "🐝You're up to date. Go forth and do great things.",
-  "🚀All done. The future is yours."
+  "All clear.", 
+  "Take a moment",
+  "There. All caught up.",
+  "All caught up. What's next?",
+  "That's everything!",
+  "You're up to date. Go forth and do great things.",
+  "All done. The future is yours."
   ]
+
+emojis = ["😎", "🍏", "🏎", "✌️ ", "🙌", "🐝", "🚀"]
 ```
 
 <div class="try-it-new">
   <h2>Try It: Empty Inbox Message</h2>
   <p>Write code to shuffle the above array, then print out the message in position 0.</p>
   <p>Run the program several times to verify it's working as expected.</p>
-  <p>If you'd like, add to or change any of the messages in the array.</p>
+  <p>Follow the same pattern to print out a random emoji.</p>
+  <p></p>
   <div class="help-container">
     <button class="help-click">🤚Help Me!</button>
     <div class="help-toggle">
-      <pre>messages = ["😎All clear.", "🚜You're all read. Here's a tractor.", ...]
+      <pre>messages = ["All clear.", "Take a moment"]
+emojis = ["😎", "🍏"]
 
 messages.shuffle 
-puts messages[0]</pre>
+emojis.shuffle
+puts emojis[0], messages[0]</pre>
     </div>
   </div>
   <div class="spicy-container">

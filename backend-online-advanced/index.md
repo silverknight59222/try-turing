@@ -4,7 +4,7 @@ layout: lesson
 
 # Back-End 2.0 Online Curriculum
 
-- [Welcome + Intros](./welcome-fee-advanced)
+- [Welcome + Intros](./welcome-bee-advanced)
 - [What is Back-End Engineering?](./what-is-bee)
 - [Ruby Intro](./ruby-intro)
 - [Arrays](./arrays)
