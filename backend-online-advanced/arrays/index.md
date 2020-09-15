@@ -137,7 +137,7 @@ cities = ["Denver", "LA", "NYC", "Philadelphia"]
 cities.pop
 
 puts cities
-# --> [["Denver", "LA", "NYC"]
+# --> ["Denver", "LA", "NYC"]
 ```
 
 ### .push
