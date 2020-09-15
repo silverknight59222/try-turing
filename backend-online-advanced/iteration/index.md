@@ -11,9 +11,7 @@ layout: lesson
 - Use Ruby syntax to iterate over arrays
 - Filter through an array, given specific criteria
 
-## Setup
-
-Open a new repl file. Declare a variable that stores an array of 5 Strings - your favorite site/app names. Feel free to copy and paste the array you created in the last section!
+> 🗂 Open a new repl file. Declare a variable that stores an array of 5 Strings - your favorite site/app names. Feel free to copy and paste the array you created in the last section!
 
 ## Iteration 
 
