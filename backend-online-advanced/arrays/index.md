@@ -220,7 +220,7 @@ emojis = ["😎", "🍏", "🏎", "✌️ ", "🙌", "🐝", "🚀"]
 
 <div class="try-it-new">
   <h2>Try It: Empty Inbox Message</h2>
-  <p>Write code to shuffle the above array, then print out the message in position 0.</p>
+  <p>Write code to shuffle the <code class="try-it-code">messages</code> array, then print out the message in position 0.</p>
   <p>Run the program several times to verify it's working as expected.</p>
   <p>Follow the same pattern to print out a random emoji.</p>
   <p></p>
