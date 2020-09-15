@@ -142,7 +142,7 @@ puts cities
 
 ### .push
 
-The push method allows us to add an element to the end of the array it is called on. In order to tell Ruby what element to add, we must include inside of `( )` after `.push`
+The push method allows us to add an element to the end of the array it is called on. In order to tell Ruby what element to add, we must include it inside of the `( )` after `.push`
 
 ```ruby
 cities = ["Denver", "LA", "NYC", "Philadelphia"]
