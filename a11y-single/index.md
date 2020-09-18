@@ -10,5 +10,5 @@ layout: lesson
 - [CSS Intro](./css)
 - [Colors](./colors)
 - [Semantics](./semantics)
-- [Extensions](./extensions)
+- [What You Can Build](../what-students-learn)
 - [Wrap Up](./wrap-up)

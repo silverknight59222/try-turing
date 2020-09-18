@@ -50,11 +50,11 @@ There are many ways that we can express the value of a color to the browser. Tod
 <div class="try-it-new">
   <h3>Try It: Writing your First CSS Rule</h3>
   <p>In the CSS tab of your CodePen, write a rule that targets all of your <code class="try-it-code">button</code> elements.</p>
-  <p>Change the <code class="try-it-code">color</code> and <code class="try-it-code">background-color</code>s with CSS. Observe the output in the browser - what is the difference between these two properties?</p>
-  <p>Explore: Remove the <code class="try-it-code">-color</code> from <code class="try-it-code">background-color</code> - what happens? What does this tell you</p>
+  <p>Change the <code class="try-it-code">color</code> and <code class="try-it-code">background-color</code>s with CSS. Observe the output in the browser. What is the difference between these two properties?</p>
+  <p>Explore: Remove the <code class="try-it-code">-color</code> from <code class="try-it-code">background-color</code>. What happens? What can you infer from this?</p>
 </div>
 
-### Other Commonly Used Properties
+## Other Commonly Used Properties
 
 There are [520 properties](https://css-tricks.com/how-many-css-properties-are-there/) available in the CSS language. It is unlikely that any developer knows every single one. But, there are many commonly used properties that folks who write CSS with some regularity will come to memorize.
 
@@ -65,10 +65,9 @@ Here are a few great places to start:
 
 <div class="try-it-new">
   <h3>Try It: Exploring CSS</h3>
-  <p>Open the <code>style.css</code> file in your repl project. Notice that the first few lines have a rule written that targets any <code class="try-it-code">h2</code> element. You can use that as a reference!</p>
-  <p>Write a rule that targets the paragraphs, then change their background-color and font-size.</p>
-  <p>Next, write a rule that targets the main heading - change the color of the text and add a border.</p>
-  <p>Check in on the view of your live app to make sure things are showing up as expected.</p>
+  <p>Write a CSS rule that targets the paragraphs, then change their <code class="try-it-code">background-color</code> and <code class="try-it-code">font-size</code>.</p>
+  <p>Next, write a rule that targets the main heading - change the <code class="try-it-code">color</code> of the text and add a <code class="try-it-code">border</code>.</p>
+  <p>Continue to explore and add declarations to make the site your own!</p>
 
   <div class="spicy-container">
     <p class="spicy-click">🌶 Finished? Click here for a Spicy Challenge 🌶</p>
@@ -79,6 +78,8 @@ Here are a few great places to start:
 </div>
 
 ## Classes and IDs
+
+> This may or may not be a review from the HTML section, depending on if we had questions about them!
 
 There will be times when we want to target _one_ paragraph element, but not the 37 others on the site. There will also be times when we want to write a CSS rule for some paragraphs, but not all. This is a great opportunity to use a class or ID attribute!
 - **Classes** can be used to identify one or more than one elements
@@ -111,7 +112,7 @@ To target them in CSS, we need to use a specific syntax:
   <h3>Try It: Classes & IDs</h3>
   <p>In the <code>style.css</code> file, use a class attribute to give the same styles to 2 of your paragraphs, but not to the other(s).</p>
   <p>Based on how you'd like to style your page, if you see the need for other classes or IDs, go ahead and implement them!</p>
-  <p>As you are probably in the habit of by now, check in on the view of your live app!</p>
+  <p>As you are probably in the habit of by now, observe the changes in the browser.</p>
 </div>
 
 ## Layout
@@ -124,9 +125,14 @@ Today, we will discuss two methods to begin controlling a layout.
 
 The display property allows us to manipulate the layout of elements on a page without taking them out of the normal page flow. Elements either default to "inline" or "block".
 
-INSERT IMAGE
+<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="NWNOrox" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Block v Inline">
+  <span>See the Pen <a href="https://codepen.io/turing-school/pen/NWNOrox">
+  Block v Inline</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-In the previous image, we see the title and paragraphs taking up the entire horizontal space they sit on - they are "block" elements.
+In the previous CodePen, we see the title and paragraphs taking up the entire horizontal space they sit on - they are "block" elements.
 
 We also see the links embedded in the paragraphs that do not create a line break - they are "inline".
 
@@ -138,7 +144,7 @@ p {
 }
 
 img {
-  display: black; /*since img is defaulted to inline, we can change it to block*/
+  display: block; /*since img is defaulted to inline, we can change it to block*/
 }
 ```
 

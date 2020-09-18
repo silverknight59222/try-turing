@@ -67,7 +67,9 @@ There's a common misconception that the Front-End is only about colors, fonts, a
 
 While solving these logical challenges and building interfaces that users can use seamlessly, Front-End developers have a responsibility to make sure **all** users have access to anything the site or application provides. Specifically, users with disabilities, including but not limited to: auditory, cognitive, mobility and visual disabilities.
 
-Unfortunately, accessibility is sometimes considered an "edge case" or a "nice-to-have". Front-End developers who put time and energy into learning about this and bringing to their teams can make a huge impact on making the web more accessible!
+Unfortunately, accessibility (or a11y) is sometimes considered an "edge case" or a "nice-to-have". Front-End developers who put time and energy into learning about this and bringing to their teams can make a huge impact on making the web more accessible!
+
+<img class="small-img" src="./assets/a11y.jpg" alt="Graphic showing the 11 characters between the starting a and ending y in the word accessibbility, to explain why 'a11y' is used.">
 
 ## What technologies are used on the Front-End?
 
@@ -84,9 +86,9 @@ Many libraries and frameworks have been built _on top_ of JavaScript that make F
 We're going to dive into the three technologies used on the frontend:
 
 1. Review the structure of web pages that we can build with HTML
-2. Add identifiers to our HTML elements using IDs
-3. Use JavaScript to access HTML elements that appear in the browser
-4. Listen and respond to user interactions such as _clicks_ and _mouseovers_
+2. Add identifiers to our HTML elements using classes and IDs
+3. Write CSS to change the appearance and layout of our content
+4. Learn about and implement some best practices for Web Accessisbility
 
 <br>
 <a href="../">Back to Curriculum Index</a>
