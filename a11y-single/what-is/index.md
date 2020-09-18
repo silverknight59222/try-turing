@@ -25,16 +25,6 @@ Over the last decade, the web has evolved from a platform that served static web
 
 <p data-height="500" data-theme-id="23788" data-slug-hash="eZxEBO" data-default-tab="result" data-user="dissimulate" data-embed-version="2" data-pen-title="Tearable Cloth v2" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/dissimulate/pen/eZxEBO/">Tearable Cloth v2</a> by dissimulate (<a href="http://codepen.io/dissimulate">@dissimulate</a>) on <a href="http://codepen.io">CodePen</a>.</p><script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-<!-- ### It Can Be Beautiful & Fun
-
-<p data-height="500" data-theme-id="dark" data-slug-hash="acAgx" data-default-tab="result" data-user="jackrugile" data-embed-version="2" data-pen-title="Canvas Fireworks" data-preview="true" class="codepen">See the Pen <a href="http://codepen.io/jackrugile/pen/acAgx/">Canvas Fireworks</a> by Jack Rugile (<a href="http://codepen.io/jackrugile">@jackrugile</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script> -->
-
-<!-- ### It Can Bring Awareness and Bring People Together
-
-<img src="{{ site.url }}/assets/images/inclusive-safety.png" alt="Inclusive Safety Project screenshot">
-<p><a href="https://www.inclusivesafety.com/" target="blank">The Inclusive Safety Project</a> is working to end technology-facilitated domestic violence worldwide.</p> -->
-
 ### It Can Guide a User Through a Complicated Task
 
 <img src="{{ site.url }}/assets/images/turbo-tax.jpg" alt="Turbo Tax screenshot">
@@ -72,6 +62,12 @@ While many people become developers because it can provide a stable career and l
 Front-End developers often work with designers, who provide detailed comps like the one above. These comps allow a Front-End developer to focus on managing the complicated interactions of the site.
 
 There's a common misconception that the Front-End is only about colors, fonts, and having a good eye. However, this type of development is more focused on making data useful, accessible, and interactive. The code we write in JavaScript and other frameworks does a lot of heavy logical lifting.
+
+## All Front-End Developers Have a Responsibility
+
+While solving these logical challenges and building interfaces that users can use seamlessly, Front-End developers have a responsibility to make sure **all** users have access to anything the site or application provides. Specifically, users with disabilities, including but not limited to: auditory, cognitive, mobility and visual disabilities.
+
+Unfortunately, accessibility is sometimes considered an "edge case" or a "nice-to-have". Front-End developers who put time and energy into learning about this and bringing to their teams can make a huge impact on making the web more accessible!
 
 ## What technologies are used on the Front-End?
 
