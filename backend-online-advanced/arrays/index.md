@@ -15,7 +15,7 @@ layout: lesson
 
 ## Lists
 
-Ruby provides us with a data type that can hold multiple pieces of data in a list. Imagine looking at a list of variables for each class taught in your school:
+Ruby provides us with a data type that can hold multiple pieces of data in a list. Imagine looking at a list of variables for each city you've recently visited:
 
 ```ruby
 city_1 = "Denver"
