@@ -33,13 +33,13 @@ console.log(greetingMessage);
 
 <div class="try-it-new">
   <h2>Try It: Accessing HTML Elements</h2>
-  <p>Fork <a href="https://codepen.io/turing-school/pen/rNVKQjG?editors=1010" target="blank">this Puppy Facts CodePen starter</a>. Declare four variables, each storing one of the four text-based HTML elements already written. You can decide the variable names to use! In order to access each element, you'll need a <em>unique</em> way to identify each one.</p>
+  <p>Fork <a href="https://codepen.io/turing-trycoding/pen/dyMgOoM?editors=1010" target="blank">this Puppy Facts CodePen starter</a>. Declare four variables, each storing one of the four text-based HTML elements already written. You can decide the variable names to use! In order to access each element, you'll need a <em>unique</em> way to identify each one.</p>
   <p>Print each variable out to the console to verify your syntax is correct.</p>
   <p><em>Keep this pen open in a tab; we'll come back to it in the next section!</em></p>
   <div class="help-container">
     <button class="help-click">🤚Help Me!</button>
     <div class="help-toggle">
-      <p>Need to see an example of this completed? <a target="blank" href="https://codepen.io/turing-school/pen/KKdqwVY">Here you go!</a></p>
+      <p>Need to see an example of this completed? <a target="blank" href="https://codepen.io/turing-trycoding/pen/NWNObqY">Here you go!</a></p>
     </div>
   </div>
 
@@ -49,9 +49,9 @@ console.log(greetingMessage);
 
 Accessing elements alone isn't _that_ cool, but it gets more exciting when we use JavaScript to interact with those HTML elements that we've saved to variables. Let's look at this example:
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing-school" data-slug-hash="rNVKQGY" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Changing Text of an Element Example">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/rNVKQGY">
-  Changing Text of an Element Example</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="html,result" data-user="turing-trycoding" data-slug-hash="MWyPbwZ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Changing Text of an Element Example">
+  <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/MWyPbwZ">
+  Changing Text of an Element Example</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -69,7 +69,7 @@ Before we talk through it, take a minute to sit in that productive struggle and 
   <h2>Try It: Changing Text of an Element</h2>
   <p>Back in your Puppy Facts CodePen, write JavaScript that will change the content of all four text-based HTML elements you created variables for earlier.</p>
   <p>When you've completed this, you should see a different title and set of facts in your browser!</p>
-  <a target="blank" href="https://codepen.io/turing-school/pen/YzyQPqx"><em>Here's a CodePen you can start with if you closed yours or didn't get it done.</em></a>
+  <a target="blank" href="https://codepen.io/turing-trycoding/pen/LYNgbpp"><em>Here's a CodePen you can start with if you closed yours or didn't get it done.</em></a>
   <br>
   <br>
 

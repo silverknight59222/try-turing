@@ -22,9 +22,9 @@ In JavaScript, an **event listener** is a way to set up code to run only when a 
 
 Let's look at this example of an event listener and talk through the pieces:
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="dyoKQaE" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Event Listeners Example">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/dyoKQaE">
-  Event Listeners Example</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="html,result" data-user="turing-trycoding" data-slug-hash="oNxaYbb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Event Listeners Example">
+  <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/oNxaYbb">
+  Event Listeners Example</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -37,9 +37,9 @@ We're going to take a few minutes to really "break" this code to build a deeper 
 
 When we "break" code, we are engaging in a process of tinkering with it to better understand it. To identify which piece of code plays which role in the functionality, it's important to only **break one tiny thing at a time**!
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing-school" data-slug-hash="GRJbdPW" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Break Things">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/GRJbdPW">
-  Break Things</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turing-trycoding" data-slug-hash="OJNBbMx" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Break Things">
+  <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/OJNBbMx">
+  Break Things</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -57,7 +57,7 @@ When we "break" code, we are engaging in a process of tinkering with it to bette
   <p>Back in your own Puppy Facts CodePen, add a button in the HTML.</p>
   <p>Write code in the JavaScript pane so that when the button is clicked, the title of the webpage changes to a different topic!</p>
   <p>If you complete that with extra time, change the text in the <code>p</code> tags so that when the button is clicked, the facts match your new topic!</p>
-  <a target="blank" href="https://codepen.io/turing-school/pen/zYvzxZq"><em>Here's a CodePen you can start with!</em></a>
+  <a target="blank" href="https://codepen.io/turing-trycoding/pen/WNwaorJ"><em>Here's a CodePen you can start with!</em></a>
   <br>
   <br>
 

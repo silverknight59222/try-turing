@@ -19,16 +19,16 @@ JavaScript is also used to add brand new HTML elements to the page. On some soci
 
 Open the CodePen below in a new tab. Seeing the full code will help you start to recognize JavaScript patterns. Read through the code and see how much you can understand on your own. Then, we'll come back together and discuss.
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing-school" data-slug-hash="PoqaVex" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="PoqaVex">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/PoqaVex">
-  PoqaVex</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turing-trycoding" data-slug-hash="LYNgbNG" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Create HTML Elements in JavaScript">
+  <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/LYNgbNG">
+  Create HTML Elements in JavaScript</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 <div class="try-it-new">
   <h2>Try It: Puppy Fact Generator</h2>
-  <p>For this challenge, use <a target="blank" href="https://codepen.io/turing-school/pen/wvaLXam">this CodePen as a starter</a>. Your goal is to build an application that displays a new button. When the user clicks the button, they get surprised with a new fact! You can determine what level of challenge you are up for. <em>Spicy</em>: take those directions and get to work.</p>
+  <p>For this challenge, use <a target="blank" href="https://codepen.io/turing-trycoding/pen/KKzGNzG">this CodePen as a starter</a>. Your goal is to build an application that displays a new button. When the user clicks the button, they get surprised with a new fact! You can determine what level of challenge you are up for. <em>Spicy</em>: take those directions and get to work.</p>
 
   <div class="help-container">
     <button class="help-click">🤚I'm not ready for the Spicy Challenge!</button>
@@ -72,9 +72,9 @@ The API that we're going to be using today has an endpoint (or URL) that gives u
 
 Now, let's look at how we can use that endpoint in our JavaScript code.
 
-<p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing-school" data-slug-hash="zYGVarY" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Dog Fact API Example">
-  <span>See the Pen <a href="https://codepen.io/turing-school/pen/zYGVarY">
-  Dog Fact API Example</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="js,result" data-user="turing-trycoding" data-slug-hash="ExKdNyY" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Dog Fact API Example">
+  <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/ExKdNyY">
+  Dog Fact API Example</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -86,7 +86,7 @@ Now, let's look at how we can use that endpoint in our JavaScript code.
   <div class="help-container">
     <button class="help-click">🤚Help Me!</button>
     <div class="help-toggle">
-      <p>Check out <a target="blank" href="https://codepen.io/turing-school/pen/eYNLzLR?editors=1010">this example</a>.</p>
+      <p>Check out <a target="blank" href="https://codepen.io/turing-trycoding/pen/YzqJpWp?editors=1010">this example</a>. It is not a solution to this particular challenge, but another implementation of the concepts you are using.</p>
     </div>
   </div>
 

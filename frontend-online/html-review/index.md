@@ -79,7 +79,7 @@ The `<button>` element has an opening and closing tag, and should have content.
 
 <div class="try-it-new">
   <h2>Try It: Buttons</h2>
-  <p>Fork <a target="blank" href="https://codepen.io/turing-school/pen/jOPKpzB?editors=1010">this CodePen</a>, then add two buttons to the HTML. The content can be whatever you choose!</p>
+  <p>Fork <a target="blank" href="https://codepen.io/turing-trycoding/pen/LYNgbPV">this CodePen</a>, then add two buttons to the HTML. The content can be whatever you choose!</p>
   <p>Then, add a different ID to each button.</p>
   <div class="spicy-container">
     <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>
