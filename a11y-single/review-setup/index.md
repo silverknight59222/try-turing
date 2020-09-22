@@ -14,7 +14,7 @@ HTML is still an essential part of modern web applications. It **holds the conte
 
 ## HTML in Action
 
-Let's look at the [small sample site](https://codepen.io/turing-school/pen/ZEGRGde) that was linked in your pre-work to review some of the concepts you've probably seen, but may have some questions about,
+Let's look at the [small sample site](https://codepen.io/turing-school/pen/ZEGRGde) that was linked in your pre-work to review some of the concepts you've probably seen, but may have some questions about.
 
 ## Where are you? 
 
@@ -91,6 +91,6 @@ Lighthouse is built into the Chrome browser. Here's how to use it:
 
 ## Moving Forward
 
-As we move forward throughout the day, you will be working off the CodePen you started in your pre-work. If you don't have access to it, you can use [this]() as a starting point!
+As we move forward throughout the day, you will be working off the CodePen you started in your pre-work. If you don't have access to it, you can use [this](https://codepen.io/turing-trycoding/pen/bGpOWNg) as a starting point!
 
 <a href="../">Back to Curriculum Index</a>
