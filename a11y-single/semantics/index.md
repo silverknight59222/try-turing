@@ -48,6 +48,13 @@ Best practices for headings:
 - Don't choose a heading level because of the size that the browser displays. Use CSS to control the size
 - Don't use a **bold** paragraph instead of a heading
 
+<div class="try-it-new">
+  <h3>Try It: Headings</h3>
+  <p>Check your HTML code. Do you have 1 and only 1 <code class="try-it-code">h1</code>?</p> 
+  <p>Are you other headngs following the heirarchy?</p> 
+  <p>Do you have any paragraphs that are actually serving as sub-headings?</p>
+</div>
+
 ## Images
 
 Anytime we display an image on a webpage, we are probably doing it to add some sort of value to the users experience: show them what a product looks like, invoke some emotion to draw them in, etc. If a user can't see that image, they are missing out on the experience _you_ want to give them, and that _they_ deserve.
