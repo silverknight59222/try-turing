@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Welcome to Try Coding - FE _Accessibility Focus_
+# Welcome to Try Coding - FE _#a11y Focus_
 
 ### To Get Set Up
 
