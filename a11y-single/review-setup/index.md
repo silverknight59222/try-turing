@@ -69,6 +69,8 @@ The `img` element allows us to display an image on a site. Here's an example of 
 
 The self-closing `<img />` tag above has two attributes - `src` and `alt`. These are intended to be used in conjunction with the `<img />` tag. `src` needs to tell the browser which image to display, and `alt` should provide text describing the image in the event the user isn't able to access the image.
 
+**How do I know what to put in the `src` attribute?** When working with CodePen, the easiest will be to use an image address, raather than a file on your computer. Find an image online, right click it, and select "Copy image address". Then, paste into CodePen.
+
 ### Links
 
 The `<a>` element creates a hyperlink. Here's an example of the syntax the browser expects:
