@@ -12,6 +12,13 @@ Of all of the major technologies used on the web, on either the front- or the Ba
 
 HTML is still an essential part of modern web applications. It **holds the content and creates the structure** of a webpage.
 
+Some great questions/comments from your pre-work:
+- How do you strategically use `<div>` tags?
+- I struggle with the coding for image sources.
+- I would like to change the font and make it more aesthetically pleasing, but I guess that comes with time!
+- Maybe not a question, so much as I definitely need to do this consistently to feel comfortable.
+- I don't feel like I know enough to have questions yet.
+
 ## HTML in Action
 
 Let's look at the [small sample site](https://codepen.io/turing-school/pen/ZEGRGde) that was linked in your pre-work to review some of the concepts you've probably seen, but may have some questions about.

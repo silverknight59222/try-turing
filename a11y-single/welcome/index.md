@@ -26,6 +26,7 @@ Below is our agenda for each day:
 
 - No question is too small. No question is a bad question. Ask them!
 - We all benefit from each others ideas! Push yourself to share out and make sure you aren't sharing _so_ much that others don't have the space to do so.
+- You will probably leave today with more questions than answers!✨
 
 ### Online Session Norms
 
@@ -33,14 +34,13 @@ Below is our agenda for each day:
 - It is very normal in an online setting to accidentally talk over someone. If that happens, apologize and be sure to clarify who is speaking next
 - Keep your camera on during class and breakout sessions; ok to turn off during independent work time
 - Use features in the Participants Pane to answer yes/no, raise your hand, or give a thumbs up.
-- You might be sharing your screen today - if you have anything open that you don't want to accidentally share, close or minimize it now
-- Type questions the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself
+- Type questions the "Everyone" chat pane and a TA will respond. Please avoid direct messages to a TA unless it is a specific issue only to yourself
 - Disconnected? Jump back on! If the host or TAs get disconnected, hold tight, and the session will resume shortly
 
 ### Intros
 
 - Name, pronouns
 - Location
-- What brought you to Try Coding
+- What brought you to Try Coding today?
 
 <a href="../">Back to Curriculum Index</a>
