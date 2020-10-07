@@ -9,7 +9,6 @@ layout: lesson
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="http://codepen.io/">codepen.io</a> in a browser (preferably Chrome) and login to your account
 - In another tab, open up <a target="blank" href="https://try.turing.io/frontend-online">try.turing.io/frontend-online</a>
-- We recommend using headphones and finding a quiet work space to limit distractions
 - Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 
 <br>
@@ -26,7 +25,7 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 - **9:00 - 9:30** Welcome and Intros
 - **9:30 - 12:45** Instruction (with breaks!)
-- **12:45 - 1:00** Break 
+- **12:45 - 1:00** Break
 - **1:00 - 1:15** Turing Info
 - **1:15 - 2:00** Student/Alum Panel
 
