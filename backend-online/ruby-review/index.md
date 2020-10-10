@@ -53,10 +53,6 @@ first_name = "Oscar"
 puts first_name
 ```
 
-<div class="try-it-new">
-  <h2>Review: Ruby Data Types & Variables</h2>
-</div>
-
 ## Re-assigning Variables, puts vs. print
 
 In the spirit of exploring to learn, we aren't gong to tell what what exactly the code below does.

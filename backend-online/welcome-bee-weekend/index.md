@@ -4,8 +4,6 @@ layout: lesson
 
 # Welcome to Try Coding!
 
-### To Get Set Up
-
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
 - In another tab, open up <a target="blank" href="https://try.turing.io/backend-online">try.turing.io/backend-online</a>
@@ -23,14 +21,10 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - **1:00 - 2:50**  Instruction
 - **2:50 - 3:00**  Wrap Up, Questions
 
-<br>
-### Learning Norms
+### Online Learning Norms
 
 - No question is too small. No question is a bad question. Ask them!
 - We all benefit from each others ideas! Push yourself to share out and make sure you aren't sharing _so_ much that others don't have the space to do so.
-
-### Online Session Norms
-
 - Mute yourself **unless** you're talking.
 - Keep your camera on during class and breakout sessions; ok to turn off during independent work time
 - Change Zoom display name to first name, last initial, pronouns; ie - Rachel W. (she/her)
@@ -41,19 +35,14 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 ### Zoom Features
 
-<img src="{{ site.url }}/assets/images/zoom-controls.png" alt="screenshot of zoom">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <img src="{{ site.url }}/assets/images/zoom-markedup.png" alt="screenshot of zoom">
+<br>
+<img src="{{ site.url }}/assets/images/zoom-controls.png" alt="screenshot of zoom">
+
 
 
 ### Zoom Practice!
 
 - Introduce yourself! Unmute and tell us 1) Where you're from 2) Why you decided to spend your weekend learning to code 3) Optional: either the most boring or most interesting fact about yourself
-- Breakout rooms: in a web browser tab, pull up a photo of a really cute animal :) Be ready to practice sharing your screen in your breakout room.
 
 <a href="../">Back to Curriculum Index</a>
