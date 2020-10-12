@@ -6,11 +6,12 @@ layout: lesson
 
 - [Welcome](./welcome-bee-single)
 - [What is Back-End Engineering?](./what-is-bee)
-- [Ruby Review](./ruby-review)
-- [User Input](./user-input)
-- [Control Flow](./control-flow)
-- [Programming is Hard](./programming)
-- [Extension](./looping)
+- [Ruby Review](./ruby-review/1)
+- [User Input](./user-input/1)
+- [Arrays](./arrays/1)
+- [Control Flow](./control-flow/1)
+- [Programming is Hard](./programming/1)
+- [Extension](./extensions/1)
 - [Wrap Up](./wrap-up)
 
 <!-- # Back-End Online Curriculum (Weekend)
