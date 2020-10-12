@@ -59,6 +59,5 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - Raise your Zoom hand if you want to tell us your favorite or least favorite thing about being stuck inside
 - YES or NO
 - Thumbs up in the camera
-- Breakout Rooms: In a web browser tab, pull up a photo of a really cute animal :) Be ready to practice sharing your screen in your breakout room.
 
 <a href="../">Back to Curriculum Index</a>
