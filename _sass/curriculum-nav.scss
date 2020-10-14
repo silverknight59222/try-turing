@@ -17,7 +17,7 @@
   flex-direction: column;
   align-items: center;
   width: 40%;
-  max-height: 80%;
+  min-height: 75%;
 
   img {
     height: 7rem;
@@ -52,4 +52,71 @@
 
 .be-card {
   border-top: .75rem solid #ef3852;
+}
+
+@media screen and (max-width: 1024px) {
+  .card-container {
+    flex-direction: column;
+    margin-top: 10%;
+  }
+
+  .card {
+    width: 100%;
+    min-height: 52.5%;
+    margin-bottom: 35px;
+
+    h2 {
+      margin-bottom: 0;
+    }
+
+    img {
+      height: 5rem;
+    }
+
+    p {
+      width: 70%;
+      height: 6rem;
+    }
+
+    .curriculum-btn {
+      width: 70%;
+    }
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .card-container {
+    margin-top: 2.5%;
+  }
+
+  .card {
+    h2 {
+      text-align: center;
+    }
+
+    img {
+      height: 3.5rem;
+    }
+
+    p {
+      height: 6rem;
+      width: 100%;
+    }
+
+    .curriculum-btn {
+      width: 100%;
+      font-size: 12px;
+    }
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .card {
+    img {
+      height: 2.5rem;
+    }
+    p {
+      height: 8.5rem;
+    }
+  }
 }

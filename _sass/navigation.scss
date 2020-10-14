@@ -14,8 +14,8 @@ nav {
   grid-gap: 0 10px;
 
   list-style: none;
-  margin: 0 50px;
-  padding-left: 0;
+  // margin: 0 50px;
+  // padding-left: 0;
 
   li:first-child {
     justify-self: left;
@@ -38,7 +38,7 @@ nav {
   li:not(:first-child):hover {
     background-color: #fff;
   }
-  
+
   .home-logo-link img {
     display: block;
     height: 80px;
@@ -52,11 +52,11 @@ nav {
   border-bottom: 3px solid lighten($turing-secondary, 25%);
 }
 
-@media (max-width: $tablet-width) {
+@media (max-width: 1024px) {
   .nav-links {
     margin: 0 35px;
     font-size: 0.9rem;
-    grid-template-columns: auto 75px 75px 75px 150px;
+    grid-template-columns: auto 200px 200px;
     grid-template-rows: 90px;
 
     .home-logo-link img {
@@ -66,16 +66,19 @@ nav {
   }
 }
 
-@media (max-width: $phone-width) {
+@media (max-width: 850px) {
   .nav-links {
-    margin: 15px;
+    // background-color: green;
+    margin: 0 15px 15px 15px;
+    padding: 15px 0 0 0;
     font-size: 1rem;
-    grid-template-columns: auto 200px;
-    grid-template-rows: 35px 35px 35px 55px;
+    grid-template-columns: auto auto;
+    grid-template-rows: 45px 45px;
     justify-items: right;
 
     li {
       grid-column: 2;
+      font-size: 13px;
     }
 
     li:first-child {
