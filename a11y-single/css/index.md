@@ -4,7 +4,7 @@ layout: lesson
 
 # Intro to CSS
 
-<a href="../">Back to Curriculum Index</a>
+<a href="../../frontend-online">Back to Curriculum Index</a>
 
 ## Goals
 
@@ -115,7 +115,7 @@ To target them in CSS, we need to use a specific syntax:
   <p>As you are probably in the habit of by now, observe the changes in the browser.</p>
 </div>
 
-## Layout
+<!-- ## Layout
 
 Controlling the layout of a page with CSS is notoriously difficult. There are many ways to create the same layout - so there is no **one right answer** or solution.
 
@@ -151,8 +151,8 @@ img {
 <div class="try-it-new">
   <h3>Try It: Display</h3>
   <p>In the <code>CSS</code> change the display of at least two elements. Observe the results in the browser - did it do what you think it would? Keep in mind that the elements above/below it in the code may also be influencing how everything appears in the browser.</p>
-</div>
-
+</div> -->
+<!--
 ### Float
 
 “Floating” an element takes it out of the normal flow, and places it as far to the left or right of its containing element as possible. Any other elements, such as paragraphs or lists, will wrap around the floated element as seen [here](https://codepen.io/LouisaBarrett/pen/GwwKGN).
@@ -166,9 +166,9 @@ img {
   <p>In the <code>CSS</code> file, add a declaration to float your buttons. Play around with floating right and left.</p>
   <p>Finished? Use a class or ID to float only one or some buttons.</p>
 </div>
-
+ -->
 
 
 
 <br>
-<a href="../">Back to Curriculum Index</a>
+<a href="../../frontend-online">Back to Curriculum Index</a>
