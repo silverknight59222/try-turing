@@ -4,6 +4,10 @@ layout: lesson
 
 # Back-End Online Curriculum
 
+Please complete the [pre-work that is outlined here](./pre-work) before attending the workshop
+
+## Instructor-Led Content
+
 - [Welcome](./welcome-bee-single)
 - [What is Back-End Engineering?](./what-is-bee)
 - [Ruby Review](./ruby-review/1)
