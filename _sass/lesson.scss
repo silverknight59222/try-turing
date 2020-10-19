@@ -88,3 +88,14 @@
   flex-direction: column;
   align-items: flex-start;
 }
+
+.data-type-cards {
+  display: flex;
+  justify-content: space-around;
+
+  div {
+    width: 30%;
+    padding: .5rem 1.5rem;
+  }
+
+}

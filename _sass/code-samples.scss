@@ -21,3 +21,11 @@ pre {
     white-space: pre-wrap;
   }
 }
+
+.data-type-cards div pre {
+    border: 1px solid $dark-gray;
+    background-color: $dark-gray;
+    color: white;
+    font-size: 1.25rem;
+    border-radius: 2px;
+}
