@@ -8,7 +8,7 @@ layout: lesson
 
 ## Introduction
 
-We are excited you will be joining us for an upcoming Try Coding Workshop. If you've found yourself on this page and are not yet signed up for one, you can sign up [here](https://www.eventbrite.com/o/turing-school-of-software-amp-design-9895674202)!
+We are excited you will be joining us for an upcoming Try Coding workshop. If you've found yourself on this page and are not yet signed up for one, you can sign up [here](https://www.eventbrite.com/o/turing-school-of-software-amp-design-9895674202)!
 
 Completing this pre-work will set you up for success in our virtual classroom - making sure that everyone feels comfortable with the tools we will use and a bit of foundational knowledge. Most participants share that this work took them between XX-XX minutes to complete. Complete the submission form at the bottom of this page in order to get the zoom link for your scheduled workshop!
 
@@ -61,6 +61,7 @@ Ruby provides a command that allows us to print out the data we are working with
   <h3>You Try</h3>
   <p>Create a file in your repl account, and "puts" several values out to the console. Run the file and observe the output.</p>
   <p>Now, instead of using the <code class="try-it-code">puts</code> command, use <code class="try-it-code">print</code>. Observe the difference in the output.</p>
+  <blockquote><em>If you need help or want to feel confident in your work, <a href="https://repl.it/@turingschool/you-try-1-solution" target="blank">here is a working solution</a>.</em></blockquote>
   <div class="help-container">
     <button class="help-click">FAQ: Is puts or print preferred?</button>
     <div class="help-toggle">
@@ -110,13 +111,15 @@ puts "Hello! My name is #{first_name} and I am #{age} years old."
 
 <div class="try-it-new">
   <h3>You Try</h3>
-  <p>In the same repl file, declare 2 new variables.</p>
+  <p>In the same repl file you were working in earlier, declare two variables.</p>
   <p>Then, <code class="try-it-code">puts</code> or <code class="try-it-code">print</code> a sentence that uses those two variables with String Interpolation!</p>
+  <blockquote><em>If you need help or want to feel confident in your work, <a href="https://repl.it/@turingschool/you-try-2-solution" target="blank">here is a working solution</a>.</em></blockquote>
   <div class="help-container">
     <button class="help-click">Help! It's not working.</button>
     <div class="help-toggle">
       <p>If the desired result is not printing to the console, or, if you are seeing an error message, here are some go-to strategies to problem solve:</p>
       <p>If repl is working very slowly, try to refresh the page. It works best in the Chrome browser.</p>
+      <p>Make sure you are using double quotes.</p>
       <p>Check the spelling and capitalization of your variables. The variable names must be exact matches!</p>
     </div>
   </div>

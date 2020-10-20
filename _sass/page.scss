@@ -215,6 +215,10 @@ li:hover, p:hover {
     font-size: 1.25rem;
     border-radius: 2px;
   }
+  blockquote {
+    font-size: 20px;
+    color: $dark-gray;
+  }
 }
 
 .try-it {
