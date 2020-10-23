@@ -14,8 +14,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
 
 <span role="img" aria-label="clock">⏰</span> <strong>Time:</strong> Most participants share that this work took them between XX-XX minutes to complete.
 
-<span role="img" aria-label="woman at computer">👩🏽‍💻</span> <strong>Materials:</strong> It is ideal that you
-work through this on a laptop or desktop computer.
+<span role="img" aria-label="woman at computer">👩🏽‍💻</span> <strong>Materials:</strong> It is ideal that you work through this on a laptop or desktop computer. Everything can be done inside a browser with an internet connection.
 
 <span role="img" aria-label="rocket">🚀</span> <strong>Goal:</strong> Work through the materials so you are prepared to engage at your workshop. Then, complete the submission form at the bottom of this page in order to get the zoom link for your scheduled workshop!
 
