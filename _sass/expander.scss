@@ -1,34 +1,75 @@
 /* Content expand and collapse */
 
+.expander {
+  margin-bottom: 1rem;
+
+  header {
+    background: #fff;
+    border-top: 0.5rem solid #05c2d1;
+    padding: 0.4rem 1.75rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+
+    h2 {
+      margin-top: 16px;
+    }
+
+    div {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+}
+
 .expander-btn {
-  background-color: inherit;
+  background: #fff;
   border: none;
-  color: $dark-gray;
-  outline: none;
+  margin-left: 1rem;
+
+  img {
+    height: 28px;
+    transform: rotate(90deg);
+  }
 }
 
-.expander-btn:hover {
-  color: $medium-gray;
+
+.tag {
+  text-transform: uppercase;
+  padding: 0.5rem;
+  margin-top: 0;
 }
 
-.expander-content {
-  background-color: #FAFAFA;
-  overflow: auto;
-  padding-bottom: 20px;
+.to-do-tag {
+  background: #FFE6C5;
+  color: #D37901 !important;
 }
 
-.arrow-right {
-  transform: rotate(0deg);
-  transition: transform 0.25s linear;
-  height: 20px;
-  width: 20px;
+.complete-tag {
+  background: #DEFFC5;
+  color: #4FA70D !important;
 }
 
-.arrow-right.down {
-  transform: rotate(90deg);
-  transition: transform 0.25s linear;
+.show {
+  background: #fff;
+  padding: 0.5rem 1.75rem;
+  display: block;
 }
 
-.expander-btn h4 {
-  margin: 10px 0;
+.hide {
+  display: none;
+}
+
+.mark-complete-btn {
+  margin-bottom: 1rem;
+}
+
+.expander-code {
+  border: 1px solid $dark-gray;
+  background-color: $dark-gray;
+  color: white;
+  font-size: 1.45rem;
+  border-radius: 2px;
 }

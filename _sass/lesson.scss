@@ -96,6 +96,25 @@
   div {
     width: 30%;
     padding: .5rem 1.5rem;
+    box-shadow: 0 0 2px 1px rgba(0,0,0,.2);
   }
 
+}
+
+.try-it-prework {
+  box-shadow: 0 0 2px 1px rgba(0,0,0,.2);
+  padding: .5rem 3rem 1rem;
+  background-color: white;
+  margin-bottom: 4rem;
+  pre {
+    border: 1px solid $dark-gray;
+    background-color: $dark-gray;
+    color: white;
+    font-size: 1.25rem;
+    border-radius: 2px;
+  }
+  blockquote {
+    font-size: 20px;
+    color: $dark-gray;
+  }
 }
