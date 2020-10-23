@@ -12,7 +12,6 @@ $('.nav-links a:not(.home-logo-link)').each(function(idx, link) {
 var expandBtns = document.querySelectorAll(".expander-btn");
 
 expandBtns.forEach(function(btn) {
-
   btn.addEventListener("click", function(e) {
     var sectionContent = btn.parentElement.parentElement.parentElement.children[1];
     if (sectionContent.classList.contains("show")) {
@@ -25,37 +24,62 @@ expandBtns.forEach(function(btn) {
       btn.children[0].style.transform = "rotate(0deg)";
     }
   });
-
 });
 
 //mark pre-work section complete
+var bePreWorkDefault = {
+  "setup": false,
+  "part-one": false,
+  "part-two": false,
+  "submission": false
+}
+
+var bePrework = JSON.parse(localStorage.getItem("be-prework")) || bePreWorkDefault;
+localStorage.setItem("be-prework", JSON.stringify(bePrework));
+
+function checkCompleteSections() {
+  var tags = document.querySelectorAll(".tag");
+
+  tags.forEach(function(tag) {
+    if (bePrework[tag.classList[0]] === true) {
+      tag.classList.remove("to-do-tag");
+      tag.classList.add("complete-tag");
+      tag.innerText = "complete";
+    }
+  })
+}
+
+checkCompleteSections();
+
 var markCompleteBtns = document.querySelectorAll(".mark-complete-btn");
 
 markCompleteBtns.forEach(function(btn) {
-
   btn.addEventListener("click", function(e) {
     var tag = btn.parentElement.parentElement.children[0].children[1].children[0]
+    var section = tag.classList[0];
 
     if (tag.classList.contains('to-do-tag')) {
       tag.classList.remove('to-do-tag');
       tag.classList.add('complete-tag');
       tag.innerText = "complete";
-      btn.innerText = "Completed"
+      btn.innerText = "Completed";
+      bePrework[section] = true;
+      localStorage.setItem("be-prework", JSON.stringify(bePrework));
     } else {
       tag.classList.add('to-do-tag');
       tag.classList.remove('complete-tag');
       tag.innerText = "to do";
       btn.innerText = "Mark Complete"
+      bePrework[section] = false;
+      localStorage.setItem("be-prework", JSON.stringify(bePrework));
     }
   });
-
 });
 
 //spicy challenge show/hide
 var allSpicyTitles = document.querySelectorAll(".spicy-click");
 
 allSpicyTitles.forEach(function(title) {
-
   title.addEventListener("click", function(e) {
     var content = e.target.nextSibling.nextSibling;
     if (content.style.display === "block") {
@@ -64,14 +88,12 @@ allSpicyTitles.forEach(function(title) {
       content.style.display = "block";
     }
   });
-
 });
 
 //help me! show/hide
 var allPleasForHelp = document.querySelectorAll(".help-click");
 
 allPleasForHelp.forEach(function(title) {
-
   title.addEventListener("click", function(e) {
     var content = e.target.nextSibling.nextSibling;
     if (content.style.display === "block") {
@@ -80,7 +102,6 @@ allPleasForHelp.forEach(function(title) {
       content.style.display = "block";
     }
   });
-
 });
 
 // toggle projects bbing displayed on what-students-learn page

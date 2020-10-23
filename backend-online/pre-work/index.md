@@ -10,14 +10,21 @@ layout: lesson
 
 We are excited you will be joining us for an upcoming Try Coding workshop. If you've found yourself on this page and are not yet signed up for one, you can sign up [here](https://www.eventbrite.com/o/turing-school-of-software-amp-design-9895674202)!
 
-Completing this pre-work will set you up for success in our virtual classroom - making sure that everyone feels comfortable with the tools we will use and a bit of foundational knowledge. Most participants share that this work took them between XX-XX minutes to complete. It is ideal that you work through this on a laptop or desktop computer.  Complete the submission form at the bottom of this page in order to get the zoom link for your scheduled workshop!
+Completing this pre-work will set you up for success in our virtual classroom - making sure that everyone feels comfortable with the tools we will use and a bit of foundational knowledge.
+
+<span role="img" aria-label="clock">⏰</span> <strong>Time:</strong> Most participants share that this work took them between XX-XX minutes to complete.
+
+<span role="img" aria-label="woman at computer">👩🏽‍💻</span> <strong>Materials:</strong> It is ideal that you
+work through this on a laptop or desktop computer.
+
+<span role="img" aria-label="rocket">🚀</span> <strong>Goal:</strong> Work through the materials so you are prepared to engage at your workshop. Then, complete the submission form at the bottom of this page in order to get the zoom link for your scheduled workshop!
 
 <!-- SET UP -->
 <div class="expander">
   <header>
     <h2>Set Up</h2>
     <div>
-      <div class="tag to-do-tag">To Do</div>
+      <div class="setup tag to-do-tag">To Do</div>
       <button class="expander-btn">
         <img
           src="../../assets/icons/arrow.svg"
@@ -27,9 +34,9 @@ Completing this pre-work will set you up for success in our virtual classroom - 
   </header>
   <div class="hide">
     <p><a href="https://repl.it/~" target="blank">repl.it</a> provides an online platform that allows us to write code and see the results almost immediately - all inside of one browser tab! There are many other similar (and awesome) tools available; we feel this is the best choice for the Try Coding workshops.</p>
-    <p>Please watch this short video for an introduction on how to navigate repl.it:</p>
+    <p><span role="img" aria-label="movie">🎬</span> Please watch this short video for an introduction on how to navigate repl.it:</p>
     <p>TO DO : ADD VIDEO</p>
-    <p>Since we'll be using repl.it during the workshop, please create a free account with them at this time. You will create one project while working through this pre-work!</p>
+    <p><span role="img" aria-label="check mark">✅</span> Since we'll be using repl.it during the workshop, please create a free account with them at this time. You will create one project while working through this pre-work!</p>
     <button class="btn-dark mark-complete-btn">Mark Complete</button>
   </div>
 </div>
@@ -39,7 +46,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
   <header>
     <h2>Learn: Part 1</h2>
     <div>
-      <div class="tag to-do-tag">To Do</div>
+      <div class="part-one tag to-do-tag">To Do</div>
       <button class="expander-btn">
         <img
           src="../../assets/icons/arrow.svg"
@@ -77,20 +84,20 @@ false</pre>
     <p>Ruby provides a command that allows us to print out the data we are working with the the console. It's a tool for learning and troubleshooting, but isn't usually included in the final code of an app. Click the "Run" button in the following example to see the outcome of the three lines of Ruby:</p>
 
     <iframe height="400px" width="100%" src="https://repl.it/@turingschool/puts-example?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-    <p><em>This may not feel very exciting now, but it will be a useful tool as we move forward!</em></p>
+    <p><em><span role="img" aria-label="finger pointing to text">👉🏽</span> This may not feel very exciting now, but it will be a useful tool as we move forward!</em></p>
+    <br>
 
-    <div class="try-it-prework">
-      <h3>You Try</h3>
-      <p>Create a file in your repl account, and "puts" several values out to the console. Run the file and observe the output.</p>
-      <p>Now, instead of using the <code class="try-it-code">puts</code> command, use <code class="try-it-code">print</code>. Observe the difference in the output.</p>
-      <blockquote><em>If you need help or want to feel confident in your work, <a href="https://repl.it/@turingschool/you-try-1-solution" target="blank">here is a working solution</a>.</em></blockquote>
-      <div class="help-container">
-        <button class="help-click">FAQ: Is puts or print preferred?</button>
-        <div class="help-toggle">
-          <p>Since puts and print are both for learning and troubleshooting, you should use the one <strong>you</strong> prefer! You may choose one over the other in different situations. There is no "best practice", but it's good to know that both exist.</p>
-        </div>
+    <h3>You Try</h3>
+    <p>Create a file in your repl account, and "puts" several values out to the console. Run the file and observe the output.</p>
+    <p>Now, instead of using the <code class="try-it-code">puts</code> command, use <code class="try-it-code">print</code>. Observe the difference in the output.</p>
+    <p><em><span role="img" aria-label="raised hand"🖐🏼</span> If you need help or want to feel confident in your work, <a href="https://repl.it/@turingschool/you-try-1-solution" target="blank">here is a working solution</a>.</em></p>
+    <div class="help-container">
+      <button class="help-click">FAQ: Is puts or print preferred?</button>
+      <div class="help-toggle">
+        <p>Since puts and print are both for learning and troubleshooting, you should use the one <strong>you</strong> prefer! You may choose one over the other in different situations. There is no "best practice", but it's good to know that both exist.</p>
       </div>
     </div>
+
     <button class="btn-dark mark-complete-btn">Mark Complete</button>
   </div>
 </div>
@@ -100,7 +107,7 @@ false</pre>
   <header>
     <h2>Learn: Part 2</h2>
     <div>
-      <div class="tag to-do-tag">To Do</div>
+      <div class="part-two tag to-do-tag">To Do</div>
       <button class="expander-btn">
         <img
           src="../../assets/icons/arrow.svg"
@@ -119,7 +126,7 @@ is_signed_in = true</pre>
 puts first_name
 puts first_name
 puts first_name</pre>
-    <p><em>Note that the variable `first_name` uses an underscore character to separate the two words. This is called <a href="https://en.wikipedia.org/wiki/Snake_case" target="blank">snake case</a> and is a Ruby convention.</em></p>
+    <p><em>Note that the variable `first_name` uses an underscore character to separate the two words. This is called <a href="https://en.wikipedia.org/wiki/Snake_case" target="blank">snake case <span role="img" aria-label="snake">🐍</span></a> and is a Ruby convention.</em></p>
     <p>Many times, information within a program will change, so we will need to re-assign the value of a variable. Run the repl file below to observe how variable re-assignment works:</p>
     <iframe height="400px" width="100%" src="https://repl.it/@turingschool/reassign-variable?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
     <h3>String Interpolation</h3>
@@ -128,19 +135,19 @@ puts first_name</pre>
 age = 34
 
 puts "Hello! My name is #{first_name} and I am #{age} years old."</pre>
-    <div class="try-it-prework">
-      <h3>You Try</h3>
-      <p>In the same repl file you were working in earlier, declare two variables.</p>
-      <p>Then, <code class="try-it-code">puts</code> or <code class="try-it-code">print</code> a sentence that uses those two variables with String Interpolation!</p>
-      <blockquote><em>If you need help or want to feel confident in your work, <a href="https://repl.it/@turingschool/you-try-2-solution" target="blank">here is a working solution</a>.</em></blockquote>
-      <div class="help-container">
-        <button class="help-click">Help! It's not working.</button>
-        <div class="help-toggle">
-          <p>If the desired result is not printing to the console, or, if you are seeing an error message, here are some go-to strategies to problem solve:</p>
-          <p>If repl is working very slowly, try to refresh the page. It works best in the Chrome browser.</p>
-          <p>Make sure you are using double quotes.</p>
-          <p>Check the spelling and capitalization of your variables. The variable names must be exact matches!</p>
-        </div>
+
+
+    <h3>You Try</h3>
+    <p>In the same repl file you were working in earlier, declare two variables.</p>
+    <p>Then, <code class="try-it-code">puts</code> or <code class="try-it-code">print</code> a sentence that uses those two variables with String Interpolation!</p>
+    <p><em><span role="img" aria-label="raised hand">🖐🏾</span> If you need help or want to feel confident in your work, <a href="https://repl.it/@turingschool/you-try-2-solution" target="blank">here is a working solution</a>.</em></p>
+    <div class="help-container">
+      <button class="help-click">Help! It's not working.</button>
+      <div class="help-toggle">
+        <p>If the desired result is not printing to the console, or, if you are seeing an error message, here are some go-to strategies to problem solve:</p>
+        <p>If repl is working very slowly, try to refresh the page. It works best in the Chrome browser.</p>
+        <p>Make sure you are using double quotes.</p>
+        <p>Check the spelling and capitalization of your variables. The variable names must be exact matches!</p>
       </div>
     </div>
 
@@ -153,7 +160,7 @@ puts "Hello! My name is #{first_name} and I am #{age} years old."</pre>
   <header>
     <h2>Submission</h2>
     <div>
-      <div class="tag to-do-tag">To Do</div>
+      <div class="submission tag to-do-tag">To Do</div>
       <button class="expander-btn">
         <img
           src="../../assets/icons/arrow.svg"
@@ -162,8 +169,8 @@ puts "Hello! My name is #{first_name} and I am #{age} years old."</pre>
     </div>
   </header>
   <div class="hide">
-    <p>We hope you had some fun learning about the building blocks of Ruby - this is a great foundation!</p>
-    <p>So we have a sense of where you are with the material so far and can customize the workshop to your needs best, please complete the form below.</p>
+    <p>You did it <span role="img" aria-label="celebration cone">🎉</span> We hope you had some fun learning about the building blocks of Ruby - this is a great foundation!</p>
+    <p>Please complete the form below so we have a sense of where you are with the material so far and can customize the workshop to your needs.</p>
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScyKttYAR6OiHcCsarBXbFRgZUqMI4ffZal0atN8ArByH68yw/viewform?embedded=true" width="100%" height="1076" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     <button class="btn-dark mark-complete-btn">Mark Complete</button>
   </div>
