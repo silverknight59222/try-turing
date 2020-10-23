@@ -12,6 +12,7 @@ We are excited you will be joining us for an upcoming Try Coding workshop. If yo
 
 Completing this pre-work will set you up for success in our virtual classroom - making sure that everyone feels comfortable with the tools we will use and a bit of foundational knowledge. Most participants share that this work took them between XX-XX minutes to complete. Complete the submission form at the bottom of this page in order to get the zoom link for your scheduled workshop!
 
+<!-- SET UP -->
 <div class="expander">
   <header>
     <h2>Set Up</h2>
@@ -33,6 +34,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
   </div>
 </div>
 
+<!-- Part 1: Data Types, puts/print -->
 <div class="expander">
   <header>
     <h2>Learn: Part 1</h2>
@@ -93,7 +95,7 @@ false</pre>
   </div>
 </div>
 
-
+<!-- Part 2: Variables, Interpolation -->
 <div class="expander">
   <header>
     <h2>Learn: Part 2</h2>
@@ -120,7 +122,7 @@ puts first_name</pre>
     <p><em>Note that the variable `first_name` uses an underscore character to separate the two words. This is called <a href="https://en.wikipedia.org/wiki/Snake_case" target="blank">snake case</a> and is a Ruby convention.</em></p>
     <p>Many times, information within a program will change, so we will need to re-assign the value of a variable. Run the repl file below to observe how variable re-assignment works:</p>
     <iframe height="400px" width="100%" src="https://repl.it/@turingschool/reassign-variable?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-    <h4>String Interpolation</h4>
+    <h3>String Interpolation</h3>
     <p>String Interpolation allows us to create more dynamic and customized information for our users. Instead of telling you exactly what it does and how it works, we're only providing the syntax. You may be able to predict what the code will do just by reading through it. In the next activity, you will use that syntax and be able to see the result for yourself!</p>
     <pre class="expander-code">first_name = "Maya"
 age = 34
@@ -146,6 +148,7 @@ puts "Hello! My name is #{first_name} and I am #{age} years old."</pre>
   </div>
 </div>
 
+<!-- Submission Form -->
 <div class="expander">
   <header>
     <h2>Submission</h2>
