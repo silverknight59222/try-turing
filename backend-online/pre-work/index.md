@@ -10,7 +10,7 @@ layout: lesson
 
 We are excited you will be joining us for an upcoming Try Coding workshop. If you've found yourself on this page and are not yet signed up for one, you can sign up [here](https://www.eventbrite.com/o/turing-school-of-software-amp-design-9895674202)!
 
-Completing this pre-work will set you up for success in our virtual classroom - making sure that everyone feels comfortable with the tools we will use and a bit of foundational knowledge. Most participants share that this work took them between XX-XX minutes to complete. Complete the submission form at the bottom of this page in order to get the zoom link for your scheduled workshop!
+Completing this pre-work will set you up for success in our virtual classroom - making sure that everyone feels comfortable with the tools we will use and a bit of foundational knowledge. Most participants share that this work took them between XX-XX minutes to complete. It is ideal that you work through this on a laptop or desktop computer.  Complete the submission form at the bottom of this page in order to get the zoom link for your scheduled workshop!
 
 <!-- SET UP -->
 <div class="expander">
