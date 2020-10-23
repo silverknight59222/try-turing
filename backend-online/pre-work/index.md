@@ -92,7 +92,7 @@ false</pre>
     <h3>You Try</h3>
     <p>In your repl, "puts" several values out to the console. Run the file and observe the output.</p>
     <p>Now, instead of using the <code class="try-it-code">puts</code> command, use <code class="try-it-code">print</code>. Observe the difference in the output.</p>
-    <p><em><span role="img" aria-label="raised hand"🖐🏼</span> If you need help or want to feel confident in your work, <a href="https://repl.it/@turingschool/you-try-1-solution" target="blank">here is a working solution</a>.</em></p>
+    <p><em><span role="img" aria-label="raised hand">🖐🏼</span> If you need help or want to feel confident in your work, <a href="https://repl.it/@turingschool/you-try-1-solution" target="blank">here is a working solution</a>.</em></p>
     <div class="help-container">
       <button class="help-click">FAQ: Is puts or print preferred?</button>
       <div class="help-toggle">
