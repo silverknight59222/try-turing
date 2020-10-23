@@ -35,8 +35,10 @@ work through this on a laptop or desktop computer.
   <div class="hide">
     <p><a href="https://repl.it/~" target="blank">repl.it</a> provides an online platform that allows us to write code and see the results almost immediately - all inside of one browser tab! There are many other similar (and awesome) tools available; we feel this is the best choice for the Try Coding workshops.</p>
     <p><span role="img" aria-label="movie">🎬</span> Please watch this short video for an introduction on how to navigate repl.it:</p>
-    <p>TO DO : ADD VIDEO</p>
-    <p><span role="img" aria-label="check mark">✅</span> Since we'll be using repl.it during the workshop, please create a free account with them at this time. You will create one project while working through this pre-work!</p>
+
+    <iframe width="100%" height="550px" frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cYeDbCxkcH&v=6&ff=1&title=0&controls=1" allowfullscreen="true"></iframe>
+
+    <p><span role="img" aria-label="check mark">✅</span> Since we'll be using repl.it during the workshop, please create a free account with them at this time. Then, create a repl as shown in the video. You don't need to type any code in it just yet.</p>
     <button class="btn-dark mark-complete-btn">Mark Complete</button>
   </div>
 </div>
@@ -88,7 +90,7 @@ false</pre>
     <br>
 
     <h3>You Try</h3>
-    <p>Create a file in your repl account, and "puts" several values out to the console. Run the file and observe the output.</p>
+    <p>In your repl, "puts" several values out to the console. Run the file and observe the output.</p>
     <p>Now, instead of using the <code class="try-it-code">puts</code> command, use <code class="try-it-code">print</code>. Observe the difference in the output.</p>
     <p><em><span role="img" aria-label="raised hand"🖐🏼</span> If you need help or want to feel confident in your work, <a href="https://repl.it/@turingschool/you-try-1-solution" target="blank">here is a working solution</a>.</em></p>
     <div class="help-container">
