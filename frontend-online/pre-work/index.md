@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Back-End Try Coding: Pre-work
+# Front-End Try Coding: Pre-work
 
 <a href="../">Back to Curriculum Index</a>
 
@@ -23,7 +23,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
   <header>
     <h2>Set Up</h2>
     <div>
-      <div class="setup be-tag tag to-do-tag">To Do</div>
+      <div class="setup fe-tag tag to-do-tag">To Do</div>
       <button class="expander-btn">
         <img
           src="../../assets/icons/arrow.svg"
@@ -32,7 +32,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
     </div>
   </header>
   <div class="hide">
-    <p><a href="https://repl.it/~" target="blank">repl.it</a> provides an online platform that allows us to write code and see the results almost immediately - all inside of one browser tab! There are many other similar (and awesome) tools available; we feel this is the best choice for the Try Coding workshops.</p>
+    <p><a href="https://repl.it/~" target="blank">CodePen</a> provides an online platform that allows us to write code and see the results almost immediately - all inside of one browser tab! There are many other similar (and awesome) tools available; we feel this is the best choice for the Try Coding workshops.</p>
     <p><span role="img" aria-label="movie">🎬</span> Please watch this short video for an introduction on how to navigate repl.it:</p>
 
     <iframe width="100%" height="550px" frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cYeDbCxkcH&v=6&ff=1&title=0&controls=1" allowfullscreen="true"></iframe>
@@ -47,7 +47,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
   <header>
     <h2>Learn: Part 1</h2>
     <div>
-      <div class="part-one be-tag tag to-do-tag">To Do</div>
+      <div class="part-one fe-tag tag to-do-tag">To Do</div>
       <button class="expander-btn">
         <img
           src="../../assets/icons/arrow.svg"
@@ -108,7 +108,7 @@ false</pre>
   <header>
     <h2>Learn: Part 2</h2>
     <div>
-      <div class="part-two be-tag tag to-do-tag">To Do</div>
+      <div class="part-two fe-tag tag to-do-tag">To Do</div>
       <button class="expander-btn">
         <img
           src="../../assets/icons/arrow.svg"
@@ -161,7 +161,7 @@ puts "Hello! My name is #{first_name} and I am #{age} years old."</pre>
   <header>
     <h2>Submission</h2>
     <div>
-      <div class="submission be-tag tag to-do-tag">To Do</div>
+      <div class="submission fe-tag tag to-do-tag">To Do</div>
       <button class="expander-btn">
         <img
           src="../../assets/icons/arrow.svg"

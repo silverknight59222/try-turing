@@ -37,16 +37,36 @@ var bePreWorkDefault = {
 var bePrework = JSON.parse(localStorage.getItem("be-prework")) || bePreWorkDefault;
 localStorage.setItem("be-prework", JSON.stringify(bePrework));
 
+
+var fePreWorkDefault = {
+  "setup": false,
+  "part-one": false,
+  "part-two": false,
+  "submission": false
+}
+
+var fePrework = JSON.parse(localStorage.getItem("fe-prework")) || fePreWorkDefault;
+localStorage.setItem("fe-prework", JSON.stringify(fePrework));
+
+
 function checkCompleteSections() {
   var tags = document.querySelectorAll(".tag");
 
   tags.forEach(function(tag) {
-    if (bePrework[tag.classList[0]] === true) {
-      tag.classList.remove("to-do-tag");
-      tag.classList.add("complete-tag");
-      tag.innerText = "complete";
+    if (tag.classList.contains("be-tag")) {
+      if (bePrework[tag.classList[0]] === true) {
+        tag.classList.remove("to-do-tag");
+        tag.classList.add("complete-tag");
+        tag.innerText = "complete";
+      }
+    } else {
+      if (fePrework[tag.classList[0]] === true) {
+        tag.classList.remove("to-do-tag");
+        tag.classList.add("complete-tag");
+        tag.innerText = "complete";
+      }
     }
-  })
+  });
 }
 
 checkCompleteSections();
@@ -57,24 +77,34 @@ markCompleteBtns.forEach(function(btn) {
   btn.addEventListener("click", function(e) {
     var tag = btn.parentElement.parentElement.children[0].children[1].children[0]
     var section = tag.classList[0];
+    var backEnd = tag.classList.contains("be-tag");
 
     if (tag.classList.contains('to-do-tag')) {
       tag.classList.remove('to-do-tag');
       tag.classList.add('complete-tag');
       tag.innerText = "complete";
       btn.innerText = "Completed";
-      bePrework[section] = true;
-      localStorage.setItem("be-prework", JSON.stringify(bePrework));
+      upDateLocalStorage(backEnd, section, true);
     } else {
       tag.classList.add('to-do-tag');
       tag.classList.remove('complete-tag');
       tag.innerText = "to do";
       btn.innerText = "Mark Complete"
-      bePrework[section] = false;
-      localStorage.setItem("be-prework", JSON.stringify(bePrework));
+      upDateLocalStorage(backEnd, section, false);
     }
   });
 });
+
+function upDateLocalStorage(backEnd, section, complete) {
+  if (backEnd) {
+    bePrework[section] = complete;
+    localStorage.setItem("be-prework", JSON.stringify(bePrework));
+  } else {
+    fePrework[section] = complete;
+    localStorage.setItem("fe-prework", JSON.stringify(fePrework));
+
+  }
+}
 
 //spicy challenge show/hide
 var allSpicyTitles = document.querySelectorAll(".spicy-click");
