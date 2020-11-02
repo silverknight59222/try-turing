@@ -12,7 +12,7 @@ We are excited you will be joining us for an upcoming Try Coding workshop. If yo
 
 Completing this pre-work will set you up for success in our virtual classroom - making sure that everyone feels comfortable with the tools we will use and a bit of foundational knowledge.
 
-<span role="img" aria-label="clock">⏰</span> <strong>Time:</strong> Most participants share that this work took them between XX-XX minutes to complete.
+<span role="img" aria-label="clock">⏰</span> <strong>Time:</strong> Most participants share that this work took them between 25-35 minutes to complete.
 
 <span role="img" aria-label="woman at computer">👩🏽‍💻</span> <strong>Materials:</strong> It is ideal that you work through this on a laptop or desktop computer. Everything can be done inside a browser with an internet connection.
 
@@ -83,10 +83,14 @@ Completing this pre-work will set you up for success in our virtual classroom - 
 false</pre>
       </div>
     </section>
+    <br>
 
-    <p>Ruby provides a command that allows us to print out the data we are working with the the console. It's a tool for learning and troubleshooting, but isn't usually included in the final code of an app. Click the "Run" button in the following example to see the outcome of the three lines of Ruby:</p>
+    <p>Ruby provides a command that allows us to print out the data we are working with the the console. It's a tool for learning and troubleshooting, but isn't usually included in the final code of an app. Below is a screenshot of code after being run, in a repl.it. <a href="https://repl.it/@turingschool/puts-example#main.rb" target="blank">Click here to see the code and run it yourself</a>, if you'd like!</p>
 
-    <iframe height="400px" width="100%" src="https://repl.it/@turingschool/puts-example?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+    <img
+      src="./assets/p1-replit.png"
+      alt="Screenshot of code in previous example, inside the replit platform" />
+
     <p><em><span role="img" aria-label="finger pointing to text">👉🏽</span> This may not feel very exciting now, but it will be a useful tool as we move forward!</em></p>
     <br>
 
@@ -130,8 +134,16 @@ puts first_name
 puts first_name
 puts first_name</pre>
     <p><em>Note that the variable `first_name` uses an underscore character to separate the two words. This is called <a href="https://en.wikipedia.org/wiki/Snake_case" target="blank">snake case <span role="img" aria-label="snake">🐍</span></a> and is a Ruby convention.</em></p>
-    <p>Many times, information within a program will change, so we will need to re-assign the value of a variable. Run the repl file below to observe how variable re-assignment works:</p>
-    <iframe height="400px" width="100%" src="https://repl.it/@turingschool/reassign-variable?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+    <br>
+    <p>Many times, information within a program will change, so we will need to re-assign the value of a variable. The screenshot below was taken after <a href="https://repl.it/@turingschool/reassign-variable#main.rb" target="blank">this repl.it file was run</a>.</p>
+
+    <img
+      src="./assets/p2-replit.png"
+      alt="Screenshot of code in previous example, inside the replit platform" />
+    <br>
+    <br>
+    <br>
+
     <h3>String Interpolation</h3>
     <p>String Interpolation allows us to create more dynamic and customized information for our users. Instead of telling you exactly what it does and how it works, we're only providing the syntax. You may be able to predict what the code will do just by reading through it. In the next activity, you will use that syntax and be able to see the result for yourself!</p>
     <pre class="expander-code">first_name = "Maya"
