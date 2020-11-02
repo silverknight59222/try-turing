@@ -155,7 +155,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
     </div>
   </header>
   <div class="hide">
-    <p>You did it <span role="img" aria-label="celebration cone">🎉</span> We hope you had some fun learning about the building blocks of Ruby - this is a great foundation!</p>
+    <p>You did it <span role="img" aria-label="celebration cone">🎉</span> We hope you had some fun learning about HTML - this is a great foundation!</p>
     <p>Please complete the form below so we have a sense of where you are with the material so far and can customize the workshop to your needs.</p>
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrJM-l7dhtfQnM-kXgarpmRrMs1y69eEfJ_pO1ajHGUhF2vg/viewform?embedded=true" width="100%" height="1076" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     <button class="btn-dark mark-complete-btn">Mark Complete</button>

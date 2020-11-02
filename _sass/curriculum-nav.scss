@@ -1,6 +1,7 @@
 .card-container {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   width: 80%;
   margin: 0 auto;
   justify-content: space-around;
@@ -12,12 +13,11 @@
   padding: 2rem 2rem 1.5rem;
   display: inline-block;
   box-shadow: 0 0 2px 1px rgba(0,0,0,.2);
-  min-height: 26rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 40%;
-  min-height: 75%;
+  margin-bottom: 2rem;
 
   img {
     height: 7rem;
@@ -31,7 +31,6 @@
 
   p {
     text-align: center;
-    height: 7rem;
     color: #5F5F5F;
   }
 
@@ -52,6 +51,10 @@
 
 .be-card {
   border-top: .75rem solid #ef3852;
+}
+
+.special-card {
+  border-top: .75rem solid #12f1fc;
 }
 
 @media screen and (max-width: 1024px) {
