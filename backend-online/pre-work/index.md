@@ -17,9 +17,11 @@ Completing this pre-work will set you up for success in our virtual classroom - 
 <span role="img" aria-label="woman at computer">👩🏽‍💻</span> <strong>Materials:</strong> It is ideal that you work through this on a laptop or desktop computer. Everything can be done inside a browser with an internet connection.
 
 <span role="img" aria-label="rocket">🚀</span> <strong>Goal:</strong> Work through the materials so you are prepared to engage at your workshop. Then, complete the submission form at the bottom of this page in order to get the zoom link for your scheduled workshop!
+<br>
+<br>
 
 <!-- SET UP -->
-<div class="expander">
+<div class="expander expander-be">
   <header>
     <h2>Set Up</h2>
     <div>
@@ -43,7 +45,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
 </div>
 
 <!-- Part 1: Data Types, puts/print -->
-<div class="expander">
+<div class="expander expander-be">
   <header>
     <h2>Learn: Part 1</h2>
     <div>
@@ -104,7 +106,7 @@ false</pre>
 </div>
 
 <!-- Part 2: Variables, Interpolation -->
-<div class="expander">
+<div class="expander expander-be">
   <header>
     <h2>Learn: Part 2</h2>
     <div>
@@ -157,7 +159,7 @@ puts "Hello! My name is #{first_name} and I am #{age} years old."</pre>
 </div>
 
 <!-- Submission Form -->
-<div class="expander">
+<div class="expander expander-be">
   <header>
     <h2>Submission</h2>
     <div>

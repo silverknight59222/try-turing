@@ -4,6 +4,10 @@ layout: lesson
 
 # Front-End Online Curriculum
 
+Please complete the [pre-work that is outlined here](./pre-work) before attending the workshop
+
+## Instructor-Led Content
+
 - [Welcome](./welcome-fee-single)
 - [What is Front-End Engineering?](./what-is-fee)
 - [HTML Review](./html-review)

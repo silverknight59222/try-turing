@@ -5,7 +5,7 @@
 
   header {
     background: #fff;
-    border-top: 0.5rem solid #05c2d1;
+    // border-top: 0.5rem solid #05c2d1;
     padding: 0.4rem 1.75rem 0;
     display: flex;
     justify-content: space-between;
@@ -24,10 +24,19 @@
 
 }
 
+.expander-fe {
+  border-top: 0.5rem solid #f9ae06;
+}
+
+.expander-be {
+  border-top: 0.5rem solid #ef3852;
+}
+
 .expander-btn {
   background: #fff;
   border: none;
   margin-left: 1rem;
+  cursor: pointer;
 
   img {
     height: 28px;
