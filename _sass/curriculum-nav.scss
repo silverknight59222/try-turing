@@ -59,13 +59,12 @@
 
 @media screen and (max-width: 1024px) {
   .card-container {
-    flex-direction: column;
+    flex-direction: row;
     margin-top: 10%;
   }
 
   .card {
     width: 100%;
-    min-height: 52.5%;
     margin-bottom: 35px;
 
     h2 {
@@ -78,7 +77,6 @@
 
     p {
       width: 70%;
-      height: 6rem;
     }
 
     .curriculum-btn {
@@ -102,7 +100,6 @@
     }
 
     p {
-      height: 6rem;
       width: 100%;
     }
 
