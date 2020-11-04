@@ -1,6 +1,5 @@
 ---
 title: Introduction to JavaScript
-layout: post
 date: 2000-01-06
 permalink: javascript
 program: front-end
