@@ -4,7 +4,7 @@ layout: lesson
 
 # Intro to CSS
 
-<a href="../../frontend-online">Back to Curriculum Index</a>
+<a href="../../../frontend-online">Back to Curriculum Index</a>
 
 ## Goals
 
@@ -169,4 +169,4 @@ img {
 
 
 <br>
-<a href="../../frontend-online">Back to Curriculum Index</a>
+<a href="../../../frontend-online">Back to Curriculum Index</a>
