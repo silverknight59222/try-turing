@@ -11,14 +11,14 @@ layout: lesson
 We are so glad you are here! To get set up...
 1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and login to your account
 1. Please change your zoom name to first, last initial, pronouns (ex: _Amy H. (she/her)_)
-<br>
+<br><br>
 
 ## Goals
 
 - Build and customize a virtual Lite-Brite
 - Gain exposure and familiarity with some HTML, CSS, and JavaScript
 - Determine if coding is something you enjoy doing and want to pursue further
-<br>
+<br><br>
 
 ## Programming Languages We Will Use
 
@@ -50,6 +50,7 @@ It can feel like a lot, but let's start by building and understanding of what ea
 </section>
 
 Let's explore [this small project](https://repl.it/@turingschool/html-css-js-breakdown#index.html) to see what this looks like in code.
+<br><br>
 
 ## Project Setup
 
@@ -58,8 +59,9 @@ We will work off of a starter kit that has already been created. Click this link
 1. Click the green "Run" button at the top of the page, and you should see a mini Lite-Brite project on the right side of the page.
 
 Now that we are all set up, let's take a tour through the existing code!
+<br><br>
 
-## Now, onto the fun stuff:
+## Now it gets even more fun:
 - [HTML - Content](./html)
 - [CSS - Styles](./css)
 - [JavaScript- Explore](./js-1)
