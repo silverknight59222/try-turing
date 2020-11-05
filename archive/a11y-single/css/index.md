@@ -79,8 +79,6 @@ Here are a few great places to start:
 
 ## Classes and IDs
 
-> This may or may not be a review from the HTML section, depending on if we had questions about them!
-
 There will be times when we want to target _one_ paragraph element, but not the 37 others on the site. There will also be times when we want to write a CSS rule for some paragraphs, but not all. This is a great opportunity to use a class or ID attribute!
 - **Classes** can be used to identify one or more than one elements
 - **IDs** can be used to uniquely identify one element

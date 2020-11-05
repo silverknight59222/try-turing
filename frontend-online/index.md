@@ -25,7 +25,7 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 - [Welcome](./welcome-fee-weekend)
 - [What is Front-End Engineering?](./what-is-fee)
 - [HTML Review](./html-review)
-- [Intro to CSS](../a11y-single/css)
+- [Intro to CSS](../archive/a11y-single/css)
 - [Intro to JavaScript](./intro-to-js)
 - [Interacting with HTML](./interacting-with-html)
 - [Event Listeners](./event-listeners)
