@@ -17,7 +17,9 @@ Look at the HTML in the CodePen below. Using what you learned from the pre-work:
 - Make one observation about the code
 - Ask one question about the code
 
-**Example:** Observation: _The `h1` element has the content of "Kittens"_ Question: _What is happening on line X?_
+**Example:**
+- Observation: _The `h1` element has the content of "Kittens"_
+- Question: _What is happening on line X?_
 
 <p class="codepen" data-height="317" data-theme-id="light" data-default-tab="html,result" data-user="turing-trycoding" data-slug-hash="zYBLeLL" style="height: 317px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML Review">
   <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/zYBLeLL">
