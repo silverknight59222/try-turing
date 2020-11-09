@@ -24,7 +24,7 @@ Today might have been your first time coding - you did it! Thanks for spending y
 ## Contact
 
 - For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io</strong> or Rachel at <strong>rachel@turing.io</strong>
-- For questions regarding admissions and enrollment, please email Erin at <strong>erin@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/Erincall" >set up a time to work with her here</a>.
+- For questions regarding the application process and life at Turing, please email Chelsea at <strong>chelsea@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/ChelseaTuring" >set up a time to meet with her here</a>
 
 ## Additional Resources
 
