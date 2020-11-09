@@ -11,13 +11,16 @@ layout: lesson
 We are so glad you are here! To get set up...
 1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and login to your account
 1. Please change your zoom name to first, last initial, pronouns (ex: _Amy H. (she/her)_)
+1. Introduce yourself in the chat - where are you calling in from?
 <br><br>
 
 ## Goals
 
 - Build and customize a virtual Lite-Brite
-- Gain exposure and familiarity with some HTML, CSS, and JavaScript
+- Gain _exposure_ and familiarity with some HTML, CSS, and JavaScript
 - Determine if coding is something you enjoy doing and want to pursue further
+
+Disclaimer: We won't become experts in these languages today. And you may leave with more questions than answers!
 <br><br>
 
 ## Programming Languages We Will Use
@@ -36,7 +39,7 @@ It can feel like a lot, but let's start by building and understanding of what ea
 
   <div>
     <h3>CSS</h3>
-    <p>CSS defines the look and feel of a webpage - it can change the size layout of items on a page, change colors, fonts, and more!</p>
+    <p>CSS defines the look and feel of a webpage - it can change the size or layout of items on a page, change colors, fonts, and more!</p>
     <p>We can think of CSS as anything that makes us unique and recognizable - our skin, hair, clothes, style, etc.</p>
     <img src="./assets/css.png" alt="Drawing of human skeleton" />
   </div>
@@ -54,14 +57,13 @@ Let's explore [this small project](https://repl.it/@turingschool/html-css-js-bre
 
 ## Project Setup
 
-We will work off of a starter kit that has already been created. Click this link to access the starter kit in repl.it. Here's how to get set up:
+We will work off of a starter kit that has already been created. Click [this link to access the starter kit](https://repl.it/@turingschool/LiteBrite1#index.html) in repl.it. Here's how to get set up:
 1. Once you are on the site, substitute your name in for the `NAME` placeholder on line 5 of the HTML file.
 1. Click the green "Run" button at the top of the page, and you should see a mini Lite-Brite project on the right side of the page.
 
-Now that we are all set up, let's take a tour through the existing code!
 <br><br>
 
-## Now it gets even more fun:
+## Now, it gets even more fun:
 - [HTML - Content](./html)
 - [CSS - Styles](./css)
 - [JavaScript- Explore](./js-1)
