@@ -40,10 +40,6 @@ Here is a marked-up screenshot that illustrates what-is-connected-to-what.
   </ul>
 </div>
 
-### Explore to Learn, Part 2:
-
-That was a LOT of info! Sometimes it soaks in better when we have a chance to poke at the code.
-
 ## Exploring Functionality Summary
 
 - Like HTML and CSS, JavaScript needs very specific directions
