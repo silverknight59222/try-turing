@@ -13,11 +13,12 @@ html {
 a:link,
 a:visited {
   text-decoration: none;
+  color: darken($turing-primary, 40);
 }
 
 #toc a:hover,
 a:hover {
-  color: #000
+  color: #000;
 }
 
 blockquote {
