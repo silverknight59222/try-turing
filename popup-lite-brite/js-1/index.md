@@ -26,16 +26,23 @@ Now, let's walk through each line of the existing JavaScript to understand what'
 - Line 12: We ask the program if it was a _dot_ that was actually clicked on (as opposed to the black background in between the dots)
 - Line 14: We change the color of the dot that was clicked on, to the color stored in the `activeColor` variable.
 
-Here is a marked-up screenshot that illustrated what-is-cononected-to-what.
+Here is a marked-up screenshot that illustrates what-is-connected-to-what.
 
 <img src="./assets/breakdown.png" alt="JS Code from Lite-Brite starter kit" />
+
+<div class="try-it-new">
+  <h2>Break Code to Learn</h2>
+  <p>That was a LOT of info! Sometimes it soaks in better when we have a chance to poke at the code.</p>
+  <ul>
+    <li>On <strong>line 5</strong>, change <code class="try-it-code">dotContainer</code> to <code class="try-it-code">container</code>. Run the program (it should no longer work). Now, on line 7, change <code class="try-it-code">dotContainer</code> to <code class="try-it-code">container</code> and then run the program. It should be back to working!</li>
+    <li>On <strong>line 7</strong>, change <code class="try-it-code">changeDotColor</code> to <code class="try-it-code">changeDot</code>. Run the program (it should no longer work). Now, on line 10, change <code class="try-it-code">changeDotColor</code> to <code class="try-it-code">changeDot</code> and then run the program. It should be back to working!</li>
+    <li>Finally, on <strong>line 2</strong>, change <code class="try-it-code">activeColor</code> to <code class="try-it-code">active</code>. Run the program (you guessed it, it should no longer work). Why did things break? What else could you modify at this point to get the functionality back?</li>
+  </ul>
+</div>
 
 ### Explore to Learn, Part 2:
 
 That was a LOT of info! Sometimes it soaks in better when we have a chance to poke at the code.
-- On line 5, change `dotContainer` to `container`. Run the program (it should no longer work). Now, on line 7, change `dotContainer` to `container` and then run the program. It should be back to working!
-- On line 7, change `changeDotColor` to `changeDot`. Run the program (it should no longer work). Now, on line 10, change `changeDotColor` to `changeDot` and then run the program. It should be back to working!
-- Finally, on line 2, change `activeColor` to `active`. Run the program (you guessed it, it should no longer work). Why did things break? What else could you modify at this point to get the functionality back?
 
 ## Exploring Functionality Summary
 

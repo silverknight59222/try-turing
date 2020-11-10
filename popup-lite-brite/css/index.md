@@ -11,17 +11,17 @@ CSS allows us to "dress up" the content on our page. Let's quickly demonstrate w
 ## Tour the Existing Code
 
 - CSS allows us to target types of elements (ex: `body`, `div`) and specific elements based on class name (ex: `dot-container`)
-- Once we've targeted an element, we can write rules for that element to follow. Rules can be things like "the text of this element should be red" or, "the background color should be grey"
+- Once we've targeted an element, we can write rules for that element to follow. Rules can be things like _"the text of this element should be red"_ or, _"the background color should be grey"_
 
 ### Explore to Learn:
 
-After you take each step, re-run the program and observe the changes in the browser!
+After you complete each task that follows, re-run the program and observe the changes in the browser!
 - On line 9 of the CSS file, change `black` to `magenta`
 - On line 10, change `lightgrey` to `orange`
 - On line 11, change `10px` to `50px`
 - On line 12, change `5px` to `30px`, then `0px`
 
-You may be wondering, "how does one know all these special keywords and commands to create these rules?". Great question! With time/practice, and the use of documentation like [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) and [CSS Tricks](https://css-tricks.com/), developers slowly build their toolkit. Even the most experienced developers need to continually research and google to find the tool they need.
+You may be wondering, "how does one know all these special keywords and commands to create these rules?". Great question! With time and practice, and the use of documentation like [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) and [CSS Tricks](https://css-tricks.com/), developers slowly build their toolkit. Even the most experienced developers need to continually research and google to find the tool they need.
 <br>
 <br>
 
