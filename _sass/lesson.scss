@@ -103,7 +103,7 @@
 
 .language-cards {
   justify-content: space-between;
-  
+
   div {
     background-color: #fff;
     border-top: 0.5rem solid $teal;
@@ -125,5 +125,16 @@
   blockquote {
     font-size: 20px;
     color: $dark-gray;
+  }
+}
+
+.four-oh-four {
+  h1 {
+    font-size: 5rem;
+    text-align: center;
+  }
+  p {
+    text-align: center;
+    margin-bottom: 3rem;
   }
 }

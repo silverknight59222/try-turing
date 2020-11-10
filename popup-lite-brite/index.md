@@ -4,14 +4,16 @@ layout: lesson
 
 # Pop Up: Build a Virtual Lite-Brite
 
-[Thinking of a Lite-Brite](https://en.wikipedia.org/wiki/Lite-Brite) may make you nostalgic. But these days, they are covered in germs. In this workshop, you will build and customize your very own _virtual_ Lite Brite that you can share with anyone around the world!
+[Thinking of a Lite-Brite](https://en.wikipedia.org/wiki/Lite-Brite) may make you nostalgic. But these days, they are covered in germs. In this live, instructor-led workshop, you will build and customize your very own _virtual_ Lite Brite that you can share with anyone around the world!
+
+_This will be best experienced on a desktop or laptop computer._
 
 ## Welcome!
 
 We are so glad you are here! To get set up...
 1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and login to your account
 1. Please change your zoom name to first, last initial, pronouns (ex: _Amy H. (she/her)_)
-1. Introduce yourself in the chat - where are you calling in from?
+1. Introduce yourself in the zoom chat - where are you calling in from?
 <br><br>
 
 ## Goals

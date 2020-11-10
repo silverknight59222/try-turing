@@ -1,24 +1,19 @@
 ---
-layout: default
+layout: lesson
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+<div class="four-oh-four">
+  <h1>404 <span role="img" alt="panda">🐼</span></h1>
+  <p>Oops! The requested page could not be found. Click a button below to find your way back.</p>
+  <section class="resources-section section-light">
+    <a class="btn btn-dark" href="{{ site.url }}/">
+      Home
+    </a>
+    <a class="btn btn-dark" href="{{ site.url }}/workshop-curriculum">
+      Workshop Curriculum
+    </a>
+    <a class="btn btn-dark" href="{{ site.url }}/what-students-learn">
+      What Do Students Learn at Turing?
+    </a>
+  </section>
 </div>
