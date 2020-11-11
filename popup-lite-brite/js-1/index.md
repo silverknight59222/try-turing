@@ -6,7 +6,7 @@ layout: lesson
 
 # Exploring Lite-Brite Functionality
 
-Quick overview/reminder on what JS is
+Back to our human metaphor: the JavaScript code is the brain and muscle of our webpage! Similar to how the neural and muscular systems are much more complex than the skeleton, the JavaScript work we do will be more complex that our work with HTML and CSS. Please remember: the goal is not for you to be a pro at the end of this, but to get a little bit of exposure!
 
 ## Understand the Existing Functionality
 
@@ -35,7 +35,6 @@ Here is a marked-up screenshot that illustrates what-is-connected-to-what.
   <p>That was a LOT of info! Sometimes it soaks in better when we have a chance to poke at the code.</p>
   <ul>
     <li>On <strong>line 5</strong>, change <code class="try-it-code">dotContainer</code> to <code class="try-it-code">container</code>. Run the program (it should no longer work). Now, on line 7, change <code class="try-it-code">dotContainer</code> to <code class="try-it-code">container</code> and then run the program. It should be back to working!</li>
-    <li>On <strong>line 7</strong>, change <code class="try-it-code">changeDotColor</code> to <code class="try-it-code">changeDot</code>. Run the program (it should no longer work). Now, on line 10, change <code class="try-it-code">changeDotColor</code> to <code class="try-it-code">changeDot</code> and then run the program. It should be back to working!</li>
     <li>Finally, on <strong>line 2</strong>, change <code class="try-it-code">activeColor</code> to <code class="try-it-code">active</code>. Run the program (you guessed it, it should no longer work). Why did things break? What else could you modify at this point to get the functionality back?</li>
   </ul>
 </div>
