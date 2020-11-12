@@ -16,7 +16,9 @@ layout: lesson
 <br>
 ## How Does the Internet Even Work?
 
-When you visit a URL like <code>google.com/calendar</code>, what happens? Let's draw a slightly more involved diagram of the client-server model that you see below.
+When you visit a URL like <code>google.com/calendar</code>, what happens?
+
+<!-- Let's draw a slightly more involved diagram of the client-server model that you see below. -->
 
 <img src="https://developer.mozilla.org/files/4291/client-server.png" alt="Client server model">
 <br>
@@ -50,7 +52,7 @@ The **Back-End** typically handles stuff like storing information in databases, 
 
 There are numerous technologies that can be used for Back-End programming. Here are a few of them:
 
-- **Languages and frameworks**: Ruby/Rails, Python/Django, Elixir/Phoenix, Java/Spring, and more. 
+- **Languages and frameworks**: Ruby/Rails, Python/Django, Elixir/Phoenix, Java/Spring, and more.
 - **Databases**: PostgreSQL, MySQL, Oracle Database, MongoDB, etc.
 
 We won't be talking about anything except for a teeny tiny part of Ruby. However, we hope that these terms give you a lay of the land so that next time you hear one of these words, you can say "Aha! That's a database."
