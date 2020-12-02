@@ -12,30 +12,27 @@ layout: lesson
 - Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 
 <br>
+
 ### What to Expect
 
 Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day:
 
-- **12:00 - 12:30** Welcome, Intros, Setup
-- **12:30 - 3:40** Instruction (with breaks!)
-- **3:40 - 3:55** Break
-- **3:55 - 4:15** Turing Info
-- **4:15 - 4:50**  Student/Alum Panel
-- **4:50 - 5:00**  Wrap Up, Survey, Questions
-
-<!-- - **9:00 - 9:30** Welcome and Intros
-- **9:30 - 12:45** Instruction (with breaks!)
-- **12:45 - 1:00** Break
-- **1:00 - 1:15** Turing Info
-- **1:15 - 2:00** Student/Alum Panel -->
+- **10:00 - 10:30** Welcome, Intros, Setup
+- **10:30 - 11:45** Instruction (with breaks!)
+- **11:45 - 12:00** Break
+- **12:00 - 12:15** Turing Info
+- **12:15 - 12:50**  Student/Alum Panel
+- **1:00 - 3:00**  Wrap Up, Survey, Questions
 
 <br>
+
 ### Learning Norms
 
 - No question is too small. No question is a bad question. Ask them!
 - We all benefit from each others ideas! Push yourself to share out and make sure you aren't sharing _so_ much that others don't have the space to do so.
 
 <br>
+
 ### Online Session Norms
 
 - Mute yourself **unless** you're talking
