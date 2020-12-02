@@ -11,7 +11,7 @@ _This will be best experienced on a desktop or laptop computer._
 ## Welcome!
 
 We are so glad you are here! To get set up...
-1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and login to your account
+1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account
 1. Please change your zoom name to first, last initial, pronouns (ex: _Amy H. (she/her)_)
 1. Introduce yourself in the zoom chat - where are you calling in from?
 <br><br>
@@ -29,7 +29,7 @@ Disclaimer: We won't become experts in these languages today. And you may leave 
 
 Building the user-facing part of a website or app is referred to as Front-End Engineering. Building a Front-End requires the writing code in three programming languages, and making the code in each language "talk to" the code in the others.
 
-It can feel like a lot, but let's start by building and understanding of what each language is responsible for. We will make some comparisons to the human body to create context.
+It can feel like a lot, but let's start by building an understanding of what each language is responsible for. We will make some comparisons to the human body to create context.
 
 <section class="data-type-cards language-cards">
   <div>
