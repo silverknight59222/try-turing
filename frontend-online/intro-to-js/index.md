@@ -92,9 +92,9 @@ We can use string interpolation to combine static data with dynamic (or variable
 ```js
 var firstName = 'Amy';
 console.log(`Hello, ${firstName}!`);
-
-// => The message in the console will appear as "Hello, Amy!"
 ```
+
+The code above will make "Hello, Amy!" appear in the console.
 
 Note that _back ticks_ are the characters that surround this combination of the string an `${}` syntax. You can find the back-tick key at the top-left of your keyboard, next to the `1`.
 

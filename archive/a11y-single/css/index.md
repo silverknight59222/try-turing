@@ -50,7 +50,7 @@ There are many ways that we can express the value of a color to the browser. Tod
 <div class="try-it-new">
   <h3>Try It: Writing your First CSS Rule</h3>
   <p>In the CSS tab of your CodePen, write a rule that targets all of your <code class="try-it-code">button</code> elements.</p>
-  <p>Change the <code class="try-it-code">color</code> and <code class="try-it-code">background-color</code>s with CSS. Observe the output in the browser. What is the difference between these two properties?</p>
+  <p>Change both the <code class="try-it-code">color</code> and <code class="try-it-code">background-color</code> using CSS. Observe the output in the browser. What is the difference between these two properties?</p>
   <p>Explore: Remove the <code class="try-it-code">-color</code> from <code class="try-it-code">background-color</code>. What happens? What can you infer from this?</p>
 </div>
 
@@ -59,7 +59,7 @@ There are many ways that we can express the value of a color to the browser. Tod
 There are [520 properties](https://css-tricks.com/how-many-css-properties-are-there/) available in the CSS language. It is unlikely that any developer knows every single one. But, there are many commonly used properties that folks who write CSS with some regularity will come to memorize.
 
 Here are a few great places to start:
-- [**font-size**](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size): this property expects a value with a unit; today we'll introduce `px` (pixels) and `%` (percent). Example declaration: `font-size: 150%;`
+- [**font-size**](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size): this property expects a value with a unit; today we'll introduce `px` (pixels) and `%` (percent). Example declaration: `font-size: 100px;`
 - [**border**](https://developer.mozilla.org/en-US/docs/Web/CSS/border): accepts 3 pieces of information: the width of the line, the style of the line, and the color. Example declaration: `border: 2px solid #401AA5;`
 - [**height**](https://developer.mozilla.org/en-US/docs/Web/CSS/height) & [**width**](https://developer.mozilla.org/en-US/docs/Web/CSS/width): each of these properties needs a value with a unit. We recommend starting with pixels. Example declaration: `height: 200px;`
 
@@ -108,7 +108,7 @@ To target them in CSS, we need to use a specific syntax:
 
 <div class="try-it-new">
   <h3>Try It: Classes & IDs</h3>
-  <p>In the <code>style.css</code> file, use a class attribute to give the same styles to 2 of your paragraphs, but not to the other(s).</p>
+  <p>In the <code>CSS</code> text editor, use a class attribute to give the same styles to 2 of your paragraphs, but not to the other(s).</p>
   <p>Based on how you'd like to style your page, if you see the need for other classes or IDs, go ahead and implement them!</p>
   <p>As you are probably in the habit of by now, observe the changes in the browser.</p>
 </div>
