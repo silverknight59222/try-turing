@@ -56,12 +56,12 @@ There are many ways that we can express the value of a color to the browser. Tod
 
 ## Other Commonly Used Properties
 
-There are [520 properties](https://css-tricks.com/how-many-css-properties-are-there/) available in the CSS language. It is unlikely that any developer knows every single one. But, there are many commonly used properties that folks who write CSS with some regularity will come to memorize.
+There are <a href="https://css-tricks.com/how-many-css-properties-are-there/" target="blank">520 properties</a> available in the CSS language. It is unlikely that any developer knows every single one. But, there are many commonly used properties that folks who write CSS with some regularity will come to memorize.
 
 Here are a few great places to start:
-- [**font-size**](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size): this property expects a value with a unit; today we'll introduce `px` (pixels) and `%` (percent). Example declaration: `font-size: 100px;`
-- [**border**](https://developer.mozilla.org/en-US/docs/Web/CSS/border): accepts 3 pieces of information: the width of the line, the style of the line, and the color. Example declaration: `border: 2px solid #401AA5;`
-- [**height**](https://developer.mozilla.org/en-US/docs/Web/CSS/height) & [**width**](https://developer.mozilla.org/en-US/docs/Web/CSS/width): each of these properties needs a value with a unit. We recommend starting with pixels. Example declaration: `height: 200px;`
+- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size/" target="blank"><b>font-size</b></a>: this property expects a value with a unit; today we'll introduce `px` (pixels) and `%` (percent). Example declaration: `font-size: 100px;`
+- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border" target="blank"><b>border</b></a>: accepts 3 pieces of information: the width of the line, the style of the line, and the color. Example declaration: `border: 2px solid #401AA5;`
+- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height" target="blank"><b>height</b></a> & <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width" target="blank"><b>width</b></a>: each of these properties needs a value with a unit. We recommend starting with pixels. Example declaration: `height: 200px;`
 
 <div class="try-it-new">
   <h3>Try It: Exploring CSS</h3>
