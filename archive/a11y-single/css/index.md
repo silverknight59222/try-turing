@@ -44,8 +44,8 @@ button {
 ## CSS Colors
 
 There are many ways that we can express the value of a color to the browser. Today, we will just discuss two of them:
-- [Color Names](https://htmlcolorcodes.com/color-names/) - written in English, these names describe the color. We are limited to 140 of them.
-- [Hex Values](https://htmlcolorcodes.com/color-picker/) - a six-digit code (letters and/or numbers) preceded by a `#` allows us to have many more combinations of colors. There are many websites that allow a user to pick a color from a color wheel, then provide the associated hex value.
+- <a href="https://htmlcolorcodes.com/color-names/" target="blank">Color Names</a> - written in English, these names describe the color. We are limited to 140 of them.
+- <a href="https://htmlcolorcodes.com/color-picker/" target="blank">Hex Values</a> - a six-digit code (letters and/or numbers) preceded by a `#` allows us to have many more combinations of colors; 16,777,216 to be exact! "Hex" is short for "hexidecimal", a number system with 16 values instead of our more familiar "decimal" system with 10 values. There are many websites that allow a user to pick a color from a color wheel, then provide the associated hex value.
 
 <div class="try-it-new">
   <h3>Try It: Writing your First CSS Rule</h3>
