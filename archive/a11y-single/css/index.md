@@ -65,6 +65,7 @@ Here are a few great places to start:
 
 <div class="try-it-new">
   <h3>Try It: Exploring CSS</h3>
+  <p>Add two button elements to your HTML. They can be anywhere!</p>
   <p>Write a CSS rule that targets the paragraphs, then change their <code class="try-it-code">background-color</code> and <code class="try-it-code">font-size</code>.</p>
   <p>Next, write a rule that targets the main heading - change the <code class="try-it-code">color</code> of the text and add a <code class="try-it-code">border</code>.</p>
   <p>Continue to explore and add declarations to make the site your own!</p>
