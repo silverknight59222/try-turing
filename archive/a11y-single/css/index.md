@@ -108,7 +108,7 @@ To target them in CSS, we need to use a specific syntax:
 
 <div class="try-it-new">
   <h3>Try It: Classes & IDs</h3>
-  <p>In the <code>CSS</code> text editor, use a class attribute to give the same styles to 2 of your paragraphs, but not to the other(s).</p>
+  <p>In the CSS text editor, use a class attribute to give the same styles to 2 of your paragraphs, but not to the other(s).</p>
   <p>Based on how you'd like to style your page, if you see the need for other classes or IDs, go ahead and implement them!</p>
   <p>As you are probably in the habit of by now, observe the changes in the browser.</p>
 </div>
