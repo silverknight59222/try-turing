@@ -6,7 +6,7 @@ layout: lesson
 
 <a href="../">Back to Curriculum Index</a>
 
-> <span role="img" aria-label="file folder">🗂</span> If your repl file is feeling cluttered, you may want to start a clean file for this next part of class!
+> <span role="img" aria-label="file folder">🗂</span> If your repl.it is feeling cluttered, you may want to start a new project for this next part of class!
 
 ## Goals
 

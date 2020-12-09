@@ -18,11 +18,13 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 
 > Please complete the [survey!](https://bit.ly/try-coding-feedback) We actually read your feedback, promise.
 
-## Contact
+## Next Steps
 
+If you're considering changing careers, we're here to answer your questions!
+
+- For technical questions regarding the content we learned today and what is taught at Turing, you can email Amy at <strong>amy@turing.io<strong>
+- For questions regarding application process, life at Turing, and more please email Chelsea at <strong>chelsea@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/ChelseaTuring">set up a time to work with her here</a>
 - To start your application, visit <a target="blank" href="https://apply.turing.io/">apply.turing.io</a>
-- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong>
-- For questions regarding admissions and enrollment, please email Erin at <strong>erin@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/Erincall">set up a time to work with her here</a>
 
 ## Additional Resources
 

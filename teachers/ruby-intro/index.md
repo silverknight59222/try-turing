@@ -10,74 +10,31 @@ layout: lesson
 
 - Classify data as the Number, String, or Boolean data type
 - Store various data types in variables
-- Be comfortable using the _repl.it_ interface
-- Use String interpolation to write sentences with dynamic data
+- Use String interpolation
+- Understand the purpose and syntax of methods
 
-## Basic Data Types
+## Pre-work Review
 
-- A **String** is a series of characters (alpha, numeric, or symbol) between quotation marks. This is true in any programming language, not just Ruby
-- An **Integer** is a number without decimals. Basic math operations, including comparison, can be used with them
-- A **Boolean** refers to a value that is either true or false. You can think of it as an on/off switch
+Look at the contrived program below. Using what you learned from the pre-work:
+1. Make one or more statements about the code. Feel free to use vocabulary such as variable, string, integer, reassigned, underscore, method, snake case, etc.
+2. Ask one or more questions about the code.
+Be ready to share in the chat!
 
-```ruby
-# this is a String
-"Hello, world!"
+Example: 
+1. Statement: The variable `favorite_season` contains a string.
+2. Question: Why is line 4 empty?
 
-# this is a an Integer
-43
-
-# this is a Boolean (notice: no quotes)
-true
-```
-
-## Variables
-
- **Variables** can either be single letters or full words or phrases. In addition, they can represent any data types. The code below shows four different variables. The numbers at the beginning of the line are not part of the code; they just represent the line number.
-
-```ruby
-average = 86
-class_size = 28
-course_description = "7th Grade Math"
-teacher = "Ms. Stang"
-```
-
-Always use lowercase letters in your variable names. If you need to use a space, put an underscore (`_`) character instead of the space.
-
-> Most text editors have built-in color schemes to help developers recognize different data types and where mistakes might be. For example, if a developer left off a closing quotation mark, the coloring for the rest of the program would be off.
-
-Once you've defined variables, you can use them like this:
-
-```ruby
-student_name = "Frankie"
-
-puts student_name
-```
+<iframe height="400px" width="100%" src="https://repl.it/@turingschool/Ruby-Review?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 <div class="try-it-new">
-  <h2>Review: Ruby Data Types & Variables</h2>
-</div>
-
-## Re-assigning Variables, puts vs. print
-
-In the spirit of exploring to learn, we aren't gong to tell what what exactly [the code below](https://repl.it/@ameseee/explore-reassigning) does.
-
-```ruby
-student = "Frankie"
-puts "Welcome to class, #{student}!"
-
-student = "Taylor"
-puts "Welcome to class, #{student}!"
-puts "Welcome to class, #{student}!"
-
-student = "Jeremiah"
-puts "Welcome to class, #{student}!"
-```
-
-<div class="try-it-new">
-  <h2>Try It: Exploring Re-assignment</h2>
-  <p>Read the code above and predict what will happen when it is run. Try to explain why.</p>
-  <p>Now, run the code by pressing the green "run" button in repl to run the code. Does the output verify or falsify your prediction?</p>
-  <p>Last, change all instances of <code>puts</code> to <code>print</code>. Observe the change in output. What does that tell you about the job that each command (puts and print) has?</p>
+  <h2>Try It: MadLibs!</h2>
+  <p>Choose a MadLib starter program below and fork (copy) it to your own account. Use what you know about <code>strings</code>, <code>integers</code>, <code>puts</code>, <code>print</code>, <code>variables</code>, and <code>string interpolation</code> to make it run!</p>
+  <p>While working through this challenge, pay attention to these programmer skills: <b>1)</b> attention to detail, and <b>2)</b> reading error messages.</p>
+  <ul>
+    <li><a href="https://repl.it/@turingschool/All-About-Giraffes" target="blank">All About Giraffes</a></li>
+    <li><a href="https://repl.it/@turingschool/Our-Solar-System" target="blank">Our Solar System</a></li>
+  </ul>
+  <small><i>All MadLibs adapted from https://www.pinterest.com/francescacorna/madlibs/</i></small>
 </div>
 
 ## Methods

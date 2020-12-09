@@ -19,12 +19,12 @@ On line 2, change `black` to `red`. Re-run the program and click a dot.
 ### Breakdown:
 
 Now, let's walk through each line of the existing JavaScript to understand what's happening:
-- Line 2: A variable called `activeColor` is set to "black". This doesn't mean much _yet_.
-- Line 5: We accessed the `dot-container` element from the HTML file, and stored a reference to it in our JavaScipt code. This helps for line 7...
-- Line 7: We told the program to be on the lookout for our user to click anywhere inside the `dot-container`. If/when that does happen, a function called `changeDotColor` will run.
-- Line 10: We declare the `changeDotColor` function
-- Line 12: We ask the program if it was a _dot_ that was actually clicked on (as opposed to the black background in between the dots)
-- Line 14: We change the color of the dot that was clicked on, to the color stored in the `activeColor` variable.
+- **Line 2:** A variable called `activeColor` is set to "black". This doesn't mean much _yet_.
+- **Line 5:** We accessed the `dot-container` element from the HTML file, and stored a reference to it in our JavaScipt code. This helps for line 7...
+- **Line 7:** We told the program to be on the lookout for our user to click anywhere inside the `dot-container`. If/when that does happen, a function called `changeDotColor` will run.
+- **Line 10:** We declare the `changeDotColor` function
+- **Line 12:** We ask the program if it was a _dot_ that was actually clicked on (as opposed to the black background in between the dots)
+- **Line 14:** We change the color of the dot that was clicked on, to the color stored in the `activeColor` variable.
 
 Here is a marked-up screenshot that illustrates what-is-connected-to-what.
 
