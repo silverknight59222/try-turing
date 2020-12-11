@@ -8,7 +8,7 @@ layout: lesson
 
 To animate your rocket, we will give you some code to start with, and some room for creativity! 
 
->You may want to keep the rolling ball replit open in another tab as a reference.
+>You may want to keep the rolling ball repl.it open in another tab as a reference.
 
 <div class="try-it-new">
     <h2>Animate!</h2>

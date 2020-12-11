@@ -23,23 +23,22 @@ For this section, we will take a break from our rocket and learn about animation
 To write an animation, we have to give a set of very clear direction to the browser about _how_ to move the element in question.
 
 - `animation-name`: what do we want to call this? Typically we use a verb and noun: (ex: `movePaw`, `rollBall`)
-- `animation-duration`: how long should the entire animation take to complete? We can provide seconds or milliseconds (ex: `2s`, `300ms`). Research says that the sweet spot for animations is XXXX.
+- `animation-duration`: how long should the entire animation take to complete? We can provide seconds or milliseconds (ex: `2s`, `300ms`).
 - `animation-timing-function`: should the movement happen at the same rate (linear)? Or, go faster at the start, and slow at the end? CSS provides `linear`, `ease-out`, `ease-in` and `ease-in-out` to control when the change happens during the duration.  You can read more about them [here](https://developers.google.com/web/fundamentals/design-and-ux/animations/the-basics-of-easing). _This is not required - will default to linear if we don't specify._
 - `animation-delay`: should the animation start right when the page loads, or wait? Similar to `duration`, we can provide seconds or milliseconds. _This is not required - will default to 0 if we don't specify._
 
-The code snippet that follows gives an example of the animation rules for an element with the class of `ball`:
+The code snippet that follows gives an example of the animation rules for an element with the class of `ball`. We can see this code live, in action, [in this repl.it](https://repl.it/@turingschool/RollBall-Animation-Starter#style.css).
 
 ```css
 .ball {
     animation-name: rollBall;
-    animation-duration: 3s;
+    animation-duration: 2s;
     animation-timing-function: ease-out;
     animation-delay: 1s;
 }
 ```
 
 >Note: There is a shorthand that you may see used in examples on the internet. We aren't using it in our examples here so that you can see exactly what value belongs to what property. But if you want to explore the shorthand - go for it!
-
 
 ## Keyframes
 
@@ -57,8 +56,6 @@ Providing all this information to an element alone, isn't enough. We also have t
     to { margin-left: 75% }
 }
 ```
-
-Let's see how this comes together by opening up [this replit](https://repl.it/@turingschool/RollBall-Animation-Starter#style.css)!
 
 <div class="try-it-new">
     <h2>Modify the Existing Code</h2>

@@ -18,7 +18,7 @@ This [Chrome extension](https://chrome.google.com/webstore/detail/disable-html/l
 ### Explore to Learn:
 
 After you complete each task that follows, re-run the program and observe the changes in the browser! If you like the change - leave it. If not, change it back.
-- On line 2 of the CSS file, change `#191931` to `blue`, then to `#191991`
+- On line 2 of the CSS file, change `blue` to `#191931`, then to `#191991`
 - On line 9, change `10%` to `60%`
 - On line 9, change `15%` to `85%`
 - On lines 10-11, change `80px` to any other number, followed by `px`
@@ -40,6 +40,7 @@ While exploring, you probably made some deductions about what some properties do
 <div class="try-it-new">
   <h2>Modify the Existing Code</h2>
   <p>Now that we can see how some of the pieces come together with CSS, let's continue in this process of "making it our own".</p>
+  <p><strong>Adjust the colors of the sky, ground, moon and rocket pieces to your liking!</strong></p>
   <p><strong>Change the size of your moon.</strong></p>
   <p><strong>Change the height of the ground; and then you'll probably want to adjust where you rocket "sits" accordingly.</strong></p>
   <p><strong>Want to change the size/dimensions of your rocket? Adjust widths, heights, and margins of one, some, or all of the 5 pieces of the rocket.</strong></p>
