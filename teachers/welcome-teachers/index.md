@@ -44,6 +44,6 @@ Below is our agenda for each day:
 
 ### Tools
 
-Our main tool with be repl.it. We will write and run our code there today. Please opne it up in the browser andmake sure you are logged in. Repl.it works best in Chrome!
+Our main tool with be repl.it. We will write and run our code there today. Please open it up in the browser and make sure you are logged in. Repl.it works best in Chrome!
 
 <a href="../">Back to Curriculum Index</a>
