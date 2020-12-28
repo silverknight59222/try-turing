@@ -16,11 +16,10 @@ Over the course of the day, we will write code while making connections to real 
 
 Below is our agenda for each day:
 
-- **10:00 - 12:30** Welcome, Intros, and Instruction
-- **12:30 - 1:15** Educators-turned-Developers Panel
-- **1:15 - 1:45** Late Lunch Break
-- **1:45 - 3:45**  Instruction
-- **3:45 - 4:00**  Wrap Up, Questions
+- **10:00 - 12:00** Welcome, Intros, and Instruction
+- **12:10 - 1:00** Educators-turned-Developers Panel
+- **1:00 - 2:45**  Instruction
+- **2:45 - 3:00**  Wrap Up, Questions
 
 ### Learning Norms
 
