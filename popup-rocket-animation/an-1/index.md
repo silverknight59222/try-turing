@@ -59,7 +59,7 @@ Providing all this information to an element alone, isn't enough. We also have t
 
 <div class="try-it-new">
     <h2>Modify the Existing Code</h2>
-    <p>Now that we can see what's required to write an animation, let's tweak the code to gain some comfort with it.</p>
+    <p>Now that we can see what's required to write an animation, let's tweak <a href="https://repl.it/@turingschool/RollBall-Animation-Starter#style.css">the code in this repl.it<a> to gain some comfort with it.</p>
     <ul>
         <li>Change the name of the animation. Make sure to change it in <em>both</em> places so that it still works.</li>
         <li>Change the duration and/or delay to your liking!</li>
