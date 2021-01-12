@@ -11,7 +11,7 @@ _This will be best experienced on a desktop or laptop computer._
 ## Welcome!
 
 We are so glad you are here! To get set up...
-1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account
+1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and create a free account
 1. Please change your zoom name to first, last initial, pronouns (ex: _Amy H. (she/her)_)
 1. Introduce yourself in the zoom chat - where are you calling in from?
 <br><br>
@@ -53,7 +53,7 @@ Let's start by building an understanding of what each language is responsible fo
 ## Project Setup
 
 We will work off of a starter kit that has already been created. Click [this link to access the starter kit](https://repl.it/@turingschool/rocket-animation-starter#index.html) in repl.it. Here's how to get set up:
-1. Once you are on the site, substitute your name in for the `NAME` placeholder on line 5 of the HTML file.
+1. Once you are on the site, substitute your name in for the `NAME` placeholder on line 4 of the HTML file.
 1. Click the green "Run" button at the top of the page, and you should see a scene with a rocket and moon on the right side of the page.
 
 Let's quickly explore the HTML file to understand the "bones" of this app.

@@ -20,7 +20,7 @@ For this section, we will take a break from our rocket and learn about animation
 
 ## Animation Properties
 
-To write an animation, we have to give a set of very clear direction to the browser about _how_ to move the element in question.
+To write an animation, we have to give a set of very clear directions to the browser about _how_ to move the element in question.
 
 - `animation-name`: what do we want to call this? Typically we use a verb and noun: (ex: `movePaw`, `rollBall`)
 - `animation-duration`: how long should the entire animation take to complete? We can provide seconds or milliseconds (ex: `2s`, `300ms`).
@@ -59,7 +59,7 @@ Providing all this information to an element alone, isn't enough. We also have t
 
 <div class="try-it-new">
     <h2>Modify the Existing Code</h2>
-    <p>Now that we can see what's required to write an animation, let's tweak <a href="https://repl.it/@turingschool/RollBall-Animation-Starter#style.css">the code in this repl.it<a> to gain some comfort with it.</p>
+    <p>Now that we can see what's required to write an animation, let's tweak <a href="https://repl.it/@turingschool/RollBall-Animation-Starter#style.css">the code in this repl.it</a> to gain some comfort with it.</p>
     <ul>
         <li>Change the name of the animation. Make sure to change it in <em>both</em> places so that it still works.</li>
         <li>Change the duration and/or delay to your liking!</li>

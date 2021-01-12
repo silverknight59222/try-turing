@@ -18,6 +18,7 @@ To animate your rocket, we will give you some code to start with, and some room 
         <li>Outside of your <code class="try-it-code">.rocket</code> rule, write a keyframe. Use this code: <code class="try-it-code">to { transform: translate(0px, -450px) }</code> inside of the keyframe.</li>
     </ol>
     <p>After completing Steps 1 and 2, run the code. Is the animation running? If not - let's troubleshoot for typos or small errors; feel free to ask for help! If so - what is it doing, and what do you want to change about it?</p>
+    <p>Want to check your solution against ours? <a href="https://repl.it/@turingschool/rocket-animation-solution#style.css">Check this one out.</a></p>
 </div>
 
 ## Level Up
