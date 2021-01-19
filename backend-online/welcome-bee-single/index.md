@@ -15,19 +15,14 @@ layout: lesson
 
 Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day (all times in MST):
 
-<!-- - **10:00 - 11:45** Welcome, Intros, and Instruction
+- **10:00 - 11:45** Welcome, Intros, and Instruction
 - **11:45 - 12:00** Break
-- **12:00 - 12:45** Turing Info, Panel
-- **12:45 - 1:00** Break
+- **12:00 - 12:55** Turing Info, Panel
 - **1:00 - 2:50**  Instruction
-- **2:50 - 3:00**  Wrap Up, Questions -->
-
-- **12:00 - 12:30** Welcome, Intros
-- **12:30 - 3:45** Instruction (with breaks!)
-- **4:00 - 4:15** Turing Info
-- **4:15 - 5:00** Student/Alum Panel
+- **2:50 - 3:00**  Wrap Up, Questions
 
 <br>
+
 ### Learning Norms
 
 - No question is too small. No question is a bad question. Ask them!

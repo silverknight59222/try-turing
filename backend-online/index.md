@@ -8,7 +8,7 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 
 ## Instructor-Led Content
 
-- [Welcome](./welcome-bee-weekend)
+- [Welcome](./welcome-bee-single)
 - [What is Back-End Engineering?](./what-is-bee)
 - [Ruby Review](./ruby-review/1)
 - [User Input](./user-input/1)
