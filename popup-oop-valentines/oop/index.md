@@ -23,7 +23,7 @@ With the information above, in theory, the manager at the factory should be able
 That example about the Candy Factory tie directly to concepts of OOP. We will use three main technical terms today. They are below, with the connection to the Candy Factory example:
 - **`class`** - A class is like a blueprint or template. The factory machines are designed to make a certain sized heart shape candy with a certain material - that is the template for ALL candies. We could probably name it the _Candy_ class.
 - **`instance`** - An instance is an object that is made from the class template. The blue and yellow candies that the manager requested, then later held in her hand, are instances of the Candy class.
-- **`attribute`** - An attribute is a specific characteristic about an instance that has the potential of varying from other instances. With out candy hearts, _color_ and _message_ would be attributes, because they weren't programmed into the template, but were extra information the manager was able to give.
+- **`attribute`** - An attribute is a specific characteristic about an instance that has the potential of varying from other instances. With our candy hearts, _color_ and _message_ would be attributes, because they weren't programmed into the template, but were extra information the manager was able to give.
 
 <div class="try-it-new">
   <h2>Classes and Objects - At Home!</h2>
