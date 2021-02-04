@@ -6,8 +6,6 @@ layout: lesson
 
 In this series of three live, instructor-led workshops, you will get a high level understanding of how the web works and what role Back-End and Front-End Engineering play in that. This is a great series to attend if you are brand new to tech, or if you are trying to decide between Back-End and Front-End.
 
-_This will be best experienced on a desktop or laptop computer._
-
 ## Welcome!
 
 We are so glad you are here! To get set up...
