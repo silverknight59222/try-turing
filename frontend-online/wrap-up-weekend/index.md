@@ -4,19 +4,6 @@ layout: lesson
 
 # Wrap Up
 
-## Reflection
-
-As we wrap up our time together, take a moment to reflect on the questions below.
-
-<div class="try-it-new">
-  <h2>Wrap Up: Reflection</h2>
-  <ul>
-    <li>What was FUN about coding this weekend?</li>
-    <li>Do you feel more excited about Back-End or Front-End now, and why?</li>
-    <li>What lingering questions do you have about the technical work we did today?</li>
-  </ul>
-</div>
-
 ## Contact
 
 - For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong> or Rachel at <strong>rachel@turing.io<strong>
