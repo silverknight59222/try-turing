@@ -6,6 +6,13 @@ layout: lesson
 
 <a href="../">Back to Series Page</a>
 
+## Welcome Back 👋
+
+We'll start at 12:00MT again, and have a mixx of screen sharing this content, iPad diagrams, and some conversations!
+
+<br>
+<br>
+
 ## What is Back-End Engineering?
 
 >We will use the terms 'engineering', 'programming', 'coding' and 'developing' interchangably!
