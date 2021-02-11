@@ -8,7 +8,7 @@ layout: lesson
 
 ## Welcome Back 👋
 
-We'll start at 12:00MT again, and have a mixx of screen sharing this content, iPad diagrams, and some conversations!
+We'll start at 12:00MT again, and have a mix of screen sharing this content, iPad diagrams, and some conversations!
 
 <br>
 <br>
