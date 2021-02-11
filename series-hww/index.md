@@ -15,7 +15,7 @@ We are so glad you are here! To get set up...
 
 ## Goals
 
-- Build an understanding of how the web workds
+- Build an understanding of how the web works
 - Understand the difference between what Back-End and Front-End code does
 - Determine if coding is something you want to pursue further
 <br>
