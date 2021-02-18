@@ -110,16 +110,6 @@ The three lines of code above each have a specific job:
 
 Let's run the code in the browser a few times and see what the responses are!
 
-We can also see it in action in this CodePen:
-
-<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="js,result" data-user="turing-trycoding" data-slug-hash="WNoOZpV" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Get request">
-  <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/WNoOZpV">
-  Get request</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
-
 ### Receiving a Response
 
 In the previous example, you may have noticed that the response we got was different to read - various colors, some `{}` and `[]`. Those are things you'll get used to as you see more responses. However, the responses do look slightly different in the "Dev Tools" of the browser than they would in code. 
@@ -129,6 +119,16 @@ Below is an image of the JSON, or data, that is sent back in a similar response.
 <img class="med-img" src="{{ site.url }}/assets/images/json.png" alt="Screenshot of JSON">
 
 Front-End developers regularly get pieces of JSON like the one above (usually they are much larger though!). They write code that goes through all the data and instructs the browser which pieces of data to display.
+
+We can see it in action, on a small scale, in this CodePen:
+
+<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="js,result" data-user="turing-trycoding" data-slug-hash="WNoOZpV" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Get request">
+  <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/WNoOZpV">
+  Get request</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 <br>
 
 ## Front-End and Series Wrap Up
