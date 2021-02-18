@@ -57,7 +57,7 @@ Below are code examples of what each language looks like. We won't go into too m
 
 ### HTML Only
 
-<p class="codepen" data-height="285" data-theme-id="light" data-default-tab="html,result" data-user="turing-trycoding" data-slug-hash="zYoYzax" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML only example">
+<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="html,result" data-user="turing-trycoding" data-slug-hash="zYoYzax" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML only example">
   <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/zYoYzax">
   HTML only example</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -65,7 +65,7 @@ Below are code examples of what each language looks like. We won't go into too m
 
 ### HTML and CSS
 
-<p class="codepen" data-height="285" data-theme-id="light" data-default-tab="css,result" data-user="turing-trycoding" data-slug-hash="bGBGRjx" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML + CSS example">
+<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="css,result" data-user="turing-trycoding" data-slug-hash="bGBGRjx" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML + CSS example">
   <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/bGBGRjx">
   HTML + CSS example</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -73,7 +73,7 @@ Below are code examples of what each language looks like. We won't go into too m
 
 ### HTML, CSS and JavaScript
 
-<p class="codepen" data-height="285" data-theme-id="light" data-default-tab="js,result" data-user="turing-trycoding" data-slug-hash="RwowZoJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML + CSS + JS example">
+<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="js,result" data-user="turing-trycoding" data-slug-hash="RwowZoJ" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML + CSS + JS example">
   <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/RwowZoJ">
   HTML + CSS + JS example</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -91,7 +91,7 @@ Because of it's ongoing popularity and demand in the industry, our Front-End stu
 
 ## Talking to the Back-End
 
-A static site - one that won't store any information about you - is only useful up to a point. Most sites that are useful to us (we typically refer to these as _appliactions_) present information to the user on the Front-End, and also talk to the Back-End for the user. This communication allows users to log in to accounts, post status updates, upload photos, send messages, etc.
+A static site - one that won't store any information about you - is only useful up to a point. Most sites that are useful to us (we typically refer to these as _applications_) present information to the user on the Front-End, and also talk to the Back-End for the user. This communication allows users to log in to accounts, post status updates, upload photos, send messages, etc.
 
 ### Making a Request
 
@@ -106,9 +106,19 @@ fetch("https://opentdb.com/api.php?amount=1&category=27&type=multiple")
 The three lines of code above each have a specific job:
 1. Go _get_ whatever is available at the URL provided
 2. Convert the response that is sent into a form that the Front-End code can read
-3. Print out the data
+3. Print out the data (usually we will show this data to the user instead of just printing it out)
 
 Let's run the code in the browser a few times and see what the responses are!
+
+We can also see it in action in this CodePen:
+
+<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="js,result" data-user="turing-trycoding" data-slug-hash="WNoOZpV" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Get request">
+  <span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/WNoOZpV">
+  Get request</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 
 ### Receiving a Response
 
