@@ -104,7 +104,7 @@ fetch("https://opentdb.com/api.php?amount=1&category=27&type=multiple")
 ```
 
 The three lines of code above each have a specific job:
-1. Go _get_ whatever is available at the uRL provided
+1. Go _get_ whatever is available at the URL provided
 2. Convert the response that is sent into a form that the Front-End code can read
 3. Print out the data
 
