@@ -21,8 +21,8 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - **10:30 - 11:45** Instruction (with breaks!)
 - **11:45 - 12:00** Break
 - **12:00 - 12:55** Turing Info
-- **1:00 - 2:50**  Instruction (with breaks!)
-- **2:50 - 3:00**  Wrap up, Survey, Questions
+- **1:00 - 2:20**  Instruction
+- **2:20 - 2:30**  Wrap up, Survey, Questions
 
 <br>
 

@@ -14,7 +14,7 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 - [Intro to CSS](../archive/a11y-single/css)
 - [Intro to JavaScript](./intro-to-js)
 - [Interacting with HTML](./interacting-with-html)
-- [Event Listeners](./event-listeners)
+- [Extension:Event Listeners](./event-listeners)
 <!-- - [Extensions](./extensions) -->
 - [Wrap Up](./wrap-up-single)
 
