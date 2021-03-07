@@ -55,7 +55,7 @@ class Message
   end
 end
 
-mom = Valentine.new("Mom")
+mom = Message.new("Mom")
 bff = Message.new("BFF")
 
 messages = [
@@ -66,6 +66,6 @@ messages = [
 puts messages
 ```
 
-In OOP, it is common to store instances in an list, or array, like that.
+In OOP, it is common to store instances in an list, or array, like the one above.
 
 <a href="../wrap-up">Wrap Up</a>

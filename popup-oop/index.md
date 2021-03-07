@@ -49,9 +49,12 @@ While OOP is not exclusive to Ruby, the Ruby programming languages usually follo
 
 ## Brief Ruby + repl.it Intro
 
-To gain some familiarity with repl.it, the interface we will use to write code in today, and start looking at some Ruby code, click [this link](https://repl.it/@turingschool/Ruby-Replit-Intro#main.rb).
-- Change the text `NAME` on line 2 to your name
-- Click the green run/play button at the top center of the page
+To gain some familiarity with repl.it, the interface we will use to write code in today, and start looking at some Ruby code, click [this link](https://repl.it/@turingschool/Ruby-Replit-Intro#main.rb). To start, you'll first need to click the blue "Fork" button.
+
+<img src="./assets/repl-fork.png" alt="Screenshot of repl interface with arrow pointing to top right corner, fork button">
+
+1. Change the text `NAME` on line 2 to your name
+1. Click the green run/play button at the top center of the page
 
 <div class="try-it-new">
   <h2>Write some Code!</h2>
