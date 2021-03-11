@@ -19,7 +19,7 @@ With the information above, in theory, the manager at the factory should be able
 
 That example about the car factory tie directly to concepts of OOP. We will use three main technical terms today. They are below, with the connection to the car factory example:
 - **`class`** - A class is like a blueprint or template. The factory machines are designed to make a car - that is the template for ALL Escapes. We could probably name it the _EscapeCar_ class.
-- **`instance`** - An instance is an object that is made from the class template. The blue Escape that the manager requested (and was able to physically sit in and drive) is an instance of the _EscapeCar_ class.
+- **`object/instance`** - An instance is an object that is made from the class template. The blue Escape that the manager requested (and was able to physically sit in and drive) is referred to as an object or instance of the _EscapeCar_ class.
 - **`attribute`** - An attribute is a specific characteristic about an instance that has the potential of varying from other instances. With our Escapes, _color_, _interior_ and _engine_ would be attributes, because they weren't programmed into the template, but were extra information the manager was able to give.
 
 <div class="try-it-new">
@@ -27,8 +27,8 @@ That example about the car factory tie directly to concepts of OOP. We will use 
   <p>Pick an object that you see sitting around in your home. It could be a candle, water bottle, glove, anything!</p>  
   <p>Jot down the following, and be ready to share out with the group:</p>
   <ul>
-    <li>What type of object is it? i.e., what might the class name be?</li>
-    <li>Are there multiple instances of it in your home, or in the world? List a few.</li>
+    <li>What <em>type</em> of object is it? i.e., what might the class name be?</li>
+    <li>Are there multiple objects/instances of it in your home, or in the world? List a few.</li>
     <li>What are some of its attributes?</li>
   </ul>
 </div>

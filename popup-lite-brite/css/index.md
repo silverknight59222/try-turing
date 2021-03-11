@@ -6,7 +6,7 @@ layout: lesson
 
 # Modifying the Lite-Brite CSS
 
-CSS allows us to "dress up" the content on our page. Let's quickly demonstrate what CSS can do for the [Click Counter app](https://repl.it/@turingschool/html-css-js-breakdown#index.html) we looked at earlier.
+CSS allows us to "dress up" the content on our page.
 
 ## Tour the Existing Code
 
@@ -28,8 +28,12 @@ You may be wondering, "how does one know all these special keywords and commands
 <div class="try-it-new">
   <h2>Modify the Existing Code</h2>
   <p>Now that we can see how some of the pieces come together with CSS, let's continue in this process of "making it our own". You'll do this work below line 22 of the CSS file.</p>
-  <p><strong>Change the size of the dots on your Lite-Brite board.</strong></p>
-  <p><strong>Change the amount of space around/between the dots on your Lite-Brite board.</strong></p>
+  <ul>
+  <li><strong>Change the size of the dots on your Lite-Brite board.</strong></li>
+  <li><strong>Change the amount of space around/between the dots on your Lite-Brite 
+  board.</strong></li>
+  <li>Optional: tinker with the colors used throughout your app!</li>
+  </ul>
   <p>Play around with these sizes until you are satisfied with your board. <em>This may be the time where you also decide to go back to the HTML file and add more dots!</em></p>
 </div>
 

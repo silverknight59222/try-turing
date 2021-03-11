@@ -53,8 +53,6 @@ It can feel like a lot, but let's start by building an understanding of what eac
     <img src="./assets/js.png" alt="Drawing of human skeleton" />
   </div>
 </section>
-
-Let's explore [this small project](https://repl.it/@turingschool/html-css-js-breakdown#index.html) to see what this looks like in code.
 <br><br>
 
 ## Project Setup
