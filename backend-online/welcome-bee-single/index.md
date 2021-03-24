@@ -8,7 +8,6 @@ layout: lesson
 
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
-- In another tab, open up <a target="blank" href="https://try.turing.io/backend-online">try.turing.io/backend-online</a>
 - Change Zoom display name to first name, last initial, pronouns; ie - Rachel W. (she/her)
 
 ### What to Expect
