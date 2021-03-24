@@ -133,7 +133,7 @@ is_signed_in = true</pre>
 puts first_name
 puts first_name
 puts first_name</pre>
-    <p><em>Note that the variable </code class="try-it-code">first_name</code> uses an underscore character to separate the two words. This is called <a href="https://en.wikipedia.org/wiki/Snake_case" target="blank">snake case <span role="img" aria-label="snake">🐍</span></a> and is a Ruby convention.</em></p>
+    <p><em>Note that the variable <code class="try-it-code">first_name</code> uses an underscore character to separate the two words. This is called <a href="https://en.wikipedia.org/wiki/Snake_case" target="blank">snake case <span role="img" aria-label="snake">🐍</span></a> and is a Ruby convention.</em></p>
     <br>
     <p>Many times, information within a program will change, so we will need to re-assign the value of a variable. The screenshot below was taken after <a href="https://repl.it/@turingschool/reassign-variable#main.rb" target="blank">this repl.it file was run</a>.</p>
 
