@@ -13,8 +13,8 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 - [Ruby Review](./ruby-review/1)
 - [User Input](./user-input/1)
 - [Arrays](./arrays/1)
-- [Programming is Hard](./programming/1)
-- [Control Flow](./control-flow/1)
+<!-- - [Programming is Hard](./programming/1) -->
+- [Extension: Control Flow](./control-flow/1)
 <!-- - [Extension](./extensions/1) -->
 - [Wrap Up](./wrap-up)
 
