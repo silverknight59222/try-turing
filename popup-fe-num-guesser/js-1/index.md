@@ -68,7 +68,7 @@ An **if statement** sets up different paths that the program can take depending 
 
 <div class="try-it-new">
   <h2>Try It: Writing if Statements</h2>
-  <p>Follow the prompt in at the bottom of the JS pane <a target="blank" href="">in this CodePen.</a> (Same CodePen that was used in previous activity)</p>
+  <p>Follow the prompt in at the bottom of the JS pane <a target="blank" href="https://codepen.io/turing-trycoding/pen/ZEBezeX">in this CodePen.</a> (Same CodePen that was used in previous activity)</p>
 </div>
 
 ## JavaScript Fundamentals Summary

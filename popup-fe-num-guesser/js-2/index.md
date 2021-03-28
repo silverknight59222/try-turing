@@ -62,19 +62,13 @@ function doSomething() {
 }
 ```
 
-## Putting it All Together
-
 <div class="try-it-new">
-  <h2>Try It: Implement Logic in Number Guesser</h2>
-  <p>You watched me write code in a starter kit and may have followed along. This next starter kit includes some other code necessary for the game to work (but is code we don't have the time to go in depth on today), so <a href="" target="blank">it's recommended you start by forking this CodePen.</a></p>
-  <p>Where the note indicates, write an if statement to compare the users guess to the correct number.</p>
-  <p>Depending on if the users guess is correct or incorrect, change the text of the "feedback" paragraph to a relevant message!</p>
-  <div class="help-container">
-  <button class="help-click">🤚Help Me!</button>
-    <div class="help-toggle">
-      <p><a href="https://codepen.io/turing-trycoding/pen/abBpgNg?editors=1010" target="blank">Here is a CodePen with a working solution - it starts on line 17.</a></p>
-    </div>
-  </div>
+  <h2>Next Level</h2>
+  <p>For this challenge, you'll use the same CodePen you used for the previous one!</p>
+  <ol>
+    <li>In the previous challenge, you changed the title, but it happened on page load, so it wasn't very exciting.</li>
+    <li>Combine the two new pieces of knowledge/skill you have to change the title only when the button is clicked. A hint is provided at the bottom of the JavaScript file, if you'd like to use that!</li>
+  </ol>
 </div>
 
 ## Connecting HTML & JavaScript Summary
@@ -82,6 +76,5 @@ function doSomething() {
 - JavaScript can "talk to" the elements in HTML
 - This communication can allow us to write programs that will listen for button clicks and change text on the page
 
-<a href="../extensions">Next Section: Extensions</a>
+<a href="../js-3">Next Section: Building Dynamic User Experiences</a>
 
-<a href="../wrap-up">Wrap Up</a>

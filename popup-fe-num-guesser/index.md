@@ -2,9 +2,7 @@
 layout: lesson
 ---
 
-# Pop Up: Build a Number Guesser
-
-some cute into
+# Front-End Workshop: Build a Number Guesser
 
 _This will be best experienced on a desktop or laptop computer._
 
@@ -13,14 +11,23 @@ _This will be best experienced on a desktop or laptop computer._
 We are so glad you are here! To get set up...
 1. Open up <a target="blank" href="http://codepen.io/">CodePen</a> in a browser (preferably Chrome) and log in to your account
 1. Please change your zoom name to first, last initial, pronouns (ex: _Amy H. (she/her)_)
-1. Introduce yourself in the zoom chat - where are you calling in from?
+<br><br>
+
+## What to Expect
+
+Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing. We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day (all in MST):
+
+- **9:00 - 9:15** Welcome, Intros, Setup
+- **9:15 - 11:45** Instruction (with breaks!)
+- **11:45 - 12:15** Turing Info
+- **12:15 - 1:00** Alumni Panel
 <br><br>
 
 ## Goals
 
 - Build and customize a virtual Number Guesser Game
 - Gain _exposure_ and familiarity with some HTML and JavaScript
-- Determine if coding is something you enjoy doing and want to pursue further
+- Determine if coding is something you enjoy doing and want to pursue further, and get a feel for what Turing is all about
 
 Disclaimer: We won't become experts in these languages today. And you may leave with more questions than answers!
 <br><br>
