@@ -59,5 +59,6 @@ It can feel like a lot, but let's start by building an understanding of what eac
 ## Now, it gets even more fun:
 - [Working with Numbers and Conditionals](./js-1)
 - [Connecting HTML & JavaScript](./js-2)
+- [Building Dynamic User Experiences](./js-3)
 - [Extensions](./extensions)
 - [Wrap Up](./wrap-up)
