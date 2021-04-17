@@ -16,7 +16,7 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 - **10:00 - 11:45** Welcome, Intros, and Instruction
 - **11:45 - 12:00** Break
-- **12:00 - 12:55** Turing Info, Panel
+- **12:00 - 12:55** Turing Info Session
 - **1:00 - 2:50**  Instruction
 - **2:50 - 3:00**  Wrap Up, Questions
 
@@ -29,29 +29,9 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 ### Online Session Norms
 
-- Mute yourself **unless** you're talking.
+- Mute yourself **unless** you're talking
 - Keep your camera on during class and breakout sessions; ok to turn off during independent work time
-- Use features in the Participants Pane to answer yes/no, raise your hand, or give a thumbs up.
-- You might be sharing your screen with your team at some point during the class -- if you have anything open that you don't want to accidentally share, close or minimize it now.
 - Questions? Type into the group chat box and a TA will answer you. Avoid direct messages to a TA unless it is a specific issue only to yourself.
 - Disconnected? Jump back on! If the host or TAs get disconnected, hold tight, and the session will resume shortly.
-
-### Zoom Features
-
-<img src="{{ site.url }}/assets/images/zoom-controls.png" alt="screenshot of zoom">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img src="{{ site.url }}/assets/images/zoom-markedup.png" alt="screenshot of zoom">
-
-### Zoom Practice!
-
-- Practice muting and unmuting the mic: What is your favorite movie?
-- Raise your Zoom hand if you want to tell us your favorite or least favorite thing about being stuck inside
-- YES or NO
-- Thumbs up in the camera
 
 <a href="../">Back to Curriculum Index</a>
