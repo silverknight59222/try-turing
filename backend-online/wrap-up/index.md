@@ -10,8 +10,8 @@ Today might have been your first time coding - you did it! Thanks for spending y
 
 ## Contact
 
-- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io</strong> or Rachel at <strong>rachel@turing.io</strong>
-- For questions regarding the application process and life at Turing, please email Chelsea at <strong>chelsea@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/ChelseaTuring" >set up a time to meet with her here</a>
+- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.edu</strong> or Rachel at <strong>rachel@turing.edu</strong>
+- For questions regarding the application process and life at Turing, please email Chelsea at <strong>chelsea@turing.edu</strong> or <a target="blank" href="https://go.oncehub.com/ChelseaTuring" >set up a time to meet with her here</a>
 
 ## Additional Resources
 
