@@ -8,7 +8,7 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 
 ## Instructor-Led Content
 
-- [Welcome](./welcome-fee-single)
+- [Welcome](./welcome-fee-weekend)
 - [What is Front-End Engineering?](./what-is-fee)
 - [HTML Review](./html-review)
 - [Intro to CSS](../archive/a11y-single/css)
