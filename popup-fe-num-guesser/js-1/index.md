@@ -32,7 +32,7 @@ alert(humanAge);
   <ul>
     <li><code class="try-it-code">alert(3 + 5)</code></li>
     <li><code class="try-it-code">alert(3 < 5)</code></li>
-    <li><code class="try-it-code">alert(3 < 5)</code></li>
+    <li><code class="try-it-code">alert(3 > 5)</code></li>
     <li><code class="try-it-code">alert(3 === 5)</code></li>
     <li><code class="try-it-code">alert(5 === 5)</code></li>
   </ul>
