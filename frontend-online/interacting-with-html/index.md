@@ -21,10 +21,12 @@ Variables can also represent parts of the HTML that we've written. For example, 
 Here's how that looks in practice:
 
 ```html
+<!-- HTML code -->
 <h1 id="greeting">Hello, world!</h1>
 ```
 
 ```js
+// JS code
 var greetingMessage = document.getElementById('greeting');
 
 console.log(greetingMessage);
@@ -82,4 +84,4 @@ Before we talk through it, take a minute to sit in that productive struggle and 
 </div>
 
 <br>
-<a href="../">Back to Curriculum Index</a>
+<a href="../event-listeners">Next: Event Listeners</a>

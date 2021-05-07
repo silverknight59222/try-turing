@@ -39,4 +39,4 @@ Look at the HTML in the CodePen below. Using what you learned from the pre-work:
 </div>
 
 <br>
-<a href="../">Back to Curriculum Index</a>
+<a href="../intro-to-css">Next: Intro to CSS</a>

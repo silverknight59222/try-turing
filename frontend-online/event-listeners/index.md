@@ -70,4 +70,4 @@ When we "break" code, we are engaging in a process of tinkering with it to bette
 </div>
 
 <br>
-<a href="../">Back to Curriculum Index</a>
+<a href="../wrap-up-weekend">Wrap Up</a>

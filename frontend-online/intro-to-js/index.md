@@ -114,4 +114,4 @@ Anything inside the back ticks will be read as a string. But, when the interpret
 </div>
 
 <br>
-<a href="../">Back to Curriculum Index</a>
+<a href="../interacting-with-html">Next: Interacting with HTML</a>

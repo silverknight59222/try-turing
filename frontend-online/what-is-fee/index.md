@@ -93,4 +93,4 @@ We're going to dive into the three technologies used on the frontend:
 1. Listen and respond to user interactions such as _clicks_ and _mouseovers_
 
 <br>
-<a href="../">Back to Curriculum Index</a>
+<a href="../html-review">Next: HTML Review</a>
