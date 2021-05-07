@@ -16,18 +16,18 @@ layout: lesson
 <br>
 ## How Does the Internet Even Work?
 
-When you visit a URL like <code>google.com/calendar</code>, what happens?
+When you visit a URL like <code>https://www.instagram.com/</code>, what happens?
 
-<!-- Let's draw a slightly more involved diagram of the client-server model that you see below. -->
+Let's draw a slightly more involved diagram of the client-server model that is displayed:
 
-<img src="https://developer.mozilla.org/files/4291/client-server.png" alt="Client server model">
+<img src="https://developer.mozilla.org/files/4291/client-server.png" alt="Simple client server model, client/computer is on left side , with an arrow laebled 'request' pointing to a server on the right right. The server has an arrow labeled 'response' pointing back to the client. The set of arrows is labeled with 'HTTP(S)'.">
 <br>
 <small>Source: Mozilla.org</small>
 
 <br>
-## What is Back-End?
+## What is Back-End Engineering?
 
-In a broad sense, Back-End programming is concerned with managing and manipulating ​data​ (aka information).
+In a broad sense, Back-End engineering is concerned with managing and manipulating ​data​ (aka information).
 
 Consider a website like Instacart. When we view an Instacart page, what are the parts we actually care about? Why did we come here in the first place? In the screenshot below, the blue boxes represent examples of **dynamic data** that had to come from somewhere. That "somewhere" is what Back-End programming is concerned with.
 
@@ -55,6 +55,8 @@ There are numerous technologies that can be used for Back-End programming. Here 
 - **Languages and frameworks**: Ruby/Rails, Python/Django, Elixir/Phoenix, Java/Spring, and more.
 - **Databases**: PostgreSQL, MySQL, Oracle Database, MongoDB, etc.
 
-We won't be talking about anything except for a teeny tiny part of Ruby. However, we hope that these terms give you a lay of the land so that next time you hear one of these words, you can say "Aha! That's a database."
+>At Turing, our full-time students learn to program via Ruby and Ruby on Rails. We believe the fundamental concepts are more important that the language itself; students can easily pick up a new language once they have those fundamentals!
 
-<a href="../">Back to Curriculum Index</a>
+Today, we won't be talking about anything except for a teeny tiny part of Ruby. However, we hope that these terms give you a lay of the land so that next time you hear one of these words, you can say "Aha! That's a database."
+
+<a href="../ruby-review">Next: Ruby Review</a>

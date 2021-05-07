@@ -85,11 +85,9 @@ false</pre>
     </section>
     <br>
 
-    <p>Ruby provides a command that allows us to print out the data we are working with the the console. It's a tool for learning and troubleshooting, but isn't usually included in the final code of an app. Below is a screenshot of code after being run, in a repl.it. <a href="https://repl.it/@turingschool/puts-example#main.rb" target="blank">Click here to see the code and run it yourself</a>, if you'd like!</p>
+    <p>Ruby provides a command that allows us to print out the data we are working with the the console. It's a tool for learning and troubleshooting, but isn't usually included in the final code of an app. <a href="https://repl.it/@turingschool/puts-example#main.rb" target="blank">Click here to see the code and output</a>.</p>
 
-    <img
-      src="./assets/p1-replit.png"
-      alt="Screenshot of code in previous example, inside the replit platform" />
+    <img src="./assets/p1-replit.png" alt="Screenshot of code in previous example, inside the replit platform" />
 
     <p><em><span role="img" aria-label="finger pointing to text">👉🏽</span> This may not feel very exciting now, but it will be a useful tool as we move forward!</em></p>
     <br>

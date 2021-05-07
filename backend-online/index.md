@@ -4,25 +4,15 @@ layout: lesson
 
 # Back-End Online Curriculum
 
-Please complete the [pre-work that is outlined here](./pre-work) before attending the workshop
+Please complete the [pre-work that is outlined here](./pre-work) before attending the workshop.
 
 ## Instructor-Led Content
 
-- [Welcome](./welcome-bee-single)
+- [Welcome](./welcome-bee)
 - [What is Back-End Engineering?](./what-is-bee)
-- [Ruby Review](./ruby-review/1)
-- [User Input](./user-input/1)
-- [Arrays](./arrays/1)
-- [Extension: Control Flow](./control-flow/1)
+- [Ruby Review](./ruby-review)
+- [User Input](./user-input)
+- [Arrays](./arrays)
+- [Iteration](./iteration)
+- [Extensions](./extensions)
 - [Wrap Up](./wrap-up)
-
-
-<!-- - [Welcome](./welcome-bee-weekend)
-- [What is Back-End Engineering?](./what-is-bee)
-- [Ruby Review](./ruby-review/1)
-- [User Input](./user-input/1)
-- [Arrays](./arrays/1)
-- [Programming is Hard](./programming/1)
-- [Control Flow](./control-flow/1)
-- [Extensions](./extensions/1)
-- [Wrap Up](./wrap-up) -->
