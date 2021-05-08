@@ -15,7 +15,7 @@ layout: lesson
 
 Iteration (or looping for a specified number of times) is **the process of repeating a task for each object in a collection**. For each of the scenarios below, we’ll walk through using scenarios we are familiar with to demonstrate the concept.
 
-The following example would be programmatically challenging because they would require several steps, but are things that we do every day:
+The following example would be programmatically challenging because they would require several steps, but is something a teacher may do every day:
 
 **A teacher is grading papers and takes the following steps:**
   1. read through the paper
