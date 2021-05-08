@@ -31,6 +31,8 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 ### Zoom Practice!
 
-- Introduce yourself! Unmute and tell us 1) Where you're from 2) Why you decided to spend your weekend learning to code 3) Optional: either the most boring or most interesting fact about yourself
+- Type in the chat - what is your favorite or most used app?
+- Practice raising your hand with the zoom "raise hand" feature
+- Introduce yourself! Unmute and tell us: 1) Where you are calling in from, and 2) Why you decided to spend your weekend learning to code
 
 <a href="../what-is-bee">Next: What is Back-End Engineering?</a>
