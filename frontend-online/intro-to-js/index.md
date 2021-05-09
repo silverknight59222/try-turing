@@ -82,6 +82,7 @@ Variables are at the core of everything we do in programming and this isn't uniq
   <h2>Try It: Variables</h2>
   <p>Create a new pen in CodePen. For this exercise, you will be working in the JavaScript (JS) pane.</p>
   <p>Declare 4 variables, using the names <code>name</code>, <code>email</code>, <code>numberOfPets</code>, and<code>myLocation</code>. Assign each to an appropriate value.</p>
+  <p>Make sure to <code>console.log</code> each variable to verify you've stored it correctly!</p>
   <p>Finished? Declare at least two more variables - you choose the name and values!</p>
 </div>
 
