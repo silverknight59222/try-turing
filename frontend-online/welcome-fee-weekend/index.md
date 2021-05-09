@@ -11,18 +11,12 @@ layout: lesson
 
 ### What to Expect
 
-Over the course of the day, we will write code, continue to embrace productive struggle, and learn more about Turing.  We will ask you to share your code and be proactive about asking questions! Below is our agenda for the day:
+Over the course of the day, we will write (more) code, continue to embrace productive struggle, and learn more about Turing.  We will ask you to share your code and be proactive about asking questions! Below is our agenda for the day:
 
-- **10:00 - 11:45** Welcome, Setup, and Instruction
-- **11:45 - 12:00** Break
-- **12:00 - 12:45** Alum Q&A panel
-- **12:45 - 1:00** Break
+- **10:00 - 12:00** Welcome, Setup, and Instruction
+- **12:00 - 12:50** Alum Q&A panel
+- **12:50 - 1:00** Break
 - **1:00 - 2:50**  Instruction
 - **2:50 - 3:00**  Wrap Up, Questions
-
-### Learning Norms
-
-- No question is too small. No question is a bad question. Ask them!
-- We all benefit from each others ideas! Push yourself to share out and make sure you aren't sharing _so_ much that others don't have the space to do so.
 
 <a href="../what-is-fee">Next: What is Front-End Engineering?</a>
