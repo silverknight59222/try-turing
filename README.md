@@ -36,7 +36,7 @@ root
 etc...
 ```
 
-Inside of each curriculum directory, there should be an `index.md` file, an assets directory, and a series of directories - one directory for each section of the curriculum. Each section should have its own `index.md. Many will also have an archived directory with former versions of the workshop. Here's an example:
+Inside of each curriculum directory, there should be an `index.md` file, an assets directory, and a series of directories - one directory for each section of the curriculum. Each section should have its own `index.md` file. Many will also have an archived directory with former versions of the workshop. Here's an example:
 
 ```
 root
