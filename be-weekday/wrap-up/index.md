@@ -4,14 +4,14 @@ layout: lesson
 
 # Wrap Up
 
-## Thank you and CONGRATS 🎉
+<h2>Thank you and CONGRATS <span role="img" aria-label="celebration emoji">🎉</span></h2>
 
 Today might have been your first time coding - you did it! Thanks for spending your day with us. Please do share your feedback on today's workshop <a href="https://docs.google.com/forms/d/1WgNaki1iuVMXUj8KhWdbxcFpg4V4zyViU_fZu7p0G10/edit" target="blank">by filling out this form</a>.
 
 ## Contact
 
-- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.edu</strong> 
-- For questions regarding the application process and life at Turing, please email Chelsea at <strong>chelsea@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/ChelseaTuring" >set up a time to meet with her here</a>. She can also connect you with alums to learn more about their experiences
+- For technical questions regarding the content we learned today, you can email Amy at **amy@turing.edu** 
+- For questions regarding the application process and life at Turing, please email Chelsea at **chelsea@turing.io** or <a target="blank" href="https://go.oncehub.com/ChelseaTuring" >set up a time to meet with her here</a>. She can also connect you with alums to learn more about their experiences
 
 ## Additional Resources
 

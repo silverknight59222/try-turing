@@ -4,7 +4,7 @@ layout: lesson
 
 # Welcome to Try Coding!
 
-- Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
+- Please sign in here: <a target="blank" href="http://bit.ly/3949emq">http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
 - Change Zoom display name to first name, last initial, pronouns; ie - _Amy H. (she/her)_
 

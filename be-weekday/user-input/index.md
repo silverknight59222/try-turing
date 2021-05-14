@@ -50,7 +50,9 @@ We know how to get one input from a user. How do we go about getting multiple in
   <pre>Your name is Amy and you live in Denver. Your are 100 years old.</pre>
   <p>Try running your program a few times with different values stored in the variables.</p>
   <div class="spicy-container">
-    <p class="spicy-click">🌶 Click here for a Spicy Challenge 🌶</p>
+    <p class="spicy-click">
+      <span role="img" aria-label="spicy pepper">🌶</span>Click here for a Spicy Challenge<span role="img" aria-label="spicy pepper">🌶</span>
+    </p>
     <div class="spicy-toggle">
       <ul>
         <li>Modify the program so that when you ask the user the second quesiton, you use their first input, etc.</li>

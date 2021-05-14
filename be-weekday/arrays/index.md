@@ -61,7 +61,7 @@ puts names
 
 <div class="try-it-new">
   <h2>Try It: Arrays</h2>
-  <p>Fork <a target="blank" href="https://repl.it/@turingschool/Favorite-Foods">this repl</a> to your own account. </p>
+  <p>Fork <a target="blank" href="https://repl.it/@turingschool/Favorite-Foods">this repl.it</a> to your own account. </p>
   <p><b>Part 1:</b> Add code to make it so that the program asks the user for their favorite lunch food, favorite dinner food, and favorite dessert. Once you have those items, print them out for the user.</p>
   <p><b>Part 2:</b> Add one more question that asks the user to enter the <b>INDEX POSITION</b> of the item they'd like to delete. Note that when you get the user's input, you'll need to use <code>gets.chomp.to_i</code> in order to use the input as a number instead of a string. Then delete that from your array and re-print their foods list.</p>
   <p>This is an example of how your program should function:</p>
@@ -88,7 +88,9 @@ angel hair pasta with red sauce
 cheesecake</pre>
 
   <div class="spicy-container">
-    <p class="spicy-click">🌶Spicy Challenge🌶</p>
+    <p class="spicy-click">
+      <span role="img" aria-label="spicy pepper">🌶</span>Click here for a Spicy Challenge<span role="img" aria-label="spicy pepper">🌶</span>
+    </p>
     <div class="spicy-toggle">
     <p><strong>Challenge #1:</strong> It's not very intuitive for a user to enter "0" to delete the <b>first</b> item in their list. Can you modify the user's input number to match with how they probably expect the program to function? This means that if they enter "1", your program should delete the very first item in the list, not the second item.</p>
     <p><strong>Challenge #2:</strong> Use <a target="blank" href="https://repl.it/@turingschool/Iteration-Example">this example</a> of a concept called "iteration" in order to insert an asterisk (or another symbol of your choice) before each item when they're printed out.</p>
