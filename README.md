@@ -50,10 +50,6 @@ root
   |_ index.md
 ```
 
-#### Styling 
-
-Each page, or type of page (for example, the lesson page), has its own `sass` file for styling. That file lives in the `_sass` directory, and must be imported into `stylesheets/styles-2017121801.scss`.
-
 #### Headers in Markdown Files
 
 For each file, include a header with the following syntax:
@@ -67,10 +63,13 @@ layout: lesson
 
 The title will appear as the `h1` on that page and the value provided for layout will correspond to a template in the `_layouts` directory.
 
-#### Available Styles
+#### Styling 
+
+Each page, or type of page (for example, the lesson page), has its own `sass` file for styling. That file lives in the `_sass` directory, and must be imported into `stylesheets/styles-2017121801.scss`.
+
+Some components have been built for conssitency across lessons. Since they require classes, they are written in HTML.
 
 Try It Boxes:
-
 ```html
 <div class="try-it-new">
   <h2>Try It: Title Here</h2>
@@ -79,7 +78,6 @@ Try It Boxes:
 ```
 
 Help Me Buttons:
-
 ```html
 <div class="help-container">
   <button class="help-click"><span role="img" aria-label="raised hand">🤚</span>Help Me!</button>
@@ -90,7 +88,6 @@ Help Me Buttons:
 ```
 
 Spicy Challenge Boxes:
-
 ```html
 <div class="spicy-container">
   <p class="spicy-click">
