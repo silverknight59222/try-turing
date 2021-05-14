@@ -10,7 +10,7 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
-- Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
+- Change Zoom display name to first name, last initial, pronouns; _ie - Amy H. (she/her)_
 
 ## What to Expect
 

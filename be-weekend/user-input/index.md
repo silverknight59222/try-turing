@@ -17,7 +17,7 @@ Our programs haven't been very exciting so far because we already know what will
 **Directions:**
 
 1. Read the code below and *predict* what it will do.
-2. Run the program. It's interactive, so be ready to type in your answers.
+2. Run the program. It's interactive, so be ready to type in your answers into the console area.
 
 <iframe height="400px" width="100%" src="https://repl.it/@turingschool/ColdPowderblueMeasurements?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
@@ -27,7 +27,9 @@ Our programs haven't been very exciting so far because we already know what will
   <p>While working through this challenge, pay attention to these programmer skills: <b>1)</b> keyboard shortcuts (specifically for copy and paste!), and <b>2)</b> reading error messages.</p>
 
   <div class="spicy-container">
-    <p class="spicy-click">🌶Spicy Challenge🌶</p>
+    <p class="spicy-click">
+      <span role="img" aria-label="spicy pepper">🌶</span>Click here for a Spicy Challenge<span role="img" aria-label="spicy pepper">🌶</span>
+    </p>
     <div class="spicy-toggle">
     <p>Are there any inputs that should be screamed at the user? If so, can you use a Ruby method to capitalize all of the letters of that input? If you aren't sure where to start, check out <a href="https://code-maven.com/how-to-convert-a-string-to-uppercase-or-lowercase-in-ruby">this resource</a> for a strategy on how to do that.</p>
     </div>

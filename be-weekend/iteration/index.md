@@ -15,7 +15,7 @@ layout: lesson
 
 Iteration (or looping for a specified number of times) is **the process of repeating a task for each object in a collection**. For each of the scenarios below, we’ll walk through using scenarios we are familiar with to demonstrate the concept.
 
-The following example would be programmatically challenging because they would require several steps, but is something a teacher may do every day:
+The following example would be programmatically challenging because it would require several steps, but is something a teacher may do every day:
 
 **A teacher is grading papers and takes the following steps:**
   1. read through the paper
@@ -49,7 +49,6 @@ puts names[3]
 ```
 
 If we wanted to take action with each name, we'd have to write that code out 4 times. If we added a name, or 30 names, we'd have to re-write that code for each name added. As you can imagine, this can become very redundant and create oportunities for human error!
-
 <br>
 
 ## `.each` syntax

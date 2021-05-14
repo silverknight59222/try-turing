@@ -10,11 +10,11 @@ layout: lesson
 
 - Classify data as the Number, String, or Boolean data type
 - Store various data types in variables
-- Use String interpolation
+- Use String Interpolation
 
 ## Pre-work Review
 
-Look at the contrived program below. 
+Look at the Ruby program below. 
 1. Using what you learned from the pre-work, share one or more statements about the code. Feel free to use vocabulary such as variable, string, integer, reassigned, underscore, method, snake case, etc.
 1. This code also introduces a couple new concepts. Note things that are new to you, or jot down a question!
 

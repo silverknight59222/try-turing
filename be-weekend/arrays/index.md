@@ -9,6 +9,7 @@ layout: lesson
 ## Goals
 
 - Store multiple pieces of data in on variable using an array
+- Understand the purpose and use-case for arrays in real-world applications
 
 ## The Array
 
@@ -77,7 +78,9 @@ angel hair pasta
 cheesecake</pre>
 
   <div class="spicy-container">
-    <p class="spicy-click">🌶Spicy Challenge🌶</p>
+    <p class="spicy-click">
+      <span role="img" aria-label="spicy pepper">🌶</span>Click here for a Spicy Challenge<span role="img" aria-label="spicy pepper">🌶</span>
+    </p>
     <div class="spicy-toggle">
     <p>It's not very intuitive for a user to enter "0" to delete the <b>first</b> item in their list. Can you modify the user's input number to match with how they probably expect the program to function? This means that if they enter "1", your program should delete the very first item in the list, not the second item.</p>
     </div>
