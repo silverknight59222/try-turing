@@ -6,7 +6,7 @@ layout: lesson
 
 # Wrap Up
 
-THANK YOU for joining us today and all your hard work! You did it 🎉
+<h2>THANK YOU for joining us today and all your hard work! You did it <span role="img" aria-label="celebration emoji">🎉</span></h2>
 
 ## Next Steps
 

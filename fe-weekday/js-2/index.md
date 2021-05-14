@@ -37,8 +37,8 @@ The next stepping stone is learning how to _change_ the text inside an HTML elem
   <h2>Apply & Explore</h2>
   <p><a href="https://codepen.io/turing-trycoding/pen/yLVMBjP?editors=1010" target="blank">Use this CodePen as a starter</a> for this short activity.</p>
   <ol>
-    <li>Create a variable that stores the <code class="try-it-code">h1</code> element.</li>
-    <li>On the next line, type something like <code class="try-it-code">variableName.text('new text');</code>, using the variable name you selected and any text you'd like to see in the browser.</li>
+    <li>Create a variable that stores the <code>h1</code> element.</li>
+    <li>On the next line, type something like <code>variableName.text('new text');</code>, using the variable name you selected and any text you'd like to see in the browser.</li>
     <li>Look in the mini browser - it should display the text you typed in that last line of code.</li>
   </ol>
 </div>

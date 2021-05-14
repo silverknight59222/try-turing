@@ -63,7 +63,7 @@ This line of code says "for the `feedbackText` variable, change the text inside 
   <p><strong>STEP 4:</strong> Instead of notifying your user of the number they typed, write an if statement to compare the users guess to the correct number.</p>
   <p>Depending on if the users guess is correct or incorrect, change the text of the "feedbackText" paragraph to a relevant message!</p>
   <div class="help-container">
-  <button class="help-click">🤚Help Me!</button>
+  <button class="help-click"><span role="img" aria-label="raised hand">🤚</span>Help Me!</button>
     <div class="help-toggle">
       <p><a href="https://codepen.io/turing-trycoding/pen/abBpgNg?editors=1010" target="blank">Here is a CodePen with a working solution - it starts on line 17.</a></p>
     </div>

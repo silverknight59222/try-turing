@@ -10,7 +10,7 @@ _This will be best experienced on a desktop or laptop computer._
 
 We are so glad you are here! To get set up...
 1. Open up <a target="blank" href="http://codepen.io/">CodePen</a> in a browser (preferably Chrome) and log in to your account
-1. Please change your zoom name to first, last initial, pronouns (ex: _Amy H. (she/her)_)
+1. Please change your zoom name to first name, last initial, pronouns (ex: _Amy H. (she/her)_)
 <br><br>
 
 ## What to Expect
@@ -19,8 +19,8 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 - **9:00 - 9:15** Welcome, Intros, Setup
 - **9:15 - 11:45** Instruction (with breaks!)
-- **11:45 - 12:15** Turing Info
-- **12:15 - 1:00** Alumni Panel
+- **11:45 - 12:20** Turing Info
+- **12:20 - 1:00** Alumni Panel
 <br><br>
 
 ## Goals
@@ -53,7 +53,6 @@ It can feel like a lot, but let's start by building an understanding of what eac
     <img class="medium-img" src="./assets/js.png" alt="Drawing of human skeleton" />
   </div>
 </section>
-
 <br><br>
 
 ## Now, it gets even more fun:

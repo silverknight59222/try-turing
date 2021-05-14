@@ -20,7 +20,6 @@ The syntax for declaring variables and assigning a value to them is as follows:
 var dogAge = 7;
 var humanAge = 44;
 
-
 alert(dogAge);
 alert(humanAge);
 ```

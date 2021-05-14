@@ -108,6 +108,8 @@ Spicy Challenge Boxes:
 - Pad each heading, paragraph, and code snippet with one line of white space in markdown files
 - Use `<a target="blank">` for external link rather than the Markdown `[]()` so use is not navigated away from curriculum site (please don't include the underscore before blank as it throws off syntax highlighting in many text editors, when in markdown files)
 - Don't use periods at the end of each item on an unordered list
+- For links within the site, default to referencing `{{ site.url }}` rather than the live URL
+- We use the Oxford comma
 
 GitHub uses a slightly different system for translating from Markdown than the engine we use for try.turing.io. Keep in mind:
 
