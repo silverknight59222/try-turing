@@ -20,9 +20,9 @@ The changes may take a minute or two to be recognized on production. Please make
 ### Structure of Site
 
 The site has 3 main pages:
-- landing page (/index.html)
-- Workshop Curriculum Index (/workshop-curriculm/index.html)
-- What Students Learn and Build at Turing (/what-students-learn/index.html)
+- landing page (`/index.html`)
+- Workshop Curriculum Index (`/workshop-curriculm/index.html`)
+- What Students Learn and Build at Turing (`/what-students-learn/index.html`)
 
 All content files (which are mainly lessons) in the site can be written as either Markdown or HTML. Each curriculum is housed in its own directory at the root of the project.
 
