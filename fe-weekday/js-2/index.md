@@ -8,6 +8,8 @@ layout: lesson
 
 To get all the fun and important interactions on a page, we have to connect the specific parts of HTML that we intend to allow interactions, to JavaScript!
 
+>Note: We will be using jQuery, a JavaScript library, to assist us in completing some of the tasks that follow. If you create your own CodePen at any point, make sure to [add jQuery to the pen in order for it to work!](https://blog.codepen.io/documentation/using-javascript-libraries/)
+
 ## Accessing HTML from JavaScript
 
 Let's look at [the code in this CodePen](https://codepen.io/turing-trycoding/pen/gOLmYvp?editors=1010), also typed out below, to learn how to start the "conversation" between HTML and JavaScript.
