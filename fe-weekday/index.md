@@ -23,6 +23,14 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - **12:20 - 1:00** Alumni Panel
 <br><br>
 
+## Intros
+
+We'd love to give everyone a chance to say hi, as well as do a mic check. Please share:
+- Your name and pronouns
+- Your location
+- What brought you here!
+<br><br>
+
 ## Goals
 
 - Build and customize a virtual Number Guesser Game [similar to this](https://codepen.io/turing-trycoding/full/abBpgNg)
