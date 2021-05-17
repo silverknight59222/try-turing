@@ -25,11 +25,11 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 ## Goals
 
-- Build and customize a virtual Number Guesser Game
+- Build and customize a virtual Number Guesser Game [similar to this](https://codepen.io/turing-trycoding/full/abBpgNg)
 - Gain _exposure_ and familiarity with some HTML and JavaScript
 - Determine if coding is something you enjoy doing and want to pursue further, and get a feel for what Turing is all about
 
-Disclaimer: We won't become experts in these languages today. And you may leave with more questions than answers!
+_Disclaimer: We won't become experts in these languages today. And you may leave with more questions than answers!_
 <br><br>
 
 ## Programming Languages We Will Use
