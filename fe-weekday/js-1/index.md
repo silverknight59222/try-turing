@@ -27,13 +27,10 @@ The syntax for declaring variables and assigning a value to them is as follows:
 
 ```js
 var age = 23;
-var dogAge = 7;
-
-alert(age);
-alert(dogAge);
+// alert(age);
 
 var sum = 3 + 4;
-alert(sum);
+// alert(sum);
 ```
 
 ## Variables and Calculations
