@@ -46,6 +46,12 @@ var totalLaundryTime = washCycleMinutes + dryCycleMinutes;
 alert(totalLaundryTime); // alert message will be: 83
 ```
 
+<div class="try-it-new">
+  <h2>Try It</h2>
+  <p>In a new CodePen, declare two variables (name of your choice) and store a value in each one!</p>
+  <p>Then use the alert method to ensure it's being stored correctly!</p>
+</div>
+
 ### Comparisons
 
 JavaScript can also do comparisons! Today, we will focus on comparing numbers.
