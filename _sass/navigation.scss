@@ -24,6 +24,7 @@ nav {
     color: $dark-gray;
     border-bottom: 3px solid transparent;
     transition: border-color 0.3s;
+    text-decoration: none;
   }
 
   li:not(:first-child) {
