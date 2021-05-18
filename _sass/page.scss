@@ -10,12 +10,6 @@ html {
   font-family: 'Open Sans', sans-serif
 }
 
-a:link,
-a:visited {
-  text-decoration: none;
-  color: darken($turing-primary, 40);
-}
-
 #toc a:hover,
 a:hover {
   color: #000;
@@ -154,7 +148,7 @@ section ul {
 }
 
 section code {
-  font-size: 1.25rem;
+  font-size: 1rem;
   color: #fc4b60
 }
 

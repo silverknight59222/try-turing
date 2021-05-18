@@ -34,14 +34,10 @@
     color: #5F5F5F;
   }
 
-  .curriculum-btn {
-    width: 90%;
+  a.s-button {
     margin-bottom: 1rem;
+    width: 80%;
     text-align: center;
-    color: $light-gray;
-    &:hover {
-      color: #fff;
-    }
   }
 }
 
