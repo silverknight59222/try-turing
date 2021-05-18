@@ -266,9 +266,6 @@ img {
 }
 
 a {
-  border-bottom: 2px solid lighten($medium-gray, 20);
-  color: darken($turing-primary, 30);
-  text-decoration: none;
   transition: all 0.3s;
 
   &:hover {
@@ -392,16 +389,6 @@ header {
   &:hover {
     color: black;
   }
-}
-
-.lesson a:link,
-.lesson a:visited,
-.project a:link,
-.project a:visited
- {
-  color: darken($dark-gray, 10%);
-  text-decoration: none;
-  font-weight: 500;
 }
 
 .small {
