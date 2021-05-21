@@ -39,7 +39,6 @@ Option 1: Live code solution (code along or watch)
 Option 2: Un-comment next chunk of code in starter kit
 
 > A final working solution [can be found here](https://repl.it/@turingschool/Lite-Brite-solutioon#script.js)
-
 <br>
 
 ## JavaScript Functionality Summary

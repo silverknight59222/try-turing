@@ -28,7 +28,7 @@ Now, let's walk through each line of the existing JavaScript to understand what'
 
 Here is a marked-up screenshot that illustrates what-is-connected-to-what.
 
-<img src="./assets/breakdown.png" alt="JS Code from Lite-Brite starter kit" />
+![JS Code from Lite-Brite starter kit](../assets/breakdown.png)
 
 <div class="try-it-new">
   <h2>Break Code to Learn</h2>

@@ -6,11 +6,9 @@ layout: lesson
 
 # Modifying the Lite-Brite HTML
 
-
 ## Tour the Existing Code
 
 - Elements that live inside of the `body` tags will be displayed on the page (lines 11-27)
-
 
 ### Explore to Learn:
 
