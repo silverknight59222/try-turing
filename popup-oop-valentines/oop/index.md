@@ -18,7 +18,7 @@ Let's think about some components of the candy factory that makes the conversati
 
 With the information above, in theory, the manager at the factory should be able to say "make me a blue heart with the message of 'dream big' and a yellow heart with the message of 'love you'", and that should be possible.
 
-<img class="small-img" src="{{ site.url }}/assets/images/conversation-hearts.jpg" alt="Huge pile of conversation heart candies in various pastel colors.">
+<img class="small-img" src="../assets/conversation-hearts.jpg" alt="Huge pile of conversation heart candies in various pastel colors.">
 
 That example about the Candy Factory tie directly to concepts of OOP. We will use three main technical terms today. They are below, with the connection to the Candy Factory example:
 - **`class`** - A class is like a blueprint or template. The factory machines are designed to make a certain sized heart shape candy with a certain material - that is the template for ALL candies. We could probably name it the _Candy_ class.

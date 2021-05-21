@@ -4,7 +4,7 @@ layout: lesson
 
 # Pop Up: Valentines OOP
 
-<img src="https://i.pinimg.com/originals/c8/2c/11/c82c11a91ee8ff410c660fcde4e7b807.jpg" alt="Three cereal boxes decorated by, probably children, with slots to accept valentine cards">
+![Three cereal boxes decorated by, probably children, with slots to accept valentine cards](https://i.pinimg.com/originals/c8/2c/11/c82c11a91ee8ff410c660fcde4e7b807.jpg)
 <br>
 
 Thinking of a Valentines boxes and those little heart candies may make you nostalgic. But these days, they are covered in germs. In this live, instructor-led workshop, you will build and customize your very own computer program that will generate Valentines, while learning the fundamentals of Object-Oriented Programming!
@@ -36,17 +36,14 @@ Back-End Engineering is concerned with the management of data for an application
 While OOP is not exclusive to Ruby, the Ruby programming languages usually follows the patterns of OOP.
 
 <section class="data-type-cards language-cards">
-  
   <div>
     <h3>Ruby</h3>
     <p>Ruby is the programming lanugage we will write in today, to give instructions to the computer. It's known to be a beginner friendly language because of it's syntax and similarities to the English language!</p>
   </div>
-
   <div>
     <h3>OOP</h3>
     <p>Object-Oriented Programming (OOP) is a programming paradigm that we can use with many lanuages, including Ruby and Python. It focuses on writing re-usable code.</p>
   </div>
-
 </section>
 <br><br>
 

@@ -4,7 +4,7 @@ layout: lesson
 
 <a href="../">Back to Setup Page</a>
 
-# Wrap Up 💕
+# Wrap Up <span role="img" aria-label="two pink hearts emoji">💕</span>
 
 In a short afternoon we have worked through a LOT of content! Remember, the goal wasn't to become an expert, so you shouldn't actually feel like one. You should have a sense of if you like coding and thinking like a programmer, and have some questions bubbling up about what else is possible and how it might be acheived!
 
