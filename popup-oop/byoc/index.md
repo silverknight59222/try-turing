@@ -12,19 +12,17 @@ For this final section, you will choose the pace at which you want to work and t
 
 <section class="data-type-cards language-cards">
   <div>
-    <h3>Mild 🔥</h3>
+    <h3>Mild <span role="img" aria-label="one flame emoji">🔥</span></h3>
     <p>You will get starter code and some step-by-step directions that walk you through what to do and why you're doing it.</p>
     <p><a href="https://repl.it/@turingschool/oop-mild-starter#main.rb">This is your starter kit.</a></p>
   </div>
-
   <div>
-    <h3>Medium 🔥🔥</h3>
+    <h3>Medium <span role="img" aria-label="two flame emojis">🔥🔥</span></h3>
     <p>You will get some starter code and some direction on what to add to it, but will be pushed to apply all of today's learning without explicit direction at times.</p>
     <p><a href="https://repl.it/@turingschool/oop-medium-starter#main.rb">This is your starter kit.</a></p>
   </div>
-
   <div>
-    <h3>Spicy 🔥🔥🔥</h3>
+    <h3>Spicy <span role="img" aria-label="three flame emojis">🔥🔥🔥</span></h3>
     <p>You will not have any starter code for this option. Choose your own topic to make a class and instances of.</p>
     <p>There is no starter kit; create a new repl.it on your own!</p>
   </div>

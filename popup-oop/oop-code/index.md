@@ -34,6 +34,6 @@ Now that you've seen how this "factory" concept can be used in code, you may be 
 
 We won't get all the way there in illustrating it today, but, we can look at Instagram for a moment to talk through where we see some use of classes and instances.
 
-<img src="{{ site.url }}/assets/images/instagram-oop.png" alt="Instagram screenshot with annotations for user profile class and post class.">
+![Instagram screenshot with annotations for user profile class and post class.](../assets/instagram-oop.png)
 
 <a href="../byoc">Next: Build Your Own Class</a>

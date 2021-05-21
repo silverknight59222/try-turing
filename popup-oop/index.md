@@ -3,7 +3,6 @@ layout: lesson
 ---
 
 # Pop Up: Object Oriented Programming
-<br>
 
 In this live, instructor-led workshop, you will build and customize your very own computer program while learning the fundamentals of Object-Oriented Programming!
 
@@ -33,17 +32,14 @@ Back-End Engineering is concerned with the management of data for an application
 While OOP is not exclusive to Ruby, the Ruby programming languages usually follows the patterns of OOP.
 
 <section class="data-type-cards language-cards">
-  
   <div>
     <h3>Ruby</h3>
     <p>Ruby is the programming lanugage we will write in today, to give instructions to the computer. It's known to be a beginner friendly language because of it's syntax and similarities to the English language!</p>
   </div>
-
   <div>
     <h3>OOP</h3>
     <p>Object-Oriented Programming (OOP) is a programming paradigm that we can use with many lanuages, including Ruby and Python. It focuses on writing re-usable code.</p>
   </div>
-
 </section>
 <br><br>
 
@@ -51,7 +47,7 @@ While OOP is not exclusive to Ruby, the Ruby programming languages usually follo
 
 To gain some familiarity with repl.it, the interface we will use to write code in today, and start looking at some Ruby code, click [this link](https://repl.it/@turingschool/Ruby-Replit-Intro#main.rb). To start, you'll first need to click the blue "Fork" button.
 
-<img src="./assets/repl-fork.png" alt="Screenshot of repl interface with arrow pointing to top right corner, fork button">
+![Screenshot of repl interface with arrow pointing to top right corner, fork button](./assets/repl-fork.png)
 
 1. Change the text `NAME` on line 2 to your name
 1. Click the green run/play button at the top center of the page
