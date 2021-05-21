@@ -25,7 +25,6 @@ One second into the animation, the background will be red, at two seconds, yello
 
 Explore a new version of the rolling ball animation by looking at the code in [this repl.it](https://repl.it/@turingschool/RollBall-Animation-Extension#style.css)!
 
-
 ## Level up your Rocket
 
 Now that your explored how percentages work in animations, can you adjust your rocket animation so it feels a bit more realistic? The possibilities are ENDLESS and there are no real _right_ answers here - have some fun with it!

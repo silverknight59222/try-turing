@@ -4,7 +4,7 @@ layout: lesson
 
 # Pop Up: Animate a Rocket with CSS
 
-In this live, instructor-led workshop, you will customize a drawing of a rocket and program it to fly across the page! You'll leave with your animated rocket on a website that you can share with anyone around the world 🚀
+In this live, instructor-led workshop, you will customize a drawing of a rocket and program it to fly across the page! You'll leave with your animated rocket on a website that you can share with anyone around the world <span role="img" aria-label="rocket emoji">🚀</span>
 
 _This will be best experienced on a desktop or laptop computer._
 

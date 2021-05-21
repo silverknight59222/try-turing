@@ -8,7 +8,7 @@ layout: lesson
 
 One final step... let's make sure everyone can find the link to share your animation with the world.
 
-You can find the live URL above the "mini browser". Copy and paste the link, or click the button in the far-right to open it in a new tab. Have fun 🚀
+You can find the live URL above the "mini browser". Copy and paste the link, or click the button in the far-right to open it in a new tab. Have fun <span role="img" aria-label="rocket emoji">🚀</span>
 
 <img src="./assets/live-link.png" alt="Screenshot of repl.it interface with box highlighting the URL to the live site page on far right/top" />
 

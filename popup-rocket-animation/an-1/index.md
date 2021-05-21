@@ -31,10 +31,10 @@ The code snippet that follows gives an example of the animation rules for an ele
 
 ```css
 .ball {
-    animation-name: rollBall;
-    animation-duration: 2s;
-    animation-timing-function: ease-out;
-    animation-delay: 1s;
+  animation-name: rollBall;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+  animation-delay: 1s;
 }
 ```
 
@@ -48,25 +48,25 @@ Providing all this information to an element alone, isn't enough. We also have t
 
 ```css
 .ball {
-    animation-name: rollBall;
-    /* other code from above... */
+  animation-name: rollBall;
+  /* other code from above... */
 }
 
 @keyframes rollBall {
-    to { margin-left: 75% }
+  to { margin-left: 75% }
 }
 ```
 
 <div class="try-it-new">
-    <h2>Modify the Existing Code</h2>
-    <p>Now that we can see what's required to write an animation, let's tweak <a href="https://repl.it/@turingschool/RollBall-Animation-Starter#style.css">the code in this repl.it</a> to gain some comfort with it.</p>
-    <ul>
-        <li>Change the name of the animation. Make sure to change it in <em>both</em> places so that it still works.</li>
-        <li>Change the duration and/or delay to your liking!</li>
-        <li>The ball currently "eases out" - try changing that value to <code class="try-it-code">ease-in</code> and <code class="try-it-code">linear</code>. Observe how they behave and select the one you like best.</li>
-        <li>Curious about how to get the ball to stay put after it's rolled to the right side of the screen? Add one more line of code to the <code class="try-it-code">.ball</code> rule: <code class="try-it-code">animation-fill-mode: forwards;</code></li>
-    </ul>
-    <p><em><span aria-role="img" alt="Shiny star enoji">🌟</span> AGAIN: we are still just exploring! It's unlikely you feel comfortable or fluent with these concepts and syntax; that's normal.</em></p>
+  <h2>Modify the Existing Code</h2>
+  <p>Now that we can see what's required to write an animation, let's tweak <a href="https://repl.it/@turingschool/RollBall-Animation-Starter#style.css">the code in this repl.it</a> to gain some comfort with it.</p>
+  <ul>
+    <li>Change the name of the animation. Make sure to change it in <em>both</em> places so that it still works.</li>
+    <li>Change the duration and/or delay to your liking!</li>
+    <li>The ball currently "eases out" - try changing that value to <code class="try-it-code">ease-in</code> and <code class="try-it-code">linear</code>. Observe how they behave and select the one you like best.</li>
+    <li>Curious about how to get the ball to stay put after it's rolled to the right side of the screen? Add one more line of code to the <code class="try-it-code">.ball</code> rule: <code class="try-it-code">animation-fill-mode: forwards;</code></li>
+  </ul>
+  <p><em><span aria-role="img" alt="Shiny star enoji">🌟</span> AGAIN: we are still just exploring! It's unlikely you feel comfortable or fluent with these concepts and syntax; that's normal.</em></p>
 </div>
 
 ## Animations Summary

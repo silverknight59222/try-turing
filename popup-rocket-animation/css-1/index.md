@@ -35,7 +35,7 @@ While exploring, you probably made some deductions about what some properties do
 - `margin`
 - `border`
 
-<img src="./assets/box-model.png" alt="Diagram of box model showing content at center, outlined by padding, outlined by border, which is outlined by margin.">
+![Diagram of box model showing content at center, outlined by padding, outlined by border, which is outlined by margin.](../assets/box-model.png)
 
 <div class="try-it-new">
   <h2>Modify the Existing Code</h2>

@@ -11,14 +11,14 @@ To animate your rocket, we will give you some code to start with, and some room 
 >You may want to keep the rolling ball repl.it open in another tab as a reference.
 
 <div class="try-it-new">
-    <h2>Animate!</h2>
-    <p>Steps 1 and 2 do not have to be taken in order - you choose where you'd like to start!</p>
-    <ol>
-        <li>Inside of your <code class="try-it-code">.rocket</code> rule, declare an animation name, duration, timing function and delay.</li>
-        <li>Outside of your <code class="try-it-code">.rocket</code> rule, write a keyframe. Use this code: <code class="try-it-code">to { transform: translate(0px, -450px) }</code> inside of the keyframe.</li>
-    </ol>
-    <p>After completing Steps 1 and 2, run the code. Is the animation running? If not - let's troubleshoot for typos or small errors; feel free to ask for help! If so - what is it doing, and what do you want to change about it?</p>
-    <p>Want to check your solution against ours? <a href="https://repl.it/@turingschool/rocket-animation-solution#style.css">Check this one out.</a></p>
+  <h2>Animate!</h2>
+  <p>Steps 1 and 2 do not have to be taken in order - you choose where you'd like to start!</p>
+  <ol>
+    <li>Inside of your <code class="try-it-code">.rocket</code> rule, declare an animation name, duration, timing function and delay.</li>
+    <li>Outside of your <code class="try-it-code">.rocket</code> rule, write a keyframe. Use this code:<code class="try-it-code">to { transform: translate(0px, -450px) }</code> inside of the keyframe.</li>
+  </ol>
+  <p>After completing Steps 1 and 2, run the code. Is the animation running? If not - let's troubleshoot for typos or small errors; feel free to ask for help! If so - what is it doing, and what do you want to change about it?</p>
+  <p>Want to check your solution against ours? <a href="https://repl.it/@turingschool/rocket-animation-solution#style.css">Check this one out.</a></p>
 </div>
 
 ## Level Up
@@ -41,7 +41,6 @@ _Hint: You'll need to write animations for the specific pieces of the rocket, an
 
 ## Boosters
 Could you get the wings (pretend they are boosters) to break off as the rocket leaves the page?
-
 <br>
 
 ## Animations Summary
