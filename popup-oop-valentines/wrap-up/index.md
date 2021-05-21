@@ -10,7 +10,7 @@ In a short afternoon we have worked through a LOT of content! Remember, the goal
 
 ## Next Steps
 
-Are you in love with coding? [Set up a time to meet with Chelsea](https://go.oncehub.com/ChelseaTuring) about what that could look like for you at Turing _or_ send her an email at **chelsea@turing.io**.
+Are you in love with coding? [Set up a time to meet with Chelsea](https://go.oncehub.com/ChelseaTuring) about what that could look like for you at Turing _or_ send her an email at **chelsea@turing.edu**.
 
 Want to do a little more exploration before taking the next step toward a career change? Here are some great places to start:
 - Attend a Try Coding Weekend workshop where you'll go a bit more in depth as to how things work in a given language, and explore the difference between Front-End and Back-End Engineering. We can send a promo code so you can register for free!

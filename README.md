@@ -108,7 +108,7 @@ Spicy Challenge Boxes:
 - For links within the site, default to referencing `{{ site.url }}` rather than the live URL
 - We use the Oxford comma
 
-GitHub uses a slightly different system for translating from Markdown than the engine we use for try.turing.io. Keep in mind:
+GitHub uses a slightly different system for translating from Markdown than the engine we use for try.turing.edu. Keep in mind:
 
 - Use a space after your ``#``'s in headers
 - Use a blank line between your headers and any content below

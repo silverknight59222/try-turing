@@ -43,7 +43,7 @@ We know how to get one input from a user. How do we go about getting multiple in
 <div class="try-it-new">
   <h2>Try It: Getting Multiple User Inputs</h2>
   <p>Write a program that asks a user for their <code>name</code>, <code>location</code>, and <code>email_address</code>. Output the following:</p>
-  <pre>Your name is Amy and you live in Denver, CO. Your email address is amy@turing.io.</pre>
+  <pre>Your name is Amy and you live in Denver, CO. Your email address is amy@turing.edu.</pre>
   <p>Try running your program a few times with different values stored in the variables.</p>
 
   <div class="spicy-container">

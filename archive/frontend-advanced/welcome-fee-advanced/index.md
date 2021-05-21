@@ -8,7 +8,7 @@ layout: lesson
 
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open and Remix <a target="blank" href="https://glitch.com/edit/#!/try-coding-advanced-starter">this Glitch project</a> in a browser (preferably Chrome)
-- In another tab, open up <a target="blank" href="https://try.turing.io/frontend-advanced">try.turing.io/frontend-advanced</a>
+- In another tab, open up <a target="blank" href="https://try.turing.edu/frontend-advanced">try.turing.edu/frontend-advanced</a>
 - Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 
 ### What to Expect

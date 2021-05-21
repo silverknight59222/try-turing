@@ -22,9 +22,9 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 
 If you're considering changing careers, we're here to answer your questions!
 
-- For technical questions regarding the content we learned today and what is taught at Turing, you can email Amy at **amy@turing.io**
+- For technical questions regarding the content we learned today and what is taught at Turing, you can email Amy at **amy@turing.edu**
 - For questions regarding application process, life at Turing, and more please email Chelsea at **chelsea@turing.edu** or <a target="blank" href="https://go.oncehub.com/ChelseaTuring">set up a time to work with her here</a>
-- To start your application, visit <a target="blank" href="https://apply.turing.io/">apply.turing.edu</a>
+- To start your application, visit <a target="blank" href="https://apply.turing.edu/">apply.turing.edu</a>
 
 ## Additional Resources
 

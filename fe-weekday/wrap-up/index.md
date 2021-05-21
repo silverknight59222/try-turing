@@ -11,7 +11,7 @@ THANK YOU for joining us today and all your hard work! You did it <span role="im
 ## Next Steps
 
 Are you in love with coding? Here are some next steps you may want to take:
-- [Set up a time to meet with Chelsea](https://go.oncehub.com/ChelseaTuring) about what that could look like for you at Turing _or_ send her an email at **chelsea@turing.io**.
+- [Set up a time to meet with Chelsea](https://go.oncehub.com/ChelseaTuring) about what that could look like for you at Turing _or_ send her an email at **chelsea@turing.edu**.
 - [Start your application](https://apply.turing.edu/) to join us as a full-time student
 
 Want to do a little more exploration before taking the next step toward a career change? Here are some great places to start:

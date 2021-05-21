@@ -43,9 +43,9 @@ Arrays can also be written with values on separate lines, like so:
 
 ```js
 var emails = [
-  'amy@turing.io',
-  'rachel@turing.io',
-  'anna@turing.io'
+  'amy@turing.edu',
+  'rachel@turing.edu',
+  'anna@turing.edu'
 ];
 ```
 
@@ -54,12 +54,12 @@ var emails = [
 Over time, we may want to add or remove elements from an array. Today we will focus on adding. We can use a method called `.push` to add new elements to arrays:
 
 ```js
-var emails = ['amy@turing.io', 'rachel@turing.io', 'anna@turing.io'];
+var emails = ['amy@turing.edu', 'rachel@turing.edu', 'anna@turing.edu'];
 
-emails.push('erin@turing.io');
+emails.push('erin@turing.edu');
 
 console.log(emails);
-// ['amy@turing.io', 'rachel@turing.io', 'anna@turing.io', 'erin@turing.io']
+// ['amy@turing.edu', 'rachel@turing.edu', 'anna@turing.edu', 'erin@turing.edu']
 ```
 
 <div class="try-it-new">
@@ -87,7 +87,7 @@ Iteration is defined as _the repetition of a process_. In programming, we will d
 Let's look at the syntax:
 
 ```js
-var emails = ['amy@turing.io', 'rachel@turing.io', 'anna@turing.io'];
+var emails = ['amy@turing.edu', 'rachel@turing.edu', 'anna@turing.edu'];
 
 emails.forEach(function(email) {
   var message = `Thanks for being a loyal customer, ${email}!`;
@@ -125,13 +125,13 @@ Alert messages, or logging to the console won't do our user much good. As Front-
 Using everything we've learned up until now, let's break this code down:
 
 ```js
-var emailConfirmations = document.getElementById('confirm-section');  // 1
-var emails = ['amy@turing.io', 'rachel@turing.io', 'anna@turing.io']; // 2
-                                                                      // 3
-emails.forEach(function(email) {                                      // 4
-  var message = `<p>An email has been sent to: ${email}!</p>`;        // 5
-  emailConfirmations.innerHTML += message;                            // 6
-});                                                                   // 7
+var emailConfirmations = document.getElementById('confirm-section');     // 1
+var emails = ['amy@turing.edu', 'rachel@turing.edu', 'anna@turing.edu']; // 2
+                                                                         // 3
+emails.forEach(function(email) {                                         // 4
+  var message = `<p>An email has been sent to: ${email}!</p>`;           // 5
+  emailConfirmations.innerHTML += message;                               // 6
+});                                                                      // 7
 ```
 
 <div class="try-it-new">

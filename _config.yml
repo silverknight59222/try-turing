@@ -1,6 +1,6 @@
 title: "Try Coding Curriculum - Turing School of Software and Design"
 description: "Open source curriculum for the Turing School of Software and Design's second shift program."
-url: "https://try.turing.io"
+url: "https://try.turing.edu"
 
 baseurl: ''
 permalink: /:title

@@ -6,7 +6,7 @@ layout: lesson
 
 ### To Get Set Up
 
-- In Chrome, open up <a target="blank" href="https://try.turing.io/a11y-single">try.turing.io/a11y-single</a>
+- In Chrome, open up <a target="blank" href="https://try.turing.edu/a11y-single">try.turing.edu/a11y-single</a>
 - Open up the CodePen project you built for the pre-work
 - Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 

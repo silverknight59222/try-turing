@@ -8,7 +8,7 @@ Official start time is 10:10 on Sunday, to give you some time back to read the a
 
 ### To Get Set Up
 
-- In Chrome, open up <a target="blank" href="https://try.turing.io/fe-online-weekend">try.turing.io/fe-online-weekend</a>
+- In Chrome, open up <a target="blank" href="https://try.turing.edu/fe-online-weekend">try.turing.edu/fe-online-weekend</a>
 - Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 
 ### What to Expect

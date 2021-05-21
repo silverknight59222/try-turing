@@ -76,7 +76,7 @@ The self-closing `<img />` tag above has two attributes - `src` and `alt`. These
 The `<a>` element creates a hyperlink. Here's an example of the syntax the browser expects:
 
 ```html
-<a href="https://try.turing.io/">Try Coding Curriculum</a>
+<a href="https://try.turing.edu/">Try Coding Curriculum</a>
 ```
 
 Any text inside of the opening and closing `a` tags will appear, by default, in a bright blue color with an underline and, when clicked, will take the user to the location indicated in the `href` attribute (which is short for hyper-reference). 

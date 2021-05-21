@@ -10,7 +10,7 @@ We hope you had some fun and got a feel for if Front-End is something you'd like
 
 ## Contact
 
-- For technical questions regarding the content we learned today, you can email Amy at <strong>amy@turing.io<strong>
+- For technical questions regarding the content we learned today, you can email Amy at **amy@turing.edu**
 - For questions regarding admissions and enrollment, <a target="blank" href="https://go.oncehub.com/darrenatturing" >set up a time to chat with Darren</a>
 
 ## Additional Resources

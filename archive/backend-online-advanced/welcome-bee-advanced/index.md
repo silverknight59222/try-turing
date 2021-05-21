@@ -8,7 +8,7 @@ layout: lesson
 
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and create or login to your account
-- In another tab, open up <a target="blank" href="https://try.turing.io/backend-online-advanced">try.turing.io/backend-online-advanced</a>
+- In another tab, open up <a target="blank" href="https://try.turing.edu/backend-online-advanced">try.turing.edu/backend-online-advanced</a>
 - Change Zoom display name to first name, last initial, pronouns; ie - Amy H. (she/her)
 
 ### What to Expect

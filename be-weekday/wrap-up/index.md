@@ -11,7 +11,7 @@ Today might have been your first time coding - you did it! Thanks for spending y
 ## Contact
 
 - For technical questions regarding the content we learned today, you can email Amy at **amy@turing.edu** 
-- For questions regarding the application process and life at Turing, please email Chelsea at **chelsea@turing.io** or <a target="blank" href="https://go.oncehub.com/ChelseaTuring" >set up a time to meet with her here</a>. She can also connect you with alums to learn more about their experiences
+- For questions regarding the application process and life at Turing, please email Chelsea at **chelsea@turing.edu** or <a target="blank" href="https://go.oncehub.com/ChelseaTuring" >set up a time to meet with her here</a>. She can also connect you with alums to learn more about their experiences
 
 ## Additional Resources
 

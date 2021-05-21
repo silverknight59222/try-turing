@@ -137,7 +137,7 @@ You have heard a LOT of information about what Front-End code is responsible for
 
 If you are interested in coding, join us for a [full day workshop](https://www.eventbrite.com/o/turing-school-of-software-amp-design-9895674202) where we'll get our hands on the keyboard and write some code in Ruby! 
 
-If you already know you are interested in coding and now want to learn more about Turing, we recommend reading about about (the FAQ page has a lot of info!) at [turing.io](https://turing.io/). Have more specific questions? Reach out to Chelsea at chelsea@turing.io.
+If you already know you are interested in coding and now want to learn more about Turing, we recommend reading about about (the FAQ page has a lot of info!) at [turing.edu](https://turing.edu/). Have more specific questions? Reach out to Chelsea at chelsea@turing.edu.
 
 
 
