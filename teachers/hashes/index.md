@@ -167,22 +167,22 @@ end
 </div>
 
 <div class="try-it-new">
-  <h2>Spicy Challenge 🌶</h2>
+  <h2>Spicy Challenge <span role="img" aria-label="pepper emoji">🌶</span></h2>
   <p>Include an <code class="try-it-code">avg_grade</code> key on every student. Create an Array of students whose average grade is below 70. Print out an encourgaing message to each of them!</p>
   <a href="https://repl.it/@ameseee/avggrade#main.rb" target="blank">Here's one possible solution!</a>
 </div>
 
 <div class="try-it-new">
-  <h2>Super Spicy Challenge 🌶🌶</h2>
+  <h2>Super Spicy Challenge <span role="img" aria-label="two pepper emojis">🌶🌶</span></h2>
   <p>Build on your popsicle stick jar thinking from earlier in the day. This time, use code to randomly generate pairs. If you really want to get fancy, find a way to print out a sentence for each pair, so they know they will be working together!</p>
   <a href="https://repl.it/@ameseee/randompairs#main.rb" target="blank">Here's one possible solution!</a>
 </div>
 
 <div class="try-it-new">
-  <h2>EXTRA Spicy Challenge 🌶🌶🌶</h2>
+  <h2>EXTRA Spicy Challenge <span role="img" aria-label="three pepper emojis">🌶🌶🌶</span></h2>
   <p><em>Disclaimer: This challenge will definitely require concepts outside of what we've learned today.</em></p>
   <p>Include a <code class="try-it-code">level</code> key on every student, values being between 1-5 (we will assume these levels refer to fluency with XYZ skill). Your goal in this challenge is to create pairs, but make sure that no student is paired with another student that is more than 1 level away from their level. For example: a student who is on level 2 can pair with someone on levels 1 and 3, but not 4 or 5.</p>
 </div>
 
 <br>
-<a href="../">Back to Curriculum Index</a>
+<a href="../wrap-up">Next: Wrap Up</a>

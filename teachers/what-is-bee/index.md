@@ -21,7 +21,7 @@ Consider an increasingly popular website for teacher and kids - Kahoot! When a u
 
 In the screenshot below, the outlines represent examples of **dynamic data** that had to be stored somewhere. That "somewhere" is what Back-End programming is concerned with.
 
-<img src="./assets/kahoot.png" alt="Kahoot screenshot with annotations for places a back end would play a role. 1 - username, 2 - all kahoots stored, 3 - favorited kahoots, 4 - reports">
+![Kahoot screenshot with annotations for places a back end would play a role. 1 - username, 2 - all kahoots stored, 3 - favorited kahoots, 4 - reports](../assets/kahoot.png)
 
 All of the stylistic pieces (layout, colors, sizes), in addition to logic around user interactions, are considered **Front-End** concerns.
 
@@ -55,4 +55,4 @@ We won't be talking about anything except for a teeny tiny part of Ruby. However
 
 <span role="img" aria-label="twinkle stars">✨</span>You will probably leave today with more questions than answers!<span role="img" aria-label="twinkle stars">✨</span>
 
-<a href="../">Back to Curriculum Index</a>
+<a href="../ruby-intro">Next: Ruby Intro</a>

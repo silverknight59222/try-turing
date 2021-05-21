@@ -54,12 +54,12 @@ We can’t see all the code that built every application, but there are some pla
 
 <img 
   class="large-img" 
-  src="./assets/kahoot-arrays.png" 
+  src="../assets/kahoot-arrays.png" 
   alt="Screenshot of a close up of the Badge Count on Khan Academy user profile, showing 1, 0, 0, 2, 4, 102 badges">
 
 <img 
   class="medium-img" 
-  src="./assets/kahoot-arrays-anno.png" 
+  src="../assets/kahoot-arrays-anno.png" 
   alt="Screenshot of a close up of the Badge Count on Khan Academy user profile, showing 1, 0, 0, 2, 4, 102 badges. Before the first badge is an opening [ square bracket, and after the last is a ] closing angle bracket. Inbetween each badge sits a comma.">
 
 ```ruby
@@ -229,8 +229,6 @@ puts students[0]</pre>
       <p>Your current popsicle stick jar is probably operating in a way that is equivalent to putting the stick back in the jar after calling a student. What if, after calling a student's name, you wanted to take their name out of the jar? <em>(Hint: you might need to google how to remove the first element of an array in Ruby if you haven't already!)</em></p>
     </div>
   </div>
-
-
 </div>
 
-<a href="../">Back to Curriculum Index</a>
+<a href="../iteration">Next: Iteration</a>

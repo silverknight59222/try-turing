@@ -109,6 +109,6 @@ puts long_names</pre>
 ### How Useful Is This?
 
 While we've gotten into some really interesting and intermediate programming concepts, it still may be hard to see the utility in this. Names alone aren't enough. As educators, you may want to quickly determine the list of names of students who won't have their permission slip signed, or who scored below a 70 on last Friday's quiz, etc. You probably need the name of a student who meet _some other_ criteria. That is what we dive into in the next section!
-
 <br>
-<a href="../">Back to Curriculum Index</a>
+
+<a href="../hashes">Next: Hashes</a>

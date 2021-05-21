@@ -60,4 +60,4 @@ Just like we have these (made up) dog methods, we also have (real, ruby) String 
   <p>Discuss: Does this make you wonder anything like "I wonder if ruby has a method for ____?". Share out, then if time, get wild and google it and see if you can find an answer!</p>
 </div>
 
-<a href="../">Back to Curriculum Index</a>
+<a href="../arrays">Next: Arrays</a>

@@ -22,13 +22,13 @@ As we wrap up our day together, take a moment to reflect on the questions below.
 
 If you're considering changing careers, we're here to answer your questions!
 
-- For technical questions regarding the content we learned today and what is taught at Turing, you can email Amy at <strong>amy@turing.io<strong>
-- For questions regarding application process, life at Turing, and more please email Chelsea at <strong>chelsea@turing.io</strong> or <a target="blank" href="https://go.oncehub.com/ChelseaTuring">set up a time to work with her here</a>
-- To start your application, visit <a target="blank" href="https://apply.turing.io/">apply.turing.io</a>
+- For technical questions regarding the content we learned today and what is taught at Turing, you can email Amy at **amy@turing.io**
+- For questions regarding application process, life at Turing, and more please email Chelsea at **chelsea@turing.edu** or <a target="blank" href="https://go.oncehub.com/ChelseaTuring">set up a time to work with her here</a>
+- To start your application, visit <a target="blank" href="https://apply.turing.io/">apply.turing.edu</a>
 
 ## Additional Resources
 
 - [Codecademy's Ruby Course](https://www.codecademy.com/learn/learn-ruby)
 - [Ruby Guides](https://www.rubyguides.com/ruby-tutorial/)
-- Want to gain more clarity on the content covered at Turing? Our curriciulum is all open sourced: [Back-End](http://backend.turing.io/) and [Front-End](https://frontend.turing.io/)
+- Want to gain more clarity on the content covered at Turing? Our curriciulum is all open sourced: [Back-End](http://backend.turing.edu/) and [Front-End](https://frontend.turing.edu/)
 
