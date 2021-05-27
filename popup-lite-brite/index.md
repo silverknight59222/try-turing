@@ -13,8 +13,14 @@ _This will be best experienced on a desktop or laptop computer._
 We are so glad you are here! To get set up...
 1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account
 1. Please change your zoom name to first, last initial, pronouns (ex: _Amy H. (she/her)_)
-1. Introduce yourself in the zoom chat - where are you calling in from?
+1. Please sign-in with this link: <a target="blank" href="http://bit.ly/3949emq">http://bit.ly/3949emq</a>
 <br><br>
+
+## Intros and Set Up
+
+- Intros - name, pronouns, location, what brought you here!
+- Repl.it is our tool to write and run code
+- Zoom is our _classroom_ 
 
 ## Goals
 
