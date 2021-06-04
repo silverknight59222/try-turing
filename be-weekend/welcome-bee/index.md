@@ -12,11 +12,9 @@ layout: lesson
 
 Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day (all times in MST):
 
-- **10:00 - 12:00** Welcome, Intros, and Instruction
-- **12:00 - 12:45** Turing Info Session
-- **12:45 - 1:00** Break
-- **1:00 - 2:50**  Instruction
-- **2:50 - 3:00**  Wrap Up, Questions
+- **30 mins** Welcome, Intros, and Setup
+- **2 hours, 30 mins** Instruction
+- **1 hour** Turing Info Session
 
 ### Online Learning Norms
 
