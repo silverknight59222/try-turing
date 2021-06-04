@@ -10,11 +10,11 @@ layout: lesson
 
 ### What to Expect
 
-Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day (all times in MST):
+Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day:
 
-- **30 mins** Welcome, Intros, and Setup
-- **2 hours, 30 mins** Instruction
-- **1 hour** Turing Info Session
+- Welcome, Intros, and Setup (30 mins)
+- Instruction (2 hours, 30 min)
+- Turing Info Session (1 hour)
 
 ### Online Learning Norms
 
