@@ -13,6 +13,6 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 - [Ruby Review](./ruby-review)
 - [User Input](./user-input)
 - [Arrays](./arrays)
-- [Iteration](./iteration)
-- [Extensions](./extensions)
+- [Extension: Iteration](./iteration)
+<!-- - [Extensions](./extensions) -->
 - [Wrap Up](./wrap-up)

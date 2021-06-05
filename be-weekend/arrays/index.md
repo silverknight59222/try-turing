@@ -16,26 +16,21 @@ layout: lesson
 An array is like a box you can use to contain **multiple** things, such as strings or integers. In programming, we declare an array like this:
 
 ```ruby
-names = []
-```
-
-This is called an empty array.
-
-Alternatively, you could start with items already in your array. Here's an array of strings:
-
-```ruby
 names = ["Kenny", "Marisol", "Ruben", "Hanna"]
 ```
+
+The previous example shows a `variable` that stores an `array of strings`.
+
 <!-- <iframe height="400px" width="100%" src="https://repl.it/@turingschool/Arrays?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe> -->
 
 You can also add items to your array using the "shovel" syntax, like so:
 
-```ruby
+<!-- ```ruby
 names = ["Kenny", "Marisol", "Ruben", "Hanna"]
 
 names << "Brittany"
-```
-<!-- <iframe height="400px" width="100%" src="https://repl.it/@turingschool/Arrays-Shovel?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe> -->
+``` -->
+<iframe height="400px" width="100%" src="https://repl.it/@turingschool/Arrays-Shovel?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 Finally, you can use the method `delete_at()` to remove an item from the array. **[Fork this repl.it](https://replit.com/@turingschool/Arrays-Delete-At#main.rb)** and use the following guided experiments to figure out what is happening with position numbers:
 
