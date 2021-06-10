@@ -17,10 +17,10 @@ We are so glad you are here! To get set up...
 
 Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing. We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day (all in MST):
 
-- **9:00 - 9:15** Welcome, Intros, Setup
-- **9:15 - 11:45** Instruction (with breaks!)
-- **11:45 - 12:20** Turing Info
-- **12:20 - 1:00** Alumni Panel
+- **1:00 - 1:15** Welcome, Intros, Setup
+- **1:15 - 3:45** Instruction (with breaks!)
+- **3:45 - 4:15** Turing Info
+- **4:15 - 5:00** Alumni Panel
 <br><br>
 
 ## Intros
