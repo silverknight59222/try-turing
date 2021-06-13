@@ -11,15 +11,30 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
 - Change Zoom display name to first name, last initial, pronouns; _ie - Amy H. (she/her)_
+<br>
+<br>
 
 ## What to Expect
 
 Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day (all times in MST):
 
 - **2 hours, 30 mins** Welcome, Intros, and Instruction
-- **40 mins:** Turing Info
-- **40 mins:** Alumni Panel
-- **5 mins:**  Wrap Up, Questions
+- **30 mins:** Turing Info
+- **45 mins:** Alumni Panel
+- **10 mins:**  Wrap Up, Questions
+<br>
+<br>
+
+## Intros
+
+We'd love to give everyone a chance to say hi, as well as do a mic check. Please share:
+- Your name and pronouns
+- Your location
+- What brought you here!
+
+We'll also have the zoom chat available as a tool today. To warm up using that _and_ spark some inspiration for examples your instructor might use throughout the day, please share the name of your favorite or most-used app!
+<br>
+<br>
 
 ## Learning Norms
 
@@ -28,6 +43,8 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - Please mute your microphone **unless** you're the main speaker
 - Have your camera on during class if possible!
 - Questions? Type into the group chat box or wait until end of section when we open it up for questions
+<br>
+<br>
 
 ## Instructor-Led Content
 
@@ -35,5 +52,5 @@ Over the course of the day, we will write code, explore the mindsets that succes
 - [Ruby Review](./ruby-review)
 - [User Input](./user-input)
 - [Arrays](./arrays)
-- [Extensions](./extensions)
+- [Final Project](./project)
 - [Wrap Up](./wrap-up)

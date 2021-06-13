@@ -1,11 +1,11 @@
 /* Content expand and collapse */
 
 .expander {
+  box-shadow: 0 0 2px 1px rgba(0,0,0,.1);
   margin-bottom: 1rem;
 
   header {
     background: #fff;
-    // border-top: 0.5rem solid #05c2d1;
     padding: 0.4rem 1.75rem 0;
     display: flex;
     justify-content: space-between;
@@ -30,6 +30,14 @@
 
 .expander-be {
   border-top: 0.5rem solid #ef3852;
+}
+
+.expander-lesson {
+  border-top: 0.75rem solid var(--s-color-gray-500);
+  
+  header {
+    padding: .5rem 3rem 0.25rem;
+  }
 }
 
 .expander-btn {

@@ -45,4 +45,12 @@ There are numerous technologies that can be used for Back-End engineering. Here 
 
 We won't be talking about anything except for a teeny tiny part of Ruby. However, we hope that these terms give you a lay of the land so that next time you hear one of these words, you can say "Aha! That's a database."
 
+## Forking a Repl.it
+
+Throughout the workshop, you will be provided with links to repl.it projects in the zoom chat. If you want to modify that code, you'll need to **fork** it, which means make a copy of that project to your account. This screenshot below highlights the button you will click to do that:
+
+!["Fork a replit screenshot"](../assets/fork-replit.png)
+
+The screenshot above pictures the project we will start with in the next section. Let's take a moment to practice and make everyone can get this forked. [Your instructor will share the link in the chat or you can access it here](https://replit.com/@turingschool/puts-vs-print#main.rb)!
+
 <a href="../ruby-review">Next: Ruby Review</a>
