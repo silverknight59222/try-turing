@@ -69,7 +69,7 @@ Each page, or type of page (for example, the lesson page), has its own `sass` fi
 
 Some components have been built for conssitency across lessons. Since they require classes, they are written in HTML.
 
-Try It Boxes:
+**Try It Boxes:**
 ```html
 <div class="try-it-new">
   <h2>Try It: Title Here</h2>
@@ -77,7 +77,25 @@ Try It Boxes:
 </div>
 ```
 
-Help Me Buttons:
+**Takeaways Boxes:**
+```html
+<div class="expander expander-lesson">
+  <header>
+    <h2 class="spicy-click">Takeaways</h2>
+    <div>
+      <button class="expander-btn">
+        <img src="../../assets/icons/arrow.svg" alt="expander arrow icon" />
+      </button>
+    </div>
+  </header>
+
+  <div class="hide">
+    <p>Content</p>
+  </div>
+</div>
+```
+
+**Help Me Buttons:**
 ```html
 <div class="help-container">
   <button class="help-click"><span role="img" aria-label="raised hand">🤚</span>Help Me!</button>
@@ -87,7 +105,7 @@ Help Me Buttons:
 </div>
 ```
 
-Spicy Challenge Boxes:
+**Spicy Challenge Boxes:**
 ```html
 <div class="spicy-container">
   <p class="spicy-click">
