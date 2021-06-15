@@ -35,9 +35,9 @@ Our programs haven't been very exciting so far because we already know what will
   </header>
   <div class="hide">
     <ul>
-      <li>Instead of manually typing in every value, we can collect values from our user to provide a dynamic experience.</li>
-      <li>When the code is being read, it will stop at <code>gets.chomp</code> and wait for the user to type input into the console.</li>
-      <li><code>gets</code> collects a string from the console, <code>chomp</code> removes the final character which is the enter/return.</li>
+      <li>Instead of manually typing in every value, we can collect values from our user to provide a dynamic experience</li>
+      <li>When the code is being read, it will stop at <code>gets.chomp</code> and wait for the user to type input into the console</li>
+      <li><code>gets</code> collects a string from the console, <code>chomp</code> removes the final character which is the enter/return</li>
     </ul>
   </div>
 </div>
