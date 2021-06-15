@@ -74,7 +74,7 @@ puts "Hello, #{first_name.capitalize}!"
   </header>
   <div class="hide">
     <ul>
-      <li>Ruby provides a variety of <code>methods</code> that can be used specifically on Strings.</li>
+      <li>Ruby provides a variety of <code>methods</code> that can be used specifically on Strings - we can think of them as actions!</li>
       <li>A Ruby developer doesn't need to memeorize every method that is available; some will be used regularly but others won't. For this reason, resources like <a target="blank" href="https://ruby-doc.org/core-3.0.1/String.html">Ruby-Doc.org</a> are heavily relied upon by developers!</li>
     </ul>
   </div>
