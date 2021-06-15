@@ -68,7 +68,7 @@ We know how to get one input from a user. How do we go about getting multiple in
       <span role="img" aria-label="spicy pepper">🌶</span> Option to try another Spicy Challenge <span role="img" aria-label="spicy pepper">🌶</span>
     </p>
     <div class="spicy-toggle">
-      <p>Modify the program so that when you ask the user the second quesiton, you use their first input, etc.</p>
+      <p>Modify the program so that when you ask the user the second question, you use their first input, etc.</p>
     </div>
   </div>
 </div>
