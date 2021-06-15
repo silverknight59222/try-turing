@@ -116,7 +116,7 @@ print followers
 
 <div class="try-it-new">
   <h3>Try It: Removing Elements</h3>
-  <p>In the same repl.it you've been working on your arrays, try using the <code>pop</code> and/or <code>shift</code> methods. Use puts or print statements to compare the before and after, and see if you can deduce how they work!</p>
+  <p>In the same repl.it you've been working on your arrays, try using the <code>pop</code> and/or <code>shift</code> methods. Use <code>puts</code> or <code>print</code> statements to compare the before and after, and see if you can deduce how they work!</p>
   <p>Please be ready to share out!</p>
 </div>
 
