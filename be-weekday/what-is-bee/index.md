@@ -47,7 +47,7 @@ We won't be talking about anything except for a teeny tiny part of Ruby. However
 
 ## Forking a Repl.it
 
-Throughout the workshop, you will be provided with links to repl.it projects in the zoom chat. If you want to modify that code, you'll need to **fork** it, which means make a copy of that project to your account. This screenshot below highlights the button you will click to do that:
+Throughout the workshop, you will be provided with links to repl.it projects in the zoom chat. If you want to modify that code, you'll need to **<span role="img" aria-label="fork and knife emoji">🍴</span>fork** it, which means make a copy of that project to your account. This screenshot below highlights the button you will click to do that:
 
 !["Fork a replit screenshot"](../assets/fork-replit.png)
 

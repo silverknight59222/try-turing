@@ -8,7 +8,7 @@ layout: lesson
 
 Now that we know how to create paths for different outcomes (if statements) and change what the user sees in the browser, let's combine those big areas of knowledge to build a small app!
 
-For this final section, we will all start with [this starter kit](https://codepen.io/turing-trycoding/pen/yLgJPBb)!
+For this final section, we will all start with <span role="img" aria-label="fork and knife emoji">🍴</span> [this starter kit](https://codepen.io/turing-trycoding/pen/yLgJPBb)!
 
 <div class="try-it-new">
   <h2>Warm Up</h2>

@@ -32,6 +32,7 @@ var age = 23;
 var sum = 3 + 4;
 // alert(sum);
 ```
+>JavaScript can store other type of data, but since we are building a Number Guesser game today, we will focus on Numbers!
 
 ## Variables and Calculations
 
@@ -46,10 +47,20 @@ var totalLaundryTime = washCycleMinutes + dryCycleMinutes;
 alert(totalLaundryTime); // alert message will be: 83
 ```
 
+<div class="expander expander-lesson">
+  <header>
+    <h3 class="spicy-click">Visualize The Connections</h3>
+    <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
+  </header>
+  <div class="hide">
+    <img src="../assets/variable-sub.png" alt="Diagram of variables being referenced, and the numbers they store marked by each."/>
+  </div>
+</div>
+
 <div class="try-it-new">
   <h2>Try It</h2>
-  <p>In a new CodePen, declare two variables (name of your choice) and store a value in each one!</p>
-  <p>Then use the alert method to ensure it's being stored correctly!</p>
+  <p>In a new CodePen, declare two variables (name of your choice) and store a value in each one! Declare a third variable that uses both previous variables and a maath operation.</p>
+  <p>Then use the alert method to ensure all values are being stored as expected.</p>
 </div>
 
 ### Comparisons
@@ -58,7 +69,7 @@ JavaScript can also do comparisons! Today, we will focus on comparing numbers.
 
 <div class="try-it-new">
   <h2>Explore to Learn</h2>
-  <p>One at a time, copy and paste or type in each line of code below into a CodePen - make sure this is in the JS pane. Predict what the output will be, then observe the alert message.</p>
+  <p>One at a time, copy and paste or type in each line of code below into your CodePen - make sure this is in the JS pane. Predict what the output will be, then observe the alert message.</p>
   <ul>
     <li><code class="try-it-code">alert(3 < 5)</code></li>
     <li><code class="try-it-code">alert(3 > 5)</code></li>
@@ -69,9 +80,18 @@ JavaScript can also do comparisons! Today, we will focus on comparing numbers.
   </ul>
 </div>
 
-Exploration Debrief:
-- JavaScript can compare two numbers to determine if one is less than, greater than, equal to, or _not_ equal to the other
-- JavaScript evaluates a comparison and provides us with a `boolean` - either true or false - as a response
+<div class="expander expander-lesson">
+  <header>
+    <h3 class="spicy-click">Exploration Takeaways</h3>
+    <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
+  </header>
+  <div class="hide">
+    <ul>
+      <li>JavaScript can compare two numbers to determine if one is less than, greater than, equal to, or _not_ equal to the other</li>
+      <li>JavaScript evaluates a comparison, then provides us with a <code>Boolean</code> - either true or false - as a response</li>
+    </ul>
+  </div>
+</div>
 
 ### Conditionals:
 
@@ -91,6 +111,7 @@ An **if statement** sets up different paths that the program can take depending 
 <div class="try-it-new">
   <h2>Try It: Writing if Statements</h2>
   <p>Follow the prompt in at the bottom of the JS pane <a target="blank" href="https://codepen.io/turing-trycoding/pen/ZEBezeX">in this CodePen.</a> (Same CodePen that was used in previous activity)</p>
+  <p><em>Note: You will probably want to comment out the previous example</em></p>
 </div>
 
 ## JavaScript Fundamentals Summary

@@ -25,7 +25,7 @@ Look at the HTML in the CodePen below. Using what you learned from the pre-work:
 
 <div class="try-it-new">
   <h2>Try It: Containers!</h2>
-  <p>Choose a CodePen starter below and fork (copy) it to your own account. Use what you know about the elements available to you to add some content to this site!</p>
+  <p>Choose a CodePen starter below and <span role="img" aria-label="fork and knife emoji">🍴</span>fork (copy) it to your own account. Use what you know about the elements available to you to add some content to this site!</p>
   <p>While working through this challenge, pay attention to this programmer skill: <em>attention to detail</em></p>
   <ul>
     <li><a href="https://codepen.io/turing-trycoding/pen/qBNygGw?editors=1100" target="blank">All About Giant Pandas</a></li>

@@ -9,18 +9,19 @@ _This will be best experienced on a desktop or laptop computer._
 ## Welcome!
 
 We are so glad you are here! To get set up...
+1. Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 1. Open up <a target="blank" href="http://codepen.io/">CodePen</a> in a browser (preferably Chrome) and log in to your account
 1. Please change your zoom name to first name, last initial, pronouns (ex: _Amy H. (she/her)_)
 <br><br>
 
 ## What to Expect
 
-Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing. We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day (all in MST):
+Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing. We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day:
 
-- **1:00 - 1:15** Welcome, Intros, Setup
-- **1:15 - 3:45** Instruction (with breaks!)
-- **3:45 - 4:15** Turing Info
-- **4:15 - 5:00** Alumni Panel
+- **15 min** Welcome, Intros, Setup
+- **2 hours, 30 min** Instruction (with breaks!)
+- **30 min** Turing Info
+- **45 min** Alumni Panel
 <br><br>
 
 ## Intros
@@ -28,7 +29,7 @@ Over the course of the day, we will write code, explore the mindsets that succes
 We'd love to give everyone a chance to say hi, as well as do a mic check. Please share:
 - Your name and pronouns
 - Your location
-- What brought you here!
+- What inspired you to join this workshop today!
 <br><br>
 
 ## Goals

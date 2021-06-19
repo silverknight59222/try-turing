@@ -28,7 +28,7 @@ Example:
 
 <div class="try-it-new">
   <h2>Try It: MadLibs!</h2>
-  <p>Choose a MadLib starter program below and fork (copy) it to your own account. Use what you know about <code>strings</code>, <code>integers</code>, <code>puts</code>, <code>print</code>, <code>variables</code>, and <code>string interpolation</code> to make it run!</p>
+  <p>Choose a MadLib starter program below and <span role="img" aria-label="fork and knife emoji">🍴</span>fork (copy) it to your own account. Use what you know about <code>strings</code>, <code>integers</code>, <code>puts</code>, <code>print</code>, <code>variables</code>, and <code>string interpolation</code> to make it run!</p>
   <p>While working through this challenge, pay attention to these programmer skills: <b>1)</b> attention to detail, and <b>2)</b> reading error messages.</p>
   <ul>
     <li><a href="https://repl.it/@turingschool/All-About-Giraffes" target="blank">All About Giraffes</a></li>

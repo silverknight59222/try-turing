@@ -142,7 +142,6 @@ print followers
       <li><code>shovel operator</code> - a tool to add an element to the end of an array (<code><<</code>)</li>
       <li><code>array methods</code> - functionality that is built-in to the Ruby language, specifically designed to be used for arrays</li>
     </ul>
-
   </div>
 </div>
 <br>

@@ -1,5 +1,6 @@
 ---
 layout: lesson
+title: Connecting HTML & JavaScript
 ---
 
 <a href="../">Back to Setup Page</a>
@@ -35,17 +36,33 @@ Just displaying the information that's already on the page, in an alert, is not 
 
 The next stepping stone is learning how to _change_ the text inside an HTML element from our JavaScript code.
 
+<div class="expander expander-lesson">
+  <header>
+    <h2 class="spicy-click">Forking a CodePen<span role="img" aria-label="fork and knife emoji">🍴</span></h2>
+    <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
+  </header>
+  <div class="hide">
+    <p>From here on out, it is essential you start each activity with the provided CodePen - some starter code has been written that is necessary. Each time you open a CodePen your instructor provides, follow these directions:</p>
+    <ul>
+      <li>Click the "Fork" button that lives in the bottom right controls</li>
+      <li>Check that your username now appears in the top left corner</li>
+    </ul>
+    <img src="../assets/fork-codepen.png" alt="Screenshot with overlay pointing to fork button and location to check username"/>
+    <p><span role="img" aria-label="fork and knife emoji">🍴</span><a href="https://codepen.io/turing-trycoding/pen/yLVMBjP?editors=1010" target="blank">Fork this CodePen to use it as a starter</a> for the next activity.</p>
+  </div>
+</div>
+
 <div class="try-it-new">
   <h2>Apply & Explore</h2>
-  <p><a href="https://codepen.io/turing-trycoding/pen/yLVMBjP?editors=1010" target="blank">Use this CodePen as a starter</a> for this short activity.</p>
+  <p>Using the CodePen you just forked:</p>
   <ol>
     <li>Create a variable that stores the <code>h1</code> element.</li>
-    <li>On the next line, type something like <code>variableName.text('new text');</code>, using the variable name you selected and any text you'd like to see in the browser.</li>
-    <li>Look in the mini browser - it should display the text you typed in that last line of code.</li>
+    <li>On the next line, type something like: <code>variableName.text('new text');</code>, using the variable name you selected and any text you'd like to see in the browser.</li>
+    <li>Look in the mini browser - it should display the text you typed in that last line of code!</li>
   </ol>
 </div>
 
-### Listening for Button Clicks
+## Listening for Button Clicks
 
 The work we've done still may not seem too exciting though; what's the point? It was another stepping stone. This final section will help us put it all together with **event listeners**. Before we learn the specifics of the code, let's contextualize it with a real life situation:
 
@@ -64,12 +81,21 @@ function doSomething() {
 }
 ```
 
+<div class="expander expander-lesson">
+  <header>
+    <h2 class="spicy-click">Visualize The Connections</h2>
+    <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
+  </header>
+  <div class="hide">
+    <img src="../assets/event-listener-diagram.jpg" alt="Diagram of variable names matching, function names matching, and note that jQuery must call an element that has an exact match in HTML"/>
+  </div>
+</div>
+
 <div class="try-it-new">
   <h2>Next Level</h2>
-  <p>For this challenge, you'll use the same CodePen you used for the previous one!</p>
+  <p>For this challenge, you'll use the same CodePen you used for the previous one! In the previous challenge, you changed the title, but it happened on page load, so it wasn't very exciting.</p>
   <ol>
-    <li>In the previous challenge, you changed the title, but it happened on page load, so it wasn't very exciting.</li>
-    <li>Combine the two new pieces of knowledge/skill you have to change the title only when the button is clicked. A hint is provided at the bottom of the JavaScript file, if you'd like to use that!</li>
+    <li><strong>Your Challenge:</strong> Combine the two new pieces of knowledge/skill you have to change the title only when the button is clicked. A hint is provided at the bottom of the JavaScript file, if you'd like to use that!</li>
   </ol>
 </div>
 
