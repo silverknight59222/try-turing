@@ -87,7 +87,7 @@ JavaScript can also do comparisons! Today, we will focus on comparing numbers.
   </header>
   <div class="hide">
     <ul>
-      <li>JavaScript can compare two numbers to determine if one is less than, greater than, equal to, or _not_ equal to the other</li>
+      <li>JavaScript can compare two numbers to determine if one is less than, greater than, equal to, or <em>not</em> equal to the other</li>
       <li>JavaScript evaluates a comparison, then provides us with a <code>Boolean</code> - either true or false - as a response</li>
     </ul>
   </div>
