@@ -94,9 +94,7 @@ function doSomething() {
 <div class="try-it-new">
   <h2>Next Level</h2>
   <p>For this challenge, you'll use the same CodePen you used for the previous one! In the previous challenge, you changed the title, but it happened on page load, so it wasn't very exciting.</p>
-  <ol>
-    <li><strong>Your Challenge:</strong> Combine the two new pieces of knowledge/skill you have to change the title only when the button is clicked. A hint is provided at the bottom of the JavaScript file, if you'd like to use that!</li>
-  </ol>
+  <p><strong>Your Challenge:</strong> Combine the two new pieces of knowledge/skill you have to change the title only when the button is clicked. A hint is provided at the bottom of the JavaScript file, if you'd like to use that!</p>
 </div>
 
 ## Connecting HTML & JavaScript Summary
