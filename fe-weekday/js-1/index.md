@@ -59,7 +59,7 @@ alert(totalLaundryTime); // alert message will be: 83
 
 <div class="try-it-new">
   <h2>Try It</h2>
-  <p>In a new CodePen, declare two variables (name of your choice) and store a value in each one! Declare a third variable that uses both previous variables and a maath operation.</p>
+  <p>In a new CodePen, declare two variables (name of your choice) and store a value in each one! Declare a third variable that uses both previous variables and a math operation.</p>
   <p>Then use the alert method to ensure all values are being stored as expected.</p>
 </div>
 
