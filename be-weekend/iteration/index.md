@@ -69,23 +69,12 @@ end
 
 <div class="try-it-new">
   <h2>Try It: Iteration</h2>
-  <p>Go back to your Favorite Foods project. If you've lost it or want to start with a fresh one, <a href="https://replit.com/@turingschool/favorite-foods-SOLUTION#main.rb" target="blank">you can use this repl.it!</a></p>
-  <p>Instead of printing or puts-ing out the entire array as is, see if you can use <code>each</code> to print a sentence for each item in the array or add an asterisk to serve as a bullet point. Here' one example:</p>
-  <pre>What is your favorite breakfast food?
-hash browns
-What is your favorite lunch food?
-turkey sandwiches
-What is your favorite dinner food?
-angel hair pasta
-What is your favorite dessert?
-cheesecake
-------------------------------
-Great! Your favorite foods are:
-* hash browns
-* turkey sandwiches
-* angel hair pasta
-* cheesecake
-...
+  <p>Go back to your project that has an array for your favorite or most-used app. If you've lost it or want to start with a fresh one, <a href="" target="blank">you can use this repl.it!</a></p>
+  <p>Use iteration to create similarly formatted output for each element in that array. For the <code>completed_workouts</code> example we've been working with, the output might look something like this (where the string "Great job" was <strong>only</strong> typed once in the code):</p>
+  <pre>Great job - you completed the 10 min arms workout!
+Great job - you completed the 30 min ride workout!
+Great job - you completed the 15 min stretch workout!
+Great job - you completed the 20 min HIIT workout!
 </pre>
 </div>
 

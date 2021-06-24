@@ -8,10 +8,11 @@ layout: lesson
 
 Today might have been your first time coding - you did it! Thanks for spending your day with us.
 
-## Contact
+## Tomorrow
 
-- For technical questions regarding the content we learned today, you can email Amy at **amy@turing.edu** or Rachel at **rachel@turing.edu**
-- For questions regarding the application process and life at Turing, please email Chelsea at **chelsea@turing.edu** or <a target="blank" href="https://go.oncehub.com/ChelseaTuring">set up a time to meet with her here</a>
+In tomorrow's session, we will deep dive into the foundations of Front-End development! You will identify some big differences between our work today, as well as some commonalities!
+
+We will meet at the same time. Please make sure to complete the [pre-work](../../fe-weekend/pre-work) so you're set up for sucess.
 
 ## Additional Resources
 
