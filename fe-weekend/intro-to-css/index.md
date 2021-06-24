@@ -11,6 +11,8 @@ layout: lesson
 - Style HTML element using CSS rules
 - Use class and ID attributes on HTML elements to more specifically target them in CSS
 
+>For this section, you'll build on the HTML you wrote as part of the pre-work for today!
+
 ## What is CSS?
 
 CSS is a way to add style to HTML documents on the web. It's incredibly powerful!
@@ -22,21 +24,22 @@ While CSS is typically used to control the layout and details of the way a site 
 ## CSS Rules
 
 How do we write CSS code that instructs the browser to make elements appear differently? We write CSS **rules** - a set of instructions for each element to follow.
+<br>
 ![A CSS rule for a button with a color of #333333 and font-size of 32px. The button is labeled selector, color: #333333 is labeled declaration, font-size: is labeled property and 32px is labeled value.](../assets/css-syntax-breakdown.png)
 
 ```css
 button {
-  color: #333333;
+  font-size: 32px;
 }
 ```
 
-In the previous example, the browser will set the color of any button on the page to `#333333`. We can provide multiple declarations inside of a rule, such as:
+In the previous example, the browser will set the font-size of the font within any button on the page to `32px`. We can provide multiple declarations inside of a rule, such as:
 
 ```css
 button {
-  color: #333333;
-  border: 2px solid pink;
-  font-family: Ariel;
+  font-size: 32px;
+  font-family: sans-serif;
+  border-radius: 3px; /* rounds the corners */
 }
 ```
 
@@ -65,8 +68,11 @@ Here are a few great places to start:
 
 <div class="try-it-new">
   <h3>Try It: Exploring CSS</h3>
-  <p>Write a CSS rule that targets the paragraphs, then change their <code class="try-it-code">background-color</code> and <code class="try-it-code">font-size</code>.</p>
-  <p>Next, write a rule that targets the main heading - change the <code class="try-it-code">color</code> of the text and add a <code class="try-it-code">border</code>.</p>
+  <ul>
+    <li>Write a CSS rule that targets the paragraphs, then change their <code class="try-it-code">background-color</code> and <code class="try-it-code">font-size</code>.</li>
+    <li>Write a rule that targets image(s) - change the dimensions to your liking.</li>
+    <li>Write a rule that targets the main heading - change the <code class="try-it-code">color</code> of the text and add a <code class="try-it-code">border</code>.</li>
+  </ul>
   <p>Continue to explore and add declarations to make the site your own!</p>
 
   <div class="spicy-container">
@@ -110,8 +116,8 @@ To target them in CSS, we need to use a specific syntax:
 
 <div class="try-it-new">
   <h3>Try It: Classes & IDs</h3>
-  <p>In the CSS text editor, use a class attribute to give the same styles to 2 of your paragraphs, but not to the other(s).</p>
-  <p>Based on how you'd like to style your page, if you see the need for other classes or IDs, go ahead and implement them!</p>
+  <p>In the HTML text editor, add a class attribute to at least 2 of your paragraphs. In the CSS text editor, use that class to give the same styles to 2 of your paragraphs, but not to the other(s).</p>
+  <p>Based on how you'd like to style your page, if you see the need for additional classes or IDs, go ahead and implement them!</p>
   <p>As you are probably in the habit of by now, observe the changes in the browser.</p>
 </div>
 

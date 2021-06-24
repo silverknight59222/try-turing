@@ -34,10 +34,10 @@ console.log(greetingMessage);
 ```
 
 <div class="try-it-new">
-  <h2>Try It: Accessing HTML Elements</h2>
-  <p>Fork <a href="https://codepen.io/turing-trycoding/pen/dyMgOoM?editors=1010" target="blank">this Puppy Facts CodePen starter</a>. Declare four variables, each storing one of the four text-based HTML elements already written. You can decide the variable names to use! In order to access each element, you'll need a <em>unique</em> way to identify each one.</p>
+  <h3>Try It: Accessing HTML Elements</h3>
+  <p>Fork <a href="https://codepen.io/turing-trycoding/pen/dyMgOoM?editors=1010" target="blank">this Puppy Facts CodePen starter</a>. Declare three variables, each storing one of the three <code>paragraph</code> elements already written in HTML. You can decide the variable names to use! In order to access each element, you'll need a <em>unique</em> way to identify each one. <em>This has already been done with the <code>h1</code> element; you can use that as an example.</em></p> 
   <p>Print each variable out to the console to verify your syntax is correct.</p>
-  <p><em>Keep this pen open in a tab; we'll come back to it in the next section!</em></p>
+  <p><span role="img" aria-label="open folder">📂</span> Keep this pen open in a tab; we'll come back to it in the next section!</p>
   <div class="help-container">
     <button class="help-click"><span role="img" aria-label="raised hand">🤚</span>Help Me!</button>
     <div class="help-toggle">
@@ -54,16 +54,16 @@ Accessing elements alone isn't _that_ cool, but it gets more exciting when we us
 
 Before we talk through it, take a minute to sit in that productive struggle and **try to sort through what this code is doing, and how**. The guiding questions below will help you, if you need them!
 
-- What is the content inside of each of the `<li>` tags in the HTML file?
+- What is the content inside of each of the `<a>` tags in the HTML file?
 - What content is showing up in the browser for each of the bullet points?
 - On line 4 of the code:
-  - What does `firstListItem` reference?
+  - What does `firstLink` reference?
   - What _might_ `.innerText` be doing?
   - Does `"Front End Workshop"` look familiar?
 
 <div class="try-it-new">
-  <h2>Try It: Changing Text of an Element</h2>
-  <p>Back in your Puppy Facts CodePen, write JavaScript that will change the content of all four text-based HTML elements you created variables for earlier.</p>
+  <h3>Try It: Changing Text of an Element</h3>
+  <p>Back in your Puppy Facts CodePen, write JavaScript that will change the content of the <code>h1</code> and three <code>paragraph</code> elements you have variables for.</p>
   <p>When you've completed this, you should see a different title and set of facts in your browser!</p>
   <a target="blank" href="https://codepen.io/turing-trycoding/pen/LYNgbpp"><em>Here's a CodePen you can start with if you closed yours or didn't get it done.</em></a>
   <br>

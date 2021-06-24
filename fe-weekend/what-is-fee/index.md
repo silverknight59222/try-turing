@@ -60,9 +60,25 @@ There's a common misconception that the Front-End is only about colors, fonts, a
 
 The Front-End of the web is based on three major technologies:
 
-1. **HTML**: HyperText Markup Language (HTML) defines the structure and semantics of web pages on the web.
-2. **CSS**: Cascading Style Sheets (CSS) sets the look and style of a web page. CSS provides style to the structure provided by HTML.
-3. **JavaScript**: JavaScript allows us to define interaction in our pages. What happens when a user clicks on a certain area?
+<section class="data-type-cards language-cards">
+  <div>
+    <h3>HTML</h3>
+    <p>HTML holds the content we see on a page (text, images, etc.) and defines the structure and order in which the content appears.</p>
+    <img src="../assets/html.png" alt="Drawing of human skeleton" />
+  </div>
+
+  <div>
+    <h3>CSS</h3>
+    <p>CSS defines the look and feel of a webpage - it can change the layout of items on a page, colors, fonts, and you guessed it - animate items!</p>
+    <img src="../assets/css.png" alt="Drawing of clothes and accessories" />
+  </div>
+
+  <div>
+    <h3>JavaScript</h3>
+    <p>JavaScript is what lets the user interact with a page. For example, clicking a button and getting some sort of response.</p>
+    <img src="../assets/js.png" alt="Drawing of human skeleton" />
+  </div>
+</section>
 
 Many libraries and frameworks have been built _on top_ of JavaScript that make Front-End development even more robust and powerful! If you hear terms like React, Vue, Ember, Angular... those are all JavaScript frameworks used to build professional level applications.
 

@@ -58,7 +58,7 @@ When we run the code above, we will see the associated values print out in the c
 
 A variable is like a box with a label on it. You can put something in the box, label it, and be able to reference that thing later by its label.
 
-In JavaScript, we declare variables using the `var` keyword. This tells JavaScript that we're about to make a variable.
+In JavaScript, we declare variables using the `var` keyword. This tells JavaScript that we're about to make a new variable, or _declare a variable_.
 
 Variables can store strings (text in between quotation marks), numbers, HTML elements, among many other things! Here are a few examples of JavaScript variables:
 
@@ -78,11 +78,11 @@ Since JavaScript is in charge of user interactions, we may want to hold onto a p
 Variables are at the core of everything we do in programming and this isn't unique to JavaScript.
 
 <div class="try-it-new">
-  <h2>Try It: Variables</h2>
+  <h3>Try It: Variables</h3>
   <p>Create a new pen in CodePen. For this exercise, you will be working in the JavaScript (JS) pane.</p>
-  <p>Declare 4 variables, using the names <code>name</code>, <code>email</code>, <code>numberOfPets</code>, and<code>myLocation</code>. Assign each to an appropriate value.</p>
+  <p>Declare 3 variables, using the names <code>name</code>, <code>email</code>, and <code>numberOfPets</code>. Assign each to an appropriate value.</p>
   <p>Make sure to <code>console.log</code> each variable to verify you've stored it correctly!</p>
-  <p>Finished? Declare at least two more variables - you choose the name and values!</p>
+  <p>Finished? Declare at least 2 more variables - you choose the name and values!</p>
 </div>
 
 ## Interpolation
@@ -101,7 +101,7 @@ Note that _back ticks_ are the characters that surround this combination of the 
 Anything inside the back ticks will be read as a string. But, when the interpreter sees the `${`, it will stop and wait for JavaScript code to read. Typically, we provide a variable name here. When the interpreter read the matching closing bracket - `}` - it goes back to treating characters as part of the string.
 
 <div class="try-it-new">
-  <h2>Try It: Interpolation</h2>
+  <h3>Try It: Interpolation</h3>
   <p>Using interpolation and at least two of the variables you declared in the previous section, write a sentence about yourself! Make sure to print that sentence out to the console.</p>
   <p>Change the value of one of the Strings you interpolated and re-run your code. Is the difference reflected in the output?</p>
 

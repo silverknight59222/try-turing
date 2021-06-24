@@ -23,15 +23,5 @@ Look at the HTML in the CodePen below. Using what you learned from the pre-work:
 
 <p class="codepen" data-height="317" data-theme-id="light" data-default-tab="html,result" data-user="turing-trycoding" data-slug-hash="zYBLeLL" style="height: 317px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML Review"><span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/zYBLeLL">HTML Review</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>) on <a href="https://codepen.io">CodePen</a>.</span></p><script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-<div class="try-it-new">
-  <h2>Try It: Containers!</h2>
-  <p>Choose a CodePen starter below and <span role="img" aria-label="fork and knife emoji">🍴</span>fork (copy) it to your own account. Use what you know about the elements available to you to add some content to this site!</p>
-  <p>While working through this challenge, pay attention to this programmer skill: <em>attention to detail</em></p>
-  <ul>
-    <li><a href="https://codepen.io/turing-trycoding/pen/qBNygGw?editors=1100" target="blank">All About Giant Pandas</a></li>
-    <li><a href="https://codepen.io/turing-trycoding/pen/ExypMar?editors=1100" target="blank">Our Solar System</a></li>
-  </ul>
-</div>
-
 <br>
 <a href="../intro-to-css">Next: Intro to CSS</a>
