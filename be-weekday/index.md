@@ -31,8 +31,11 @@ We'd love to give everyone a chance to say hi, as well as do a mic check. Please
 - Your name and pronouns
 - Your location
 - What brought you here!
+<br>
 
-We'll also have the zoom chat available as a tool today. To warm up using that _and_ spark some inspiration for examples your instructor might use throughout the day, please share the name of your favorite or most-used app!
+We'll also have the zoom chat available as a tool today. To make sure we are all comfortable using it:
+1. Please share the name of your favorite or most-used app!
+1. Waterfall Practice: Prepare your answer by typing it in the chat box but DO NOT press enter until the instructor tells everyone to "Send" - are you a dog or cat person?
 <br>
 <br>
 

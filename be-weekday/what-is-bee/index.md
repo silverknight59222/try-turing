@@ -17,11 +17,9 @@ layout: lesson
 
 In a broad sense, Back-End engineering is concerned with managing and manipulating ​data​ (aka information).
 
-Consider a website like Instacart. When we view an Instacart page, what are the parts we actually care about? Why did we come here in the first place? In the screenshot below, the blue boxes represent examples of **dynamic data** that had to come from somewhere. That "somewhere" is what Back-End engineering is concerned with.
+Consider a website like VCA Hospitals. When we view the landing page, what are the parts we actually care about? Why did we come here in the first place? In the screenshot below, the light blue box outlines the opportunity for the user to get **dynamic data** that will have to come from _somewhere_. That _somewhere_ is what Back-End engineering is concerned with.
 
-!["Instacart.com screenshot"](../assets/instacart.png)
-
-When we talk about Back-End engineering, we're often thinking of the engineering tasks involved in making this possible:
+!["VCA screenshot"](../assets/vca.png)
 
 - Storing data and accessing it later
 - Verifying that data is accurate
