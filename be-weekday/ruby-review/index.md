@@ -49,7 +49,7 @@ Using [the repl.it we just forked](https://replit.com/@turingschool/puts-vs-prin
 In the spirit of _exploring to learn_, we aren't gong to tell what what exactly the code below does - not _yet_.
 
 ```ruby
-friend = "osCAr"
+first_name = "osCAr"
 puts "Hello, #{first_name}!"
 puts "Hello, #{first_name.capitalize}!"
 ```
