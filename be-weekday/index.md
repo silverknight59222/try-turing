@@ -19,9 +19,9 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day (all times in MST):
 
 - **2 hours, 30 mins** Welcome, Intros, and Instruction
-- **30 mins:** Turing Info
-- **45 mins:** Alumni Panel
-- **10 mins:**  Wrap Up, Questions
+- **35 mins:** Turing Info
+- **35 mins:** Alumni Panel
+- **5 mins:**  Wrap Up, Questions
 <br>
 <br>
 
