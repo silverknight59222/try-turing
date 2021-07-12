@@ -36,6 +36,14 @@ We’ll also have the zoom chat available as a tool today. To make sure we are a
 
 1. Waterfall Practice: Prepare your answer by typing it in the chat box but DO NOT press enter until the instructor tells everyone to “Send” - are you a morning person/early bird or night person/night owl?
 
+## Learning Norms
+
+- No question is too small. No question is a bad question. Ask them!
+- We all benefit from each others ideas! Push yourself to share out and make sure you aren’t sharing so much that others don’t have the space to do so
+- Please mute your microphone unless you’re the main speaker
+- Have your camera on during class if possible!
+- Questions? Type into the group chat box or wait until end of section when we open it up for questions
+
 ## Goals
 
 - Build and customize a virtual Number Guesser Game [similar to this](https://codepen.io/turing-trycoding/full/abBpgNg)
