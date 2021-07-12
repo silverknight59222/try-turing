@@ -19,9 +19,9 @@ We are so glad you are here! To get set up...
 Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing. We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day:
 
 - **15 min** Welcome, Intros, Setup
-- **2 hours, 30 min** Instruction (with breaks!)
-- **30 min** Turing Info
-- **45 min** Alumni Panel
+- **2 hours, 35 min** Instruction (with breaks!)
+- **35 min** Turing Info
+- **35 min** Alumni Panel
 <br><br>
 
 ## Intros
@@ -31,6 +31,10 @@ We'd love to give everyone a chance to say hi, as well as do a mic check. Please
 - Your location
 - What inspired you to join this workshop today!
 <br><br>
+
+We’ll also have the zoom chat available as a tool today. To make sure we are all comfortable using it:
+
+1. Waterfall Practice: Prepare your answer by typing it in the chat box but DO NOT press enter until the instructor tells everyone to “Send” - are you a morning person/early bird or night person/night owl?
 
 ## Goals
 
