@@ -27,15 +27,7 @@ The one piece of information you don't yet have is how to collect input from a u
 
 The `input` tag is a bit different from others in that it is [self-closing](https://www.tutorialmines.net/self-closing-tags-html/), or doesn't have a closing tag. That's because there is no content that we would ever need to contain inside of the opening and closing tags!
 
-To collect any value that the user may have typed into a given input element, we can use the following JavaScript code:
-
-```js
-var input = $('input');
-var userInput = input.val();
-alert(userInput);
-```
-
-We'll want to take one more step, which may not feel necessary now but will save us a headache down the road. When we get user input from an input field, it comes through as a string - for example "6" or "17". To use the comparison operators we learned about earlier, JavaScript needs to be provided with numbers. `6` is different from `"6"` in programming, as weird as it seems. So, we can **parse** the users input into an integer:
+To collect a _numerical_ value that the user may have typed into a given input element, we can use the following JavaScript code:
 
 ```js
 var input = $('input');
