@@ -35,7 +35,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
   </header>
   <div class="hide">
     <p><a href="https://codepen.io/" target="blank">CodePen</a> provides an online platform that allows us to write code and see the results almost immediately - all inside of one browser tab! There are many other similar (and awesome) tools available; we feel this is the best choice for the Front-End Try Coding workshops.</p>
-    <p><span role="img" aria-label="movie">🎬</span> Please watch this short video for an introduction on how to navigate CodePen:</p>
+    <p><span role="img" aria-label="movie">🎬</span> Please watch this short screencast (no sound) for an introduction on how to navigate CodePen:</p>
 
     <iframe width="100%" height="550px" frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cY6vqKsCTf&v=6&ff=1&title=0&controls=1" allowfullscreen="true"></iframe>
 
