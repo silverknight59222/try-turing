@@ -10,7 +10,7 @@ Please share about your experience, and how we can best support you moving forwa
 
 ## Contact
 
-- For technical questions regarding the content we learned today ow what to expect in the program, you can email Amy at **amy@turing.edu** or Rachel at **rachel@turing.edu**
+- For technical questions regarding the content we learned today, you can email Amy at **amy@turing.edu** or Rachel at **rachel@turing.edu**
 - For questions regarding the application process and life at Turing, please email Chelsea at **chelsea@turing.edu** or <a target="blank" href="https://go.oncehub.com/ChelseaTuring">set up a time to meet with her here</a>.
 
 ## Additional Resources
