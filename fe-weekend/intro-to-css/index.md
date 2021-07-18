@@ -96,7 +96,7 @@ There will be times when we want to target _one_ paragraph element, but not the 
 - **Classes** can be used to identify one or more than one elements
 - **IDs** can be used to uniquely identify one element
 
-Below is the syntax to apply classes to HTML elements:
+Below is the syntax to apply <b>classes</b> to HTML elements:
 ```html
 <h2 class="sub-heading">Welcome!</h2>
 <h2 class="sub-heading">More Info Below</h2>
@@ -117,7 +117,7 @@ To target classes in CSS, we need to use a specific syntax starting with a dot, 
 }
 ```
 
-Below is the syntax to apply IDs to HTML elements:
+Below is the syntax to apply <b>IDs</b> to HTML elements:
 ```html
 <button id="log-in-btn">Enter Site</button>
 <a id="google-link" href="https://www.google.com/">Google</a>
