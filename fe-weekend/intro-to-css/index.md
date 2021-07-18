@@ -86,9 +86,9 @@ Here are a few great places to start:
 
 ### Sidenote: How Should I Organize My CSS Properties?
 
-  This is a great question with no one answer. According to a [poll from CSS Tricks](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/), the most popular way to organize your properties for any specific element is to group by function (for example, positioning properties, color properties, text properties, etc.)
+  This is a great question with no one answer. According to a <a href="https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/" target="blank">poll from CSS Tricks</a>, the most popular way to organize your properties for any specific element is to group by function (for example, positioning properties, color properties, text properties, etc.)
 
-  MDN also has some [great tips](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) for organizing your CSS which become especially helpful as your CSS files become bigger and bigger. 
+  MDN also has some <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing" target="blank">great tips</a> for organizing your CSS which become especially helpful as your CSS files become bigger and bigger. 
 
 ## Classes and IDs
 
