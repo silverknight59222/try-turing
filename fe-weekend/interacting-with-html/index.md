@@ -80,4 +80,6 @@ Before we talk through it, take a minute to sit in that productive struggle and 
 </div>
 
 <br>
-<a href="../event-listeners">Next: Event Listeners</a>
+<a href="../event-listeners">Optional Extension: Event Listeners</a>
+<br>
+<a href="../wrap-up">Next: Wrap Up</a>

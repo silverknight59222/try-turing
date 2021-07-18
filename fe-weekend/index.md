@@ -9,6 +9,7 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 ## Welcome Back!
 
 - Open up <a target="blank" href="http://codepen.io/">codepen.io</a> in a browser (preferably Chrome) and login to your account
+- In CodePen, open the HTML page that you created as part of the prework. Don't have that? Start with <a href="https://codepen.io/turing-trycoding/pen/PozeOPQ?editors=1010" target="blank">this example from the prework</a>. 
 - Change Zoom display name to first name, last initial, pronouns; _ie - Amy H. (she/her)_
 
 ### Today's Agenda

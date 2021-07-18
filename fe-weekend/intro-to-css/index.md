@@ -11,7 +11,7 @@ layout: lesson
 - Style HTML element using CSS rules
 - Use class and ID attributes on HTML elements to more specifically target them in CSS
 
->For this section, you'll build on the HTML you wrote as part of the pre-work for today!
+>For this section, you'll build on the HTML you wrote as part of the pre-work for today! Don't have that? Start with <a href="https://codepen.io/turing-trycoding/pen/PozeOPQ?editors=1010" target="blank">this example from the prework</a>. 
 
 ## What is CSS?
 
@@ -59,12 +59,13 @@ There are many ways that we can express the value of a color to the browser. Tod
 
 ## Other Commonly Used Properties
 
-There are <a href="https://css-tricks.com/how-many-css-properties-are-there/" target="blank">520 properties</a> available in the CSS language. It is unlikely that any developer knows every single one. But, there are many commonly used properties that folks who write CSS with some regularity will come to memorize.
+There are <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#index" target="blank">500+ properties</a> available in the CSS language. It is unlikely that any developer knows every single one. But, there are many commonly used properties that folks who write CSS with some regularity will come to memorize.
 
 Here are a few great places to start:
 - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size/" target="blank"><b>font-size</b></a>: this property expects a value with a unit; today we'll introduce `px` (pixels) and `%` (percent). Example declaration: `font-size: 100px;`
 - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border" target="blank"><b>border</b></a>: accepts 3 pieces of information: the width of the line, the style of the line, and the color. Example declaration: `border: 2px solid #401AA5;`
 - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/height" target="blank"><b>height</b></a> & <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width" target="blank"><b>width</b></a>: each of these properties needs a value with a unit. We recommend starting with pixels. Example declaration: `height: 200px;`
+- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference#common_css_properties_reference" target="blank"><b>the most common CSS properties</b></a>: this reference from MDN lists the most common CSS properties and is a good place to start looking for other interesting things to try!
 
 <div class="try-it-new">
   <h3>Try It: Exploring CSS</h3>
@@ -81,6 +82,12 @@ Here are a few great places to start:
       <p>Check out the <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity" target="blank">opacity</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow" target="blank">box-shadow</a> properties and implement them on your site.</p>
     </div>
   </div>
+
+  ## Sidenote: How Should I Organize My CSS Properties?
+
+  This is a great question with no one answer. According to a [poll from CSS Tricks](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/), the most popular way to organize your properties for any specific element is to group by function (for example, positioning properties, color properties, text properties, etc.)
+
+  MDN also has some [great tips](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) for organizing your CSS which become especially helpful as your CSS files become bigger and bigger. 
 </div>
 
 ## Classes and IDs
@@ -89,17 +96,14 @@ There will be times when we want to target _one_ paragraph element, but not the 
 - **Classes** can be used to identify one or more than one elements
 - **IDs** can be used to uniquely identify one element
 
-Below is the syntax to apply classes and IDs to HTML elements:
+Below is the syntax to apply classes to HTML elements:
 ```html
 <h2 class="sub-heading">Welcome!</h2>
-<button id="log-in-btn">Enter Site</button>
-
 <h2 class="sub-heading">More Info Below</h2>
-
-<h2>Even More Info Below</h2>
+<img class="icon" src="https://d682ma8ami8n4.cloudfront.net/images/TuringSchool_LogoMark_Gray.png"/>
 ```
 
-To target them in CSS, we need to use a specific syntax:
+To target classes in CSS, we need to use a specific syntax starting with a dot, like the example below:
 
 ```css
 /* classes start with . */
@@ -107,10 +111,34 @@ To target them in CSS, we need to use a specific syntax:
   color: teal;
 }
 
+.icon {
+  border: 2px solid black;
+  height: 50px;
+}
+```
+
+Below is the syntax to apply IDs to HTML elements:
+```html
+<button id="log-in-btn">Enter Site</button>
+<a id="google-link" href="https://www.google.com/">Google</a>
+```
+
+To target IDs in CSS, we need to use a specific syntax starting with a pound sign (or hashtag), like the example below:
+
+```css
 /* IDs start with # */
 #log-in-btn {
   background-color: grey;
   border: 3px solid teal;
+}
+
+#google-link {
+  background: #fbbc05;
+  border: 2px solid #34a853;
+  color: #4285f4;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: #ea4335;
 }
 ```
 
