@@ -82,13 +82,13 @@ Here are a few great places to start:
       <p>Check out the <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity" target="blank">opacity</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow" target="blank">box-shadow</a> properties and implement them on your site.</p>
     </div>
   </div>
+</div>
 
-  ## Sidenote: How Should I Organize My CSS Properties?
+### Sidenote: How Should I Organize My CSS Properties?
 
   This is a great question with no one answer. According to a [poll from CSS Tricks](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/), the most popular way to organize your properties for any specific element is to group by function (for example, positioning properties, color properties, text properties, etc.)
 
   MDN also has some [great tips](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) for organizing your CSS which become especially helpful as your CSS files become bigger and bigger. 
-</div>
 
 ## Classes and IDs
 
