@@ -20,7 +20,7 @@ When you visit a URL like <code>https://www.vcahospitals.com/</code>, what happe
 
 Let's draw a slightly more involved diagram of the client-server model that is displayed:
 
-!["Simple client server model, client/computer is on left side , with an arrow laebled 'request' pointing to a server on the right right. The server has an arrow labeled 'response' pointing back to the client. The set of arrows is labeled with 'HTTP(S)'."](https://developer.mozilla.org/files/4291/client-server.png)
+!["Simple client server model, client/computer is on left side , with an arrow labeled 'request' pointing to a server on the right right. The server has an arrow labeled 'response' pointing back to the client. The set of arrows is labeled with 'HTTP(S)'."](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data/client-server.png)
 <br>
 <small>Source: Mozilla.org</small>
 <br>
