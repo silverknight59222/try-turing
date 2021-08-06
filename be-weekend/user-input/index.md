@@ -61,7 +61,7 @@ We know how to get one input from a user. How do we go about getting multiple in
 <div class="try-it-new">
   <h3>Try It: Getting Multiple User Inputs</h3>
   <p>Write a program that asks a user for 3 questions. If you're not feeling creative, ask their <code>name</code>, <code>city</code>, and <code>age</code>. Output something like the following:</p>
-  <pre>Your name is Amy and you live in Denver. Your are 100 years old.</pre>
+  <pre>Your name is Amy and you live in Denver. You are 100 years old.</pre>
   <p>Try running your program a few times with different values stored in the variables.</p>
   <div class="spicy-container">
     <p class="spicy-click">
