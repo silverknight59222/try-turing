@@ -17,7 +17,7 @@ layout: lesson
 
 In a broad sense, Back-End engineering is concerned with managing and manipulating ​data​ (aka information).
 
-Consider a website like VCA Hospitals. When we view the landing page, what are the parts we actually care about? Why did we come here in the first place? In the screenshot below, the light blue box outlines the opportunity for the user to get **dynamic data** that will have to come from _somewhere_. That _somewhere_ is what Back-End engineering is concerned with.
+Consider a website like <a target="blank" href="https://vcahospitals.com/">VCA Hospitals</a>. When we view the landing page, what are the parts we actually care about? Why did we come here in the first place? In the screenshot below, the light blue box outlines the opportunity for the user to get **dynamic data** that will have to come from _somewhere_. That _somewhere_ is what Back-End engineering is concerned with.
 
 !["VCA screenshot"](../assets/vca.png)
 
@@ -49,6 +49,6 @@ Throughout the workshop, you will be provided with links to repl.it projects in 
 
 !["Fork a replit screenshot"](../assets/fork-replit.png)
 
-The screenshot above pictures the project we will start with in the next section. Let's take a moment to practice and make everyone can get this forked. [Your instructor will share the link in the chat or you can access it here](https://replit.com/@turingschool/puts-vs-print#main.rb)!
+The screenshot above pictures the project we will start with in the next section. Let's take a moment to practice and make everyone can get this forked. <a href="https://replit.com/@turingschool/puts-vs-print#main.rb" target="blank">Your instructor will share the link in the chat or you can access it here</a>[]()!
 
 <a href="../ruby-review">Next: Ruby Review</a>
