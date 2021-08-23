@@ -10,18 +10,19 @@ Please complete the [pre-work that is outlined here](./pre-work) before attendin
 
 - Please sign in here: <a target="blank" href="http://bit.ly/3949emq"> http://bit.ly/3949emq</a>
 - Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
-- Change Zoom display name to first name, last initial, pronouns; _ie - Amy H. (she/her)_
+- Change Zoom display name to first name, last initial, pronouns; _ie - Kaitlyn V. (she/her)_
 <br>
 <br>
 
 ## What to Expect
 
-Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day (all times in MST):
+Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing.  We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day:
 
-- **2 hours, 30 mins** Welcome, Intros, and Instruction
+- **30 mins:** Welcome and Intros
+- **2 hours:** Instruction
 - **35 mins:** Turing Info
 - **35 mins:** Alumni Panel
-- **5 mins:**  Wrap Up, Questions
+- **5 mins:**  Wrap Up and Questions
 <br>
 <br>
 

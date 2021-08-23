@@ -47,7 +47,7 @@ Arrays are the structure that Ruby gives us to hold multiple pieces of data - li
 
 >Arrays exist in most other programming languages as well; but the way we write the exact code probably differs a bit!
 
-[We can also work through the following sections in this repl.it](https://replit.com/@turingschool/arrays-intro)
+<a href="https://replit.com/@turingschool/arrays-intro" target="blank">We can also work through the following sections in this repl.it</a>
 
 Just like Strings, we always want to store our arrays in a variable. The variable name should be plural. In Ruby, we declare an _empty_ array like this:
 
@@ -63,7 +63,7 @@ completed_workouts = ["10 min arms", "30 min ride"]
 puts completed_workouts
 ```
 
-If we just want to acces one element from an array, we can use `bracket notation` and a number that corresponds with that element. As weird as it may seem, [counting starts with 0 in most programming languages.](https://skillcrush.com/blog/why-programmers-start-counting-at-zero/)
+If we just want to acces one element from an array, we can use `bracket notation` and a number that corresponds with that element. As weird as it may seem, <a href="https://skillcrush.com/blog/why-programmers-start-counting-at-zero/" target="blank">counting starts with 0 in most programming languages.</a>
 
 ```ruby
 completed_workouts = ["10 min arms", "30 min ride"]
@@ -92,15 +92,15 @@ print completed_workouts
   <h3>Try It: Arrays in your App</h3>
   <p>Earlier, you brainstormed your favorite or most-used app, and a place where an array would be used in it. Using that idea, let's get to work!</p>
   <ol>
-    <li>In a repl.it, create a new variable that holds an array. This array should hold data (yes, faked data) related to your brainstorm from above. Your array can hold as many elements as you'd like it to!</li>
+    <li>In a repl.it, create a new variable that holds an array. This array should hold data (yes, fake data) related to your brainstorm from above. Your array can hold as many elements as you'd like it to!</li>
     <li>Practice using <code>bracket notation</code> to print out an individual element from your array.</li>
-    <li>Lastly, use the <code>shovel operator</code> to add at least one element to your array. Make sure to print or puts our your array after doing so, to verify that the new element is being stored.</li>
+    <li>Lastly, use the <code>shovel operator</code> to add at least one element to your array. Make sure to print or puts out your array after doing so, to verify that the new element is being stored.</li>
   </ol>
 </div>
 
 ### Removing Elements
 
-There are many ways we can remove elements from an array. The code below demonstrates the `pop` and `shift` array methods. They may remind you of the String methods we learned earlier (`capitalize`, `upcase`, etc.) - and that is spot-on!
+There are many ways we can remove elements from an array. The code below demonstrates the `pop` and `shift` array methods. They may remind you of the String methods we learned earlier (`capitalize`, `upcase`, etc.) and that is spot-on!
 
 Read the code below to process and familiarize yourself with it; we haven't yet discovered how `pop` and `shift` work:
 
@@ -116,7 +116,7 @@ print followers
 
 <div class="try-it-new">
   <h3>Try It: Removing Elements</h3>
-  <p>In the same repl.it you've been working on your arrays, try using the <code>pop</code> and/or <code>shift</code> methods. Use <code>puts</code> or <code>print</code> statements to compare the before and after, and see if you can deduce how they work!</p>
+  <p>In the same repl.it you've been working on your arrays, try using the <code>pop</code> and/or <code>shift</code> methods. Use <code>puts</code> or <code>print</code> statements to compare the before and after, and see if you can deduce how they work.</p>
   <p>Please be ready to share out!</p>
 </div>
 
