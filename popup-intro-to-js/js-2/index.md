@@ -55,9 +55,9 @@ In JavaScript, an event listener is a way to set up code to run only when a very
   <ul>
     <li>Use <code>document.querySelector</code> to select the element with the question class and store the reference to that element in a question variable.</li>
     <li>Use <code>querySelector</code> on that question variable to find the button element with the “question-btn” class and store the reference to that element in a button variable.</li>
-    <li>Add an event listener on the button variable to wait for a click and add the “show-text” class to the classList on that question.</li>
+    <li>Use <code>addEventListener</code> on the button variable to wait for a click and then add the “show-text” class to the classList on that question.</li>
     <li>Change <code>add</code> to <code>toggle</code> so that clicking on the button again removes the class.</li>
-    <li>Change CSS so that the arrow rotates 180 degrees.</li>
+    <li>Add a CSS rule targeting the <code>.show text .question-btn</code> classes so that the arrow button rotates 180 degrees.</li>
   </ul>
   <p>Now, we have it doing what we want, but it’s only the first one! At this point, your code should look <a href="https://replit.com/@turingschool/faq-js-iteration1#style.css" target="blank">like this</a> if you want to check that you have it working as expected.</p>
 </div>
@@ -66,8 +66,8 @@ In JavaScript, an event listener is a way to set up code to run only when a very
   <h2>Write the JavaScript: Iteration 2</h2>
   <p>We want this to happen on every question, not just the first one!</p>
   <ul>
-    <li>Change <code>querySelector</code> to <code>querySelectorAll</code>.</li>
-    <li>Change question to questions (plural form).</li>
+    <li>On line 1, change <code>querySelector</code> to <code>querySelectorAll</code>. This will store an array of all HTML elements with the <code>.question</code> class.</li>
+    <li>Change the variable name question to questions (plural form).</li>
     <li>Write a <code>forEach</code> method on the list of questions and pass in each question as the argument. Then, move the event listener code block inside of that function to apply the eventListener on all buttons.</li>
     <li>Remove <code>console.log</code> statements → these are not usually included in the final production. They are only used as a tool for developers.</li>
   </ul>

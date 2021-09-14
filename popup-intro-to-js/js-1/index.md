@@ -53,7 +53,7 @@ As we learn about JavaScript today, we will use the `console.log()` method to pr
 Here's the syntax:
 
 ```js
-console.log(name);
+console.log(firstName);
 //=> 'Kaitlyn'
 console.log(age);
 //=> 104
@@ -63,7 +63,7 @@ console.log(age);
   <h2>Try It</h2>
   <p>That was a LOT of info! Fork <a href="https://replit.com/@turingschool/javascript-variables#script.js" target="blank">this replit</a> and follow the directions to play around with variables and data types. We will only be working on the JavaScript file.</p>
   <ul>
-    <li>Declare 3 variables, using the names name, email, and numberOfPets. Assign each to an appropriate value.</li>
+    <li>Declare 3 variables, using the labels name, email, and numberOfPets. Assign each to an appropriate value.</li>
     <li>Make sure to console.log each variable to verify you've stored it correctly!</li>
     <li><strong>Finished?</strong> Declare another variable that stores an array. You choose the name of the variable and the values!</li>
   </ul>
