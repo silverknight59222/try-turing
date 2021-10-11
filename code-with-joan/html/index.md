@@ -4,7 +4,7 @@ layout: lesson
 
 <a href="../">Back to Setup Page</a>
 
-# Modifying the FAQ HTML
+# Modifying the HTML
 
 ## Tour the Existing Code
 
