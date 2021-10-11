@@ -4,7 +4,7 @@ layout: lesson
 
 <a href="../">Back to Setup Page</a>
 
-# Modifying the Lite-Brite CSS
+# Modifying the CSS
 
 CSS allows us to "dress up" the content on our page.
 

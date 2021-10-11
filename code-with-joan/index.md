@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Pop Up: Introduction to JavaScript
+# Code With Joan
 
 In this live, instructor-led workshop, you will build a Frequently Asked Questions page with interactive buttons that hide and reveal the answers. 
 
