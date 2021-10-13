@@ -8,7 +8,7 @@ layout: lesson
 
 We have a complete FAQ Page, but it’s not very engaging as a user. Before JavaScript, websites used to be built with only HTML and CSS. You could maybe click a button and go to another page, but that’s about it. Now, we can do so much more thanks to JavaScript!
 
-## Planning for New Functionality with Pseudocoding
+<!-- ## Planning for New Functionality with Pseudocoding
 
 A lot of people have the misconception that coding is all about typing really fast, in a basement, usually alone, etc. That's not really the case. Most software developers say they spend at least 40% of their time planning and/or collaborating with other developers on how to design solutions in code.
 
@@ -36,15 +36,67 @@ A lot of people have the misconception that coding is all about typing really fa
       <li>When the user clicks the arrow up button, the arrow rotates 180 degrees to show an arrow down again.</li>
     </ul>
   </div>
+</div> -->
+
+## Accessing an HTML Element with JavaScript
+
+Variables can also reference parts of the HTML we’ve written using the JavaScript method `document.querySelector` to access that element. For example, if we wanted a variable to represent the `h1` heading at the top of our page, we'd need to do two things:
+
+1. Add a class to the `h1` element in the HTML
+2. Use the JavaScript method `document.querySelector` to access that element
+
+Here's how that looks in practice:
+
+```html
+<!-- HTML code -->
+<h1 class="header">Puppy Facts</h1>
+```
+
+```js
+// JS code
+var title = document.querySelector('.header');
+
+console.log(title.innerText);
+// "Puppy Facts" will print out to the console
+```
+
+## Event Listeners
+
+In JavaScript, an event listener is a way to set up code to run only when a very specific thing happens. You want to change the text when the user clicks a button? Great! That’s an event listener – you’ll tell the code to listen for a click on a specific button on the page, then run the code that changes the text. 
+
+Here's how that looks in practice:
+
+```html
+<!-- HTML code -->
+<button>Change the topic!</button>
+<h1 class="header">Puppy Facts</h1>
+```
+
+```js
+// JS code
+var btn = document.querySelector('button');
+var title = document.querySelector('.header');
+
+btn.addEventListener('click', function () {
+  title.innerText = "Kitten Facts";
+})
+
+// "Puppy Facts" will print out to the console
+```
+
+<div class="try-it-new">
+  <h2>Try It: Access HTML Elements & Event Listeners</h2>
+  <p>The best way to learn this stuff is to try it for yourself! Fork <a href="https://replit.com/@turingschool/javascript-event-listeners#script.js" target="blank">this replit</a> and follow the directions to play around with variables and data types. We will only be working on the HTML and JavaScript files.</p>
+  <ul>
+    <li>Declare 3 variables, each storing one of the three paragraph elements in the HTML using the <code>document.querySelector</code> method. You can decide the variable names to use! <strong>HINT: In order to access each element, you'll need a unique way to identify each one.</strong> This has already been done with the h1 element; you can use that one as an example.</li>
+    <li>Write JavaScript that will change the content of the h1 and three paragraph elements using the variable names you declared and the <code>.innerText</code> method. <strong>HINT: You will need to reassign the value of the <code>variableName.innerText</code> to your new text using the assignment operator (=).</strong> </li>
+    <li>Use the <code>.addEventListener</code> method so that when the button is clicked, the title and content of the webpage changes to a different topic! </li>
+  </ul>
 </div>
 
-### Accessing an HTML Element with JavaScript
+## Building in Iterations
 
-Variables can also reference parts of the HTML we’ve written using the JavaScript method `document.querySelector` to access that element.
-
-### Event Listeners
-
-In JavaScript, an event listener is a way to set up code to run only when a very specific thing happens. You want to change the color of something when the user clicks a button? Great! That’s an event listener – you’ll tell the code to listen for a click on a specific element on the page, then run the code that changes the color. You have two options for next steps on your project:
+Developers don't code an entire application at once! Instead, they work in iterations, completing only one piece of functionality at a time. You have two options for next steps on your project:
 
 1. Follow my screen and do a live code-along.
 1. Use <a target="blank" href="https://replit.com/@turingschool/faq-final#style.css">this replit</a> to copy and paste the last few lines of CSS and all of the JavaScript into your file and then watch as I code.

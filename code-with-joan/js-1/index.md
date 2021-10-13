@@ -60,11 +60,11 @@ console.log(age);
 ```
 
 <div class="try-it-new">
-  <h2>Try It</h2>
+  <h2>Try It: Variables</h2>
   <p>That was a LOT of info! Fork <a href="https://replit.com/@turingschool/javascript-variables#script.js" target="blank">this replit</a> and follow the directions to play around with variables and data types. We will only be working on the JavaScript file.</p>
   <ul>
     <li>Declare 3 variables, using the labels name, email, and numberOfPets. Assign each to an appropriate value.</li>
-    <li>Make sure to console.log each variable to verify you've stored it correctly!</li>
+    <li>Make sure to <code>console.log()</code> each variable to verify you've stored it correctly!</li>
     <li><strong>Finished?</strong> Declare another variable that stores an array. You choose the name of the variable and the values!</li>
   </ul>
 </div>
