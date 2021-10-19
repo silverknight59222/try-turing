@@ -65,10 +65,18 @@ We know how to get one input from a user. How do we go about getting multiple in
   <p>Try running your program a few times with different values stored in the variables.</p>
   <div class="spicy-container">
     <p class="spicy-click">
-      <span role="img" aria-label="spicy pepper">🌶</span> Option to try another Spicy Challenge <span role="img" aria-label="spicy pepper">🌶</span>
+      <span role="img" aria-label="spicy pepper">🌶</span> Spicy Challenge <span role="img" aria-label="spicy pepper">🌶</span>
     </p>
     <div class="spicy-toggle">
       <p>Modify the program so that when you ask the user the second question, you use their first input. Continue that pattern for the other questions in your program!</p>
+    </div>
+  </div>
+  <div class="spicy-container">
+    <p class="spicy-click">
+      <span role="img" aria-label="spicy pepper">🌶🌶</span> Another Spicy Challenge <span role="img" aria-label="spicy pepper">🌶🌶</span>
+    </p>
+    <div class="spicy-toggle">
+      <p>Modify the program so that you ask a yes or no question and change the response based on the user's input! Hint: You will want to use a conditional. <a href="http://ruby-for-beginners.rubymonstas.org/conditionals.html" target="blank">You can find more information about conditionals in Ruby here.</a></p>
     </div>
   </div>
 </div>
