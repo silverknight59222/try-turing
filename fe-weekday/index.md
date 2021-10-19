@@ -19,9 +19,10 @@ We are so glad you are here! To get set up...
 Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing. We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day:
 
 - **15 min** Welcome, Intros, Setup
-- **2 hours, 35 min** Instruction (with breaks!)
-- **35 min** Turing Info
-- **35 min** Alumni Panel
+- **2 hours 15 min** Instruction (with breaks!)
+- **45 min** Turing Info
+- **40 min** Alumni Panel
+- **5 mins:** Wrap Up and Questions
 <br><br>
 
 ## Intros
