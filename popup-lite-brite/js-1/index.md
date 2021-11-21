@@ -14,7 +14,7 @@ Click around your Lite-Brite; see if you can "color in" any of the dots. What ha
 
 ### Explore to Learn:
 
-On line 2, change `black` to `red`. Re-run the program and click a dot.
+On line 1, change `black` to `red`. Re-run the program and click a dot.
 
 ### Breakdown:
 

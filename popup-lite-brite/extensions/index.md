@@ -51,7 +51,7 @@ function changeActiveColor() {
 }
 ```
 
-## Step 3
+### Step 3
 
 The final step is to take the value from the color picker input, and update the `activeColor` (declared on line 1 or 2) to hold that new value. Update the `changeActiveColor` function to include this:
 

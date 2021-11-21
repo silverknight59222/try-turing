@@ -64,6 +64,7 @@ It can feel like a lot, but let's start by building an understanding of what eac
 ## Project Setup
 
 We will work off of a starter kit that has already been created. Click [this link to access the starter kit](https://repl.it/@turingschool/LiteBrite1#index.html) in repl.it. Here's how to get set up:
+1. Fork the project - this makes a copy on your account.
 1. Once you are on the site, substitute your name in for the `NAME` placeholder on line 11 of the HTML file.
 1. Click the green "Run" button at the top of the page, and you should see a mini Lite-Brite project on the right side of the page.
 
