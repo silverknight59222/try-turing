@@ -56,7 +56,7 @@ Before we talk through it, take a minute to sit in that productive struggle and 
 
 - What is the content inside of each of the `<a>` tags in the HTML file?
 - What content is showing up in the browser for each of the bullet points?
-- On line 4 of the code:
+- On line 4 of the JavaScript file:
   - What does `firstLink` reference?
   - What _might_ `.innerText` be doing?
   - Does `"Front End Workshop"` look familiar?
