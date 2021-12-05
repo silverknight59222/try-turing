@@ -69,7 +69,7 @@ The Front-End of the web is based on three major technologies:
 
   <div>
     <h3>CSS</h3>
-    <p>CSS defines the look and feel of a webpage - it can change the layout of items on a page, colors, fonts, and you guessed it - animate items!</p>
+    <p>CSS defines the look and feel of a webpage - it can change the layout of items on a page, colors, fonts, and even animate elements!</p>
     <img src="../assets/css.png" alt="Drawing of clothes and accessories" />
   </div>
 
