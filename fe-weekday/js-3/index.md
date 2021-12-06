@@ -14,7 +14,7 @@ For this final section, we will all start with <span role="img" aria-label="fork
   <h2>Warm Up</h2>
   <p>The first steps of building this Number Guesser will be very similar to the work you just did!</p>
   <p><strong>STEP 1:</strong> Write an event listener and a function skeleton.</p>
-  <p><strong>STEP 2:</strong> When the function runs, send an alert to the user letting them know they clicked the button.</p>
+  <p><strong>STEP 2:</strong> When the function runs, log a message to the user letting them know they clicked the button.</p>
 </div>
 
 ## Collect User Input
@@ -32,28 +32,28 @@ To collect a _numerical_ value that the user may have typed into a given input e
 ```js
 var input = $('input');
 var userInput = parseInt(input.val());
-alert(userInput);
+console.log(userInput);
 ```
 
 <div class="try-it-new">
   <h2>Update Your Function</h2>
   <p>The work you do for this step should take place inside of your function:</p>
-  <p><strong>STEP 3:</strong> Create a variable for the input element. Get the value of that element, and alert the user of the value they typed in. <em>To check that this is working, you'll need to enter a number in the input field and click the button!</em></p>
+  <p><strong>STEP 3:</strong> Create a variable for the input element. Get the value of that element, and log it to the console to show the value they typed in. <em>To check that this is working, you'll need to enter a number in the input field and click the button!</em></p>
 </div>
 
-That's a great start! Those alerts can be really annoying though. Instead of sending an alert, let's show the user the number they typed in, in the browser. We can use code like this:
+That's a great start! Those console.logs() don't show for the user though! They are a tool for developers only, but they won't show on the browser. Instead of using a <code>console.log</code>, let's show the user the number they typed, in the browser. We can use code like this:
 
 ```js
 feedbackText.text(userInput);
 ```
 
-This line of code says "for the `feedbackText` variable, change the text inside of it's HTML tags to be the value that is store in the `userInput` variable".
+This line of code says "for the `feedbackText` variable, change the text inside of it's HTML tags to be the value that is stored in the `userInput` variable".
 
 <div class="try-it-new">
   <h2>Final Touches</h2>
   <p>Think way back to the earlier section on if statements, because this is where they come in:</p>
-  <p><strong>STEP 4:</strong> Instead of notifying your user of the number they typed, write an if statement to compare the users guess to the correct number.</p>
-  <p>Depending on if the users guess is correct or incorrect, change the text of the "feedbackText" paragraph to a relevant message!</p>
+  <p><strong>STEP 4:</strong> Instead of notifying your user of the number they typed, write an <code>if statement</code> to compare the users guess to the correct number.</p>
+  <p>Depending on if the user's guess is correct or incorrect, change the text of the "feedbackText" paragraph to a relevant message!</p>
   <div class="help-container">
   <button class="help-click"><span role="img" aria-label="raised hand">🤚</span>Help Me!</button>
     <div class="help-toggle">
