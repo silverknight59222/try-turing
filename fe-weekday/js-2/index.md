@@ -7,7 +7,7 @@ title: Connecting HTML & JavaScript
 
 # Connecting HTML & JavaScript
 
-To get all the fun and important interactions on a page, we have to connect the specific parts of HTML that we intend to allow interactions, to JavaScript!
+To get all the fun and important interactions on a page, we have to connect the specific parts of HTML that allow interactions to JavaScript!
 
 >Note: We will be using jQuery, a JavaScript library, to assist us in completing some of the tasks that follow. If you create your own CodePen at any point, make sure to [add jQuery to the pen in order for it to work!](https://blog.codepen.io/documentation/using-javascript-libraries/)
 
@@ -24,15 +24,15 @@ Let's look at [the code in this CodePen](https://codepen.io/turing-trycoding/pen
 ```js
 // JavaScript code
 var paragraph = $('p');
-alert(paragraph.text()); //alert will say "This is a paragraph"
+console.log(paragraph.text()); //console will say "This is a paragraph"
 
 var button = $('.submit');
-alert(button.text()); //alert will say "A button!"
+console.log(button.text()); //console will say "A button!"
 ```
 
 ## Changing HTML from JavaScript
 
-Just displaying the information that's already on the page, in an alert, is not helpful though! It was just a stepping stone.
+Displaying the information that's already on the page, in the console, is not all that helpful. It was just a stepping stone.
 
 The next stepping stone is learning how to _change_ the text inside an HTML element from our JavaScript code.
 
@@ -68,7 +68,7 @@ The work we've done still may not seem too exciting though; what's the point? It
 
 Imagine that you’ve just ordered food from GrubHub and are waiting for it to arrive. When the doorbell rings, you’ll stand up from the couch, walk over to the door, open it, and take your food. Guess what? You programmed yourself with an event listener.
 
-In JavaScript, an event listener is a way to set up code to run only when a very specific thing happens. You’ll give instructions to the program to listen for the mouse to click on a specific element on the page. When that element is clicked, the program will call a specific function for you.
+In JavaScript, an event listener is a way to set up code to run only when a very specific thing happens. You’ll give instructions to the program to listen for a mouse click on a specific element on the page. When that element is clicked, the program will call a specific function for you.
 
 ```js
 var button = $('button');

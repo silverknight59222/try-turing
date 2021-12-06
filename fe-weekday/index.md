@@ -18,14 +18,14 @@ We are so glad you are here! To get set up...
 
 Over the course of the day, we will write code, explore the mindsets that successful developers have, and learn a little more about Turing. We will ask you to introduce yourself, ask questions, and occasionally share out answers to the technical work we do! Below is our agenda for the day:
 
-- **15 min** Welcome, Intros, Setup
-- **2 hours 15 min** Instruction (with breaks!)
-- **45 min** Turing Info
-- **40 min** Alumni Panel
-- **5 mins:** Wrap Up and Questions
+- **Welcome, Intros, Setup** (30 minutes)
+- **Instruction** (2 hours)
+- **Turing Info Session** (45 minutes)
+- **Alumni Panel** (45 minutes)
+- **Wrap Up and Questions** (5 minutes)
 <br><br>
 
-## Intros
+## Introductions & Zoom Tools
 
 We'd love to give everyone a chance to say hi, as well as do a mic check. Please share:
 - Your name and pronouns
@@ -35,16 +35,18 @@ We'd love to give everyone a chance to say hi, as well as do a mic check. Please
 
 We’ll also have the zoom chat available as a tool today. To make sure we are all comfortable using it:
 
-1. Waterfall Practice: Prepare your answer by typing it in the chat box but DO NOT press enter until the instructor tells everyone to “Send” - are you a morning person/early bird or night person/night owl?
+1. Zoom chat — waterfall practice: Prepare your answer by typing it in the chat box but DO NOT press enter until the instructor tells everyone to “Send” - are you a morning person/early bird or night person/night owl?
+2. Zoom chat — direct message practice: Send me a direct message with the one word that describes how you are feeling right now.
+3. Zoom tools — raise your hand: Raise your hand using the reactions button.
 <br><br>
 
 ## Learning Norms
 
 - No question is too small. No question is a bad question. Ask them!
-- We all benefit from each others ideas! Push yourself to share out and make sure you aren’t sharing so much that others don’t have the space to do so
-- Please mute your microphone unless you’re the main speaker
+- We all benefit from each others ideas! Push yourself to share out and make sure you aren’t sharing so much that others don’t have the space to do so.
+- Please mute your microphone unless you’re the main speaker.
 - Have your camera on during class if possible!
-- Questions? Type into the group chat box or wait until end of section when we open it up for questions
+- Questions? Type into the group chat box or wait until end of section when we open it up for questions.
 <br><br>
 
 ## Goals
@@ -58,7 +60,7 @@ _Disclaimer: We won't become experts in these languages today. And you may leave
 
 ## Programming Languages We Will Use
 
-Building the user-facing part of a website or app is referred to as Front-End Engineering. Building a Front-End requires the writing code in three programming languages, and making the code in each language "talk to" the code in the others.
+Building the user-facing part of a website or app is referred to as Front-End Engineering. Building a Front-End requires the writing code in three programming languages (HTML, CSS, and JavaScript), and making the code in each language "talk to" the code in the others. We will spend time writing code in only **two** of those languages today.
 
 It can feel like a lot, but let's start by building an understanding of what each language is responsible for. We will make some comparisons to the human body to create context.
 
