@@ -6,7 +6,7 @@ layout: lesson
 
 <h2>Thank you and CONGRATS <span role="img" aria-label="celebration emoji">🎉</span></h2>
 
-Today might have been your first time coding - you did it! Thanks for spending your day with us. Please do share your feedback on today's workshop <a href="https://docs.google.com/forms/d/1WgNaki1iuVMXUj8KhWdbxcFpg4V4zyViU_fZu7p0G10/edit" target="blank">by filling out this form</a>.
+Today might have been your first time coding - you did it! Thanks for spending your day with us. Please do share your feedback on today's workshop <a href="https://forms.gle/azqVLyUsvvVraxC18" target="blank">by filling out this form</a>.
 
 ## Contact
 
