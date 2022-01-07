@@ -5,7 +5,7 @@ layout: lesson
 # Weekend Workshop: Build a MASH App
 
 ## Day 1: Build an Almost-MASH App
-Remember MASH? That silly game we played as kids that would predict your future? In this live, instructor-led workshop, you will build your very own modern MASH web application to share with friends and family! Let go of all your planning to be a better version of yourself in 2022 and let MASH decide your future for you. Don’t know what I’m talking about? Watch this short video to see how the game of MASH is played.
+Remember MASH? That silly game we played as kids that would predict your future? In this live, instructor-led workshop, you will build your very own modern MASH web application to share with friends and family! Let go of all your planning to be a better version of yourself in 2022 and let MASH decide your future for you. Don’t know what I’m talking about? Watch <a target="blank" href="https://www.youtube.com/watch?v=vFPxE3KnVro&t=4s">this short video</a> to see how the game of MASH is played.
 
 _This will be best experienced on a desktop or laptop computer._
 
