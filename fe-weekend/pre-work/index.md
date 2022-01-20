@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Front-End Try Coding: Pre-work
+# Front End Try Coding: Pre-work
 
 <a href="../">Back to Curriculum Index</a>
 
@@ -34,7 +34,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
     </div>
   </header>
   <div class="hide">
-    <p><a href="https://codepen.io/" target="blank">CodePen</a> provides an online platform that allows us to write code and see the results almost immediately - all inside of one browser tab! There are many other similar (and awesome) tools available; we feel this is the best choice for the Front-End Try Coding workshops.</p>
+    <p><a href="https://codepen.io/" target="blank">CodePen</a> provides an online platform that allows us to write code and see the results almost immediately - all inside of one browser tab! There are many other similar (and awesome) tools available; we feel this is the best choice for the  End Try Coding workshops.</p>
     <p><span role="img" aria-label="movie">🎬</span> Please watch this short screencast (no sound) for an introduction on how to navigate CodePen:</p>
 
     <iframe width="100%" height="550px" frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cY6vqKsCTf&v=6&ff=1&title=0&controls=1" allowfullscreen="true"></iframe>
@@ -58,7 +58,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
     </div>
   </header>
   <div class="hide">
-    <p>Of all of the major technologies used on the web, on either the Front-End or the Back-End, HTML, or Hyper Text Markup Language, is the oldest. <a href="http://info.cern.ch/" target="blank">In the beginning</a>, the web was just a bunch of HTML documents that you wrote by hand. They had these <em>cool</em> things called hyperlinks that would allow a user to click on a word on one page and be taken to another page.</p>
+    <p>Of all of the major technologies used on the web, on either the Front End or the Back End, HTML, or Hyper Text Markup Language, is the oldest. <a href="http://info.cern.ch/" target="blank">In the beginning</a>, the web was just a bunch of HTML documents that you wrote by hand. They had these <em>cool</em> things called hyperlinks that would allow a user to click on a word on one page and be taken to another page.</p>
     <p>HTML is still an essential part of modern web applications. It holds the content and creates the structure of a webpage.</p>
 
     <h3>Tags, Content, Elements</h3>

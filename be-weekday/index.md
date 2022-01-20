@@ -51,7 +51,7 @@ We'll also have the zoom chat available as a tool today. To make sure we are all
 
 ## Instructor-Led Content
 
-- [What is Back-End Engineering?](./what-is-bee)
+- [What is Back End Engineering?](./what-is-bee)
 - [Ruby Review](./ruby-review)
 - [User Input](./user-input)
 - [Arrays](./arrays)

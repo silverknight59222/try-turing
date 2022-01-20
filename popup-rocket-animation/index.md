@@ -28,7 +28,7 @@ Disclaimer: We won't become experts in CSS today. And you may leave with more qu
 
 ## Programming Languages We Will Use
 
-Building the user-facing part of a website or app is referred to as Front-End Engineering. Building a Front-End requires the writing code in three programming languages, and making the code in each language "talk to" the code in the others. Today, we will get some exposure to _two_ of those languages.
+Building the user-facing part of a website or app is referred to as Front End Engineering. Building a Front End requires the writing code in three programming languages, and making the code in each language "talk to" the code in the others. Today, we will get some exposure to _two_ of those languages.
 
 Let's start by building an understanding of what each language is responsible for. We will make some comparisons to the human body to create context.
 

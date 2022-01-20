@@ -15,9 +15,9 @@ Please share about your experience, and how we can best support you moving forwa
 
 ## Additional Resources
 
-- Learn more about the difference between Front-End and Back-End, and what you will learn and build at Turing by checking out [the program progression](../../what-students-learn)
+- Learn more about the difference between Front End and Back End, and what you will learn and build at Turing by checking out [the program progression](../../what-students-learn)
 - <a target="blank" href="https://www.codecademy.com/learn/introduction-to-javascript">Codeacademy’s JavaScript Course</a>
-- Jon Duckett's Front-End books (you can find these with a Google search)
+- Jon Duckett's Front End books (you can find these with a Google search)
 - <a target="blank" href="https://scrimba.com/g/gflexbox">Scrimba Flexbox course</a>
 
 <br>

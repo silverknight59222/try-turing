@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Back-End Online Curriculum
+# Back End Online Curriculum
 
 Please complete the [pre-work that is outlined here](./pre-work) before attending the workshop.
 
@@ -39,7 +39,7 @@ Over the course of the day, we will write code, explore the mindsets that succes
 
 ## Instructor-Led Content
 
-- [What is Back-End Engineering?](./what-is-bee)
+- [What is Back End Engineering?](./what-is-bee)
 - [Ruby Review](./ruby-review)
 - [User Input](./user-input)
 - [Arrays](./arrays)

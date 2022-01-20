@@ -6,11 +6,11 @@ layout: lesson
 
 # How to CODE these concepts
 
-We've talked at a high level about classes, instances and attributes, and you may be starting to wonder what this will look like in code!
+We've talked at a high level about classes, instances and attributes, and you may be starting to wonder what this will look like in code. That's what we'll do next!
 
 <div class="try-it-new">
   <h2>Explore Class Syntax</h2>
-  <p>While this may feel uncomfortable at first, research shows this is one of the most effective ways to learn. Instead of your instructor typing code and explaining every character, you are going to read some Ruby code that's already been written. You will likely have some questions about what X or Y is doing, and you'll also likely be able to make some deductions about what other pieces are doing. We will talk through it all after you've had a chance to push your brain and make some connections on your own.</p>  
+  <p>While this may feel uncomfortable at first, research shows this is one of the most effective ways to learn. Instead of your instructor typing code and explaining every character, you are going to read some Ruby code that's already been written. You will likely have some questions about what X or Y is doing, and you'll also likely be able to make some deductions about what other pieces are doing. We will talk through it all after you've had a chance to use your brain and make some connections on your own.</p>  
   <p>Look at the <a target="blank" href="https://repl.it/@turingschool/oop-intro-ford-escape#main.rb">code in this repl.it</a> and think through the guiding questions:</p>
   <ul>
     <li>What is the name of the class?</li>
@@ -20,7 +20,7 @@ We've talked at a high level about classes, instances and attributes, and you ma
   </ul>
 </div>
 
-As a group, let's discuss what you probably found and maybe had questions about. We can diagram on the iPad and/or look at the live code!
+As a group, let's discuss what you probably found and maybe had questions about. 
 
 <div class="try-it-new">
   <h2>Write a New Class</h2>

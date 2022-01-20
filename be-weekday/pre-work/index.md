@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Back-End Try Coding: Pre-work
+# Back End Try Coding: Pre-work
 
 <a href="../">Back to Curriculum Index</a>
 
@@ -58,7 +58,7 @@ Completing this pre-work will set you up for success in our virtual classroom - 
     </div>
   </header>
   <div class="hide">
-    <p>Ruby is a Back-End programming language. It was written with a focus on simplicity and productivity, so is a great language for beginners!</p>
+    <p>Ruby is a  End programming language. It was written with a focus on simplicity and productivity, so is a great language for beginners!</p>
     <p>Programming languages need a way to classify the various types of data they work with. Ruby works with the 3 data types defined below:</p>
 
     <section class="data-type-cards">
