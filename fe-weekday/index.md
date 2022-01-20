@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Front-End Workshop: Build a Number Guesser
+# Front End Workshop: Build a Number Guesser
 
 _This will be best experienced on a desktop or laptop computer._
 
@@ -60,7 +60,7 @@ _Disclaimer: We won't become experts in these languages today. And you may leave
 
 ## Programming Languages We Will Use
 
-Building the user-facing part of a website or app is referred to as Front-End Engineering. Building a Front-End requires the writing code in three programming languages (HTML, CSS, and JavaScript), and making the code in each language "talk to" the code in the others. We will spend time writing code in only **two** of those languages today.
+Building the user-facing part of a website or app is referred to as  End Engineering. Building a Front End requires the writing code in three programming languages (HTML, CSS, and JavaScript), and making the code in each language "talk to" the code in the others. We will spend time writing code in only **two** of those languages today.
 
 It can feel like a lot, but let's start by building an understanding of what each language is responsible for. We will make some comparisons to the human body to create context.
 

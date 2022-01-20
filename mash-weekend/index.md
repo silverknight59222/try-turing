@@ -48,7 +48,7 @@ Want to get my attention during the workshop? Raise your hand, type your questio
 
 ## What is Front End Engineering?
 
-Building the user-facing part of a website or app is referred to as Front-End Engineering. Building the Front-End of a web page requires writing code in three programming languages, and making the code in each language “talk to” the code in the others.
+Building the user-facing part of a website or app is referred to as Front End Engineering. Building the Front End of a web page requires writing code in three programming languages, and making the code in each language “talk to” the code in the others.
 
 It can feel like a lot, but let’s start by building an understanding of what each language is responsible for. We will make some comparisons to the human body to create context.
 

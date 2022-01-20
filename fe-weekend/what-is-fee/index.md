@@ -8,18 +8,18 @@ layout: lesson
 
 ## Goals
 
-- Identify the key differences between Front-End and Back-End engineering
-- Categorize various technologies used in Front-End engineering
+- Identify the key differences between Front End and  End engineering
+- Categorize various technologies used in Front End engineering
 
-## What is Front-End?
+## What is Front End?
 
-The **Front-End** is the part of the application that users see, touch, and interact with.
+The **Front End** is the part of the application that users see, touch, and interact with.
 
-When we're talking about web development, the Front-End is the part of the code base that takes care of rendering the user interface in the web browser.
+When we're talking about web development, the Front End is the part of the code base that takes care of rendering the user interface in the web browser.
 
 Over the last decade, the web has evolved from a platform that served static web pages with content to a platform that provides rich, interactive experiences to users.
 
-## What Makes Front-End Engineering Interesting + Challenging?
+## What Makes Front End Engineering Interesting + Challenging?
 
 ### It Presents Logical Challenges
 
@@ -44,7 +44,7 @@ Big numbers are difficult to imagine. How can you imagine a billion? Even a thou
 
 ## No Matter Your Passion, You're Needed in FE
 
-While many people become developers because it can provide a stable career and lifestyle, it can also allow you to contribute towards something you are passionate about! Whether that be problems solving, exposing important data, or helping people do daily tasks, or anything in between, Front-End developers play an essential role.
+While many people become developers because it can provide a stable career and lifestyle, it can also allow you to contribute towards something you are passionate about! Whether that be problems solving, exposing important data, or helping people do daily tasks, or anything in between, Front End developers play an essential role.
 <br>
 
 ## You Don't Have to Be a Designer
@@ -52,13 +52,13 @@ While many people become developers because it can provide a stable career and l
 <img class="small-img" src="{{ site.url }}/assets/images/comp.jpg" alt="To Do list application">
 <img class="small-img" src="{{ site.url }}/assets/images/comp-details.png" alt="One section of To Do List application, arrows pointing to each section to notate size and colors.">
 
-Front-End developers often work with designers, who provide detailed comps like the one above. These comps allow a Front-End developer to focus on managing the complicated interactions of the site.
+Front End developers often work with designers, who provide detailed comps like the one above. These comps allow a Front End developer to focus on managing the complicated interactions of the site.
 
-There's a common misconception that the Front-End is only about colors, fonts, and having a good eye. However, this type of development is more focused on making data useful, accessible, and interactive. The code we write in JavaScript and other frameworks does a lot of heavy logical lifting.
+There's a common misconception that the Front End is only about colors, fonts, and having a good eye. However, this type of development is more focused on making data useful, accessible, and interactive. The code we write in JavaScript and other frameworks does a lot of heavy logical lifting.
 
-## What technologies are used on the Front-End?
+## What technologies are used on the Front End?
 
-The Front-End of the web is based on three major technologies:
+The Front End of the web is based on three major technologies:
 
 <section class="data-type-cards language-cards">
   <div>
@@ -80,7 +80,7 @@ The Front-End of the web is based on three major technologies:
   </div>
 </section>
 
-Many libraries and frameworks have been built _on top_ of JavaScript that make Front-End development even more robust and powerful! If you hear terms like React, Vue, Ember, Angular... those are all JavaScript frameworks used to build professional level applications.
+Many libraries and frameworks have been built _on top_ of JavaScript that make Front End development even more robust and powerful! If you hear terms like React, Vue, Ember, Angular... those are all JavaScript frameworks used to build professional level applications.
 
 ## What are we doing today?
 

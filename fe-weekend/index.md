@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Front-End Online Curriculum
+# Front End Online Curriculum
 
 Please complete the [pre-work that is outlined here](./pre-work) before attending the workshop
 
@@ -23,7 +23,7 @@ Over the course of the day, we will write (more) code, continue to embrace produ
 
 ## Instructor-Led Content
 
-- [What is Front-End Engineering?](./what-is-fee)
+- [What is Front End Engineering?](./what-is-fee)
 - [HTML Review](./html-review)
 - [Intro to CSS](./intro-to-css)
 - [Intro to JavaScript](./intro-to-js)

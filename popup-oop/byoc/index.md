@@ -23,7 +23,7 @@ For this final section, you will choose the pace at which you want to work and t
   </div>
   <div>
     <h3>Spicy <span role="img" aria-label="three flame emojis">🔥🔥🔥</span></h3>
-    <p>You will not have any starter code for this option. Choose your own topic to make a class and instances of.</p>
+    <p>You will not have any starter code for this option. Choose your own topic to make a class and instances of that class.</p>
     <p>There is no starter kit; create a new repl.it on your own!</p>
   </div>
 </section>
@@ -64,6 +64,6 @@ messages = [
 puts messages
 ```
 
-In OOP, it is common to store instances in an list, or array, like the one above.
+In OOP, it is common to store instances in a list, or array, like the one above.
 
 <a href="../wrap-up">Wrap Up</a>
