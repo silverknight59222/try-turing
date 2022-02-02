@@ -6,38 +6,41 @@ layout: lesson
 
 # Modifying the HTML
 
-## Tour the Existing Code
+## Tour the Existing HTML
 
-- Elements that live inside of the `body` tags will be displayed on the page (lines 12-38)
+- Information between the `<head>` tags does not show in the browser. It is only background information for the webpage.
+- Elements that live inside of the `<body>` tags will be displayed on the page (lines 13-39).
+- The `<div>` tags define a division or a section in an HTML document. These allow us to group important elements together and nest elements to create structure and organization.
 
 ### Explore to Learn:
 
 - Where do you see the text displayed in the browser reflected in the code?
-- What is the purpose of the `<strong>` tag?
-- What is the purpose of the `<br>` tag? Try removing it and see if you can figure out why it's there!
 - What organizational structures do you notice?
+- Try commenting out a line of code using `cmd + /` and then click the green `Run` button. What happens? Use the same keyboard shortcut to undo it!
+- What might be the purpose of the `classes` on some of the elements?
 <br>
 <br>
 
 <div class="try-it-new">
-  <h2>Modify the Existing Code</h2>
+  <h2>Breakouts: Modify the Existing Code</h2>
   <p>Now that we're getting to know HTML and this specific project a bit better, let's modify it!</p>
   <ul>
-    <li>Add two more single questions, each with a question title and question text.</li>
-    <li>Decide what content you would like for your FAQ page. If you're not feeling creative, try using <a href="https://www.merriam-webster.com/words-at-play/new-words-in-the-dictionary" target="blank">these words added to the dictionary in 2021:</a></li>
+    <li>Add two more single cards, each with a card title and card text.</li>
+    <li>Decide what content you would like for your webpage. If you're not feeling creative, make it a glossary of terms we are learning today!</li>
     <ul>
-      <li><strong>Bubble:</strong> a usually small group of people (such as family members, friends, coworkers, or classmates) who regularly interact closely with one another but with few or no others in order to minimize exposure and reduce the transmission of infection during an outbreak of a contagious disease</li>
-      <li><strong>Flex:</strong> an act of bragging or showing off</li>
-      <li><strong>Crowdfunding:</strong> the practice of obtaining needed funding (as for a new business) by soliciting contributions from a large number of people especially from the online community</li>
+      <li><strong>CSS:</strong> Short for Cascading Style Sheets, this language controls the look and feel of a webpage. It can change the layout of items on a page, colors, fonts, and even animate elements!</li>
+      <li><strong>JavaScript:</strong> This programming language is responsible for user interaction. For example, when the user clicks a button and sees a change in the browser, this action is controlled by JavaScript.</li>
     </ul>
   </ul>
   
-  <p>If you would like to check your work at this point, you can compare with <a target="blank" href="https://replit.com/@turingschool/faq-after-html#index.html">this replit.</a></p>
+  <p>If you would like to check your work at this point, you can compare with <a target="blank" href="https://replit.com/@turingschool/cwj-checkpoint-1#index.html">this replit.</a></p>
 </div>
 
 ## HTML Summary
 
 - Elements that live inside of the `body` tags will be displayed on the page
-- The number of elements and the content inside of the elements in the HTML file usually have a 1-1 correlation with what we see in the browser
+- We can nest elements inside of other elements to create structure within the HTML
+- Classes allow us to give each element a specific label so that we can reference that element later
+- The number of elements and the content inside of the elements in the HTML file usually have a 1-to-1 correlation with what we see in the browser
 
 <a href="../css">Next Section: CSS</a>

@@ -6,7 +6,7 @@ layout: lesson
 
 # JavaScript Overview
 
-JavaScript is the part of the code that allows our user to interact with the page. It allows the user to actually <em>do</em> something on the site. The user can click buttons or type information in a form and the user usually gets some form of visual feedback on the screen that they did something. Before we continue with our FAQ page, let’s review some JavaScript basics.
+JavaScript is the part of the code that controls user interaction. It allows the user to actually <em>do</em> something on the site. The user can click buttons or type information in a form and they usually get some form of visual feedback on the screen that they did something. Before we continue with our interactive webpage, let’s review some JavaScript basics.
 
 ## Data Types
 
@@ -48,7 +48,7 @@ var students = ['Chelsea', 'Alesha', 'Tracey', 'Lindsey', 'Erin', 'Anna'];
 
 ## console.log()
 
-As we learn about JavaScript today, we will use the `console.log()` method to print the data we are working with out to the console in CodePen.
+As we learn about JavaScript today, we will use the `console.log()` method to print the data we are working with out to the console in replit.
 
 Here's the syntax:
 
@@ -58,10 +58,11 @@ console.log(firstName);
 console.log(age);
 //=> 104
 ```
+<br>
 
 <div class="try-it-new">
-  <h2>Try It: Variables</h2>
-  <p>That was a LOT of info! Fork <a href="https://replit.com/@turingschool/javascript-variables#script.js" target="blank">this replit</a> and follow the directions to play around with variables and data types. We will only be working on the JavaScript file.</p>
+  <h2>Breakouts: Variables</h2>
+  <p>That was a LOT of info! Fork <a href="https://replit.com/@turingschool/javascript-variables#script.js" target="blank">this replit</a> and follow the directions to play around with variables and data types. We will only be working on the JavaScript file. There is one example for the first two steps to help you get started.</p>
   <ul>
     <li>Declare 3 variables, using the labels name, email, and numberOfPets. Assign each to an appropriate value.</li>
     <li>Make sure to <code>console.log()</code> each variable to verify you've stored it correctly!</li>
@@ -76,4 +77,4 @@ console.log(age);
 - Arrays are a collection of items that belong together.
 - Reminder: This stuff gets really complex! We are only scratching the surface with some foundational topics today.
 
-<a href="../js-2">Next Section: Interactive FAQ</a>
+<a href="../js-2">Next Section: Event Listeners</a>
