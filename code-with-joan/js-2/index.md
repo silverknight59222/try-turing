@@ -90,4 +90,4 @@ Now that we moved the reassignment of the value on the title inside of the event
 - Event listeners allow us to wait for a user action to change something on the page.
 <br>
 
-<a href="../extensions">Next Section: Interactive Buttons</a>
+<a href="../js-3">Next Section: Interactive Buttons</a>
