@@ -61,6 +61,6 @@ cards.forEach(function (card) {
 - You likely have some gaps in fully understanding the final solution - again, that is OKAY - the goal of this was not to go deep, but spark some curiosity for what is possible!
 <br>
 
-<a href="../extensions">Next Section: Extension Challenge</a>
+<a href="../extensions">Next Section: Group Challenge</a>
 <br>
 <a href="../wrap-up">Wrap Up</a>

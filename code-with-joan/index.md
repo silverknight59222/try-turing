@@ -116,31 +116,6 @@ To review our answers to the scavenger hunt, we will use our zoom tools.
     </ul>
 </div>
 
-## Be Nice to Yourself
-
-This might be your very first day working with code. Learning is often uncomfortable and things are bound to break. Let's practice working through some common errors together.
-
-<div class="expander expander-lesson">
-  <header>
-    <h3 class="spicy-click">My code is broken! What do I do?!</h3>
-    <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
-  </header>
-  <div class="hide">
-    <p>Fork <a target="blank" href="https://replit.com/@turingschool/find-the-error#index.html">this replit</a> and see if you can spot the <strong>one mistake</strong> in each file.</p>
-    <ol>
-      <li>Don't panic. There are some things that will break often. Check those first.</li>
-        <ul>
-          <li>Did you spell everything correctly?</li>
-          <li>Do you have closing symbols for every block or element?</li>
-          <li>Do the colors follow a predictable pattern?</li>
-        </ul>
-      <li>To avoid breaking lots of things all at once, use the green <code>Run</code> button after every change you make!</li>
-      <li>Ask for help!</li>
-    </ol>
-  </div>
-</div>
-
-<br>
 
 ## Programming Languages We Will Use
 
@@ -172,6 +147,32 @@ It can feel like a lot, but let's start by understanding the role of each langua
 </section>
 <br>
 
+## Be Nice to Yourself
+
+This might be your very first day working with code. Learning is often uncomfortable and things are bound to break. Let's practice working through some common errors together.
+
+<div class="expander expander-lesson">
+  <header>
+    <h3 class="spicy-click">My code is broken! What do I do?!</h3>
+    <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
+  </header>
+  <div class="hide">
+    <p>Fork <a target="blank" href="https://replit.com/@turingschool/find-the-error#index.html">this replit</a> and see if you can spot the <strong>one mistake</strong> in each file.</p>
+    <ol>
+      <li>Don't panic. There are some things that will break often. Check those first.</li>
+        <ul>
+          <li>Did you spell everything correctly?</li>
+          <li>Do you have closing symbols for every block or element?</li>
+          <li>Do the colors follow a predictable pattern?</li>
+        </ul>
+      <li>To avoid breaking lots of things all at once, use the green <code>Run</code> button after every change you make!</li>
+      <li>Ask for help!</li>
+    </ol>
+  </div>
+</div>
+
+<br>
+
 ## Project Setup
 
 We will work off of a starter kit that has already been created. <a target="blank" href="https://replit.com/@turingschool/cwj-starter-kit#index.html">Click this link to access the starter kit</a> in replit. Here's how to get set up:
@@ -188,5 +189,5 @@ In the next part of the lesson, we will explore the HTML file to understand the 
 - [JavaScript - Overview](./js-1)
 - [JavaScript - Event Listeners](./js-2)
 - [JavaScript - Interactive Buttons](./js-3)
-- [Extension Challenge](./extensions)
+- [Group Challenge](./extensions)
 - [Wrap Up](./wrap-up)
