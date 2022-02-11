@@ -176,7 +176,6 @@ This might be your very first day working with code. Learning is often uncomfort
 ## Project Setup
 
 We will work off of a starter kit that has already been created. <a target="blank" href="https://replit.com/@turingschool/cwj-starter-kit#index.html">Click this link to access the starter kit</a> in replit. Here's how to get set up:
-1. Once you are on the site, substitute your name in for the `NAME` placeholder on line 14 of the HTML file.
 1. Click the green "Run" button at the top of the page, and you should see a simple version of your website on the right side of the page.
 
 In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
