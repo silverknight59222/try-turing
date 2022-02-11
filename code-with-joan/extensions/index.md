@@ -80,11 +80,11 @@ You will be assigned to a new group for the challenge based on a shared interest
 
 <div class="expander expander-lesson">
   <header>
-    <h3 class="spicy-click">Music</h3>
+    <h3 class="spicy-click">Music & Reality TV</h3>
     <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
   </header>
   <div class="hide">
-    <p>Make a landing page for Spotify! They want all genres displayed on the page. Find a way to suggest at least 3 artists in each genre.</p>
+    <p>American Idol has hired you to create a landing page that features your favorite “stars” from over the years!</p>
   </div>
 </div>
 
@@ -94,7 +94,7 @@ You will be assigned to a new group for the challenge based on a shared interest
     <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
   </header>
   <div class="hide">
-    <p>Decide on one reality TV show and make a landing page that features your favorite “stars”!</p>
+    <p>Decide on one reality TV show and </p>
   </div>
 </div>
 
