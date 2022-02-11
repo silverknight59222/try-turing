@@ -90,16 +90,6 @@ You will be assigned to a new group for the challenge based on a shared interest
 
 <div class="expander expander-lesson">
   <header>
-    <h3 class="spicy-click">Reality TV</h3>
-    <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
-  </header>
-  <div class="hide">
-    <p>Decide on one reality TV show and </p>
-  </div>
-</div>
-
-<div class="expander expander-lesson">
-  <header>
     <h3 class="spicy-click">Travel</h3>
     <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
   </header>
