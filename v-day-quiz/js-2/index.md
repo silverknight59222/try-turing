@@ -4,90 +4,74 @@ layout: lesson
 
 <a href="../">Back to Setup Page</a>
 
-# Event Listeners
+# Connect HTML & JavaScript
 
-Before JavaScript, websites used to be built with only HTML and CSS. You could maybe click a button and go to another page, but that’s about it. Now, we can do so much more thanks to JavaScript! 
+Right now, our project has all the information it needs for the questions, but how do we get them to show up in the browser?! 
 
-## Tour the Existing HTML Code
-
-We will be using a new practice replit to practice these skills before we implement them in our project. Go ahead and <a target="blank" href="https://replit.com/@turingschool/javascript-event-listeners#index.html">fork this replit</a> to get started.
-
-Look at all three files and try to answer these questions.
-
-- How many HTML elements are creating the elements that appear in the browser?
-- Which HTML element already has a class on it? What would be a good name for a class on the other elements?
-
+>Note: We will be using jQuery, a JavaScript library, to assist us in completing some of the tasks that follow. If you create your own CodePen at any point, make sure to [add jQuery to the pen in order for it to work!](https://blog.codepen.io/documentation/using-javascript-libraries/)
 
 ## Accessing an HTML Element with JavaScript
 
-We know variables can store information to reference later. Variables can also reference <strong>parts of the HTML</strong> we’ve written using the JavaScript method `document.querySelector` to access that element. For example, if we want a variable to represent the `h1` heading at the top of our page, we need to do two things:
-
-1. Add a class to the `h1` element in the HTML.
-2. Use the JavaScript method `document.querySelector` to access that element.
-
-Here's how that looks in practice:
+We know variables can store information to reference later. Variables can also reference <strong>parts of the HTML</strong> we’ve written using a JavaScript library called `jQuery` to access that element. Here's how that looks in practice:
 
 ```html
 <!-- HTML code -->
-<h1 class="heading">Puppy Facts</h1>
+<h2 id="name">Name Placeholder</h2>
+<p id="description">A description of my friend will go here.</p>
 ```
 
 ```js
 // JS code
-var title = document.querySelector('.heading');
+var heading = $('h2');
+console.log(heading.text());
+// => "Name Placeholder" will print out to the console
 
-console.log(title.innerText);
-// "Puppy Facts" will print out to the console
+var description = $('#description');
+console.log(description.text());
+// => "A description of my friend will go here." will print out to the console
 ```
 
-If you look the script.js file in our practice replit, you'll notice that those two lines of code are already in there.
+You will notice that jQuery can access an element in multiple ways. It found the `h2` element using the tag for that element, but it found the element for the description based on it's id. Notice that we use a `#` before the name of the id.
 
-- What happens when you run the code?
-- What do you think line 10 is doing?
-
-For the first time today, we have our JavaScript "talking to" our HTML code! This is exciting stuff! Go ahead and follow the directions in your `script.js` file to create a variable for every HTML element, console.log the values, and then reassign the values.
-
-## Event Listeners
-
-In JavaScript, an event listener is a way to set up code to run only when a very specific thing happens. Right now, all of our content changes immediately when the page loads. We want the content to only change <em>when the user clicks the button</em>. That’s an event listener – you’ll tell the code to listen for a click on a specific button on the page, then run the code that changes the content. 
-
-Here's how that looks in practice:
-
-```html
-<!-- HTML code -->
-<h1 class="header">Puppy Facts</h1>
-<button>Change the topic!</button>
-```
+For the first time today, we have our JavaScript "talking to" our HTML code! This is exciting stuff! Now, we can also use the `text()` property to set a new value for the text of that element. That would look like this:
 
 ```js
 // JS code
-var title = document.querySelector('.header');
-var btn = document.querySelector('button');
-
-btn.addEventListener('click', function () {
-  title.innerText = "Kitten Facts";
-})
+var heading = $('h2');
+heading.text(friends[0].name);
 ```
 
-Now that we moved the reassignment of the value on the title inside of the event listener, that code will only run after the user clicks on the button. BOOM! We have an interactive webpage.
-<br><br>
-
+Now, when I click the green `Run` button, I see the first friend's name in the browser instead of my name placeholder!
 
 <div class="try-it-new">
-  <h2>Breakouts: Event Listeners </h2>
-  <p>Back in <a target="blank" href="https://replit.com/@turingschool/javascript-event-listeners#script.js">your practice replit</a>, use the example above to write your own event listener below line 12. Here are some things to keep in mind:</p>
-    <ul>
-      <li>Spelling matters. If you named your button variable <code>button</code> instead of <code>btn</code> like the example, use the spelling you chose!</li>
-      <li>All of those characters matter. Make sure you have quotations around "click" and you have opening and closing grouping symbols.</li>
-      <li>You can put more than one line of code inside of your event listener function. Put everything you want to change inside of that code block and everything will change at once!</li>
-    </ul>
+  <h2>Connect HTML & JavaScript</h2>
+  <p>Back in your replit playground, complete exercises 11 and 12.</p>
+  <ul>
+    <li>Declare variables for the heading and the description that reference the h2 element and the element with the description id in the html.</li>
+    <li>Change the text property on both variables and set them equal to the first friend's name and a description of that friend using the other two variables with string interpolation.</li>
+  </ul>
+</div>
+
+## Connect HTML & JavaScript in Your Project
+
+Now that we've tried this in our playground, let's use the same strategy to show our first question in our quiz projects.
+
+<div class="try-it-new">
+  <h2>Connect HTML & JavaScript</h2>
+  <p>Navigate back to your quiz project replit. </p>
+  <ul>
+    <li>Under step 2, replace each empty string with an id that matches the id for the element in the html file.</li>
+    <li>Now, under step 3, modify the text of the questionElement, optionAButton, and optionBButton to match the properties of the first question. Hint: You will need to use both bracket notation and dot notation to find the correct value!</li>
+    <li>Finally, update the score element to show the current score using string interpolation.</li>
+  </ul>
+  <p>Click the green Run button at the top of the page to see the results! At this point, your project should look something <a href="https://replit.com/@turingschool/quiz-app-checkpoint-3#script.js" target="blank">like this</a>.</p>
 </div>
 
 
-## JavaScript Event Listeners Summary
+## Connect HTML & JavaScript Summary
 
-- We can access an HTML element using the document.querySelector JavaScript method.
-- Event listeners allow us to wait for a user action to change something on the page.
+- Variables can store a reference to an HTML element using JavaScript.
+- We can modify the `text()` property by passing in a new value for the text of that HTML element.
 <br>
 
-<a href="../js-3">Next Section: Interactive Buttons</a>
+<a href="../js-3">Next Section: User Interaction & Functions</a>

@@ -18,7 +18,8 @@ We are so glad you are here! To get set up...
 
 ## Goals
 
-- Build and customize an <a target="blank" href="">interactive quiz based on the Newlyweds Game</a>
+- Build and customize an <a target="blank" href="https://v-day-newlyweds-final.kaitlyn-vg.repl.co/">interactive quiz based on the Newlyweds Game</a>
+- Feel free to get creative with this template and do something <a href="https://v-day-game-final.kaitlyn-vg.repl.co/" target="blank">a little different</a>, if you want!
 - Gain _exposure_ and familiarity with some HTML, CSS, and JavaScript
 - Determine if coding is something you enjoy doing and want to pursue further
 
@@ -38,31 +39,6 @@ Want to get my attention during the workshop? Raise your hand, type your questio
 - Ask your questions and share your code!
 - Mute your microphone unless you’re the main speaker.
 - Keep your camera on during class.
-
-## Warm-Up
-This might be your very first day working with code. Learning is often uncomfortable and things are bound to break. Let's practice working through some common errors together.
-
-<div class="expander expander-lesson">
-  <header>
-    <h3 class="spicy-click">My code is broken! What do I do?!</h3>
-    <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
-  </header>
-  <div class="hide">
-    <p>Fork <a target="blank" href="https://replit.com/@turingschool/find-the-error#index.html">this replit</a> and see if you can spot the <strong>one mistake</strong> in each file.</p>
-    <ol>
-      <li>Don't panic. There are some things that will break often. Check those first.</li>
-        <ul>
-          <li>Did you spell everything correctly?</li>
-          <li>Do you have closing symbols for every block or element?</li>
-          <li>Do the colors follow a predictable pattern?</li>
-        </ul>
-      <li>To avoid breaking lots of things all at once, use the green <code>Run</code> button after every change you make!</li>
-      <li>Ask for help!</li>
-    </ol>
-  </div>
-</div>
-
-<br>
 
 ## What is Front End Engineering?
 
@@ -92,15 +68,30 @@ It can feel like a lot, but let’s start by building an understanding of what e
     <img src="./assets/js.png" alt="Drawing of a human brain and arm muscle" />
   </div>
 </section>
-<br><br>
+<br>
 
-## Project Setup
+## Warm-Up
+This might be your very first day working with code. Learning is often uncomfortable and things are bound to break. Let's practice working through some common errors together.
 
-We will work off of a starter kit that has already been created. <a target="blank" href="https://replit.com/@turingschool/quiz-app-starter-kit#index.html">Click this link to access the starter kit</a> in replit. Here's how to get set up:
-1. Once you are on the site, change the title on line 13 of the `index.html` file.
-1. Click the green `Run` button at the top of the page, and you should see a simple version of your website on the right side of the page.
-
-In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
+<div class="expander expander-lesson">
+  <header>
+    <h3 class="spicy-click">My code is broken! What do I do?!</h3>
+    <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
+  </header>
+  <div class="hide">
+    <p>Fork <a target="blank" href="https://replit.com/@turingschool/find-the-error#index.html">this replit</a> and see if you can spot the <strong>one mistake</strong> in each file.</p>
+    <ol>
+      <li>Don't panic. There are some things that will break often. Check those first.</li>
+        <ul>
+          <li>Did you spell everything correctly?</li>
+          <li>Do you have closing symbols for every block or element?</li>
+          <li>Do the colors follow a predictable pattern?</li>
+        </ul>
+      <li>To avoid breaking lots of things all at once, use the green <code>Run</code> button after every change you make!</li>
+      <li>Ask for help!</li>
+    </ol>
+  </div>
+</div>
 
 <br>
 
@@ -109,7 +100,6 @@ In the next part of the lesson, we will explore the HTML file to understand the 
 - [HTML - Content](./html)
 - [JavaScript - Basics](./js-1)
 - [JavaScript - Connect HTML & JavaScript](./js-2)
-- [JavaScript - Interactive Buttons](./js-3)
+- [JavaScript - User Interaction & Functions](./js-3)
 - [CSS - Styles](./css)
-- [Extensions](./extensions)
 - [Wrap Up](./wrap-up)
