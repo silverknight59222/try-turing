@@ -6,18 +6,27 @@ layout: lesson
 
 <h2>Thank you and CONGRATS <span role="img" aria-label="celebration emoji">🎉</span></h2>
 
-Today might have been your first time coding - you did it! Thanks for spending your day with us. Please do share your feedback on today's workshop <a href="https://forms.gle/azqVLyUsvvVraxC18" target="blank">by filling out this form</a>.
+Today might have been your first time coding - you did it! Thanks for spending your day with us. <strong>Please share about your experience, and how we can best support you moving forward, by completing <a target="blank" href="https://forms.gle/UuK9XBgMKFWxKGu77">this survey</a>.</strong>
 
-## Contact
+## Share It!
+Don't forget to share your project with friends and family using the share link in the top right corner of your replit!
 
-- For technical questions regarding the content we learned today, you can email Kaitlyn at **kaitlyn@turing.edu** 
-- For questions regarding the application process and life at Turing, please email Chelsea at **chelsea@turing.edu** or <a target="blank" href="https://go.oncehub.com/ChelseaTuring" >set up a time to meet with her here</a>. She can also connect you with alums to learn more about their experiences.
+<strong>Bonus points if you share on social media and tag Turing!</strong>
+- <a target="blank" href="https://www.instagram.com/turing_school/">Instagram</a>
+- <a target="blank" href="https://www.facebook.com/turingschool/">Facebook</a>
+- <a target="blank" href="https://twitter.com/turingschool">Twitter</a>
 
-## Additional Resources
+## Next Steps
+Are you in love with coding? Here are some next steps you may want to take:
+- [Set up a time to meet with Chelsea](https://go.oncehub.com/ChelseaTuring) about what that could look like for you at Turing _or_ send her an email at **chelsea@turing.edu**.
+- [Start your application](https://apply.turing.edu/) to join us as a full-time student.
 
-- Learn more about the difference between Front End and Back End, and what you will learn and build at Turing by checking out [the program progression](../../what-students-learn)
+Want to do a little more exploration before taking the next step toward a career change? Here are some great places to start:
+- Attend another <a target="blank" href="https://turing.edu/try-coding">Try Coding</a> workshop. 
+- We have a <a target="blank" href="https://www.eventbrite.com/e/try-coding-for-beginners-build-a-lite-brite-tickets-260489289477">Build a Lite Brite Pop-Up Workshop</a> coming up on Thursday, March 10 that focuses on Front End development
 - <a target="blank" href="https://www.codeacademy.com/learn/learn-ruby">Codecademy’s Ruby course</a>
 - <a target="blank" href="https://pine.fm/learntoprogram/" >Chris Pine’s Ruby Book</a> (Free online, just click the chapters on the left hand side)
 
 <br>
-<a href="../">Back to Curriculum Index</a>
+<a href="../">Back to Intro page</a>
+
