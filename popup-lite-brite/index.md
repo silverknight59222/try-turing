@@ -11,16 +11,10 @@ _This will be best experienced on a desktop or laptop computer._
 ## Welcome!
 
 We are so glad you are here! To get set up...
-1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account
-1. Please change your zoom name to first, last initial, pronouns (ex: _Amy H. (she/her)_)
-1. Please sign-in with this link: <a target="blank" href="http://bit.ly/3949emq">http://bit.ly/3949emq</a>
+1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account.
+1. Please change your zoom name to first name, last initial, pronouns (ex: _Amy H. (she/her)_). To do this, hover over your image on zoom, click the three dots and select “Rename” from the menu.
+1. Heads up! We will ask you to briefly introduce yourself in a few minutes.
 <br><br>
-
-## Intros and Set Up
-
-- Intros - name, pronouns, location, what brought you here!
-- Repl.it is our tool to write and run code
-- Zoom is our _classroom_ 
 
 ## Goals
 
@@ -30,6 +24,11 @@ We are so glad you are here! To get set up...
 
 Disclaimer: We won't become experts in these languages today. And you may leave with more questions than answers!
 <br><br>
+
+## Zoom Tools and Introductions
+- Reactions - Raise your hand if a friend or family member recommended Turing to you!
+- Chat - Would you rather have a professional chef or housekeeper?
+- Intros - name, pronouns, location, why you are here!
 
 ## Programming Languages We Will Use
 
@@ -63,7 +62,7 @@ It can feel like a lot, but let's start by building an understanding of what eac
 
 ## Project Setup
 
-We will work off of a starter kit that has already been created. Click [this link to access the starter kit](https://repl.it/@turingschool/LiteBrite1#index.html) in repl.it. Here's how to get set up:
+We will work off of a starter kit that has already been created. Click [this link to access the starter kit](https://replit.com/@turingschool/lite-brite-starter#index.html) in repl.it. Here's how to get set up:
 1. Fork the project - this makes a copy on your account.
 1. Once you are on the site, substitute your name in for the `NAME` placeholder on line 11 of the HTML file.
 1. Click the green "Run" button at the top of the page, and you should see a mini Lite-Brite project on the right side of the page.
