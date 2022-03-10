@@ -26,15 +26,12 @@ Now, let's walk through each line of the existing JavaScript to understand what'
 - **Line 13:** We ask the program if it was a _dot_ that was actually clicked on (as opposed to the black background in between the dots).
 - **Line 15:** We change the color of the dot that was clicked on, to the color stored in the `activeColor` variable.
 
-Here is a marked-up screenshot that illustrates what-is-connected-to-what.
-
-![JS Code from Lite-Brite starter kit](../assets/breakdown.png)
 
 <div class="try-it-new">
   <h2>Break Code to Learn</h2>
   <p>That was a LOT of info! Sometimes it soaks in better when we have a chance to poke at the code.</p>
   <ul>
-    <li>On <strong>line 5</strong>, change <code class="try-it-code">dotContainer</code> to <code class="try-it-code">container</code>. Run the program (it should no longer work). Now, on line 7, change <code class="try-it-code">dotContainer</code> to <code class="try-it-code">container</code> and then run the program. It should be back to working!</li>
+    <li>On <strong>line 5</strong>, change <code class="try-it-code">container</code> to <code class="try-it-code">dotContainer</code>. Run the program (it should no longer work). Now, on <strong>line 8</strong>, change <code class="try-it-code">container</code> to <code class="try-it-code">dotContainer</code> and then run the program. It should be back to working!</li>
     <li>Finally, on <strong>line 2</strong>, change <code class="try-it-code">activeColor</code> to <code class="try-it-code">active</code>. Run the program (you guessed it, it should no longer work). Why did things break? What else could you modify at this point to get the functionality back?</li>
   </ul>
 </div>
