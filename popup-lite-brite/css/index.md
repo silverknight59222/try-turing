@@ -10,8 +10,8 @@ CSS allows us to "dress up" the content on our page.
 
 ## Tour the Existing Code
 
-- CSS allows us to target types of elements (ex: `body`, `div`) and specific elements based on class name (ex: `dot-container`)
-- Once we've targeted an element, we can write rules for that element to follow. Rules can be things like _"the text of this element should be red"_ or, _"the background color should be grey"_
+- CSS allows us to target types of elements (ex: `body`, `div`) and specific elements based on class name (ex: `dot-container`).
+- Once we've targeted an element, we can write rules for that element to follow. Rules can be things like _"the text of this element should be red"_ or, _"the background color should be grey"_.
 
 ### Explore to Learn:
 
@@ -21,7 +21,7 @@ After you complete each task that follows, re-run the program and observe the ch
 - On line 11, change `10px` to `50px`
 - On line 12, change `5px` to `30px`, then `0px`
 
-You may be wondering, "how does one know all these special keywords and commands to create these rules?". Great question! With time and practice, and the use of documentation like [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) and [CSS Tricks](https://css-tricks.com/), developers slowly build their toolkit. Even the most experienced developers need to continually research and google to find the tool they need.
+You may be wondering, "how does one know all these special keywords and commands to create these rules?". Great question! With time and practice, and the use of documentation like [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) and [CSS Tricks](https://css-tricks.com/almanac/), developers slowly build their toolkit. Even the most experienced developers need to continually research and google to find the tool they need.
 <br>
 <br>
 
@@ -39,8 +39,8 @@ You may be wondering, "how does one know all these special keywords and commands
 
 ## CSS Summary
 
-- CSS allows us to target an element and write specific rules for it to follow
-- Based on the type of rule, CSS will expect different values (ex: `magenta` for a color and `10px` for a measurement)
-- There are many types of rules we can write; with practice, we become familiar with more but don't need to memorize them all
+- CSS allows us to target an element and write specific rules for it to follow.
+- Based on the type of rule, CSS will expect different values (ex: `magenta` for a color and `10px` for a measurement).
+- There are many types of rules we can write; with practice, we become familiar with more but don't need to memorize them all.
 
 <a href="../js-1">Next Section: Exploring JavaScript</a>
