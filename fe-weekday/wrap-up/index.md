@@ -25,8 +25,6 @@ Are you in love with coding? Here are some next steps you may want to take:
 
 Want to do a little more exploration before taking the next step toward a career change? Here are some great places to start:
 - Attend another <a target="blank" href="https://turing.edu/try-coding">Try Coding</a> workshop. 
-- We have a <a target="blank" href="https://www.eventbrite.com/e/try-coding-intro-to-back-end-web-development-tickets-243251069497">Back End workshop</a> coming up on Tuesday, February 22.
-- If you want an even closer look at our program offerings, try out a <a target="blank" href="https://www.eventbrite.com/e/try-coding-weekend-web-development-for-beginners-tickets-260485909367">Weekend Workshop</a> on March 5-6.
 - Get more exposure and gain comfort with the syntax by working through one of [Codecademy's free tutorials](https://www.codecademy.com/).
 
 <a href="../">Back to Intro page</a>
