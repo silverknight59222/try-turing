@@ -18,15 +18,13 @@ Don't forget to share your project with friends and family using the share link 
 
 ## Next Steps
 Are you in love with coding? Here are some next steps you may want to take:
-- [Set up a time to meet with Chelsea](https://go.oncehub.com/ChelseaTuring) about what that could look like for you at Turing _or_ send her an email at **chelsea@turing.edu**.
 - [Start your application](https://apply.turing.edu/) to join us as a full-time student.
 
 Want to do a little more exploration before taking the next step toward a career change? Here are some great places to start:
-- Attend another <a target="blank" href="https://turing.edu/try-coding">Try Coding</a> workshop. 
-- We have a <a target="blank" href="https://www.eventbrite.com/e/try-coding-for-beginners-build-a-lite-brite-tickets-260489289477">Build a Lite Brite Pop-Up Workshop</a> coming up on Thursday, March 10 that focuses on Front End development
+- Attend another <a target="blank" href="https://turing.edu/try-coding">Try Coding</a> workshop.
+- We have a <a target="blank" href="https://www.eventbrite.com/e/try-coding-for-beginners-animate-a-rocket-ship-tickets-311963500227">Animate a Rocket Ship Pop-Up Workshop</a> coming up on Saturday, May 28 that focuses on Front End development
 - <a target="blank" href="https://www.codeacademy.com/learn/learn-ruby">Codecademy’s Ruby course</a>
 - <a target="blank" href="https://pine.fm/learntoprogram/" >Chris Pine’s Ruby Book</a> (Free online, just click the chapters on the left hand side)
 
 <br>
 <a href="../">Back to Intro page</a>
-
