@@ -12,7 +12,7 @@ _This will be best experienced on a desktop or laptop computer._
 
 We are so glad you are here! To get set up...
 1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account.
-1. Please change your zoom name to first name, last initial, pronouns (ex: _Amy H. (she/her)_). To do this, hover over your image on zoom, click the three dots and select “Rename” from the menu.
+1. Please change your zoom name to first name, last initial, pronouns like this: _Kaitlyn V. (she/her)_. To do this, hover over your image on zoom, click the three dots and select _Rename_ from the menu.
 1. Heads up! We will ask you to briefly introduce yourself in a few minutes.
 <br><br>
 
@@ -26,9 +26,9 @@ Disclaimer: We won't become experts in these languages today. And you may leave 
 <br><br>
 
 ## Zoom Tools and Introductions
-- Reactions - Raise your hand if a friend or family member recommended Turing to you!
+- Reactions - Have you ever written JavaScript code before?
 - Chat - Would you rather have a professional chef or housekeeper?
-- Intros - name, pronouns, location, why you are here!
+- Unmute - Introduce yourself! Please share your name, pronouns, location, and why you are here!
 
 ## Programming Languages We Will Use
 

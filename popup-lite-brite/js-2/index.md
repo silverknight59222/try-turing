@@ -26,9 +26,11 @@ A lot of people have the misconception that coding is all about typing really fa
 Similar to the way we had to list out every specific step (and the fact that it was probably good to make a rough draft for our robot before sending it into the kitchen!), we should do the same thing with code.
 
 Before we plan though, let's get clear on what we want our next piece of functionality to be:
-- When the user clicks one of the color boxes, then clicks a dot, that dot should change to the color of the color box that was most recently clicked.
-- When the user clicks a different color box, then clicks a dot, that dot should change to the newly selected color.
-- Next level: provide some sort of indication to the user as to which color is currently selected (like an outline around the color box).
+- When the user clicks one of the color options, we want the active color to change to the selected color.
+- When the user clicks a different color option, the active color should update to the new color.
+- When the user clicks a dot, that dot should change to the color of the most recently selected color.
+
+- Next level: Provide some sort of indication to the user as to which color is currently selected.
 
 Let's write the pseudo-code in the repl.it file. You can follow along or just watch!
 

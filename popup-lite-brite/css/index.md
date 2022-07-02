@@ -30,9 +30,9 @@ You may be wondering, "how does one know all these special keywords and commands
   <p>Now that we can see how some of the pieces come together with CSS, let's continue in this process of "making it our own". You'll do this work below line 22 of the CSS file.</p>
   <ul>
   <li><strong>Change the size of the dots on your Lite-Brite board.</strong></li>
-  <li><strong>Change the amount of space around/between the dots on your Lite-Brite 
+  <li><strong>Change the amount of space around/between the dots on your Lite-Brite
   board.</strong></li>
-  <li>Optional: tinker with the colors used throughout your app!</li>
+  <li>Optional: Tinker with the colors used throughout your app!</li>
   </ul>
   <p>Play around with these sizes until you are satisfied with your board. <em>This may be the time where you also decide to go back to the HTML file and add more dots!</em></p>
 </div>
