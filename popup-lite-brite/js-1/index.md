@@ -38,7 +38,7 @@ Now, let's walk through each line of the existing JavaScript to understand what'
 
 ## Exploring Functionality Summary
 
-- Like HTML and CSS, JavaScript needs very specific directions
-- Each piece of the puzzle has to be connected to the other (this is why spelling and capitalization can be really important!)
+- Like HTML and CSS, JavaScript needs very specific directions.
+- Each piece of the puzzle has to be connected to the other. This is why spelling and capitalization can be really important!
 
 <a href="../js-2">Next Section: Planning & Implementing JavaScript</a>

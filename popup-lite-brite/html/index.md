@@ -28,6 +28,6 @@ layout: lesson
 
 - Elements that live inside of the `body` tags will be displayed on the page.
 - The number of elements and the content inside of the elements in the HTML file usually have a one-to-one correlation with what we see in the browser.
-- Every little character matters - the browser can't assume anything about what we want it to do.
+- Every little character matters. The browser can't assume anything about what we want it to do.
 
 <a href="../css">Next Section: CSS</a>

@@ -24,11 +24,10 @@ You can find the live URL above the "mini-browser". Copy and paste the link, or 
 
 ## Next Steps
 Are you in love with coding? Here are some next steps you may want to take:
-- [Set up a time to meet with Chelsea](https://go.oncehub.com/ChelseaTuring) about what that could look like for you at Turing _or_ send her an email at **chelsea@turing.edu**.
+- [Set up a time to meet with Launa](https://go.oncehub.com/LaunaGardner1) about what that could look like for you at Turing _or_ send her an email at **launa@turing.edu**.
 - [Start your application](https://apply.turing.edu/) to join us as a full-time student.
 
 Want to do a little more exploration before taking the next step toward a career change? Here are some great places to start:
-- Come to our <a href="https://www.eventbrite.com/e/turing-school-info-session-tickets-288126242347" target="blank">Info Session on March 24</a> at 12pm MT.
 - Attend another <a target="blank" href="https://turing.edu/try-coding">Try Coding</a> workshop.
 - Get more exposure and gain comfort with the syntax by working through one of [Codecademy's free tutorials](https://www.codecademy.com/).
 
