@@ -19,19 +19,19 @@ We can provide a "color picker" input to the user so that they can choose from, 
 In your Lite-Brite replit, add this code to the HTML file, inside of the `controls` section:
 
 ```html
-<input type="color" class="color-picker"/>
+<input type="color" class="color-option color-picker"/>
 ```
 
 <br>
 
 Let's break down this newly added line of code:
 - `<input />` - the input tag is used to create controls such as text fields, checkboxes, date/time pickers, passwords, and more!
-- `type="color"` specifies what type of input we'd like the browser to show the user. The type `color` presents a small box that when clicked, provides several ways for a user to select a very specific color. _If you want to explore other types of inputs, change out `color` for `password`, `range` and/or `date`! You can read all about the [input types available on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)_
-- `class="color-picker"` - this class was applied so we could use CSS styles and, later, access this element in JavaScript
+- `type="color"`- specifies what type of input we'd like the browser to show the user. The type `color` presents a small box that when clicked, provides several ways for a user to select a very specific color. _If you want to explore other types of inputs, change out `color` for `password`, `range` and/or `date`! You can read all about the [input types available on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)_.
+- `class="color-option color-picker"` - these classes were applied so we can use CSS styles and, later, access this element in JavaScript.
 
 ## Update the Active Color
 
-As of now, your user should be able to select a new color from the picker. However, the color doesn't go anywhere. We have to use our programs brain and muscle, JavaScript, to make this happen!
+As of now, your user should be able to select a new color from the picker. However, the color doesn't go anywhere. We have to use JavaScript to make this happen!
 
 ### Step 2
 
@@ -41,7 +41,7 @@ Our JavaScript file needs to know about the color picker input in order to keep 
 var colorPicker = $('.color-picker');
 ```
 
-Now, we need to instruct our program to listen for the users input:
+Now, we need to instruct our program to listen for the user's input:
 
 ```js
 colorPicker.on("input", changeActiveColor);
@@ -53,16 +53,16 @@ function changeActiveColor() {
 
 ### Step 3
 
-The final step is to take the value from the color picker input, and update the `activeColor` (declared on line 1 or 2) to hold that new value. Update the `changeActiveColor` function to include this:
+The final step is to take the value from the color picker input, and update the `active` variable (declared on line 1) to hold that new value. Write a `changeActiveColor` function to include this:
 
 
 ```js
 function changeActiveColor() {
-  activeColor = colorPicker.val();
+  active = colorPicker.val();
 }
 ```
 
-The `.val()` method used in the previous snippet takes the value our of an input. Whatever is in the input at the time will be stored in the `activeColor` variable.
+The `.val()` method used in the previous snippet takes the value from an input. Whatever is in the input at the time will be stored in the `active` variable.
 
 Run the program, and try this functionality out!
 
