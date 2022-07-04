@@ -6,7 +6,7 @@ layout: lesson
 
 # Building More Lite-Brite Functionality
 
-We have an _almost-working_ Lite-Brite that you can probably partly or fully explain how it's working. This is huge! In this section, we will add one final piece of functionality.
+We have an _almost-working_ Lite-Brite and you can probably partly (or even fully) explain how it's working. This is huge! In this section, we will add one final piece of functionality.
 
 Reminder: We won't go deep with how each little thing in JavaScript works today.
 
@@ -27,9 +27,7 @@ Similar to the way we had to list out every specific step (and the fact that it 
 
 Before we plan though, let's get clear on what we want our next piece of functionality to be:
 - When the user clicks one of the color options, we want the active color to change to the selected color.
-- When the user clicks a different color option, the active color should update to the new color.
 - When the user clicks a dot, that dot should change to the color of the most recently selected color.
-
 - Next level: Provide some sort of indication to the user as to which color is currently selected.
 
 Let's write the pseudo-code in the repl.it file. You can follow along or just watch!
