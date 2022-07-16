@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Ruby Review
+# Ruby Introduction
 
 <a href="../">Back to Curriculum Index</a>
 
