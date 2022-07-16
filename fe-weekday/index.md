@@ -86,4 +86,4 @@ It can feel like a lot, but let's start by building an understanding of what eac
 - [Connecting HTML & JavaScript](./js-2)
 - [Building Dynamic User Experiences](./js-3)
 - [Extensions](./extensions)
-- [Wrap Up](./wrap-up)
+- [Wrap-Up](./wrap-up)
