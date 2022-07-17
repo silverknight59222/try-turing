@@ -35,22 +35,14 @@ console.log(greetingMessage);
 
 <div class="try-it-new">
   <h3>Try It: Accessing HTML Elements</h3>
-  <p>Fork <a href="https://codepen.io/turing-trycoding/pen/dyMgOoM?editors=1010" target="blank">this Puppy Facts CodePen starter</a>. Declare three variables, each storing one of the three <code>paragraph</code> elements already written in HTML. You can decide the variable names to use! In order to access each element, you'll need a <em>unique</em> way to identify each one. <em>This has already been done with the <code>h1</code> element; you can use that as an example.</em></p> 
+  <p>Fork <a href="https://replit.com/@turingschool/interacting-with-html#script.js" target="blank">this starter replit</a>. Declare three variables, each storing one of the three <code>paragraph</code> elements already written in HTML. You can decide the variable names to use! In order to access each element, you'll need a <em>unique</em> way to identify each one. <em>This has already been done with the <code>h1</code> element; you can use that as an example.</em></p>
   <p>Print each variable out to the console to verify your syntax is correct.</p>
-  <p><span role="img" aria-label="open folder">📂</span> Keep this pen open in a tab; we'll come back to it in the next section!</p>
-  <div class="help-container">
-    <button class="help-click"><span role="img" aria-label="raised hand">🤚</span>Help Me!</button>
-    <div class="help-toggle">
-      <p>Need to see an example of this completed? <a target="blank" href="https://codepen.io/turing-trycoding/pen/NWNObqY">Here you go!</a></p>
-    </div>
-  </div>
+  <p><span role="img" aria-label="open folder">📂</span> Keep this replit open in a tab; we'll come back to it in the next section!</p>
 </div>
 
 ## Changing Text of an Element
 
-Accessing elements alone isn't _that_ cool, but it gets more exciting when we use JavaScript to interact with those HTML elements that we've saved to variables. Let's look at this example:
-
-<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="html,result" data-user="turing-trycoding" data-slug-hash="MWyPbwZ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Changing Text of an Element Example"><span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/MWyPbwZ">Changing Text of an Element Example</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)on <a href="https://codepen.io">CodePen</a>.</span></p><script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+Accessing elements alone isn't _that_ cool, but it gets more exciting when we use JavaScript to interact with those HTML elements that we've saved to variables. Let's look at <a href="https://replit.com/@turingschool/change-html-with-js#index.html" target="blank">this example</a>.
 
 Before we talk through it, take a minute to sit in that productive struggle and **try to sort through what this code is doing, and how**. The guiding questions below will help you, if you need them!
 
@@ -63,11 +55,8 @@ Before we talk through it, take a minute to sit in that productive struggle and 
 
 <div class="try-it-new">
   <h3>Try It: Changing Text of an Element</h3>
-  <p>Back in your Puppy Facts CodePen, write JavaScript that will change the content of the <code>h1</code> and three <code>paragraph</code> elements you have variables for.</p>
+  <p>Back in your Puppy Facts replit, write JavaScript that will change the content of the <code>h1</code> and three <code>paragraph</code> elements you have variables for, so that your page is about a completely different animal!</p>
   <p>When you've completed this, you should see a different title and set of facts in your browser!</p>
-  <a target="blank" href="https://codepen.io/turing-trycoding/pen/LYNgbpp"><em>Here's a CodePen you can start with if you closed yours or didn't get it done.</em></a>
-  <br>
-  <br>
 
   <div class="spicy-container">
     <p class="spicy-click">

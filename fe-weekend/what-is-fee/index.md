@@ -8,7 +8,7 @@ layout: lesson
 
 ## Goals
 
-- Identify the key differences between Front End and  End engineering
+- Identify the key differences between Front End and Back End engineering
 - Categorize various technologies used in Front End engineering
 
 ## What is Front End?
@@ -86,7 +86,7 @@ Many libraries and frameworks have been built _on top_ of JavaScript that make F
 
 We're going to dive into the three technologies used on the frontend:
 
-1. Review the structure of web pages that we can build with HTML
+1. Discover the underlying structure of web pages with HTML
 1. Learn about some of the possibilities with CSS
 1. Use JavaScript to access HTML elements that appear in the browser
 1. Listen and respond to user interactions such as _clicks_ and _mouseovers_

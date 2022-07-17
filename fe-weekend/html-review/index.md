@@ -2,26 +2,52 @@
 layout: lesson
 ---
 
-# HTML Review
+# HTML Fundamentals
 
 <a href="../">Back to Curriculum Index</a>
 
 ## Goals
 
 - Explain the purpose of HTML
-- Be able to read through an HTML file and anticipate what the browser will render
+- Read through an HTML file and anticipate what the browser will render
 
-## Pre-work Review
+## So what is HTML?
 
-Look at the HTML in the CodePen below. Using what you learned from the pre-work:
-- Make one observation about the code
-- Ask one question about the code
+HTML (HyperText Markup Language) is the code that gives a web page both its structure and content. Any images, text, or buttons that appear on the page can also be found in the HTML.
 
-**Example:**
-- Observation: _The `h1` element has the content of "Kittens"_
-- Question: _What is happening on line X?_
+## HTML Elements
 
-<p class="codepen" data-height="317" data-theme-id="light" data-default-tab="html,result" data-user="turing-trycoding" data-slug-hash="zYBLeLL" style="height: 317px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML Review"><span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/zYBLeLL">HTML Review</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>) on <a href="https://codepen.io">CodePen</a>.</span></p><script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+HTML consists of a series of elements, which wrap the content in both an opening and closing tag. There are four main parts to any element.
+1. **The opening tag**, which consists of the name of the element wrapped in angle brackets.
+2. **The closing tag**, which also has the name of the element, but also includes a _forward_ slash before the element name.
+3. **The content**, which in the example below, this is the text.
+4. **The element**, which is the opening tag, the content, and the closing tag altogether.
+
+```html
+<h3>New Vocabulary Words</h3>
+
+<ul>
+  <li>Element</li>
+  <li>Tag</li>
+  <li>Angle bracket</li>
+</ul>
+```
+
+
+
+<div class="try-it-new">
+  <h3>Try It: Exploring to Learn</h3>
+  <p>Fork <a href="https://replit.com/@turingschool/html-fundamentals#index.html" target="blank">this replit</a> to begin.</p>
+  <ol>
+    <li>Make one observation about the code.  (The `h1` element has the content of "Kittens")</li>
+    <li>Ask one question about the code. (What is happening on line X?)</li>
+  </ol>
+</div>
+
+## Modify the Content
+
+At this point, your web page is still about baby kittens. Modify the content of your HTML elements, so that your web page is about a topic of your choice!
+
 
 <br>
 <a href="../intro-to-css">Next: Intro to CSS</a>

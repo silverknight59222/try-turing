@@ -19,7 +19,7 @@ Don't forget to share your project with friends and family using the share link 
 ## Contact
 
 - For technical questions regarding the content we learned today, you can email Kaitlyn at **kaitlyn@turing.edu**
-- For questions regarding the application process and life at Turing, please email Chelsea at **chelsea@turing.edu** or <a target="blank" href="https://go.oncehub.com/ChelseaTuring">set up a time to meet with her here</a>.
+- For questions regarding the application process and life at Turing, please email Launa at **launa@turing.edu** or <a target="blank" href="https://go.oncehub.com/LaunaGardner1">set up a time to meet with her here</a>.
 
 ## Additional Resources
 
