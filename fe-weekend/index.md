@@ -4,13 +4,12 @@ layout: lesson
 
 # Front End Online Curriculum
 
-Please complete the [pre-work that is outlined here](./pre-work) before attending the workshop
+Please sign up for a free <a target="blank" href="https://replit.com/~">replit.com</a> account before beginning this workshop.
 
 ## Welcome Back!
 
-- Open up <a target="blank" href="http://codepen.io/">codepen.io</a> in a browser (preferably Chrome) and login to your account
-- In CodePen, open the HTML page that you created as part of the prework. Don't have that? Start with <a href="https://codepen.io/turing-trycoding/pen/PozeOPQ?editors=1010" target="blank">this example from the prework</a>. 
-- Change Zoom display name to first name, last initial, pronouns; _ie - Amy H. (she/her)_
+- Open up <a target="blank" href="https://repl.it/~">repl.it</a> in a browser (preferably Chrome) and login to your account
+- Change Zoom display name to first name, last initial, pronouns; ie - _Kaitlyn V. (she/her)_
 
 ### Today's Agenda
 
@@ -18,13 +17,13 @@ Over the course of the day, we will write (more) code, continue to embrace produ
 
 - Welcome & Setup (30 mins)
 - Instruction (1.5 hours)
-- Alumni Panel (1 hour) 
+- Alumni Panel (1 hour)
 - Instruction, Wrap Up (2 hours)
 
 ## Instructor-Led Content
 
 - [What is Front End Engineering?](./what-is-fee)
-- [HTML Review](./html-review)
+- [HTML Fundamentals](./html-review)
 - [Intro to CSS](./intro-to-css)
 - [Intro to JavaScript](./intro-to-js)
 - [Interacting with HTML](./interacting-with-html)

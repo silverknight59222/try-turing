@@ -42,9 +42,9 @@ Another data type in JavaScript is a Number. Just like we interact with numbers 
 
 ## console.log()
 
-As we learn about JavaScript today, we will use the `console.log()` method to print the data we are working with out to the console in CodePen.
+As we learn about JavaScript today, we will use the `console.log()` method to print the data we are working with out to the console. The console is a tool for developers that allows us to log information as part of our development process.
 
-Here's the syntax:
+Here's the syntax in the JavaScript file:
 
 ```js
 console.log('I am a string!');
@@ -52,11 +52,8 @@ console.log(4 + 5);
 ```
 
 When we run the code above, we will see the associated values print out in the console.
-![screen shot of CodePen and arrow pointing to 'open console' button](../assets/console-log.png)
 
 ## Variables
-
-A variable is like a box with a label on it. You can put something in the box, label it, and be able to reference that thing later by its label.
 
 In JavaScript, we declare variables using the `var` keyword. This tells JavaScript that we're about to make a new variable, or _declare a variable_.
 
@@ -73,12 +70,13 @@ var firstName = 'Amy';
 
 Since JavaScript is in charge of user interactions, we may want to hold onto a piece of information for later use.
 - On social media sites, there is usually a `username` or `handle` variable. If you are logged in, the variable will be set to your information. If another user was logged in, for the instance of that session, the variable would be set to that other users information.
+- Similarly, if you decide to change the value stored in your `username` variable, that gets updated throughout the entire application!
 
 Variables are at the core of everything we do in programming and this isn't unique to JavaScript.
 
 <div class="try-it-new">
   <h3>Try It: Variables</h3>
-  <p>Create a new pen in CodePen. For this exercise, you will be working in the JavaScript (JS) pane.</p>
+  <p>Navigate to your JavaScript file.</p>
   <p>Declare 3 variables, using the names <code>name</code>, <code>email</code>, and <code>numberOfPets</code>. Assign each to an appropriate value.</p>
   <p>Make sure to <code>console.log</code> each variable to verify you've stored it correctly!</p>
   <p>Finished? Declare at least 2 more variables - you choose the name and values!</p>

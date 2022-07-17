@@ -11,7 +11,6 @@ layout: lesson
 - Style HTML element using CSS rules
 - Use class and ID attributes on HTML elements to more specifically target them in CSS
 
->For this section, you'll build on the HTML you wrote as part of the pre-work for today! Don't have that? Start with <a href="https://codepen.io/turing-trycoding/pen/PozeOPQ?editors=1010" target="blank">this example from the prework</a>. 
 
 ## What is CSS?
 
@@ -52,7 +51,7 @@ There are many ways that we can express the value of a color to the browser. Tod
 <div class="try-it-new">
   <h3>Try It: Writing your First CSS Rule</h3>
   <p>Add two button elements to your HTML. They can be anywhere!</p>
-  <p>In the CSS tab of your CodePen, write a rule that targets all of your <code class="try-it-code">button</code> elements.</p>
+  <p>In the CSS file, write a rule that targets all of your <code class="try-it-code">button</code> elements.</p>
   <p>Change both the <code class="try-it-code">color</code> and <code class="try-it-code">background-color</code> using CSS. Observe the output in the browser. What is the difference between these two properties?</p>
   <p>Explore: Remove the <code class="try-it-code">-color</code> from <code class="try-it-code">background-color</code>. What happens? What can you infer from this?</p>
 </div>
@@ -88,7 +87,7 @@ Here are a few great places to start:
 
   This is a great question with no one answer. According to a <a href="https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/" target="blank">poll from CSS Tricks</a>, the most popular way to organize your properties for any specific element is to group by function (for example, positioning properties, color properties, text properties, etc.)
 
-  MDN also has some <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing" target="blank">great tips</a> for organizing your CSS which become especially helpful as your CSS files become bigger and bigger. 
+  MDN also has some <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing" target="blank">great tips</a> for organizing your CSS which become especially helpful as your CSS files become bigger and bigger.
 
 ## Classes and IDs
 

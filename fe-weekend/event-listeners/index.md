@@ -20,19 +20,16 @@ In JavaScript, an **event listener** is a way to set up code to run only when a 
 
 ## Syntax
 
-Let's look at this example of an event listener and talk through the pieces:
+Let's look at <a href="https://replit.com/@turingschool/js-event-listeners#index.html" target="blank">this example of an event listener</a> and talk through the pieces.
 
-<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="html,result" data-user="turing-trycoding" data-slug-hash="oNxaYbb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Event Listeners Example"><span>See the Pen <a href="https://codepen.io/turing-trycoding/pen/oNxaYbb">Event Listeners Example</a> by Try Coding (<a href="https://codepen.io/turing-trycoding">@turing-trycoding</a>)on <a href="https://codepen.io">CodePen</a>.</span></p><script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ## Applying What We've Learned
 
 <div class="try-it-new">
   <h3>Try It: Changing HTML with JavaScript</h3>
-  <p>Back in your own Puppy Facts CodePen, add a button in the HTML.</p>
+  <p>Back in your own Puppy Facts replit, add a button in the HTML.</p>
   <p>Write code in the JavaScript pane so that when the button is clicked, the title of the webpage changes to a different topic!</p>
   <p>If you complete that with extra time, change the text in the <code>p</code> tags so that when the button is clicked, the facts match your new topic!</p>
-  <a target="blank" href="https://codepen.io/turing-trycoding/pen/WNwaorJ"><em>Here's a CodePen you can start with!</em></a>
-  <br>
   <br>
 
   <div class="spicy-container">
