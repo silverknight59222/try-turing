@@ -92,16 +92,16 @@ puts random_value
 The next example shows how to use a non-inclusive range as the argument, with a lower limit of 5 up to (but not including) the upper limit of 10.
 
 ```ruby
-random_value = rand...10)
+random_value = rand(5...10)
 puts random_value
 # => 9
 ```
 
 <div class="try-it-new">
   <h3>Try It: Using the rand() Method</h3>
-  <p>Back in your replit, solve each of the challenges below.</p>
+  <p>Back in your sandbox replit, solve each of the challenges below.</p>
   <ol>
-    <li>Store a random number between 1 and 99, inclusive of 99, in a variable called random_num. Use puts or print and run your code a few times to verify the result.</li>
+    <li>Store a random number between 1 and 99, inclusive of 99, in a variable called <code>random_num</code>. Use puts or print and run your code a few times to verify the result.</li>
     <li>Create a variable named <code>lottery_number</code> assigned to a random six-digit number.</li>
   </ol>
 </div>

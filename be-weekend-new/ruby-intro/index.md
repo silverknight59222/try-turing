@@ -5,7 +5,7 @@ layout: lesson
 ### Go Back
 
 - [Welcome and Introductions](../)
-- [What is Back End Engineering?](./what-is-bee)
+- [What is Back End Engineering?](../what-is-bee)
 
 # Ruby Introduction
 

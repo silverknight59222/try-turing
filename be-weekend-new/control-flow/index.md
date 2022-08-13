@@ -81,18 +81,18 @@ end
 
 </div>
 
-## Building a "Guess the Number" Game
-
-Use <a href="https://replit.com/@turingschool/ruby-number-guesser-starter#main.rb" target="blank">this replit</a> as a starting point. We are going to build a “Guess the Number” game for a user in the console. Follow the steps below to get started.
-
-<ol>
-  <li>Create a <code>secret_number</code> variable assigned to a random number from 1 to 10.</li>
-  <li>Show the user the title of the game, "Can you guess the secret number?" in the console.</li>
-  <li>Next, prompt the user to enter a number from 1 to 10.</li>
-  <li>If the guess is less than the secret number, tell the user, "Not quite. Too low."</li>
-  <li>If the guess is greater than the secret number, tell the user, "Oops. Too high."</li>
-  <li>Otherwise, tell the user they guessed the number with the statement, "You did it!"</li>
-</ol>
+<div class="module-card fe-project-card">
+  <h3>Building a "Guess the Number" Game</h3>
+  <p>Use <a href="https://replit.com/@turingschool/ruby-number-guesser-starter#main.rb" target="blank">this replit</a> as a starting point. We are going to build a “Guess the Number” game for a user in the console. Follow the steps below to get started.</p>
+  <ol>
+    <li>Create a <code>secret_number</code> variable assigned to a random number from 1 to 10.</li>
+    <li>Show the user the title of the game, "Can you guess the secret number?" in the console.</li>
+    <li>Next, prompt the user to enter a number from 1 to 10.</li>
+    <li>If the guess is less than the secret number, tell the user, "Not quite. Too low."</li>
+    <li>If the guess is greater than the secret number, tell the user, "Oops. Too high."</li>
+    <li>Otherwise, tell the user they guessed the number with the statement, "You did it!"</li>
+  </ol>
+</div>
 
 
 ### Up Next
