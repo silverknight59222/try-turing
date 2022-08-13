@@ -2,23 +2,28 @@
 layout: lesson
 ---
 
-# Wrap Up
+# Wrap-Up
 
-<h2>Thank you and CONGRATS <span role="img" aria-label="celebration emoji">🎉</span></h2>
-
-Today might have been your first time coding - you did it! Thanks for spending your day with us.
+Wow! You learned a lot today. Today might have been your very first time coding. Give yourself a well-deserved pat on the back. You did it! 🎉 Thanks for spending your time with us.
 
 ## Tomorrow
 
-In tomorrow's session, we will deep dive into the foundations of Front End development! You will identify some big differences between our work today, as well as some commonalities!
-
-We will meet at the same time. Please make sure to complete the [pre-work](../../fe-weekend/pre-work) so you're set up for sucess.
+In tomorrow’s session, we will deep dive into the foundations of Front End development! We will build a very similar project, but this time, you’ll have a web application for your user to see, touch, and interact with. You will identify some big differences between our work today, as well as many similarities!
 
 ## Additional Resources
 
-- Learn more about the difference between Front End and Back End, and what you will learn and build at Turing by checking out [the program progression](../../what-students-learn)
-- <a target="blank" href="https://www.codeacademy.com/learn/learn-ruby">Codecademy’s Ruby course</a>
-- <a target="blank" href="https://pine.fm/learntoprogram/">Chris Pine’s Ruby Book</a> (Free online, just click the chapters on the left hand side)
+- Learn more about the difference between Front End and Back End, and what you will learn and build at Turing by checking out [the program progression](../../what-students-learn).
+- <a target="blank" href="https://www.codeacademy.com/learn/learn-ruby">Codecademy’s Ruby course</a> is free and interactive. You’ll know immediately if your code is working as expected.
+- <a target="blank" href="https://pine.fm/learntoprogram/">Chris Pine’s Ruby Book</a> is a another free online resource! This is especially helpful if you learn well by reading.
 
 <br>
-<a href="../">Back to Curriculum Index</a>
+
+### Go Back
+
+- [Welcome and Introductions](../)
+- [What is Back End Engineering?](../what-is-bee)
+- [Ruby Introduction](../ruby-intro)
+- [Ruby Methods](../ruby-methods)
+- [Control Flow](../control-flow)
+- [Loops](../loops)
+- [Extension Challenge](../extension)
