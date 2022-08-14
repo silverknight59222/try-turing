@@ -16,11 +16,11 @@ Please sign up for a free <a target="blank" href="https://replit.com/~">replit.c
 
 Over the course of the day, we will write code, practice the habits of successful developers, and learn a little more about Turing. We will ask you to introduce yourself, ask questions, and occasionally share answers to the technical work we do! By the end of today, you will build your very own “Guess the Number” console game. Below is our agenda for the day:
 
-- Welcome and Introductions: 30 minutes
-- Instruction: 2 hours
-- Turing Information Session: 45 minutes
-- Instruction: 1 hour and 30 minutes
-- Wrap-Up: 15 minutes
+- Welcome & Introductions (30 minutes)
+- Instruction (2 hours)
+- Turing Information Session (45 minutes)
+- Instruction (1 hour and 30 minutes)
+- Wrap-Up (15 minutes)
 
 
 ## Learning Norms
@@ -46,7 +46,7 @@ There are several ways to get my attention throughout the workshop today. Let’
 ### Up Next
 
 - [What is Back End Engineering?](./what-is-bee)
-- [Ruby Review](./ruby-intro)
+- [Ruby Introduction](./ruby-intro)
 - [Ruby Methods](./ruby-methods)
 - [Control Flow](./control-flow)
 - [Loops](./loops)
