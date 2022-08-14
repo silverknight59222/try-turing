@@ -2,7 +2,15 @@
 layout: lesson
 ---
 
-<a href="../">Back to Setup Page</a>
+### Go Back
+
+- [Welcome & Setup](../)
+- [What is Front End Engineering?](../what-is-fee)
+- [HTML Introduction](../html-intro)
+- [Introduction to CSS](../intro-to-css)
+- [JavaScript Fundamentals](../js-1)
+- [Connecting HTML & JavaScript](../js-2)
+- [Building Dynamic User Experiences](../js-3)
 
 # Extensions
 
@@ -15,4 +23,7 @@ Applying the same concepts, work to implement one final feature.
 
 We won't give you any hints for this one; but if you are stuck or just wanting to check your solution, [you can find one at the bottom of this CodePen](https://codepen.io/turing-trycoding/pen/abBpgNg?editors=1010). Keep in mind that there it's very possible two developers write different solutions, but both work. There isn't a right or wrong, as long as it gets the job done!
 
-<a href="../wrap-up">Wrap Up</a>
+### Up Next
+
+- [Extensions](../extensions)
+- [Wrap-Up](../wrap-up)
