@@ -19,7 +19,7 @@ To get all the fun and important interactions on a page, we have to connect the 
 
 ## Accessing HTML from JavaScript
 
-Let's look at [the code in this CodePen](https://codepen.io/turing-trycoding/pen/gOLmYvp?editors=1010), also typed out below, to learn how to start the "conversation" between HTML and JavaScript.
+Let's look at [the code in this Replit](https://replit.com/@turingschool/connect-js-html#index.html), also typed out below, to learn how to start the "conversation" between HTML and JavaScript.
 
 ```html
 <!-- HTML code -->
@@ -38,33 +38,16 @@ console.log(button.text()); //console will say "A button!"
 
 ## Changing HTML from JavaScript
 
-Displaying the information that's already on the page, in the console, is not all that helpful. It was just a stepping stone.
-
-The next stepping stone is learning how to _change_ the text inside an HTML element from our JavaScript code.
-
-<div class="expander expander-lesson">
-  <header>
-    <h2 class="spicy-click">Forking a CodePen<span role="img" aria-label="fork and knife emoji">🍴</span></h2>
-    <div><button class="expander-btn"><img src="../../assets/icons/arrow.svg" alt="expander arrow icon" /></button></div>
-  </header>
-  <div class="hide">
-    <p>From here on out, it is essential you start each activity with the provided CodePen - some starter code has been written that is necessary. Each time you open a CodePen your instructor provides, follow these directions:</p>
-    <ul>
-      <li>Click the "Fork" button that lives in the bottom right controls</li>
-      <li>Check that your username now appears in the top left corner</li>
-    </ul>
-    <img src="../assets/fork-codepen.png" alt="Screenshot with overlay pointing to fork button and location to check username"/>
-    <p><span role="img" aria-label="fork and knife emoji">🍴</span><a href="https://codepen.io/turing-trycoding/pen/yLVMBjP?editors=1010" target="blank">Fork this CodePen to use it as a starter</a> for the next activity.</p>
-  </div>
-</div>
+Displaying the information that's already on the page, in the console, is not all that helpful. It was just a stepping stone. The next step is learning how to _change_ the text inside an HTML element from our JavaScript code.
 
 <div class="try-it-new">
   <h2>Apply & Explore</h2>
-  <p>Using the CodePen you just forked:</p>
+  <p>Using the Replit you just forked:</p>
   <ol>
-    <li>Create a variable that stores the <code>h1</code> element.</li>
+    <li>Add an <code>h1</code> element to your <code>index.html</code> file with text of your choice.</li>
+    <li>In your <code>index.js</code> file, create a variable that stores the <code>h1</code> element.</li>
     <li>On the next line, type something like: <code>variableName.text('new text');</code>, using the variable name you selected and any text you'd like to see in the browser.</li>
-    <li>Look in the mini browser - it should display the text you typed in that last line of code!</li>
+    <li>Look in the mini-browser - it should display the text you typed in that last line of code!</li>
   </ol>
 </div>
 
@@ -99,7 +82,7 @@ function doSomething() {
 
 <div class="try-it-new">
   <h2>Next Level</h2>
-  <p>For this challenge, you'll use the same CodePen you used for the previous one! In the previous challenge, you changed the title, but it happened on page load, so it wasn't very exciting.</p>
+  <p>For this challenge, you'll use the same Replit you used for the previous one! In the previous challenge, you changed the title, but it happened on page load, so it wasn't very exciting.</p>
   <p><strong>Your Challenge:</strong> Combine the two new pieces of knowledge/skill you have to change the title only when the button is clicked. A hint is provided at the bottom of the JavaScript file, if you'd like to use that!</p>
 </div>
 
