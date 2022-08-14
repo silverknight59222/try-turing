@@ -2,7 +2,14 @@
 layout: lesson
 ---
 
-<a href="../">Back to Setup Page</a>
+### Go Back
+
+- [Welcome & Setup](../)
+- [What is Front End Engineering?](../what-is-fee)
+- [HTML Introduction](../html-intro)
+- [Introduction to CSS](../intro-to-css)
+- [JavaScript Fundamentals](../js-1)
+- [Connecting HTML & JavaScript](../js-2)
 
 # Building Dynamic User Experiences
 
@@ -64,9 +71,11 @@ This line of code says "for the `feedbackText` variable, change the text inside 
 
 ## Building Dynamic User Experiences
 
-- One we have a variety of tools - if statements and event listeners - we can combine them in different way to achieve different outcomes
+- One we have a variety of tools - if statements and event listeners - we can combine them in different way to achieve different outcomes.
 - If you find yourself wondering "is it possible to...", the answer is most likely "yes"!
 
-<a href="../extensions">Next Section: Extensions</a>
 
-<a href="../wrap-up">Wrap Up</a>
+### Up Next
+
+- [Extensions](../extensions)
+- [Wrap-Up](../wrap-up)

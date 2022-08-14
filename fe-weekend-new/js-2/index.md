@@ -3,7 +3,13 @@ layout: lesson
 title: Connecting HTML & JavaScript
 ---
 
-<a href="../">Back to Setup Page</a>
+### Go Back
+
+- [Welcome & Setup](../)
+- [What is Front End Engineering?](../what-is-fee)
+- [HTML Introduction](../html-intro)
+- [Introduction to CSS](../intro-to-css)
+- [JavaScript Fundamentals](../js-1)
 
 # Connecting HTML & JavaScript
 
@@ -76,7 +82,7 @@ var button = $('button');
 button.on('click', doSomething);
 
 function doSomething() {
-  // code you want to be run ONLY when button 
+  // code you want to be run ONLY when button
   // is clicked, goes here.
 }
 ```
@@ -99,8 +105,12 @@ function doSomething() {
 
 ## Connecting HTML & JavaScript Summary
 
-- JavaScript can "talk to" the elements in HTML
-- This communication can allow us to write programs that will listen for button clicks and change text on the page
+- JavaScript can "talk to" the elements in HTML.
+- This communication can allow us to write programs that will listen for button clicks and change text on the page.
 
-<a href="../js-3">Next Section: Building Dynamic User Experiences</a>
 
+### Up Next
+
+- [Building Dynamic User Experiences](../js-3)
+- [Extensions](../extensions)
+- [Wrap-Up](../wrap-up)
