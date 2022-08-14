@@ -15,7 +15,8 @@ Depending on the data type, we can use some built-in Ruby methods to manipulate 
 ## Goals
 
 - Use developer skills to make sense of what unfamiliar code is doing
-- Explain what String and Integer methods can help us do
+- Understand and describe the purpose of methods
+- Apply new understanding of methods to short coding challenges
 
 ## String Methods
 
@@ -51,16 +52,6 @@ puts "Hello, #{first_name.capitalize}!"
       <li>A Ruby developer doesn't need to memorize every method that is available; some will be used regularly but others won't. For this reason, developers rely heavily on resources like <a target="blank" href="https://ruby-doc.org/core-3.0.1/String.html">ruby-doc.org</a>!</li>
     </ul>
   </div>
-</div>
-
-## Integer Methods
-
-Now we know some methods for String data types in Ruby, but what about Integers? What are some common ways we might want to manipulate an Integer value?
-
-<div class="try-it-new">
-  <h3>Try It: Exploring Integer Methods</h3>
-  <p>Let’s play around with three common Integer methods – <code>even?</code>, <code>round</code>, and <code>pow</code>.</p>
-  <p>Use <a target="blank" href="https://ruby-doc.org/core-2.5.0/Integer.html#method-i-remainder">ruby-doc.org</a> to find examples of how to use these three methods. Declare variables and use puts or print to demonstrate how these methods work in your replit.</p>
 </div>
 
 ### The rand() Method

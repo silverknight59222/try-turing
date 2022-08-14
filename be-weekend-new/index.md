@@ -46,7 +46,7 @@ There are several ways to get my attention throughout the workshop today. Let’
 ### Up Next
 
 - [What is Back End Engineering?](./what-is-bee)
-- [Ruby Review](./ruby-intro)
+- [Ruby Introduction](./ruby-intro)
 - [Ruby Methods](./ruby-methods)
 - [Control Flow](./control-flow)
 - [Loops](./loops)

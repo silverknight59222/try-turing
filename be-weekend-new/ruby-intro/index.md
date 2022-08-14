@@ -17,7 +17,6 @@ Ruby is a dynamic, open-source programming language widely known for its simplic
 - Identify the difference between puts and print
 - Create variables to store data
 - Prompt a user to enter an input value and use that value in your program
-- Explore and explain what String and Integer methods can help us do
 
 ## Forking Your First Replit
 
