@@ -54,7 +54,6 @@ HTML consists of a series of elements, which wrap the content in both an opening
 
 - Elements that live inside of the `body` tags will be displayed on the page.
 - We can nest elements inside of other elements to create structure within the HTML.
-- Classes allow us to give each element a specific label so that we can reference that element later.
 - The number of elements and the content inside of the elements in the HTML file usually have a 1-to-1 correlation with what we see in the browser.
 
 
