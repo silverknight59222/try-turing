@@ -38,13 +38,13 @@ There are several ways to get my attention throughout the workshop today. Let’
 - **Send the instructor a direct message.** What word describes how you are feeling today?
 - **Raise your hand.** Find your zoom toolbar, click Reactions, then Raise Hand.
 - **Introduce yourself!** Share your name, pronouns, and your location. Then, share why you’re here.
-1. I’m looking for a career change and I’m trying coding for the first time.
-2. I already know I want to attend Turing, but I need to pick a program!
-3. My friend or family member won’t stop bugging me about checking this out, so here I am!
+1. I'm curious about what a software developer does.
+3. A teacher or mentor suggested I check this out.
+4. I know I want to be in a tech career, I'm excited to take the first steps in that direction!
 
-### Up Next
+### Up Next TODO: copy & update pages below
 
-- [What is Programming?](../be-weekend/what-is-bee) TODO: copy & update 'what is BEE'
+- [What is Programming?](../be-weekend/what-is-bee) 
 - [Ruby Introduction](../be-weekend/ruby-intro)
 - [Ruby Methods](../be-weekend/ruby-methods)
 - [Control Flow](../be-weekend/control-flow)
