@@ -44,10 +44,10 @@ There are several ways to get my attention throughout the workshop today. Let’
 
 ### Up Next
 
-- [What is Programming?](./what-is-bee)
-- [Ruby Introduction](./ruby-intro)
-- [Ruby Methods](./ruby-methods)
-- [Control Flow](./control-flow)
-- [Loops](./loops)
-- [Extension Challenge](./extension)
-- [Wrap-Up](./wrap-up)
+- [What is Programming?](../be-weekend/what-is-bee) TODO: copy & update 'what is BEE'
+- [Ruby Introduction](../be-weekend/ruby-intro)
+- [Ruby Methods](../be-weekend/ruby-methods)
+- [Control Flow](../be-weekend/control-flow)
+- [Loops](../be-weekend/loops)
+- [Programming in Action](..ruby-newbies/oop)
+- [Wrap-Up and Next Steps]()
