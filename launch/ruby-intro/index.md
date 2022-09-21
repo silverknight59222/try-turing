@@ -1,11 +1,12 @@
 ---
 layout: lesson
+duration: 20
 ---
 
 ### Go Back
 
 - [Welcome and Introductions](../)
-- [What is Back End Engineering?](../what-is-bee)
+- [What is Programming?](../what-is-programming)
 
 # Ruby Introduction
 
@@ -135,9 +136,9 @@ Our programs haven’t been very exciting so far because we already know what wi
 </div>
 
 ### Up Next
-
 - [Ruby Methods](../ruby-methods)
 - [Control Flow](../control-flow)
 - [Loops](../loops)
-- [Extension Challenge](../extension)
-- [Wrap-Up](../wrap-up)
+- [Programming In Action](../oop)
+- [Being a Turing Student](../turing-info)
+- [Wrap Up and Next Steps](../turing-info/next-steps)
