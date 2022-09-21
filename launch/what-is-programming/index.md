@@ -60,7 +60,10 @@ Today, we will be focusing on just a small part of Ruby to get you introduced to
 
 ### Up Next
 
-- [Ruby Introduction](./ruby-intro)
-- [Ruby Methods](./ruby-methods)
-- [Control Flow](./control-flow)
-- [Loops](./loops)
+- [Ruby Introduction](../ruby-intro)
+- [Ruby Methods](../ruby-methods)
+- [Control Flow](../control-flow)
+- [Loops](../loops)
+- [Programming In Action](../oop)
+- [Being a Turing Student](../turing-info)
+- [Wrap Up and Next Steps](../turing-info/next-steps)

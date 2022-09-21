@@ -1,5 +1,6 @@
 ---
 layout: lesson
+duration: 20
 ---
 
 ### Go Back
@@ -35,14 +36,14 @@ But the times method won’t really work for our “Guess the Number” game. We
 ```ruby
 name = "Kaitlyn"
 
-begin
-  print "What’s my name? "
-  guess = gets.chomp
+print "What's my name? "
+guess = gets.chomp
 
-  if guess != "Kaitlyn"
-    puts "Nope. Try Again."
-  end
-end until guess == "Kaitlyn"
+until guess == "Kaitlyn"
+  puts "Nope. Try Again."
+  print "What's my name? "
+  guess = gets.chomp
+end
 
 puts "And don't you forget it!"
 ```
@@ -55,11 +56,12 @@ puts "And don't you forget it!"
     <li>Write a program that asks the user to guess your age. If their guess is too low, respond with, "Too low. Guess again!" If they guess a number that is too high, respond with, "I’m offended." Continue responding until their guess is your correct age and respond with, "It’s such a fun age."</li>
   </ol>
 
-  <p><strong>Implement this learning in your "Guess the Number" game!</strong> Use an <code>until</code> loop in your “Guess the Number” game to give your user unlimited guesses. If you'd like to check your work when you're finished, it should look something <a href="https://replit.com/@turingschool/ruby-number-guesser-final#main.rb" target="blank">like this!</a></p>
+  <p><strong>Implement this learning in your "Guess the Number" game!</strong> Use an <code>until</code> loop in your “Guess the Number” game to give your user unlimited guesses. If you'd like to check your work when you're finished, it should look something <a href="https://replit.com/@memcmahon/ruby-number-guesser-final#main.rb" target="blank">like this!</a></p>
 
 </div>
 
 ### Up Next
 
-- [Extension Challenge](../extension)
-- [Wrap-Up](../wrap-up)
+- [Programming In Action](../oop)
+- [Being a Turing Student](../turing-info)
+- [Wrap Up and Next Steps](../turing-info/next-steps)

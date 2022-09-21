@@ -1,11 +1,12 @@
 ---
 layout: lesson
+duration: 20
 ---
 
 ### Go Back
 
 - [Welcome and Introductions](../)
-- [What is Back End Engineering?](../what-is-bee)
+- [What is Programming?](../what-is-bee)
 - [Ruby Introduction](../ruby-intro)
 - [Ruby Methods](../ruby-methods)
 
@@ -29,16 +30,16 @@ Control flow gives us the flexibility we’re looking for. We can change the res
 puts "How old are you?"
 age = gets.chomp.to_i
 
-if age >= 21
-  puts "Welcome to Sierra Nevada Brewing Company!"
+if age >= 18
+  puts "Welcome to your polling station!  We look forward to you casting your vote."
 else
-  puts "Sorry, you’re not old enough to access our site. Come back later!"
+  puts "Sorry, you’re not yet old enough to vote. Stay informed, and come back when you are 18!"
 end
 ```
 
 ## if Statements
 
-Ruby’s <code>if</code> statement is always followed by an expression, which is a fancy way of saying something that evaluates to true or false. If the expression evaluates to true, anything inside that code block is executed. However, if the expression is false, Ruby skips over that block of code. Here’s an example of what that might look like:
+Ruby’s <code>if</code> statement is always followed by a condition, which is a fancy way of saying "something that evaluates to true or false". If the condition evaluates to true, anything inside that code block is executed. However, if the condition is false, Ruby skips over that block of code. Here’s an example of what that might look like:
 
 ```ruby
 if 5 > 4
@@ -98,5 +99,6 @@ end
 ### Up Next
 
 - [Loops](../loops)
-- [Extension Challenge](../extension)
-- [Wrap-Up](../wrap-up)
+- [Programming In Action](../oop)
+- [Being a Turing Student](../turing-info)
+- [Wrap Up and Next Steps](../turing-info/next-steps)
