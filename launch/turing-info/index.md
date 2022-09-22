@@ -13,6 +13,16 @@ duration: 30
 - [Loops](../loops)
 - [Programming In Action](../oop)
 
+## Timeline for program start
+
+## Where you'll be after graduation
+
+## A day in the life
+
+## Testimonials
+
+## Questions
+
 
 ### Up Next
 

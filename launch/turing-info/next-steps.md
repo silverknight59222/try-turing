@@ -11,3 +11,9 @@ duration: 15
 - [Loops](./loops)
 - [Programming in Action](./oop)
 - [Being a Turing Student](./turing-info)
+
+## Discuss with family and friends
+
+## Stay in touch, ask more Questions
+
+## Apply!
