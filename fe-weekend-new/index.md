@@ -35,7 +35,7 @@ _Disclaimer: We won't become experts in these languages today. And you may leave
 ### Up Next
 
 - [What is Front End Engineering?](./what-is-fee)
-- [HTML Introduction](./html-review)
+- [HTML Introduction](./html-intro)
 - [Introduction to CSS](./intro-to-css)
 - [JavaScript Fundamentals](./js-1)
 - [Connecting HTML & JavaScript](./js-2)

@@ -16,8 +16,9 @@ In a short workshop we have worked through a LOT of content! Remember, the goal 
 - <a target="blank" href="https://twitter.com/turingschool">Twitter</a>
 
 ## Next Steps
-
-Are you in love with coding? [Set up a time to meet with Chelsea](https://go.oncehub.com/ChelseaTuring) about what that could look like for you at Turing _or_ send her an email at **chelsea@turing.edu**.
+Are you in love with coding? Here are some next steps you may want to take:
+- [Set up a time to meet with Launa](https://go.oncehub.com/LaunaGardner1) about what that could look like for you at Turing _or_ send her an email at **launa@turing.edu**.
+- [Start your application](https://apply.turing.edu/) to join us as a full-time student.
 
 Want to do a little more exploration before taking the next step toward a career change? Here are some great places to start:
 - Attend another <a target="blank" href="https://turing.edu/try-coding">Try Coding</a> workshop. We have a very special event coming up called <a target="blank" href="https://www.eventbrite.com/e/code-with-joan-a-coding-workshop-by-and-for-women-tickets-230337243897?_eboga=UA-103295514-1">Code with Joan</a>. It's a safe space designed for women+ to explore the world of coding in an inclusive and supportive environment.
