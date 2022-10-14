@@ -20,7 +20,7 @@ With the information above, in theory, the manager at the factory should be able
 That example about the car factory ties directly to concepts of OOP. We will use three main technical terms today. They are below, with the connection to the car factory example:
 - **`class`** - A class is like a blueprint or template. The factory machines are designed to make a car - that is the template for ALL Escapes. We could probably name it the _EscapeCar_ class.
 - **`object/instance`** - An instance is an object that is made from the class template. The blue Escape that the manager requested (and was able to physically sit in and drive) is referred to as an object or instance of the _EscapeCar_ class.
-- **`attribute`** - An attribute is a specific characteristic about an instance that has the potential of varying from other instances. With our Escapes, _color_, _interior_ and _engine_ would be attributes, because they weren't programmed into the template, but were extra information the manager was able to give for each specific instance of that class.
+- **`attribute`** - An attribute is a specific characteristic of an instance. There are two different types of attributes, static and dynamic. Static attributes are the same for every instance of a class. Dynamic attributes change from one instance to the next. With our Escapes, _color_, _interior_ and _engine_ would be dynamic attributes, because they weren't programmed into the template, but were extra information the manager was able to give for each specific instance of that class. 
 
 <div class="try-it-new">
   <h2>Classes and Objects - At Home!</h2>

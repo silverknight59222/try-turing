@@ -26,7 +26,7 @@ Disclaimer: We won't become experts in Ruby or Object-Oriented Programming today
 <br><br>
 
 ## Zoom Tools and Introductions
-- Reactions - Raise your hand if a friend or family member recommended Turing to you!
+- Reactions - Raise your hand!
 - Chat - Are you an early bird or a night owl?
 - Intros - name, pronouns, location, why you are here!
 
@@ -63,6 +63,57 @@ To gain some familiarity with repl.it, the interface we will use to write code i
   <h2>Write some Code!</h2>
   <p>Now that we've seen what variables can do and how to run our code, let's add on to what is existing. Write at least 2 more variables under line 2. Print all variables out, and re-run the code to make sure they are working as expected!</p>
 </div>
+
+## Data Types
+
+For different types of information, we might choose a different `Data Type`. Here are 4 common data types in Ruby: 
+- **String:** Any series of characters (alpha, numeric, or symbol) between quotation marks
+- **Integer:** Any whole positive or negative number, including 0
+- **Float:** Any positive or negative number that involves a decimal
+- **Boolean:** `true` or `false`
+
+<div class="try-it-new">
+  <h2>Deciding on a Data Type</h2>
+  <p>For each piece of information below, decide which Data Type you would use to store that information.</p>
+  <ul>
+    <li>Username/handle</li>
+    <li>Age</li>
+    <li>Number of Likes</li>
+    <li>Balance on a bank account</li>
+    <li>Active status</li>
+    <li>Daily countdown to a big event</li>
+    <li>Phone number</li>
+  </ul>
+</div>
+
+## Best Practices for Naming Variables
+
+Naming can be hard, but is important to be thoughtful about and follow conventions of the language you are working with so that your code is easily accessible and readable for those you are collaborating with. A few key points:
+- All Ruby variables should use `snake_case` - all characters should be lower cased; in multi-word variables, words should be separated with an underscore.
+- Variable names should describe the type of data they hold without being overly verbose or specific (examples: `name`, `email`, etc. non-examples: `x`, `ftga23`, `name_of_incoming_mod_1_back_end_student`).
+
+<div class="try-it-new">
+  <h2>Try It</h2>
+  <p>In your replit, add variables until you have at least one of each data type. Be ready to share your code!</p>
+</div>
+
+## Reassigning Variables
+
+We often need to write code that changes the data stored in a variable. Consider the example of the `active_status` variable from earlier in the lesson. When a user is online, the `active_status` value will be `true`, but if that user signs off, that value needs to be updated to `false`. Reassigning the value of a variable looks something like the code below.
+
+```ruby
+active_status = true
+puts active_status # true
+
+active_status = false
+puts active_status # false
+```
+
+<div class="try-it-new">
+  <h2>Try It</h2>
+  <p>Back in your replit, reassign 2-3 of your variables to new values and print their values to the console to observe the output.</p>
+</div>
+
 
 ## Now, it gets even more fun:
 - [Connecting OOP to Real-World Scenarios](./oop)
