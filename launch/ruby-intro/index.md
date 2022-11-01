@@ -140,5 +140,3 @@ Our programs haven’t been very exciting so far because we already know what wi
 - [Control Flow](../control-flow)
 - [Loops](../loops)
 - [Programming In Action](../oop)
-- [Being a Turing Student](../turing-info)
-- [Wrap Up and Next Steps](../turing-info/next-steps)
