@@ -84,7 +84,4 @@ We won't get all the way there in illustrating it today, but, we can look at Ins
 
 ![Instagram screenshot with annotations for user profile class and post class.](./assets/instagram-oop.png)
 
-### Up Next
 
-- [Being a Turing Student](../turing-info)
-- [Wrap Up and Next Steps](../turing-info/next-steps)
