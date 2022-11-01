@@ -63,5 +63,3 @@ puts "And don't you forget it!"
 ### Up Next
 
 - [Programming In Action](../oop)
-- [Being a Turing Student](../turing-info)
-- [Wrap Up and Next Steps](../turing-info/next-steps)
