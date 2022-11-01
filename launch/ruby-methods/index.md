@@ -50,7 +50,7 @@ puts "Hello, #{first_name.capitalize}!"
   <div class="hide">
     <ul>
       <li>Ruby provides a variety of <code>methods</code> that can be used specifically on Strings - we can think of them as actions.</li>
-      <li>A Ruby developer doesn't need to memorize every method that is available; some will be used regularly but others won't. For this reason, developers rely heavily on resources like <a target="blank" href="https://ruby-doc.org/core-3.0.1/String.html">ruby-doc.org</a>!</li>
+      <li>A Ruby developer doesn't need to memorize every method that is available; some will be used regularly but others won't. For this reason, developers rely heavily on resources like <a target="_blank" href="https://ruby-doc.org/core-3.0.1/String.html">ruby-doc.org</a>!</li>
     </ul>
   </div>
 </div>
