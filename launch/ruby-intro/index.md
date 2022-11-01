@@ -32,7 +32,7 @@ In your sandbox replit, complete the activity that follows.
 <div class="try-it-new">
   <h3>Try It: Exploring puts vs. print</h3>
   <p>Read the Ruby code and then run it.</p>
-  <p>Next, change both instances of puts to print. Observe the change in output. What does that tell you about the job that each command has?</p>
+  <p>Next, change both instances of <code>puts</code> to <code>print</code>. Observe the change in output. What does that tell you about the job that each command has?</p>
 </div>
 
 <div class="expander expander-lesson">
@@ -70,7 +70,7 @@ location = "Austin, TX 🦇"
 
 <div class="try-it-new">
   <h3>Try It: Variables in Ruby</h3>
-  <p>Back in your sandbox replit, declare three variables that describe yourself. Use puts or print followed by each variable name to confirm that you’ve done this correctly!</p>
+  <p>Back in your sandbox replit, declare three variables that describe yourself. Use <code>puts</code> or <code>print</code> followed by each variable name to confirm that you’ve done this correctly!</p>
 </div>
 
 ## Data Types
