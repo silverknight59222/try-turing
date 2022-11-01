@@ -43,7 +43,7 @@ There are several ways to get my attention throughout the workshop today. Let’
 3. A teacher or mentor suggested I check this out.
 4. I know I want to be in a tech career, I'm excited to take the first steps in that direction!
 
-### Up Next TODO: copy & update pages below
+### Up Next
 
 - [What is Programming?](./what-is-programming)
 - [Ruby Introduction](./ruby-intro)
