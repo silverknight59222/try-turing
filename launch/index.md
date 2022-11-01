@@ -51,5 +51,3 @@ There are several ways to get my attention throughout the workshop today. Let’
 - [Control Flow](./control-flow)
 - [Loops](./loops)
 - [Programming in Action](./oop)
-- [Being a Turing Student](./turing-info)
-- [Wrap-Up and Next Steps](./turing-info/next-steps)
