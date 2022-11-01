@@ -65,5 +65,3 @@ Today, we will be focusing on just a small part of Ruby to get you introduced to
 - [Control Flow](../control-flow)
 - [Loops](../loops)
 - [Programming In Action](../oop)
-- [Being a Turing Student](../turing-info)
-- [Wrap Up and Next Steps](../turing-info/next-steps)
