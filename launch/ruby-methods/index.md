@@ -103,4 +103,3 @@ puts random_value
 
 - [Control Flow](../control-flow)
 - [Loops](../loops)
-- [Programming In Action](../oop)

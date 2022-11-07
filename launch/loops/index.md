@@ -6,7 +6,7 @@ duration: 20
 ### Go Back
 
 - [Welcome and Introductions](../)
-- [What is Back End Engineering?](../what-is-bee)
+- [What is Programming](../what-is-programming/)
 - [Ruby Introduction](../ruby-intro)
 - [Ruby Methods](../ruby-methods)
 - [Control Flow](../control-flow)
@@ -62,4 +62,4 @@ puts "And don't you forget it!"
 
 ### Up Next
 
-- [Programming In Action](../oop)
+- [How the Web Works](../how-the-web-works/)

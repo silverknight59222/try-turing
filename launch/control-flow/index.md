@@ -99,4 +99,3 @@ end
 ### Up Next
 
 - [Loops](../loops)
-- [Programming In Action](../oop)

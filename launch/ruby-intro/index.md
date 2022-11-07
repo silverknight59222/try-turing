@@ -21,7 +21,11 @@ Ruby is a dynamic, open-source programming language widely known for its simplic
 
 ## Forking Your First Replit
 
-Replit is a web-based interactive development environment or IDE. It allows us to write code and see the output in the console at the same time. To get started today, we will be working in <a href="https://replit.com/@turingschool/ruby-sandbox#main.rb" target="blank">this Ruby sandbox replit</a>. When you open this replit, click the blue "Fork Repl" button to make your own copy on your account. From here, you can add code or delete code as much as you like. It's yours!
+Replit is a web-based interactive development environment or IDE. It allows us to write code and see the output in the console at the same time. To get started today, we will be working in <a href="https://replit.com/@turingschool/ruby-sandbox#main.rb" target="_blank">this Ruby sandbox replit</a>. When you open this replit, click the blue "Fork Repl" button to make your own copy on your account. From here, you can add code or delete code as much as you like. It's yours!
+
+![](./images/ForkReplOne.png)
+
+![](./images/ForkReplTwo.png)
 
 A sandbox is a place where we can play around with code! Use this space to take notes or try things throughout the workshop today.
 
@@ -139,4 +143,3 @@ Our programs haven’t been very exciting so far because we already know what wi
 - [Ruby Methods](../ruby-methods)
 - [Control Flow](../control-flow)
 - [Loops](../loops)
-- [Programming In Action](../oop)
