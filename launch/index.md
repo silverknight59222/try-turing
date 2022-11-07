@@ -50,4 +50,4 @@ There are several ways to get my attention throughout the workshop today. Let’
 - [Ruby Methods](./ruby-methods)
 - [Control Flow](./control-flow)
 - [Loops](./loops)
-- [How the Web Works](../how-the-web-works/)
+- [How the Web Works](./how-the-web-works/)
