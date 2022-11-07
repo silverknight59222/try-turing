@@ -143,3 +143,4 @@ Our programs haven’t been very exciting so far because we already know what wi
 - [Ruby Methods](../ruby-methods)
 - [Control Flow](../control-flow)
 - [Loops](../loops)
+- [How the Web Works](../how-the-web-works/)

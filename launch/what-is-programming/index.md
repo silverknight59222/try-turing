@@ -27,3 +27,4 @@ Today, we are going to start learning the Ruby language.  It is a great intro to
 - [Ruby Methods](../ruby-methods)
 - [Control Flow](../control-flow)
 - [Loops](../loops)
+- [How the Web Works](../how-the-web-works/)
