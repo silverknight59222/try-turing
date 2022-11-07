@@ -98,5 +98,5 @@ end
 
 ### Up Next
 
-- [Loops](../loops)
-- [Programming In Action](../oop)
+- [Loops](../loops) 
+- [How the Web Works](../how-the-web-works/)
