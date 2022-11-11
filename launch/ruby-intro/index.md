@@ -25,7 +25,7 @@ Replit is a web-based interactive development environment or IDE. It allows us t
 
 ![](./images/ForkReplOne.png)
 
-![](./images/ForkReplTwo.png)
+<img src="./images/ForkReplTwo.png" height="400"/>
 
 A sandbox is a place where we can play around with code! Use this space to take notes or try things throughout the workshop today.
 
