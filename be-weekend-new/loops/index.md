@@ -52,7 +52,7 @@ puts "And don't you forget it!"
   <p>Follow the directions below to complete each exercise in your sandbox replit.</p>
   <ol>
     <li>Write a short program that repeatedly asks the user, "What is 3 + 3?" until they enter the correct answer! Hint: You may need another ruby method for this one that converts a String data type into an Integer data type.</li>
-    <li>Write a program that asks the user to guess your age. If their guess is too low, respond with, "Too low. Guess again!" If they guess a number that is too high, respond with, "Oops! Too high." Continue responding until their guess is your correct age and respond with, "It’s the best."</li>
+    <li>Write a program that asks the user to guess your age. If their guess is too low, respond with, "Too low. Guess again!" If they guess a number that is too high, respond with, Too high. Try again!" Continue responding until their guess is your correct age and respond with, "That's correct!"</li>
   </ol>
 
   <p><strong>Implement this learning in your "Guess the Number" game!</strong> Use an <code>until</code> loop in your “Guess the Number” game to give your user unlimited guesses. If you'd like to check your work when you're finished, it should look something <a href="https://replit.com/@turingschool/ruby-number-guesser-final#main.rb" target="blank">like this!</a></p>
