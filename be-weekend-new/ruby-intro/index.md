@@ -63,8 +63,8 @@ When working with Ruby, we use <code>snake_case</code> for any variable names, m
 
 ```ruby
 email = "helloworld@gmail.com"
-first_name = "Kaitlyn"
-location = "Austin, TX 🦇"
+first_name = "Brandi"
+location = "Tampa, FL 🌴"
 ```
 
 <div class="try-it-new">
