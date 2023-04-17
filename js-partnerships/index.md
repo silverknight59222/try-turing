@@ -12,17 +12,14 @@ _This will be best experienced on a desktop or laptop computer._
 
 We are so glad you are here! To get set up...
 <!-- 1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account. -->
-1. Please change your zoom name to first, last initial, and pronouns, like this: _Brandi G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
+Please change your zoom name to first, last initial, and pronouns, like this: _Brandi G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
 <!-- 1. Heads up! We will ask you to briefly introduce yourself in a minute. -->
-<br>
 
-## Goals
+## Who is Turing?
+> Our Mission: Turing’s mission is to unlock human potential by training a diverse and inclusive student body to succeed in high fulfillment technical careers.
 
-- Build and customize an <a target="blank" href="https://js-newbies-checkpoint-3.turingschool.repl.co/">interactive website</a>
-- Gain _exposure_ and familiarity with some HTML and CSS
-- Determine if coding is something you enjoy doing and want to pursue further
+Turing School is an accredited, fully-remote computer programming school, focused solely on helping students launch fulfilling careers in technology.
 
-<br>
 
 ## What to Expect
 - Welcome and Introductions (10 minutes)
@@ -31,6 +28,14 @@ We are so glad you are here! To get set up...
 - Wrap-Up (10 minutes)
 - Alumni Panel (25 minutes)
 - Closing (5 minutes)
+
+## Goals
+
+- Build and customize an <a target="blank" href="https://js-newbies-checkpoint-3.turingschool.repl.co/">interactive website</a>
+- Gain _exposure_ and familiarity with some HTML and CSS
+- Determine if coding is something you enjoy doing and want to pursue further
+
+<br>
 
 ## Online Learning Norms
 - Ask your questions and share your code!
@@ -42,8 +47,7 @@ We are so glad you are here! To get set up...
 
 Want to get my attention during the workshop? Raise your hand, type your question in the chat, or come off mute and ask!
 - Raise Hand - Find the reactions button in your zoom toolbar and raise your hand.
-- Zoom Chat - Are you a night owl or an early bird?
-- Unmute - Introduce yourself! Please share your name, pronouns, location, and why you're here!
+- Zoom Chat - Introduce yourself! In the chat, please share your name, pronouns, location, and why you're here!
 
 ## Programming Languages We Will Use
 
