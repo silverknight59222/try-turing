@@ -59,4 +59,4 @@ If you want to check that you are on the right track, you can compare your code 
 - Based on the type of rule, CSS will expect different values (ex: `darkgreen` or a hex code for a color and `10px` or `50%` for a measurement).
 - There are many types of rules we can write; with practice, we become familiar with more but don't need to memorize them all.
 
-<a href="../wrap-up">Next Section: Wrap-up/a>
+<a href="../wrap-up">Next Section: Wrap-up</a>
