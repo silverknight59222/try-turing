@@ -12,7 +12,7 @@ _This will be best experienced on a desktop or laptop computer._
 
 We are so glad you are here! To get set up...
 1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account.
-1. Please change your zoom name to first, last initial, and pronouns, like this: _Kaitlyn V. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
+1. Please change your zoom name to first, last initial, and pronouns, like this: _Brandi G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
 1. Heads up! We will ask you to briefly introduce yourself in a minute.
 <br>
 
@@ -84,12 +84,6 @@ This might be your very first day working with code. Learning is often uncomfort
 <br>
 
 ## Project Setup
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="YzJWroz" data-user="brandifg" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/brandifg/pen/YzJWroz">
-  Try Coding x Turing School</a> by Brandi Gehrke (<a href="https://codepen.io/brandifg">@brandifg</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 We will work off of a starter kit that has already been created.
 1. <a target="blank" href="https://replit.com/@turingschool/js-newbies-starter-kit#index.html">Click this link to access the starter kit</a> in replit.
