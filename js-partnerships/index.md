@@ -2,34 +2,35 @@
 layout: lesson
 ---
 
-# Try Coding for Newbies: JavaScript
+# Try Coding x Turing School: HTML and CSS 
 
-In this live, instructor-led workshop, you will build an interactive webpage with interactive buttons that hide and reveal information.
+In this live, instructor-led workshop, you will start the process of building an interactive webpage with interactive buttons that hide and reveal information.
 
 _This will be best experienced on a desktop or laptop computer._
 
 ## Welcome!
 
 We are so glad you are here! To get set up...
-1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account.
-1. Please change your zoom name to first, last initial, and pronouns, like this: _Kaitlyn V. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
-1. Heads up! We will ask you to briefly introduce yourself in a minute.
+<!-- 1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account. -->
+1. Please change your zoom name to first, last initial, and pronouns, like this: _Brandi G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
+<!-- 1. Heads up! We will ask you to briefly introduce yourself in a minute. -->
 <br>
 
 ## Goals
 
 - Build and customize an <a target="blank" href="https://js-newbies-checkpoint-3.turingschool.repl.co/">interactive website</a>
-- Gain _exposure_ and familiarity with some HTML, CSS, and JavaScript
+- Gain _exposure_ and familiarity with some HTML and CSS
 - Determine if coding is something you enjoy doing and want to pursue further
 
 <br>
 
 ## What to Expect
-- Welcome and Setup (30 minutes)
-- Instruction (2 hours)
-- Turing Info Session (45 minutes)
-- Alumni Panel (30 minutes)
-- Wrap-Up (15 minutes)
+- Welcome and Introductions (10 minutes)
+- Session Norms and Setup (20 minutes)
+- Instruction (50 mins)
+- Wrap-Up (10 minutes)
+- Alumni Panel (25 minutes)
+- Closing (5 minutes)
 
 ## Online Learning Norms
 - Ask your questions and share your code!
