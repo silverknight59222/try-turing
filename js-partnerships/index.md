@@ -87,7 +87,12 @@ This might be your very first day working with code. Learning is often uncomfort
 ## Project Setup
 
 We will work off of a starter kit that has already been created.
-1. <a target="blank" href="https://replit.com/@turingschool/js-newbies-starter-kit#index.html">Click this link to access the starter kit</a> in replit.
+<iframe height="300" style="width: 100%;" scrolling="no" title="Try Coding x Turing School" src="https://codepen.io/brandifg/embed/MWPeOQZ?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/brandifg/pen/MWPeOQZ">
+  Try Coding x Turing School</a> by Brandi Gehrke (<a href="https://codepen.io/brandifg">@brandifg</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+<!-- 1. <a target="blank" href="https://replit.com/@turingschool/js-newbies-starter-kit#index.html">Click this link to access the starter kit</a> in replit. -->
 1. Click the green <code>Run</code> button at the top of the page, and you should see a simple version of your website on the right side of the page.
 
 In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
