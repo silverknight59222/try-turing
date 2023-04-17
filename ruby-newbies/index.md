@@ -12,7 +12,7 @@ _This will be best experienced on a desktop or laptop computer._
 
 We are so glad you are here! To get set up...
 1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account
-1. Please change your zoom name to first, last initial, pronouns -- like this: _Kaitlyn V. (she/her)_. To do this, hover over your image on zoom, click the three dots and select “Rename” from the menu.
+1. Please change your zoom name to first, last initial, pronouns -- like this: _Brandi G. (she/her)_. To do this, hover over your image on zoom, click the three dots and select “Rename” from the menu.
 1. Heads up! We will ask you to briefly introduce yourself in a few minutes.
 <br><br>
 
