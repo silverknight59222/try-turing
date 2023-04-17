@@ -32,5 +32,4 @@ You can find the live URL above the "mini-browser". Copy and paste the link, or 
 - <a href="https://apply.turing.edu/" target="blank">Start your application</a> to join us as a full-time student.
 
 
-
-<a href="../">Back to Intro page</a>
+<a href="../closing">Next Section: Closing/a>
