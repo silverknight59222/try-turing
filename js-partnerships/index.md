@@ -106,7 +106,5 @@ In the next part of the lesson, we will explore the HTML file to understand the 
 ## Now, it gets even more fun:
 - [HTML - Content](./html)
 - [CSS - Styles](./css)
-- [JavaScript - Overview](./js-1)
-- [JavaScript - Event Listeners](./js-2)
-- [JavaScript - Interactive Buttons](./js-3)
 - [Wrap-Up](./wrap-up)
+- [Closing](./closing)
