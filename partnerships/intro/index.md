@@ -62,14 +62,17 @@ This might be your very first day working with code. Learning is often uncomfort
 
 ## Project Setup
 
-We will work off of a starter kit that has already been created.
+We will work off of a starter kit that has already been created. Before we jump into writing code in CodePen, lets tour the screenshot below to get an idea of what to expect.
+
+<br>
+
 <img src="../assets/codepen.png" alt="Screenshot of CodePen" />
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Try Coding x Turing School" src="https://codepen.io/brandifg/embed/MWPeOQZ?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<!-- <iframe height="300" style="width: 100%;" scrolling="no" title="Try Coding x Turing School" src="https://codepen.io/brandifg/embed/MWPeOQZ?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/brandifg/pen/MWPeOQZ">
   Try Coding x Turing School</a> by Brandi Gehrke (<a href="https://codepen.io/brandifg">@brandifg</a>)
   on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+</iframe> -->
 
 In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
 
