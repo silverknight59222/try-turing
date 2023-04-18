@@ -15,13 +15,13 @@ Over the last decade, the web has evolved from a platform that served static web
 - Determine if coding is something you enjoy doing and want to pursue further
 
 ## Online Learning Norms
-- Ask your questions and share your code!
-- Mute your microphone unless you’re the main speaker.
+- Ask your questions and share your code in the chat.
+- Mute your microphone.
 - Keep your camera on during class (if possible).
 - Disconnected? Jump back on!
 
 ## Zoom Tools
-Want to get my attention during the workshop? Raise your hand, type your question in the chat, or come off mute and ask!
+Want to get my attention during the workshop? Raise your hand or type your question in the chat.
 - Raise Hand - Find the reactions button in your zoom toolbar and raise your hand.
 - Zoom Chat - Introduce yourself! In the chat, please share your name, pronouns, location, and why you're here!
 
@@ -62,16 +62,19 @@ This might be your very first day working with code. Learning is often uncomfort
 
 ## Project Setup
 
-We will work off of a starter kit that has already been created.
-<iframe height="300" style="width: 100%;" scrolling="no" title="Try Coding x Turing School" src="https://codepen.io/brandifg/embed/MWPeOQZ?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+We will work off of a starter kit that has already been created. Before we jump into writing code in CodePen, lets tour the screenshot below to get an idea of what to expect.
+
+<br>
+
+<img src="../assets/codepen.png" alt="Screenshot of CodePen" />
+
+<!-- <iframe height="300" style="width: 100%;" scrolling="no" title="Try Coding x Turing School" src="https://codepen.io/brandifg/embed/MWPeOQZ?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/brandifg/pen/MWPeOQZ">
   Try Coding x Turing School</a> by Brandi Gehrke (<a href="https://codepen.io/brandifg">@brandifg</a>)
   on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+</iframe> -->
 
 In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
-
-<br>
 
 ### Now, it gets even more fun:
 - [HTML - Content](../html)
