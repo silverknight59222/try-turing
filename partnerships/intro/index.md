@@ -21,7 +21,7 @@ Over the last decade, the web has evolved from a platform that served static web
 - Disconnected? Jump back on!
 
 ## Zoom Tools
-Want to get my attention during the workshop? Raise your hand, type your question in the chat, or come off mute and ask!
+Want to get my attention during the workshop? Raise your hand or type your question in the chat.
 - Raise Hand - Find the reactions button in your zoom toolbar and raise your hand.
 - Zoom Chat - Introduce yourself! In the chat, please share your name, pronouns, location, and why you're here!
 
@@ -70,8 +70,6 @@ We will work off of a starter kit that has already been created.
 </iframe>
 
 In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
-
-<br>
 
 ### Now, it gets even more fun:
 - [HTML - Content](../html)
