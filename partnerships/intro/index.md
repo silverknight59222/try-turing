@@ -2,40 +2,17 @@
 layout: lesson
 ---
 
-# Try Coding x Turing School: HTML and CSS 
+<a href="../">Back to Setup Page</a>
 
-In this live, instructor-led workshop, you will start the process of building an interactive webpage with interactive buttons that hide and reveal information.
+# Introduction to Front-End Engineering
+The Front-End is the part of the application that users see, touch, and interact with. When we’re talking about web development, the Front End is the part of the code base that takes care of rendering the user interface in the web browser.
 
-_This will be best experienced on a desktop or laptop computer._
-
-## Welcome!
-
-We are so glad you are here! To get set up...
-<!-- 1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account. -->
-Please change your zoom name to first, last initial, and pronouns, like this: _Brandi G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
-<!-- 1. Heads up! We will ask you to briefly introduce yourself in a minute. -->
-
-## Who is Turing?
-> Our Mission: Turing’s mission is to unlock human potential by training a diverse and inclusive student body to succeed in high fulfillment technical careers.
-
-Turing School is an accredited, fully-remote computer programming school, focused solely on helping students launch fulfilling careers in technology.
-
-
-## What to Expect
-- Welcome and Introductions (10 minutes)
-- Session Norms and Setup (20 minutes)
-- Instruction (50 mins)
-- Wrap-Up (10 minutes)
-- Alumni Panel (25 minutes)
-- Closing (5 minutes)
+Over the last decade, the web has evolved from a platform that served static web pages with content to a platform that provides rich, interactive experiences to users.
 
 ## Goals
-
 - Build and customize an <a target="blank" href="https://js-newbies-checkpoint-3.turingschool.repl.co/">interactive website</a>
 - Gain _exposure_ and familiarity with some HTML and CSS
 - Determine if coding is something you enjoy doing and want to pursue further
-
-<br>
 
 ## Online Learning Norms
 - Ask your questions and share your code!
@@ -44,14 +21,12 @@ Turing School is an accredited, fully-remote computer programming school, focuse
 - Disconnected? Jump back on!
 
 ## Zoom Tools
-
 Want to get my attention during the workshop? Raise your hand, type your question in the chat, or come off mute and ask!
 - Raise Hand - Find the reactions button in your zoom toolbar and raise your hand.
 - Zoom Chat - Introduce yourself! In the chat, please share your name, pronouns, location, and why you're here!
 
 ## Programming Languages We Will Use
-
-Building the user-facing part of a website or app is referred to as Front End Engineering. Writing code to build a Front End requires using three programming languages, and making the code in each language "talk to" the code in the others.
+Writing code to build a Front End requires using three programming languages, and making the code in each language "talk to" the code in the others.
 
 It can feel like a lot, but let's start by understanding the role of each language in the context of our application. We will make some comparisons to the human body as a frame of reference.
 
@@ -60,24 +35,23 @@ It can feel like a lot, but let's start by understanding the role of each langua
     <h3>HTML</h3>
     <p>HTML holds the content we see on a page (text, images) and defines the structure and order in which the content appears.</p>
     <p>We can think of HTML as the skeleton of our webpage; without it, we'd just be a blob:</p>
-    <img src="./assets/html.png" alt="Drawing of human skeleton" />
+    <img src="../assets/html.png" alt="Drawing of human skeleton" />
   </div>
 
   <div>
     <h3>CSS</h3>
     <p>CSS defines the look and feel of a webpage - it can change the size or layout of items on a page, change colors, fonts, and more!</p>
     <p>We can think of CSS as anything that makes us unique and recognizable - our skin, hair, clothes, style, etc.</p>
-    <img src="./assets/css.png" alt="Various accessories including a hat, dress, shoes, and hair" />
+    <img src="../assets/css.png" alt="Various accessories including a hat, dress, shoes, and hair" />
   </div>
 
   <div>
     <h3>JavaScript</h3>
     <p>JavaScript is what lets the user interact with a page. For example, clicking a button and getting some sort of response.</p>
     <p>We can think of JavaScript as the brain and muscle of our webpage, as it powers all the action:</p>
-    <img src="./assets/js.png" alt="Drawing of a human brain and arm muscle" />
+    <img src="../assets/js.png" alt="Drawing of a human brain and arm muscle" />
   </div>
 </section>
-<br>
 
 ## Be Nice to Yourself
 
@@ -85,8 +59,6 @@ This might be your very first day working with code. Learning is often uncomfort
 - Did you spell everything correctly? Capitalization matters!
 - Do you have closing symbols for every opening symbol? Every opening bracket needs a matching closing bracket.
 - Do the colors follow a predictable pattern? If the colors are consistent and then all of the sudden change, it could be a clue that something isn't quite right.
-
-<br>
 
 ## Project Setup
 
@@ -96,15 +68,13 @@ We will work off of a starter kit that has already been created.
   Try Coding x Turing School</a> by Brandi Gehrke (<a href="https://codepen.io/brandifg">@brandifg</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
-<!-- 1. <a target="blank" href="https://replit.com/@turingschool/js-newbies-starter-kit#index.html">Click this link to access the starter kit</a> in replit. -->
-1. Click the green <code>Run</code> button at the top of the page, and you should see a simple version of your website on the right side of the page.
 
 In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
 
 <br>
 
-## Now, it gets even more fun:
-- [HTML - Content](./html)
-- [CSS - Styles](./css)
-- [Wrap-Up](./wrap-up)
-- [Closing](./closing)
+### Now, it gets even more fun:
+- [HTML - Content](../html)
+- [CSS - Styles](../css)
+- [Wrap-Up](../wrap-up)
+- [Closing](../closing)
