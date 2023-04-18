@@ -23,8 +23,9 @@ layout: lesson_banner
   <h2>Modify the Existing Code</h2>
   <p>Now that we're getting to know HTML and this specific project a bit better, let's modify it!</p>
   <ul>
-    <li>Add two more single cards, each with a card title and card text.</li>
-    <li>Decide what content you would like for your webpage. If you're not feeling creative, make it a glossary of terms we are learning today!</li>
+    <!-- <li>Add two more single cards, each with a card title and card text.</li> -->
+    <!-- <li>Decide what content you would like for your webpage. If you're not feeling creative, make it a glossary of terms we are learning today!</li> -->
+    <li>Update the curriculum to make it a glossary of terms that we are learning today!</li>
     <ul>
       <li><strong>CSS:</strong> Short for Cascading Style Sheets, this language controls the look and feel of a webpage. It can change the layout of items on a page, colors, fonts, and even animate elements!</li>
       <li><strong>JavaScript:</strong> This programming language is responsible for user interaction. For example, when the user clicks a button and sees a change in the browser, this action is controlled by JavaScript.</li>
