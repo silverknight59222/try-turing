@@ -11,9 +11,10 @@ layout: lesson_banner
 - The `<div>` tags define a division or a section in an HTML document. These allow us to group important elements together and nest elements to create structure and organization.
 
 ### Explore to Learn:
-- What line numbers in the HTML file are responsible for the text displayed in the browser?
+<!-- - What line numbers in the HTML file are responsible for the text displayed in the browser? -->
+- What lines of code in the HTML file are responsible for the text displayed in the browser?
 - What organizational structures do you notice?
-- Try commenting out a line of code! Highlight a section of the code and use `cmd + /` or `ctrl + /` to comment out that line. Then click the green `Run` button. What happens? Highlight it again and use the same keyboard shortcut to undo it!
+<!-- - Try commenting out a line of code! Highlight a section of the code and use `cmd + /` or `ctrl + /` to comment out that line. Then click the green `Run` button. What happens? Highlight it again and use the same keyboard shortcut to undo it! -->
 - What might be the purpose of the `class` that appears on some of the elements?
 <br>
 <br>
