@@ -34,8 +34,8 @@ The previous change made the definitions for our terms disappear, but we sometim
 }
 ``` -->
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Try Coding x Turing School" src="https://codepen.io/brandifg/embed/MWPeOQZ?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/brandifg/pen/MWPeOQZ">
+<iframe height="300" style="width: 100%;" scrolling="no" title="Try Coding x Turing School" src="https://codepen.io/brandifg/embed/YzJWroz?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/brandifg/pen/YzJWroz">
   Try Coding x Turing School</a> by Brandi Gehrke (<a href="https://codepen.io/brandifg">@brandifg</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
