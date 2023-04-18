@@ -12,11 +12,11 @@ CSS allows us to "dress up" the content on our page.
 - Once we’ve targeted an element, we can write rules for that element to follow. Rules can be things like _“the font-size of this element should be 20px”_ or _“the maximum width of this element should be 70% of the width of the page”_
 
 ### Explore to Learn
-After you complete each task, click `Run` and observe the changes in the browser. If you like the change, keep it!
-- On line 2 of the `style.css` file, change `#023047` to `darkgreen`
-- On line 8, change `#023047` to `purple`
-- On line 12, change `70%` to `40%`
-- On line 18, change `30px` to `50px`
+Now click the CSS button on your embedded CodePen file below. Complete each of the following tasks, and click `rerun` to observe the changes in the mini-browser. If you like the change, keep it!
+- On line 2 of the `css` file (background: #023047;), change `#023047` to `darkgreen`
+- On line 8 (color: #023047;), change `#023047` to `purple`
+- On line 12 (width: 70%;), change `70%` to `40%`
+- On line 18 ( margin: 30px;), change `30px` to `50px`
 You will notice that we can use both a hex code or a color name as values for color properties. There are only <a target="blank" href="https://htmlcolorcodes.com/color-names/">140 color names</a> supported by modern browsers. Hex codes are 6-symbol codes made up of numbers and letters to represent a very specific color value. You can read more about it hex codes and how they translate to a color value <a target="blank" href="https://www.pluralsight.com/blog/tutorials/understanding-hexadecimal-colors-simple">in this article</a>.
 
 <!-- ### Add a New CSS Rule
