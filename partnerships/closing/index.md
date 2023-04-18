@@ -30,7 +30,7 @@ If you enjoyed your time today and you think Turing might be the place for you, 
   - Apply by July 31
   - October 9 Start Date
 
-We are offering a $2,500 tuition discount exclusively for our Try Coding Partnership workshop attendees (that's you!) and we also offer <a href="https://turing.edu/financing/scholarships" target="blank">two $10,000 scholarships</a> for each cohort. If you'd like to meet with Tamika, our Financial Aid Coordinator, use the QR code below to schedule a meeting.
+We are offering a $2,500 tuition discount exclusively for our Try Coding Partnership workshop attendees (that's you!) and we also offer <strong><a href="https://turing.edu/financing/scholarships" target="blank"></strong> two $10,000 scholarships</a> for each cohort. If you'd like to meet with Tamika, our Financial Aid Coordinator, use the QR code below to schedule a meeting.
 
 <img src="../assets/tamika-qr.png" alt="QR code to meet with Tamika" width="200px"/>
 
