@@ -7,13 +7,10 @@ layout: lesson
 # Modifying the HTML
 
 ## Tour the Existing HTML
-
-- Information between the `<head>` tags does not show in the browser. It is only background information for the webpage.
-- Elements that live inside of the `<body>` tags will be displayed on the page (lines 15-41).
+- HTML consists of a series of elements, which wrap the content in both an opening and closing tag. 
 - The `<div>` tags define a division or a section in an HTML document. These allow us to group important elements together and nest elements to create structure and organization.
 
 ### Explore to Learn:
-
 - What line numbers in the HTML file are responsible for the text displayed in the browser?
 - What organizational structures do you notice?
 - Try commenting out a line of code! Highlight a section of the code and use `cmd + /` or `ctrl + /` to comment out that line. Then click the green `Run` button. What happens? Highlight it again and use the same keyboard shortcut to undo it!
@@ -32,15 +29,21 @@ layout: lesson
       <li><strong>JavaScript:</strong> This programming language is responsible for user interaction. For example, when the user clicks a button and sees a change in the browser, this action is controlled by JavaScript.</li>
     </ul>
   </ul>
-
-  <p>If you would like to check your work at this point, you can compare with <a target="blank" href="https://replit.com/@turingschool/js-newbies-checkpoint-1#index.html">this replit.</a></p>
 </div>
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Try Coding x Turing School" src="https://codepen.io/brandifg/embed/MWPeOQZ?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/brandifg/pen/MWPeOQZ">
+  Try Coding x Turing School</a> by Brandi Gehrke (<a href="https://codepen.io/brandifg">@brandifg</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ## HTML Summary
 
-- Elements that live inside of the `body` tags will be displayed on the page.
 - We can nest elements inside of other elements to create structure within the HTML.
 - Classes allow us to give each element a specific label so that we can reference that element later.
 - The number of elements and the content inside of the elements in the HTML file usually have a 1-to-1 correlation with what we see in the browser.
 
-<a href="../css">Next Section: CSS</a>
+### Up Next:
+- [CSS - Styles](../css)
+- [Wrap-Up](../wrap-up)
+- [Closing](../closing)
