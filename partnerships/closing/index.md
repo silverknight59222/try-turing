@@ -16,7 +16,8 @@ Thank you for spending your time with us today. We hope you enjoyed this introdu
 - <a href="https://go.oncehub.com/CristalTorresLopez" target="blank">Set up a time to meet with Cristal</a> about what that could look like for you at Turing or send her an email at <strong>cristal@turing.edu</strong>.
 
 ## Join Us As A Student
-If you enjoyed your time today and you think Turing might be the place for you, we'd love for you to <a href="https://turingschool.my.site.com/ApplicantPortal/s/login/SelfRegister" target="blank">join us as a full-time student</a>.
+If you enjoyed your time today and you think Turing might be the place for you, we’d love for you to <a href="https://turingschool.my.site.com/ApplicantPortal/s/login/SelfRegister" target="blank">join us as a full-time student</a>Apply today!
+<!-- If you enjoyed your time today and you think Turing might be the place for you, we'd love for you to <a href="https://turingschool.my.site.com/ApplicantPortal/s/login/SelfRegister" target="blank">join us as a full-time student</a>. -->
 
 <img src="../assets/app-process.png" alt="Three steps of Turing's application and enrollment process" width="400px"/>
 
@@ -30,7 +31,7 @@ If you enjoyed your time today and you think Turing might be the place for you, 
   - Apply by July 31
   - October 9 Start Date
 
-We are offering a $2,500 tuition discount exclusively for our Try Coding Partnership workshop attendees (that's you!) and we also offer <strong><a href="https://turing.edu/financing/scholarships" target="blank"></strong> two $10,000 scholarships</a> for each cohort. If you'd like to meet with Tamika, our Financial Aid Coordinator, use the QR code below to schedule a meeting.
+We are offering a $2,500 tuition discount exclusively for our Try Coding Partnership workshop attendees (that's you!) and we also offer <a href="https://turing.edu/financing/scholarships" target="blank"> two $10,000 scholarships</a> for each cohort. If you'd like to meet with Tamika, our Financial Aid Coordinator, use the QR code below to schedule a meeting.
 
 <img src="../assets/tamika-qr.png" alt="QR code to meet with Tamika" width="200px"/>
 
