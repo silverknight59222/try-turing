@@ -18,7 +18,6 @@ Please change your zoom name to first, last initial, and pronouns, like this: _B
 
 <a href="https://turing.edu/" target="blank">Turing School of Software & Design</a> is an industry-leading and accredited training program for software developers. Our student outcomes are built through collaboration across a dedicated community of students, instructors, mentors, and job coaches.
 - 100% guided remote instruction
-- 91% of graduates have gainful employment
 - 80% graduation rate
 - 91% gainfully employed
 - 80k median salary for new graduates
