@@ -16,7 +16,7 @@ Thank you for spending your time with us today. We hope you enjoyed this introdu
 - <a href="https://go.oncehub.com/CristalTorresLopez" target="blank">Set up a time to meet with Cristal</a> about what that could look like for you at Turing or send her an email at <strong>cristal@turing.edu</strong>.
 
 ## Join Us As A Student
-If you enjoyed your time today and you think Turing might be the place for you, we’d love for you to <a href="https://turingschool.my.site.com/ApplicantPortal/s/login/SelfRegister" target="blank">join us as a full-time student</a>Apply today!
+If you enjoyed your time today and you think Turing might be the place for you, we’d love for you to <a href="https://turingschool.my.site.com/ApplicantPortal/s/login/SelfRegister" target="blank">Apply today</a>!
 <!-- If you enjoyed your time today and you think Turing might be the place for you, we'd love for you to <a href="https://turingschool.my.site.com/ApplicantPortal/s/login/SelfRegister" target="blank">join us as a full-time student</a>. -->
 
 <img src="../assets/app-process.png" alt="Three steps of Turing's application and enrollment process" width="400px"/>
