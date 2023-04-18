@@ -15,8 +15,8 @@ Over the last decade, the web has evolved from a platform that served static web
 - Determine if coding is something you enjoy doing and want to pursue further
 
 ## Online Learning Norms
-- Ask your questions and share your code!
-- Mute your microphone unless you’re the main speaker.
+- Ask your questions and share your code in the chat.
+- Mute your microphone.
 - Keep your camera on during class (if possible).
 - Disconnected? Jump back on!
 
