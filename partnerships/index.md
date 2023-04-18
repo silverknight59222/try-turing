@@ -34,8 +34,6 @@ Please change your zoom name to first, last initial, and pronouns, like this: _B
 - Alumni Panel (25 minutes)
 - Closing (5 minutes)
 
-<br>
-
 ### Now, it gets even more fun:
 - [Introduction](./intro)
 - [HTML - Content](./html)
