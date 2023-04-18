@@ -64,8 +64,6 @@ This might be your very first day working with code. Learning is often uncomfort
 
 We will work off of a starter kit that has already been created. Before we jump into writing code in CodePen, lets tour the screenshot below to get an idea of what to expect.
 
-<br>
-
 <img src="../assets/codepen.png" alt="Screenshot of CodePen" />
 
 <!-- <iframe height="300" style="width: 100%;" scrolling="no" title="Try Coding x Turing School" src="https://codepen.io/brandifg/embed/MWPeOQZ?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
