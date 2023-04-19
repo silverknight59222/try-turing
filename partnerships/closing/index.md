@@ -10,6 +10,10 @@ Thank you for spending your time with us today. We hope you enjoyed this introdu
 ## Join Us As A Student
 If you enjoyed your time today and you think Turing might be the place for you, we’d love for you to apply today!
 
+<section class="image-section" style="outline:none; width:50%)">
+<img src="./assets/closing.jpg" style="outline:none; width:50%" alt="Partnership Image"/>
+</section>
+
 <button class="apply-today-btn"><a href="https://turingschool.my.site.com/ApplicantPortal/s/login/SelfRegister" target="blank">Apply Today!</a></button>
 
 - July Cohort

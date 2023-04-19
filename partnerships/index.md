@@ -42,3 +42,7 @@ Please change your zoom name to first, last initial, and pronouns, like this: _B
 - [CSS - Styles](./css)
 - [Wrap-Up](./wrap-up)
 - [Closing](./closing)
+
+<section class="image-section" style="outline:none; width:50%)">
+<img src="./assets/partnerships.jpg" style="outline:none; width:50%" alt="Partnership Image"/>
+</section>
