@@ -120,18 +120,33 @@ header {
 }
 
 
-.nav-banner {
+.main-banner {
+  width: 100%;
+  height: 80px;
+  background: #f9ae06;
+}
+
+.main-banner p {
+  color: #a16e02;
+  margin: 0;
+  padding: 30px;
+  font-weight: bold;
+}
+
+.main-banner a {
+  color: #a16e02;
+  font-weight: bold;
+}
+
+.partner-banner {
   width: 100%;
   height: 80px;
   background: #12F1FC;
 }
 
-.nav-banner p {
+.partner-banner p {
   color: #036575;
   margin: 0;
   padding: 30px;
-  
-
   font-weight: bold;
-
 }
