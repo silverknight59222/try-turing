@@ -1,5 +1,5 @@
 ---
-layout: lesson_banner
+layout: partner_lesson
 ---
 
 # Try Coding x Turing School: HTML and CSS 

@@ -1,5 +1,5 @@
 ---
-layout: lesson_banner
+layout: partner_lesson
 ---
 
 <a href="../">Back to Setup Page</a>
