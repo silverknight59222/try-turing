@@ -6,7 +6,7 @@ layout: lesson
 
 Thank you for joining us! You did it <span role="img" aria-label="celebration emoji">🎉</span>
 
-<strong>Please share about your experience, and how we can best support you moving forward, by completing <a target="blank" href="https://forms.gle/UuK9XBgMKFWxKGu77">this survey</a>.</strong>
+<strong>Please share about your experience, and how we can best support you moving forward, by completing <a target="blank" href="https://forms.gle/VJB9gkJzFEWerpZS8">this survey</a>.</strong>
 
 ## Share It!
 Don't forget to share your project with friends and family using the `Open in a new tab` button above your browser preview.
