@@ -4,11 +4,13 @@ layout: lesson
 
 <a href="../">Back to Setup Page</a>
 
-# Wrap Up
+# Wrap-Up
 
 One final step... let's make sure everyone can find the link to share your animation with the world.
 
 You can find the live URL above the "mini browser". Copy and paste the link, or click the button in the far-right to open it in a new tab. Have fun <span role="img" aria-label="rocket emoji">🚀</span>
+
+<strong>Please share about your experience, and how we can best support you moving forward, by completing <a target="blank" href="https://forms.gle/VJB9gkJzFEWerpZS8">this survey</a>.</strong>
 
 ## Next Steps
 
