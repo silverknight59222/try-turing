@@ -22,19 +22,17 @@ Please change your zoom name to first, last initial, and pronouns, like this: _B
 - 91% gainfully employed
 - 80k median salary for new graduates
 
-
-<strong>Our vision is a world powered by technology where the people building it represent the people using it</strong>. It is with this vision in mind that we decided to partner with <a href="https://latinasintech.org/" target="blank">Latinas in Tech</a> for this event.
+<strong>Our vision is a world powered by technology where the people building it represent the people using it</strong>. It is with this vision in mind that we decided to partner with <a href="https://www.blacksintechnology.net/" target="blank">Blacks in Technology</a> for this event.
 
 ## Our Programs
 <img src="./assets/turing-programs.png" alt="Description of Turing's 3 programs" />
 
 ## What to Expect Today
 - Welcome and Introductions (10 minutes)
-- Session Norms and Setup (20 minutes)
-- Instruction (50 mins)
-- Wrap-Up (10 minutes)
-- Alumni Panel (25 minutes)
-- Closing (5 minutes)
+- Turing Alumni Panel (30 minutes)
+- Session Norms and Setup (10 minutes)
+- Instruction (60 mins)
+- Wrap-Up & Closing (10 minutes)
 
 ### Now, it gets even more fun:
 - [Introduction](./intro)
