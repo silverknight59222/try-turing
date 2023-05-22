@@ -4,8 +4,8 @@ layout: partner_lesson
 
 <a href="../">Back to Setup Page</a>
 
-# Introduction to Front-End Engineering
-The Front-End is the part of the application that users see, touch, and interact with. When we’re talking about web development, the Front End is the part of the code base that takes care of rendering the user interface in the web browser.
+# Introduction to Front End Engineering
+The Front End is the part of the application that users see, touch, and interact with. When we’re talking about web development, the Front End is the part of the code base that takes care of rendering the user interface in the web browser.
 
 Over the last decade, the web has evolved from a platform that served static web pages with content to a platform that provides rich, interactive experiences to users.
 

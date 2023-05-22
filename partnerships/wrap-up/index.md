@@ -33,7 +33,7 @@ At the beginning of this workshop, we discussed that building the Front-End port
   </div>
 </section>
 
-If you want to continue your learning, <a href="https://www.eventbrite.com/e/try-coding-javascript-for-newbies-tickets-615074834387" target="blank">join us for another workshop</a> to learn the basics of JavaScript.
+If you want to continue your learning, <a href="https://turing.edu/try-coding" target="blank">join us for another workshop</a>!
 
 ### Up Next:
 - [Closing](../closing)
