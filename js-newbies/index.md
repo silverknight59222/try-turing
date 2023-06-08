@@ -24,14 +24,8 @@ We are so glad you are here! To get set up...
 
 <br>
 
-## What to Expect
-- Welcome and Setup (30 minutes)
-- Instruction (2 hours)
-- Turing Info Session (45 minutes)
-- Alumni Panel (30 minutes)
-- Wrap-Up (15 minutes)
-
 ## Online Learning Norms
+
 - Ask your questions and share your code!
 - Mute your microphone unless you’re the main speaker.
 - Keep your camera on during class (if possible).
