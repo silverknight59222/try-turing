@@ -1,4 +1,5 @@
 ---
+title: Turing Application and Interview Prep
 layout: lesson
 ---
 
@@ -57,6 +58,7 @@ In the next part of the lesson, we will explore the HTML file to understand the 
 
 <br> -->
 
-<!-- ## Lesson Pages:
-- [Example Page](./new-page-example)
-- more... -->
+## Workshop Overview:
+- [Part 1: Online Application](./online-application)
+- [Part 2: Live Interview](./live-interview)
+- [Resources](./resources)
