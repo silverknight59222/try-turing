@@ -5,58 +5,36 @@ layout: lesson
 
 # Turing Application and Interview Prep
 
-🚧 Under Construction! Check back soon! 🚧
+<!-- In order to join us at Turing School, students must:
+Be at least 18 years of age when classes begin.
+Have a high school diploma, GED, or equivalent when classes begin.
+Be no more than +/- two time zones away from US Mountain Time (MST/MDT) in order to participate in our classes via Zoom, which are held every weekday from 9 am to 4 pm MST/MDT. -->
 
-<!-- Templates for adding lesson content: -->
-
-<!-- ## Welcome!
+## Welcome!
 
 We are so glad you are here! To get set up...
-1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account.
-1. Please change your zoom name to first, last initial, and pronouns, like this: _Brandi G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
-1. Heads up! We will ask you to briefly introduce yourself in a minute.
-<br> -->
+1. Please change your zoom name to first name, last initial, and pronouns, like this: _Kayla G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
+2. Heads up! We will ask you to briefly introduce yourself in a minute.
 
-<!-- ## Goals
+## Goals
 
-- goal
-- goal
-- goal
+- Show you what you can expect at each stage of the Turing application process
+- Provide tips for preparing for your Turing application
+- Answer questions you have or get you connected with someone who can answer your questions
 
-<br> -->
+## Online Learning Norms
 
-<!-- ## Online Learning Norms
-
-- Ask your questions and share your code!
+- Ask lots of questions! 
 - Mute your microphone unless you’re the main speaker.
 - Keep your camera on during class (if possible).
-- Disconnected? Jump back on! -->
+- Disconnected? Jump back on!
 
-<!-- ## Zoom Tools
+## Zoom Tools
 
-Want to get my attention during the workshop? Raise your hand, type your question in the chat, or come off mute and ask!
-- Raise Hand - Find the reactions button in your zoom toolbar and raise your hand.
-- Zoom Chat - Are you a night owl or an early bird?
-- Unmute - Introduce yourself! Please share your name, pronouns, location, and why you're here! -->
-
-<!-- ## Be Nice to Yourself
-
-This might be your very first day working with code. Learning is often uncomfortable and things are bound to break. When this happens, there are few things you can check first:
-- Did you spell everything correctly? Capitalization matters!
-- Do you have closing symbols for every opening symbol? Every opening bracket needs a matching closing bracket.
-- Do the colors follow a predictable pattern? If the colors are consistent and then all of the sudden change, it could be a clue that something isn't quite right.
-
-<br> -->
-
-<!-- ## Project Setup
-
-We will work off of a starter kit that has already been created.
-1. <a target="blank" href="https://replit.com/@turingschool/js-newbies-starter-kit#index.html">Click this link to access the starter kit</a> in replit.
-1. Click the green <code>Run</code> button at the top of the page, and you should see a simple version of your website on the right side of the page.
-
-In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
-
-<br> -->
+Want to get our attention during the workshop? Raise your hand, type your question in the chat, or come off mute and ask!
+- **Raise Hand**: Find the reactions button in your zoom toolbar and raise your hand.
+- **Zoom Chat**: Where are you in your Turing application process? `Haven't started`, `Actively applying now`, `About to interview`, or something else!
+- **Unmute**: Introduce yourself! Please share your name, pronouns, location, and why you're here!
 
 ## Workshop Overview:
 - [Part 1: Online Application](./online-application)
