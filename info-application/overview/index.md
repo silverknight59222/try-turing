@@ -33,6 +33,5 @@ There are two parts to the Turing application:
 
 We will walk through each of those pieces in detail in this session.
 
-
 ## Next Up:
 - [Part 1: Online Application](../online-application)

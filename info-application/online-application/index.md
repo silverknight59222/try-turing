@@ -37,17 +37,18 @@ This portion consists of eight questions that will help give us an idea of how y
 *Hint: For the correct answer, scroll to the bottom of this page*
 
 ### Logic Puzzle Tips
+<a target="blank" href="apply.turing.edu">apply.turing.edu</a>
 
-- We highly recommend getting in some practice on the logic puzzles before you start your application. The internet has tons of practice! Try googling "LSAT logic games examples" or start [here](https://www.varsitytutors.com/lsat_logic_games-practice-tests).
+- We highly recommend getting in some practice on the logic puzzles before you start your application. The internet has tons of practice! Try googling "LSAT logic games examples" or start <a target="blank" href="https://www.varsitytutors.com/lsat_logic_games-practice-tests">here</a>.
 - Don't rush! How long you take on the quiz isn't nearly as important as getting the right answer. Our recommendation is to slow down to carefully get through those questions.
-- It's hard to keep all of this information in your head. Write it down! [Here's an example of how you might diagram a logic puzzle](https://www.youtube.com/watch?v=d7mUPexyLZE). 
+- It's hard to keep all of this information in your head. Write it down! <a target="blank" href="https://www.youtube.com/watch?v=d7mUPexyLZE">Here's an example of how you might diagram a logic puzzle</a>. 
 - Use the process of elimination if you get stuck. All questions will be multiple choice. Remember - one of those choices is the right answer. Go through them one by one and find it!
-- When in doubt, talk it out. In software development, we call this process [rubber ducking](https://www.freecodecamp.org/news/rubber-duck-debugging/). If you talk through your problem out loud (even if no one is listening), you're likely to get un-stuck!
+- When in doubt, talk it out. In software development, we call this process <a target="blank" href="https://www.freecodecamp.org/news/rubber-duck-debugging/">rubber ducking</a>. If you talk through your problem out loud (even if no one is listening, you're likely to get un-stuck!
 - Give your brain some breaks! There's often pressure to just think harder and push through when you're stuck, but that's not a great strategy. Our brains need breaks! When you hit a blocker, take a minute or two away from your screen. Pet your dog! Touch a tree! Drink some water! You'll be amazed at what light bulbs will go off when you come back.
 
 Looking for more thorough walkthroughs? Try these resources:
-- [Video Walkthrough](https://www.youtube.com/watch?v=pFkqzKleIUA)
-- [Khan Academy Course](https://www.khanacademy.org/prep/lsat) (Important! Be sure to only focus on the "Analytical Reasoning" sections of the course. )
+- <a target="blank" href="https://www.youtube.com/watch?v=pFkqzKleIUA">Video Walkthrough</a>
+- <a target="blank" href="https://www.khanacademy.org/prep/lsat">Khan Academy Course</a> (Important! Be sure to only focus on the "Analytical Reasoning" sections of the course.)
 
 
 ## Next Up:
