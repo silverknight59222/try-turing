@@ -17,6 +17,8 @@ Our application process requires **zero** technical experience - we'll teach you
 - Your ability to work through logical challenges 
 - Why you feel that Turing the best path for you into this industry
 
+If you are not accepted (at any stage in the process), you can reapply in 45 days.
+
 ## Applicant Requirements
 In order to join us at Turing School, students must:
 - Be at least 18 years of age when classes begin.

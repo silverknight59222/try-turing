@@ -36,4 +36,4 @@ Want to get our attention during the workshop? Raise your hand or type your ques
 - [Application Overview](./overview)
 - [Part 1: Online Application](./online-application)
 - [Part 2: Live Interview](./live-interview)
-- [Resources](./resources)
+- [Next Steps](./next-steps)
