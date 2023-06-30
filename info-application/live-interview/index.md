@@ -32,3 +32,6 @@ If you do not currently have a work environment conducive to a successful interv
 **Interview Questions**
 - It’s important that you answer the behavioral questions directly and with examples from your previous experience. For example, if we ask you to tell us about a time where you worked on a successful team, you should answer with a specific instance and avoid only speaking in vague terms.
 - Be prepared to discuss how you align with Turing's mission: *Turing’s mission is to unlock human potential by training a diverse and inclusive student body to succeed in high fulfillment technical careers.*
+
+## Next Up:
+- [Resources](../resources)

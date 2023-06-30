@@ -29,3 +29,5 @@ Your first step for applying to be a Turing student is to complete the online ap
 Do all my elements have to be used?
 Can any elements repeat?
 
+## Next Up:
+- [Part 2: Live Interview](../live-interview)
