@@ -7,7 +7,7 @@ layout: lesson
 
 # Part 1: Online Application
 
-Your first step for applying to be a Turing student is to complete the online application at <a target="blank" href="apply.turing.edu">apply.turing.edu</a>. The online application has three parts:
+Your first step for applying to be a Turing student is to complete the online application at <a target="blank" href="https://apply.turing.edu/">apply.turing.edu</a>. The online application has three parts:
 
 ## Basic Info
 
@@ -37,7 +37,6 @@ This portion consists of eight questions that will help give us an idea of how y
 *Hint: For the correct answer, scroll to the bottom of this page*
 
 ### Logic Puzzle Tips
-<a target="blank" href="apply.turing.edu">apply.turing.edu</a>
 
 - We highly recommend getting in some practice on the logic puzzles before you start your application. The internet has tons of practice! Try googling "LSAT logic games examples" or start <a target="blank" href="https://www.varsitytutors.com/lsat_logic_games-practice-tests">here</a>.
 - Don't rush! How long you take on the quiz isn't nearly as important as getting the right answer. Our recommendation is to slow down to carefully get through those questions.

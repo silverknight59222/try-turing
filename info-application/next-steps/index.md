@@ -17,4 +17,4 @@ Please do not hesitate to reach out if you have any questions at all - from *Can
 
 ## Apply!
 
-Let's do it! Start your application today at <a target="blank" href="apply.turing.edu">apply.turing.edu</a>. 
+Let's do it! Start your application today at <a target="blank" href="https://apply.turing.edu/">apply.turing.edu</a>. 
