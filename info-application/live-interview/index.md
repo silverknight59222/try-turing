@@ -34,4 +34,4 @@ If you do not currently have a work environment conducive to a successful interv
 - Be prepared to discuss how you align with Turing's mission: *Turing’s mission is to unlock human potential by training a diverse and inclusive student body to succeed in high fulfillment technical careers.*
 
 ## Next Up:
-- [Resources](../next-steps)
+- [Next Steps](../next-steps)
