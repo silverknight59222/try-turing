@@ -15,11 +15,6 @@ We want to bust those myths for you!
 I'm going to read off one of the following myths. 
 Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
 
-- 
-- 
-- 
-- 
-```html
 <div class="expander expander-lesson">
   <header>
     <h2 class="spicy-click">Front End Developers need to be good at design.</h2>
@@ -37,9 +32,8 @@ Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
     </p>
   </div>
 </div>
-```
 
-```html
+
 <div class="expander expander-lesson">
   <header>
     <h2 class="spicy-click">Back End Developers need to be good at math.</h2>
@@ -57,9 +51,8 @@ Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
     </p>
   </div>
 </div>
-```
 
-```html
+
 <div class="expander expander-lesson">
   <header>
     <h2 class="spicy-click">Back End is more difficult than Front End.</h2>
@@ -77,9 +70,8 @@ Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
     </p>
   </div>
 </div>
-```
 
-```html
+
 <div class="expander expander-lesson">
   <header>
     <h2 class="spicy-click">Back End Developers can work in the Front End and Front End Developers can work in the Back End.</h2>
@@ -97,7 +89,7 @@ Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
     </p>
   </div>
 </div>
-```
+
 
 ## Other Myths
 

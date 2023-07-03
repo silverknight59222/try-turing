@@ -18,7 +18,7 @@ As you might imagine from the illustration above of how the web works, a Full St
 A Full Stack Developer might work on creating the user interface for their company one day, and the next, figure out how to store the data the user inputs.
 
 What do you think are some pros and cons to working as a Full Stack Developer?
-```html
+
 <div class="expander expander-lesson">
   <header>
     <h2 class="spicy-click">Pros and Cons</h2>
@@ -38,7 +38,7 @@ What do you think are some pros and cons to working as a Full Stack Developer?
     </p>
   </div>
 </div>
-```
+
 
 ## Up Next:
 - [Myth Busting](../myth-busting)
