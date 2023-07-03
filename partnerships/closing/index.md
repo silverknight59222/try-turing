@@ -17,7 +17,7 @@ If you enjoyed your time today and you think Turing might be the place for you, 
 <img src="./assets/closing.jpg" style="outline:none; width:50%" alt="Partnership Image"/>
 </section>
 
-<button class="apply-today-btn"><a href="https://turingschool.my.site.com/ApplicantPortal/s/login/SelfRegister" target="blank">Apply Today!</a></button>
+<button class="apply-today-btn"><a href="https://apply.turing.edu" target="blank">Apply Today!</a></button>
 
 - July Cohort
   - Apply by June 2
