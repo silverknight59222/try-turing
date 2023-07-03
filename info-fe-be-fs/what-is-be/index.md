@@ -20,6 +20,14 @@ When we talk about Back End engineering, we're often thinking of the programming
 - Manipulating, analyzing, and/or calculating data
 - Making sure data can be retrieved quickly and easily
 
+## Information Management
+
+In the above example, the User is looking for a Vet Hospital. As the User, we don't want all the VCAs that exist, we only want the ones near us or in a specific location.
+
+Once we enter our zip code and hit *Enter*, another request is sent to the Back End, the server. The Back End Developer will take that zip code and compare it to the locations in the database, returning only the VCA offices within a certain radius of the given zip code.
+
+How to gather the matching data and how to send that data back are a few of the problems Back End Developers work on. 
+
 
 ## What technologies are used on the Back End?
 
