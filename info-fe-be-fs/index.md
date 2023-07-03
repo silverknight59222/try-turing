@@ -3,6 +3,8 @@ title: Frontend, Backend, and Full Stack
 layout: lesson
 ---
 
+# What is Front End, Back End, and Full Stack Software Development?
+
 ## Welcome!
 
 We are so glad you are here! To get set up...

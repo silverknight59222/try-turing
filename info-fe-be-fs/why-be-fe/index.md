@@ -7,6 +7,8 @@ layout: lesson
 
 [Back to Myth Busting](../myth-busting)
 
+# What We Teach at Turing and Why
+
 ## At Turing, we teach two separate programs: Front End and Back End Development
 
 Essentially, coding is coding, software development is software development whether you’re working Front End or Back End or both. Here at Turing, you will learn the fundamentals of programming and the concepts to be a good software developer. We use a backend language (Ruby) or a frontend language (JavaScript) to facilitate learning these concepts. 

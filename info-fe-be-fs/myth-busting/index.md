@@ -7,6 +7,8 @@ layout: lesson
 
 [Back to What is Full Stack Development](../what-is-fs)
 
+# Myth Busting
+
 There are a lot of myths out there about Front End and Back End Development.
 We want to bust those myths for you!
 
@@ -21,6 +23,8 @@ Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
 4. Back End Developers can work in the Front End and Front End Developers can work in the Back End.
 
 ***Answers***
+No peeking! 😜
+
 
 1. False! 
     Often a company will have a UX/UI Designer who creates the designs, color schemes, and layouts. The Front End Developer will then implement those designs using CSS or other styling tools and frameworks.

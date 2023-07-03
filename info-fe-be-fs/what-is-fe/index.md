@@ -1,9 +1,11 @@
 ---
-title: What is Front End Engineering? 
+title: What is Front End Development? 
 layout: lesson
 ---
 
 <a href="../">Back to Lesson Home Page</a>
+
+# What is Front End Software Development?
 
 ## How Does the Internet Even Work?
 

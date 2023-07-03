@@ -7,6 +7,8 @@ layout: lesson
 
 [Back to What We Teach at Turing and Why](../why-be-fe)
 
+# Next Steps
+
 ## Attend Other Events
 
 We are always creating new, exciting events for prospective students. Check out our upcoming events <a target="blank" href="https://www.eventbrite.com/o/turing-school-of-software-amp-design-9895674202">here</a>!
