@@ -19,25 +19,13 @@ A Full Stack Developer might work on creating the user interface for their compa
 
 What do you think are some pros and cons to working as a Full Stack Developer?
 
-<div class="expander expander-lesson">
-  <header>
-    <h2 class="spicy-click">Pros and Cons</h2>
-    <div>
-      <button class="expander-btn">
-        <img src="../../assets/icons/arrow.svg" alt="expander arrow icon" />
-      </button>
-    </div>
-  </header>
+## Pros and Cons
 
-  <div class="hide">
-    <p>
-        +: You know what’s happening in all areas of the application/program.  
-        +: You get exposure to a lot of things! (FE and BE)
-        -: A lot of context switching (between languages, tools, and conversations)
-        -: Harder to get really good at one thing (generalist vs specialist)
-    </p>
-  </div>
-</div>
+  +: You know what’s happening in all areas of the application/program.  
+  +: You get exposure to a lot of things! (FE and BE)
+  -: A lot of context switching (between languages, tools, and conversations)
+  -: Harder to get really good at one thing (generalist vs specialist)
+
 
 
 ## Up Next:

@@ -15,81 +15,21 @@ We want to bust those myths for you!
 I'm going to read off one of the following myths. 
 Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
 
-<div class="expander expander-lesson">
-  <header>
-    <h2 class="spicy-click">Front End Developers need to be good at design.</h2>
-    <div>
-      <button class="expander-btn">
-        <img src="../../assets/icons/arrow.svg" alt="expander arrow icon" />
-      </button>
-    </div>
-  </header>
+1. Front End Developers need to be good at design.
+2. Back End Developers need to be good at math.
+3. Back End is more difficult than Front End.
+4. Back End Developers can work in the Front End and Front End Developers can work in the Back End.
 
-  <div class="hide">
-    <p>
-        False! 
-        Often a company will have a UX/UI Designer who creates the designs, color schemes, and layouts. The Front End Developer will then implement those designs using CSS or other styling tools and frameworks.
-    </p>
-  </div>
-</div>
+***Answers***
 
-
-<div class="expander expander-lesson">
-  <header>
-    <h2 class="spicy-click">Back End Developers need to be good at math.</h2>
-    <div>
-      <button class="expander-btn">
-        <img src="../../assets/icons/arrow.svg" alt="expander arrow icon" />
-      </button>
-    </div>
-  </header>
-
-  <div class="hide">
-    <p>
-        False!
-        Most algorithms are concerned with basic math concepts like finding *sums* and *averages*. Any other mathematical formulas needed can be googled!
-    </p>
-  </div>
-</div>
-
-
-<div class="expander expander-lesson">
-  <header>
-    <h2 class="spicy-click">Back End is more difficult than Front End.</h2>
-    <div>
-      <button class="expander-btn">
-        <img src="../../assets/icons/arrow.svg" alt="expander arrow icon" />
-      </button>
-    </div>
-  </header>
-
-  <div class="hide">
-    <p>
-        False!
-        Both Front End and Back End have their challenges. Either end of the stack will allow you to flex those brain muscles!
-    </p>
-  </div>
-</div>
-
-
-<div class="expander expander-lesson">
-  <header>
-    <h2 class="spicy-click">Back End Developers can work in the Front End and Front End Developers can work in the Back End.</h2>
-    <div>
-      <button class="expander-btn">
-        <img src="../../assets/icons/arrow.svg" alt="expander arrow icon" />
-      </button>
-    </div>
-  </header>
-
-  <div class="hide">
-    <p>
-        True!
-        As we will see in a few minutes, once you understand the concepts and foundations of software development, you can apply that knowledge to any new language or framework you encounter. At the end of the day, software development is software development, whether you're working in the Front End or the Back End.
-    </p>
-  </div>
-</div>
-
+1. False! 
+    Often a company will have a UX/UI Designer who creates the designs, color schemes, and layouts. The Front End Developer will then implement those designs using CSS or other styling tools and frameworks.
+2. False!
+    Most algorithms are concerned with basic math concepts like finding *sums* and *averages*. Any other mathematical formulas needed can be googled!
+3. False!
+    Both Front End and Back End have their challenges. Either end of the stack will allow you to flex those brain muscles!
+4. True!
+    As we will see in a few minutes, once you understand the concepts and foundations of software development, you can apply that knowledge to any new language or framework you encounter. At the end of the day, software development is software development, whether you're working in the Front End or the Back End.
 
 ## Other Myths
 
