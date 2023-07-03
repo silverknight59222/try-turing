@@ -5,7 +5,7 @@ layout: lesson
 
 <a href="../">Back to Lesson Home Page</a>
 
-[Back to What We Teach at Turing and Why](./why-be-fe)
+[Back to What We Teach at Turing and Why](../why-be-fe)
 
 ## Attend Other Events
 

@@ -62,4 +62,4 @@ The Front End of the web is based on three major technologies:
 Many libraries and frameworks have been built _on top_ of JavaScript that make Front End development even more robust and powerful! If you hear terms like React, Vue, Ember, Angular... those are all JavaScript frameworks used to build professional level applications.
 
 ## Next Up:
-- [What is Back End Development?](./what-is-be)
+- [What is Back End Development?](../what-is-be)

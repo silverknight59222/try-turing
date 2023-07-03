@@ -5,7 +5,7 @@ layout: lesson
 
 <a href="../">Back to Lesson Home Page</a>
 
-[Back to What is Front End Development?](./what-is-fe)
+[Back to What is Front End Development?](../what-is-fe)
 
 In a broad sense, Back End engineering is concerned with managing and manipulating ​data​ (aka information).
 
@@ -29,4 +29,4 @@ There are numerous technologies that can be used for Back End programming. Here 
 - **Databases**: PostgreSQL, MySQL, Oracle Database, MongoDB, etc.
 
 ## Next Up:
-- [What is Full Stack Development?](./what-is-fs)
+- [What is Full Stack Development?](../what-is-fs)

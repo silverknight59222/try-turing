@@ -5,7 +5,7 @@ layout: lesson
 
 <a href="../">Back to Lesson Home Page</a>
 
-[Back to What is Back End Development?](./what-is-be)
+[Back to What is Back End Development?](../what-is-be)
 
 ## Revisiting How the Web Works
 !["Simple client server model, client/computer is on left side , with an arrow labeled 'request' pointing to a server on the right right. The server has an arrow labeled 'response' pointing back to the client. The set of arrows is labeled with 'HTTP(S)'."](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data/client-server.png)
@@ -41,4 +41,4 @@ What do you think are some pros and cons to working as a Full Stack Developer?
 ```
 
 ## Up Next:
-- [Myth Busting](./myth-busting)
+- [Myth Busting](../myth-busting)

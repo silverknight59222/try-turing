@@ -5,7 +5,7 @@ layout: lesson
 
 <a href="../">Back to Lesson Home Page</a>
 
-[Back to Myth Busting](./myth-busting)
+[Back to Myth Busting](../myth-busting)
 
 ## At Turing, we teach two separate programs: Front End and Back End Development
 
@@ -54,4 +54,4 @@ You should pick the program that you think will bring you the most joy. Both pro
 
 
 ## Up Next:
-- [Next Steps](./next-steps)
+- [Next Steps](../next-steps)

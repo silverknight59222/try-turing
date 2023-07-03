@@ -5,7 +5,7 @@ layout: lesson
 
 <a href="../">Back to Lesson Home Page</a>
 
-[Back to What is Full Stack Development](./what-is-fs)
+[Back to What is Full Stack Development](../what-is-fs)
 
 There are a lot of myths out there about Front End and Back End Development.
 We want to bust those myths for you!
@@ -106,4 +106,4 @@ Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
 What other myths have you heard about Front End and Back End software development? 
 
 ## Up Next
-- [What We Teach at Turing and Why](./why-be-fe)
+- [What We Teach at Turing and Why](../why-be-fe)
