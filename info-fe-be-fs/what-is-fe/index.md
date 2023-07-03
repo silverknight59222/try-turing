@@ -46,19 +46,16 @@ The Front End of the web is based on three major technologies:
   <div>
     <h3>HTML</h3>
     <p>HTML holds the content we see on a page (text, images, etc.) and defines the structure and order in which the content appears.</p>
-    <img src="../assets/html.png" alt="Drawing of human skeleton" />
   </div>
 
   <div>
     <h3>CSS</h3>
-    <p>CSS defines the look and feel of a webpage - it can change the layout of items on a page, colors, fonts, and even animate elements!</p>
-    <img src="../assets/css.png" alt="Drawing of clothes and accessories" />
+    <p>CSS defines the look and feel of a webpage - it can change the layout of items on a page, colors, fonts, and even animate elements!</p> 
   </div>
 
   <div>
     <h3>JavaScript</h3>
     <p>JavaScript is what lets the user interact with a page. For example, clicking a button and getting some sort of response.</p>
-    <img src="../assets/js.png" alt="Drawing of human skeleton" />
   </div>
 </section>
 
