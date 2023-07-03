@@ -21,11 +21,13 @@ What do you think are some pros and cons to working as a Full Stack Developer?
 
 ## Pros and Cons
 
-  +: You know what’s happening in all areas of the application/program.  
-  +: You get exposure to a lot of things! (FE and BE)
-  -: A lot of context switching (between languages, tools, and conversations)
-  -: Harder to get really good at one thing (generalist vs specialist)
+*Pros*
+- You know what’s happening in all areas of the application/program.  
+- You get exposure to a lot of things! (FE and BE)
 
+*Cons*
+- A lot of context switching (between languages, tools, and conversations)
+- Harder to get really good at one thing (generalist vs specialist)
 
 
 ## Up Next:
