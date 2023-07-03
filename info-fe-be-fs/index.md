@@ -3,8 +3,6 @@ title: Frontend, Backend, and Full Stack
 layout: lesson
 ---
 
-# Frontend, Backend, and Full Stack
-
 ## Welcome!
 
 We are so glad you are here! To get set up...
@@ -37,6 +35,5 @@ Want to get our attention during the workshop? Raise your hand or type your ques
 - [What is Back End Development?](./what-is-be)
 - [What is Full Stack Development?](./what-is-fs)
 - [Myth Busting](./myth-busting)
-- [Why we teach BE and FE at Turing](./why-be-fe)
-- [Which program is for me?](./which-program-for-me)
+- [What We Teach at Turing and Why](./why-be-fe)
 - [Next Steps](./next-steps)
