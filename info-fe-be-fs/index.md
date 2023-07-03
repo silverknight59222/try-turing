@@ -1,62 +1,42 @@
 ---
+title: Frontend, Backend, and Full Stack
 layout: lesson
 ---
 
-# What's the difference between Front End, Back End, and Full Stack?
+# Frontend, Backend, and Full Stack
 
-🚧 Under Construction! Check back soon! 🚧
-
-<!-- Templates for adding lesson content: -->
-
-<!-- ## Welcome!
+## Welcome!
 
 We are so glad you are here! To get set up...
-1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account.
-1. Please change your zoom name to first, last initial, and pronouns, like this: _Brandi G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
-1. Heads up! We will ask you to briefly introduce yourself in a minute.
-<br> -->
+1. Please change your Zoom name to first name, last initial, and pronouns, like this: _Kayla G. (she/her)_. Not sure how to do that? Hover over your image in the Zoom gallery, click the three dots, and select Rename.
+2. Heads up! We will ask you to briefly introduce yourself in a minute.
 
-<!-- ## Goals
+## Goals
 
-- goal
-- goal
-- goal
+The goal of this session is to give you a general understanding of different areas of software development.
+- explore frontend, backend, and full stack software development
+- explain what we teach at Turing and why
+- answering questions you have or get you connected with someone who can answer your questions
 
-<br> -->
+## Online Learning Norms
 
-<!-- ## Online Learning Norms
-
-- Ask your questions and share your code!
+- Ask lots of questions! This session is for YOU, so don't hesitate to speak up!
 - Mute your microphone unless you’re the main speaker.
 - Keep your camera on during class (if possible).
-- Disconnected? Jump back on! -->
+- Disconnected? Jump back on!
 
-<!-- ## Zoom Tools
+## Zoom Tools
 
-Want to get my attention during the workshop? Raise your hand, type your question in the chat, or come off mute and ask!
-- Raise Hand - Find the reactions button in your zoom toolbar and raise your hand.
-- Zoom Chat - Are you a night owl or an early bird?
-- Unmute - Introduce yourself! Please share your name, pronouns, location, and why you're here! -->
+Want to get our attention during the workshop? Raise your hand or type your question in the chat! Let's practice:
+- **Raise Hand**: Find the reactions button in your Zoom toolbar and raise your hand.
+- **Zoom Chat**: Enter your answer in the Zoom chat - How much do you know about the differences between frontend, backend, and full stack development? `Absolutely nothing`, `I have a vague idea`, `I know all about the differences`, or something else!
+- **Unmute**: Introduce yourself! Please share your name, pronouns, location, and what you're hoping to get out of this session.
 
-<!-- ## Be Nice to Yourself
-
-This might be your very first day working with code. Learning is often uncomfortable and things are bound to break. When this happens, there are few things you can check first:
-- Did you spell everything correctly? Capitalization matters!
-- Do you have closing symbols for every opening symbol? Every opening bracket needs a matching closing bracket.
-- Do the colors follow a predictable pattern? If the colors are consistent and then all of the sudden change, it could be a clue that something isn't quite right.
-
-<br> -->
-
-<!-- ## Project Setup
-
-We will work off of a starter kit that has already been created.
-1. <a target="blank" href="https://replit.com/@turingschool/js-newbies-starter-kit#index.html">Click this link to access the starter kit</a> in replit.
-1. Click the green <code>Run</code> button at the top of the page, and you should see a simple version of your website on the right side of the page.
-
-In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
-
-<br> -->
-
-<!-- ## Lesson Pages:
-- [Example Page](./new-page-example)
-- more... -->
+## Workshop Overview:
+- [What is Front End Development?](./what-is-fe)
+- [What is Back End Development?](./what-is-be)
+- [What is Full Stack Development?](./what-is-fs)
+- [Myth Busting](./myth-busting)
+- [Why we teach BE and FE at Turing](./why-be-fe)
+- [Which program is for me?](./which-program-for-me)
+- [Next Steps](./next-steps)
