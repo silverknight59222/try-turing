@@ -13,9 +13,9 @@ We are so glad you are here! To get set up...
 
 ## Goals
 
-The goal of this session is to give you a general understanding of different areas of software development.
-- explore frontend, backend, and full stack software development
-- explain what we teach at Turing and why
+The goal of this session is to give you a general understanding of different areas of software development by...
+- exploring frontend, backend, and full stack software development
+- explaining what we teach at Turing and why
 - answering questions you have or get you connected with someone who can answer your questions
 
 ## Online Learning Norms
