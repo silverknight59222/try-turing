@@ -42,7 +42,7 @@ This portion consists of eight questions that will help give us an idea of how y
 - Don't rush! How long you take on the quiz isn't nearly as important as getting the right answer. Our recommendation is to slow down to carefully get through those questions.
 - It's hard to keep all of this information in your head. Write it down! <a target="blank" href="https://www.youtube.com/watch?v=d7mUPexyLZE">Here's an example of how you might diagram a logic puzzle</a>. 
 - Use the process of elimination if you get stuck. All questions will be multiple choice. Remember - one of those choices is the right answer. Go through them one by one and find it!
-- When in doubt, talk it out. In software development, we call this process <a target="blank" href="https://www.freecodecamp.org/news/rubber-duck-debugging/">rubber ducking</a>. If you talk through your problem out loud (even if no one is listening, you're likely to get un-stuck!
+- When in doubt, talk it out. In software development, we call this process <a target="blank" href="https://www.freecodecamp.org/news/rubber-duck-debugging/">rubber ducking</a>. If you talk through your problem out loud (even if no one is listening), you're likely to get un-stuck!
 - Give your brain some breaks! There's often pressure to just think harder and push through when you're stuck, but that's not a great strategy. Our brains need breaks! When you hit a blocker, take a minute or two away from your screen. Pet your dog! Touch a tree! Drink some water! You'll be amazed at what light bulbs will go off when you come back.
 
 Looking for more thorough walkthroughs? Try these resources:

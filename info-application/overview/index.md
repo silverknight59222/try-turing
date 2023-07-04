@@ -15,7 +15,7 @@ Our application process requires **zero** technical experience - we'll teach you
 - Your desire to enter into the field of software development
 - Your excitement for working with others
 - Your ability to work through logical challenges 
-- Why you feel that Turing the best path for you into this industry
+- Why you feel that Turing is the best path for you into this industry
 
 If you are not accepted (at any stage in the process), you can reapply in 45 days.
 
@@ -23,7 +23,9 @@ If you are not accepted (at any stage in the process), you can reapply in 45 day
 In order to join us at Turing School, students must:
 - Be at least 18 years of age when classes begin.
 - Have a high school diploma, GED, or equivalent when classes begin.
-- Be no more than +/- two time zones away from US Mountain Time (MST/MDT) in order to participate in our classes via Zoom, which are held every weekday from 9 am to 4 pm MST/MDT.
+- Be no more than +/- two time zones away from US Mountain Time (MST/MDT)  
+  - Classes are held every weekday from 9 am to 4 pm MST/MDT via Zoom
+  - Over 50% of projects are collaborative, with students regularly working sychronously outside of the 9-4 classtime
 
 ## The Process
 
