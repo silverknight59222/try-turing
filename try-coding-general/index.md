@@ -2,61 +2,52 @@
 layout: lesson
 ---
 
-# Try Coding
+# Try Coding 
 
-🚧 Under Construction! Check back soon! 🚧
+Please sign up for a free <a target="blank" href="https://replit.com/~">replit.com</a> account before beginning this workshop.
 
-<!-- Templates for adding lesson content: -->
+## Welcome
 
-<!-- ## Welcome!
+- Open up <a target="blank" href="https://replit.com/~">replit.com</a> in a browser (preferably Chrome) and log into your account.
+- Change your Zoom display name to your first name, last initial, and pronouns – Kaitlyn V. (she/her). To do that, hover over your image in the gallery view, click the three dots, and select Rename.
+- Heads up! We will ask you to introduce yourself in a moment.
 
-We are so glad you are here! To get set up...
-1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account.
-1. Please change your zoom name to first, last initial, and pronouns, like this: _Brandi G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
-1. Heads up! We will ask you to briefly introduce yourself in a minute.
-<br> -->
+## What to Expect
 
-<!-- ## Goals
+Over the course of the day, we will write code, practice the habits of successful developers, and learn a little more about Turing. We will ask you to introduce yourself, ask questions, and occasionally share answers to the technical work we do! By the end of today, you will build your very own “Guess the Number” console game. Below is our agenda for the day:
 
-- goal
-- goal
-- goal
+- Welcome & Introductions (30 minutes)
+- Instruction (90 minutes)
+- Wrap-Up (15 minutes)
 
-<br> -->
 
-<!-- ## Online Learning Norms
+## Learning Norms
 
-- Ask your questions and share your code!
-- Mute your microphone unless you’re the main speaker.
-- Keep your camera on during class (if possible).
-- Disconnected? Jump back on! -->
+- No question is too small and no question is a bad question. Ask them!
+- We all benefit from each other's ideas! Push yourself to share at least one time today.
+- Keep your camera on during the session (if you can).
+- **Questions?** Type into the zoom chat, raise your hand, or come off of mute! Please avoid direct messages unless it is a specific issue only to yourself.
+- **Disconnected?** Jump back on!
+<br>
 
-<!-- ## Zoom Tools
+## Zoom Practice
 
-Want to get my attention during the workshop? Raise your hand, type your question in the chat, or come off mute and ask!
-- Raise Hand - Find the reactions button in your zoom toolbar and raise your hand.
-- Zoom Chat - Are you a night owl or an early bird?
-- Unmute - Introduce yourself! Please share your name, pronouns, location, and why you're here! -->
+There are several ways to get my attention throughout the workshop today. Let’s practice using some of these tools now.
+- **Type in the chat to everyone.** What is your favorite genre of music?
+- **Send the instructor a direct message.** What word describes how you are feeling today?
+- **Raise your hand.** Find your zoom toolbar, click Reactions, then Raise Hand.
+- **Introduce yourself!** Share your name, pronouns, and your location. Then, share why you’re here.
+1. I’m looking for a career change and I’m trying coding for the first time.
+2. I already know I want to attend Turing, but I need to pick a program!
+3. My friend or family member won’t stop bugging me about checking this out, so here I am!
 
-<!-- ## Be Nice to Yourself
+### Up Next
 
-This might be your very first day working with code. Learning is often uncomfortable and things are bound to break. When this happens, there are few things you can check first:
-- Did you spell everything correctly? Capitalization matters!
-- Do you have closing symbols for every opening symbol? Every opening bracket needs a matching closing bracket.
-- Do the colors follow a predictable pattern? If the colors are consistent and then all of the sudden change, it could be a clue that something isn't quite right.
-
-<br> -->
-
-<!-- ## Project Setup
-
-We will work off of a starter kit that has already been created.
-1. <a target="blank" href="https://replit.com/@turingschool/js-newbies-starter-kit#index.html">Click this link to access the starter kit</a> in replit.
-1. Click the green <code>Run</code> button at the top of the page, and you should see a simple version of your website on the right side of the page.
-
-In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
-
-<br> -->
-
-<!-- ## Lesson Pages:
-- [Example Page](./new-page-example)
-- more... -->
+- [What is Front End and Back End Engineering?](./what-is-fe-be)
+- [Ruby Introduction](./ruby-intro)
+- [Ruby Methods](./ruby-methods)
+- [Control Flow](./control-flow)
+- [JavaScript Introduction](./javascript-intro)
+- [JavaScript Number Guesser](./js-number-guesser)
+- [Extension Challenge](./extension)
+- [Wrap-Up](./wrap-up)
