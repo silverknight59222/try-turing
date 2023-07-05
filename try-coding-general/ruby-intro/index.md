@@ -9,7 +9,7 @@ layout: lesson
 
 # Ruby Introduction
 
-Ruby is a dynamic, open-source programming language widely known for its simplicity. It has an intuitive syntax that is natural to read and comparatively easy to write.
+Ruby is a dynamic, open-source programming language widely known for its simplicity. It has an intuitive syntax that is natural to read and comparatively easy to write. It is used primarily for Back End Engineering.
 
 
 ## Forking Your First Replit
@@ -23,9 +23,9 @@ A sandbox is a place where we can play around with code! Use this space to take 
 In your sandbox replit, complete the activity that follows.
 
 <div class="try-it-new">
-  <h3>Try It: Exploring puts vs. print</h3>
+  <h3>Try It: Exploring puts</h3>
   <p>Read the Ruby code and then run it.</p>
-  <p>Next, change both instances of puts to print. Observe the change in output. What does that tell you about the job that each command has?</p>
+  <p>What does the output tell you about the job of the <code>puts</code> command?</p>
 </div>
 
 <div class="expander expander-lesson">
@@ -41,9 +41,8 @@ In your sandbox replit, complete the activity that follows.
   </header>
   <div class="hide">
     <ul>
-      <li><code>print</code> and <code>puts</code> are both <code>commands</code> that are built into the Ruby language</li>
-      <li><code>print</code> will print the value it is instructed to print, but does <strong>not</strong> add a line break after printing the data</li>
-      <li><code>puts</code> also prints the value it is instructed to print; but it <strong>will</strong> create a line break after printing the data</li>
+      <li><<code>puts</code> is a <code>command</code> that is built into the Ruby language</li>
+      <li><code>puts</code> will print the value it is instructed to print and creates a line break after printing the data</li>
     </ul>
   </div>
 </div>
@@ -63,7 +62,7 @@ location = "Tampa, FL 🌴"
 
 <div class="try-it-new">
   <h3>Try It: Variables in Ruby</h3>
-  <p>Back in your sandbox replit, declare three variables that describe yourself. Use puts or print followed by each variable name to confirm that you’ve done this correctly!</p>
+  <p>Back in your sandbox replit, declare three variables that describe yourself. Use puts followed by each variable name to confirm that you’ve done this correctly!</p>
 </div>
 
 ## Data Types
@@ -129,3 +128,4 @@ Our programs haven’t been very exciting so far because we already know what wi
 </div>
 
 ### Up Next
+- [Ruby Methods](./ruby-methods)
