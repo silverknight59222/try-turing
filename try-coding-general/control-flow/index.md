@@ -89,4 +89,4 @@ end
 
 
 ### Up Next
-- [JavaScript Number Guesser](./js-number-guesser)
+- [JavaScript Number Guesser](../js-number-guesser)

@@ -128,4 +128,4 @@ Our programs haven’t been very exciting so far because we already know what wi
 </div>
 
 ### Up Next
-- [Ruby Methods](./ruby-methods)
+- [Ruby Methods](../ruby-methods)

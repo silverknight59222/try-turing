@@ -5,7 +5,7 @@ layout: lesson
 ### Go Back
 
 - [Welcome and Introductions](../)
-- [Control Flow](./control-flow)
+- [Control Flow](../control-flow)
 
 # JavaScript Number Guesser
 
@@ -78,4 +78,4 @@ If you're in the Back End program, your next steps might be in dealing with how 
 What questions do you have about any of the content we've covered so far? 
 
 ## Up Next:
-- [Wrap Up](./wrap-up)
+- [Wrap Up](../wrap-up)

@@ -5,7 +5,7 @@ layout: lesson
 ### Go Back
 
 - [Welcome and Introductions](../)
-- [JavaScript Number Guesser](./js-number-guesser)
+- [JavaScript Number Guesser](../js-number-guesser)
 
 # Next Steps
 

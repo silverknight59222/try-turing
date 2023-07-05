@@ -5,7 +5,7 @@ layout: lesson
 ### Go Back
 
 - [Welcome and Introductions](../)
-- [Ruby Introduction](./ruby-intro)
+- [Ruby Introduction](../ruby-intro)
 
 # Ruby Methods
 
