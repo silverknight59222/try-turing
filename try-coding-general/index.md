@@ -49,5 +49,4 @@ There are several ways to get my attention throughout the workshop today. Let’
 - [Control Flow](./control-flow)
 - [JavaScript Introduction](./javascript-intro)
 - [JavaScript Number Guesser](./js-number-guesser)
-- [Extension Challenge](./extension)
 - [Wrap-Up](./wrap-up)
