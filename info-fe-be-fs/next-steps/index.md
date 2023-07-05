@@ -11,7 +11,7 @@ layout: lesson
 
 ## Attend Other Events
 
-We are always creating new, exciting events for prospective students. Check out our upcoming events <a target="blank" href="https://www.eventbrite.com/o/turing-school-of-software-amp-design-9895674202">here</a>!
+We are always creating new, exciting events for prospective students. Check out our upcoming events <a target="blank" href="https://www.eventbrite.com/cc/try-turing-2371969">here</a>!
 
 ## Talk to Us
 
