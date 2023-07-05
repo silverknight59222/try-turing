@@ -18,7 +18,7 @@ Replit is a web-based interactive development environment or IDE. It allows us t
 
 A sandbox is a place where we can play around with code! Use this space to take notes or try things throughout the workshop today.
 
-## puts vs. print
+## puts
 
 In your sandbox replit, complete the activity that follows.
 
@@ -41,7 +41,7 @@ In your sandbox replit, complete the activity that follows.
   </header>
   <div class="hide">
     <ul>
-      <li><<code>puts</code> is a <code>command</code> that is built into the Ruby language</li>
+      <li><code>puts</code> is a <code>command</code> that is built into the Ruby language</li>
       <li><code>puts</code> will print the value it is instructed to print and creates a line break after printing the data</li>
     </ul>
   </div>
