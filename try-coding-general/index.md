@@ -47,6 +47,5 @@ There are several ways to get my attention throughout the workshop today. Let’
 - [Ruby Introduction](./ruby-intro)
 - [Ruby Methods](./ruby-methods)
 - [Control Flow](./control-flow)
-- [JavaScript Introduction](./javascript-intro)
 - [JavaScript Number Guesser](./js-number-guesser)
 - [Wrap-Up](./wrap-up)
