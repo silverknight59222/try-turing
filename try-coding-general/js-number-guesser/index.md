@@ -9,9 +9,7 @@ layout: lesson
 
 # JavaScript Number Guesser
 
-We've now built a simple number guesser in Ruby.
-
-You're code probably looks something like this:
+Your Ruby number guesser code probably looks something like this:
 
 ```ruby
 secret_number = 6
@@ -51,7 +49,7 @@ if (guess > secretNumber) {
 
 Raise your zoom hand or put in the zoom chat, what are the similarities and differences you see between the Ruby code and the JavaScript code? 
 
-**Note:**
+**Take a look at**
 - variable names
 - how we print messages to the user
 - control flow
@@ -67,7 +65,7 @@ If you're in the Front End program your next steps in this number guesser progra
 - Would there be any animations on the page to engage the user? 
 
 
-If you're in the Back End program, your next steps might be in dealing with how to store this data and what to do with that data.
+If you're in the Back End program, your next steps might be in dealing with how to store this data and what to do with the data.
 
 - How should we store the information in the database? 
 - Do we need to manipulate the data before storing it? 
