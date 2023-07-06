@@ -19,8 +19,9 @@ Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
 
 1. Front End Developers need to be good at design.
 2. Back End Developers need to be good at math.
-3. Back End is more difficult than Front End.
-4. Back End Developers can work in the Front End and Front End Developers can work in the Back End.
+3. Front End is more creative than Back End.
+4. Back End is more difficult than Front End.
+5. Back End Developers can work in the Front End and Front End Developers can work in the Back End.
 
 ***Answers***
 No peeking! 😜
@@ -31,8 +32,10 @@ No peeking! 😜
 2. False!
     Most algorithms are concerned with basic math concepts like finding *sums* and *averages*. Any other mathematical formulas needed can be googled!
 3. False!
+   Both Front End and Back End allow for creativity. Front End is more visual and Back End is more code design, but the mere process of building software is quite creative!
+4. False!
     Both Front End and Back End have their challenges. Either end of the stack will allow you to flex those brain muscles!
-4. True!
+5. True!
     As we will see in a few minutes, once you understand the concepts and foundations of software development, you can apply that knowledge to any new language or framework you encounter. At the end of the day, software development is software development, whether you're working in the Front End or the Back End.
 
 ## Other Myths
