@@ -29,30 +29,14 @@ end
 
 This is something you might build if you were in the Back End program at Turing.
 
-Now let's take a look at what this same code would look like if you were implementing JavaScript in our Front End program:
+Now let's take a look at what this same code would look like if you were implementing JavaScript in our Front End program. 
 
-```js
-const secret_number = 6
-
-console.log("Guess the secret number!");
-
-guess = parseInt($('.guess-input').val());
-
-if (guess > secretNumber) {
-    console.log("Too high!")
-} else if (guess < secretNumber) {
-    console.log("Too low!")
-} else {
-    console.log("Great job! You got it!")
-}
-```
-
-Raise your zoom hand or put in the zoom chat, what are the similarities and differences you see between the Ruby code and the JavaScript code? 
-
-**Take a look at**
-- variable names
-- how we print messages to the user
-- control flow
+<div class="try-it-new">
+  <h2>Explore: Front End Number Guesser</h2>
+  <p>Take a few minutes to explore the code linked below.</p>
+  <p>Consider: What are the similarities and differences you see between the Ruby code and the JavaScript code?</p>
+  <a target="blank" href="https://codepen.io/turing-trycoding/pen/BaGwKJV?editors=0010">View the code here!</a>
+</div>
 
 ## Front End versus Back End
 
