@@ -33,11 +33,30 @@ Want to get our attention during the workshop? Raise your hand or type your ques
 - **Unmute**: Introduce yourself! Please share your name, pronouns, location, and what you're hoping to get out of this session.
 
 ## Workshop Overview:
+- [Who Is Turing](#who-is-turing)
 - [What We Teach](#what-we-teach)
 - [How We Teach](#how-we-teach)
 - [Professional Development and Job Hunt Support](#pd-job-hunt)
 - [Which Program Should I Choose?](#which)
 - [Next Steps](#next-steps)
+
+
+## Who Is Turing?
+
+Founded in 2014, Turing provides an immersive, intenstive software engineering program where students can go from zero programming knowledge to hirable software developer.
+
+<div class="try-it-new">
+    <h2>Turing's Mission Statement</h2>
+    <p>To unlock human potential by training a diverse and inclusive student body to succeed in high fulfillment technical careers.</p>
+</div>
+
+Turing operates as a non-profit institution which means we answer to students first and are able to focus our energy and resources on excellent instruction and student outcomes. 
+
+At 7 months long, our program is longer than most other code schools. This allows us to dig deeper into foundational knowledge so students can build a solid understanding of coding concepts.
+
+We offer career support to all students during the program and after graduation, until they find the right job for them.
+
+
 
 
 ## What We Teach
