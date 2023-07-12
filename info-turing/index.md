@@ -72,10 +72,10 @@ Front End engineers work close to the actual user of the software. Many Front En
 In this program, students focus on building the "client-side" of applications where code is executed in the browser. 
 
 Front End students will learn:
-- how to write HTML, CSS, and JavaScript, leveraging the React framework
-- how to create front end applications that gather data from a user
-- how to talk to other applications (APIs) to send and gather data
-- how to create accessible webpages
+- How to write HTML, CSS, and JavaScript, leveraging the React framework.
+- How to create front end applications that gather data from a user.
+- How to talk to other applications (APIs) to send and gather data.
+- How to create accessible webpages.
 
 A calendar of our Front End curriculum can be found [here.](https://frontend.turing.edu/today/)
 
@@ -93,9 +93,9 @@ Back End engineers work closely with the database, handling network requests and
 In this program, students focus on building the "server-side" of applications where code runs on a server and interacts with the database. 
 
 Back End students will learn:
-- how to write Ruby, leveraging the Rails framework
-- how to handle network requests and return a network response
-- how to organize and query data within a database
+- How to write Ruby, leveraging the Rails framework.
+- How to handle network requests and return a network response.
+- How to organize and query data within a database.
 
 A calendar of our Back End curriculum can be found [here.](https://backend.turing.edu/additional_resources/calendars)
 
