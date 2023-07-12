@@ -14,9 +14,9 @@ We are so glad you are here! To get set up...
 ## Goals
 
 The goal of this session is to give you a general overview of Turing:
-- what we teach and why
-- what it's like to be a student here
-- what support we offer for the job hunt
+- What we teach and why.
+- What it's like to be a Turing student.
+- What support we offer for the job hunt.
 
 ## Online Learning Norms
 
