@@ -128,7 +128,7 @@ A calendar of our Launch curriculm can be found [here.](https://launch.turing.ed
 
 ***Program Length and Hours***
 
-- The Launch program is 9 months long consisting of 5 Modules, each 6 weeks in length.
+- The Launch program is 9 months long consisting of 6 Modules, each 6 weeks in length.
 - Live class sessions are held Monday thru Thursday 9 am - 4 pm MST/MDT.
 - Students will complete approximately 6 projects over the course of the program.
 - Fridays and weekends are kept free so students can have a part-time  job if they wish. 
