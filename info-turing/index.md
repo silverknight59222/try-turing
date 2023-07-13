@@ -71,11 +71,15 @@ Front End engineers work close to the actual user of the software. Many Front En
 
 In this program, students focus on building the "client-side" of applications where code is executed in the browser. 
 
-Front End students will learn:
-- How to build applications with HTML, CSS, and JavaScript, leveraging the React framework.
-- How to create front end applications that gather data from a user.
-- How to talk to other applications (APIs) to send and gather data.
-- How to create accessible webpages.
+<div class="try-it-new">
+    <h2>Front End students will learn:</h2>
+    <p>
+        - How to build applications with HTML, CSS, and JavaScript, leveraging the React framework.
+        - How to create front end applications that gather data from a user.
+        - How to talk to other applications (APIs) to send and gather data.
+        - How to create accessible webpages.
+    </p>
+</div>
 
 A calendar of our Front End curriculum can be found [here.](https://frontend.turing.edu/today/)
 
@@ -92,10 +96,14 @@ Back End engineers work closely with the database, handling network requests and
 
 In this program, students focus on building the "server-side" of applications where code runs on a server and interacts with the database. 
 
-Back End students will learn:
-- How to building applications in Ruby, leveraging the Rails framework.
-- How to handle network requests and return a network response.
-- How to organize and query data within a database.
+<div class="try-it-new">
+   <h2>Back End students will learn:</h2>
+    <p>
+    - How to building applications in Ruby, leveraging the Rails framework.
+    - How to handle network requests and return a network response.
+    - How to organize and query data within a database.
+    </p>
+</div>
 
 A calendar of our Back End curriculum can be found [here.](https://backend.turing.edu/additional_resources/calendars)
 
@@ -112,10 +120,14 @@ A calendar of our Back End curriculum can be found [here.](https://backend.turin
 
 The Launch program is geared towards career starters whereas the Back End and Front End programs are geared more towards career changers. However, being a career starter does not exclude you from applying to the BE and FE programs.
 
-Launch students will learn:
-- How to build applications in the C# and .Net tech stack
-- How to handle network requests and return a network response.
-- How to organize and query data within a database.
+<div class="try-it-new">
+    <h2>Launch students will learn:</h2>
+    <p>
+    - How to build applications in the C# and .Net tech stack
+    - How to handle network requests and return a network response.
+    - How to organize and query data within a database.
+    </p>
+</div>
 
 A calendar of our Launch curriculm can be found [here.](https://launch.turing.edu/additional_resources/calendars)
 
@@ -148,28 +160,41 @@ In addition to the technical curriculum, our students complete a Professional De
 
 This PD curriculum starts in Mod 1 and gets students ready for their job search. 
 
-Some topics covered during PD sessions are:
-- Resume and Cover Letter building
-- Networking
-- Building your LinkedIn profile
-- Interview skills
-- Mock interviews
+<div class="try-it-new">
+    <h2>Some topics covered during PD sessions are:</h2>
+    <p>
+    - Resume and Cover Letter building
+    - Networking
+    - Building your LinkedIn profile
+    - Interview skills
+    - Mock interviews
+    </p>
+</div>
 
 Our goal with our technical and PD curriculum is that students are prepared to get the job, do the job, and keep the job.
 
 ***The Job Hunt***
 After successfully completing your Turing program, you will be supported by our New Grad Services (NGS).
 
-NGS offers continued support around helping our grads find their first job by offering:
-- continued education workshops
-- group projects to work on
-- alumni support and mentorship
-- continued support around resumes, cover letters, and interviewing skills
+<div class="try-it-new">
+    <h2>NGS offers continued support around helping our grads find their first job by offering:</h2>
+    <p>
+    - Continued education workshops.
+    - Group projects to work on.
+    - Alumni support and mentorship.
+    - Continued support around resumes, cover letters, and interviewing skills.
+    </p>
+</div>
 
 
 ## Your Questions Here
 
-What questions do you have about Turing? 
+<div class="help-container">
+  <button class="help-click"><span role="img" aria-label="raised hand">🤚</span>Help Me!</button>
+    <div class="help-toggle">
+      <p>What questions do you have about Turing? </p>
+    </div>
+</div>
 
 
 ## Next Steps
