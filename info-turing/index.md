@@ -73,12 +73,10 @@ In this program, students focus on building the "client-side" of applications wh
 
 <div class="try-it-new">
     <h2>Front End students will learn:</h2>
-    <p>
-        - How to build applications with HTML, CSS, and JavaScript, leveraging the React framework.
-        - How to create front end applications that gather data from a user.
-        - How to talk to other applications (APIs) to send and gather data.
-        - How to create accessible webpages.
-    </p>
+    <p>- How to build applications with HTML, CSS, and JavaScript, leveraging the React framework.</p>
+    <p>  - How to create front end applications that gather data from a user.</p>
+    <p> - How to talk to other applications (APIs) to send and gather data.</p>
+    <p> - How to create accessible webpages.</p>
 </div>
 
 A calendar of our Front End curriculum can be found [here.](https://frontend.turing.edu/today/)
@@ -98,11 +96,9 @@ In this program, students focus on building the "server-side" of applications wh
 
 <div class="try-it-new">
    <h2>Back End students will learn:</h2>
-    <p>
-    - How to building applications in Ruby, leveraging the Rails framework.
-    - How to handle network requests and return a network response.
-    - How to organize and query data within a database.
-    </p>
+    <p>- How to building applications in Ruby, leveraging the Rails framework.</p>
+    <p>- How to handle network requests and return a network response.</p>
+    <p>- How to organize and query data within a database.</p>
 </div>
 
 A calendar of our Back End curriculum can be found [here.](https://backend.turing.edu/additional_resources/calendars)
@@ -122,11 +118,9 @@ The Launch program is geared towards career starters whereas the Back End and Fr
 
 <div class="try-it-new">
     <h2>Launch students will learn:</h2>
-    <p>
-    - How to build applications in the C# and .Net tech stack
-    - How to handle network requests and return a network response.
-    - How to organize and query data within a database.
-    </p>
+    <p>- How to build applications in the C# and .Net tech stack.</p>
+    <p>- How to handle network requests and return a network response.</p>
+    <p>- How to organize and query data within a database.</p>
 </div>
 
 A calendar of our Launch curriculm can be found [here.](https://launch.turing.edu/additional_resources/calendars)
@@ -162,13 +156,11 @@ This PD curriculum starts in Mod 1 and gets students ready for their job search.
 
 <div class="try-it-new">
     <h2>Some topics covered during PD sessions are:</h2>
-    <p>
-    - Resume and Cover Letter building
-    - Networking
-    - Building your LinkedIn profile
-    - Interview skills
-    - Mock interviews
-    </p>
+    <p>- Resume and Cover Letter building</p>
+    <p>- Networking</p>
+    <p>- Building your LinkedIn profile</p>
+    <p>- Interview skills</p>
+    <p>- Mock interviews</p>
 </div>
 
 Our goal with our technical and PD curriculum is that students are prepared to get the job, do the job, and keep the job.
@@ -178,23 +170,16 @@ After successfully completing your Turing program, you will be supported by our 
 
 <div class="try-it-new">
     <h2>NGS offers continued support around helping our grads find their first job by offering:</h2>
-    <p>
-    - Continued education workshops.
-    - Group projects to work on.
-    - Alumni support and mentorship.
-    - Continued support around resumes, cover letters, and interviewing skills.
-    </p>
+    <p>- Continued education workshops.</p>
+    <p>- Group projects to work on.</p>
+    <p>- Alumni support and mentorship.</p>
+    <p>- Continued support around resumes, cover letters, and interviewing skills.</p>
 </div>
 
 
 ## Your Questions Here
 
-<div class="help-container">
-  <button class="help-click"><span role="img" aria-label="raised hand">🤚</span>Help Me!</button>
-    <div class="help-toggle">
-      <p>What questions do you have about Turing? </p>
-    </div>
-</div>
+***What questions do you have about Turing?***
 
 
 ## Next Steps
