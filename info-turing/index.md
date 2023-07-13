@@ -72,7 +72,7 @@ Front End engineers work close to the actual user of the software. Many Front En
 In this program, students focus on building the "client-side" of applications where code is executed in the browser. 
 
 Front End students will learn:
-- How to write HTML, CSS, and JavaScript, leveraging the React framework.
+- How to build applications with HTML, CSS, and JavaScript, leveraging the React framework.
 - How to create front end applications that gather data from a user.
 - How to talk to other applications (APIs) to send and gather data.
 - How to create accessible webpages.
@@ -84,7 +84,7 @@ A calendar of our Front End curriculum can be found [here.](https://frontend.tur
 - The Front End program is a 7 month program consisting of 4 Modules that are each 6 weeks in length. 
 - Live class sessions are held Monday thru Friday from 9 am - 4 pm MST/MDT. 
 - Students will complete approximately 13 projects over the course of the program that are often completed outside of the 9-4 instruction time.
-
+- Students typically do not hold jobs while they are in this program.
 
 **Back End Program**
 
@@ -93,7 +93,7 @@ Back End engineers work closely with the database, handling network requests and
 In this program, students focus on building the "server-side" of applications where code runs on a server and interacts with the database. 
 
 Back End students will learn:
-- How to write Ruby, leveraging the Rails framework.
+- How to building applications in Ruby, leveraging the Rails framework.
 - How to handle network requests and return a network response.
 - How to organize and query data within a database.
 
@@ -105,12 +105,27 @@ A calendar of our Back End curriculum can be found [here.](https://backend.turin
 - The Back End program is a 7 month program consisting of 4 Modules that are each 6 weeks in length. 
 - Live class sessions are held Monday thru Friday from 9 am - 4 pm MST/MDT. 
 - Students will complete approximately 13 projects over the course of the program that are often completed outside of the 9-4 instruction time.
+- Students typically do not hold jobs while they are in this program.
 
 
 **Launch Program**
 
-The Launch program is geared towards career starters.
+The Launch program is geared towards career starters whereas the Back End and Front End programs are geared more towards career changers. However, being a career starter does not exclude you from applying to the BE and FE programs.
 
+Launch students will learn:
+- How to build applications in the C# and .Net tech stack
+- How to handle network requests and return a network response.
+- How to organize and query data within a database.
+
+A calendar of our Launch curriculm can be found [here.](https://launch.turing.edu/additional_resources/calendars)
+
+
+***Program Length and Hours***
+
+- The Launch program is 9 months long consisting of 5 Modules, each 6 weeks in length.
+- Live class sessions are held Monday thru Thursday 9 am - 4 pm MST/MDT.
+- Students will complete approximately 6 projects over the course of the program.
+- Fridays and weekends are kept free so students can have a part-time  job if they wish. 
 
 
 
