@@ -165,7 +165,8 @@ This PD curriculum starts in Mod 1 and gets students ready for their job search.
 
 Our goal with our technical and PD curriculum is that students are prepared to get the job, do the job, and keep the job.
 
-***The Job Hunt***
+### The Job Hunt
+
 After successfully completing your Turing program, you will be supported by our New Grad Services (NGS).
 
 <div class="try-it-new">
@@ -180,6 +181,7 @@ After successfully completing your Turing program, you will be supported by our 
 ## Your Questions Here
 
 ***What questions do you have about Turing?***
+
 
 
 ## Next Steps
