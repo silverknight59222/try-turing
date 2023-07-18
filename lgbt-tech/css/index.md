@@ -23,7 +23,7 @@ Here are some guiding questions:
 
 ## Modify the CSS
 
-Let's make some changes to this CSS code:
+Let's make some changes to this CSS code. Be sure to click `Run` after each edit to see the changes!
 - Change the color of the `h1` to: `color: rebeccapurple` (line 3)
 - Change the font of the `h2` to: `font-family: cursive` (line 7)
 - Change any of the colors or fonts you'd like to! **Only make changes to lines 1-17.**

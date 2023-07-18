@@ -22,7 +22,7 @@ Here are some guiding questions:
 
 ## Modify the HTML
 
-Let's make some changes to this HTML code:
+Let's make some changes to this HTML code. Be sure to click `Run` after each edit to see the changes!
 - Change the title of the page to include your name (i.e. "Kat's Magic Eight Ball!")
 - Change the default response on the dice so it says something other than "Yes."
 - Add an `h2` element on line 3 (under the `h1` and above the `main`) with a sub-heading for the app (i.e. "Click the ball to reveal the answers you're looking for!")

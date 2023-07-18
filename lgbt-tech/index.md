@@ -52,7 +52,9 @@ This might be your very first day working with code. Learning is often uncomfort
 
 We will work off of a starter kit that has already been created.
 1. <a target="blank" href="https://codepen.io/turing-trycoding/pen/MWzGQJb">Click this link to access the starter kit</a> in CodePen.
-2. Click the <code>Fork</code> button at the bottom right of the page to make a copy you can edit and save. If you haven't logged in/signed up yet, it will prompt you to do so.
+2. Click the <code>Fork</code> button at the bottom right of the page to make a copy you can edit and save. If you haven't logged in/signed up yet, it will prompt you to do so. After you fork, you should see YOUR NAME in the top left corner under the title of the project.
+3. Update your settings so that you have a `Run` button: Settings > Behavior > toggle Auto-Updating Preview to OFF
+  <img src="./assets/codepen_settings.png" alt="Screenshot showing that the Auto-Updating Preview setting is turned off" />
 
 
 ## Up Next
