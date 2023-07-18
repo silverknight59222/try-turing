@@ -70,5 +70,9 @@ Most of the work you will do as a developer is data manipulation.
 
 Both Front End and Back End deal with taking in data (input), and then giving back or *returning* new data based on that input. Today we're going to look at how we might work with some of this data in both Ruby, our Back End language, and JavaScript, our Front End language. 
 
+### Interested in learning more about FE vs BE?
+
+:arrow_right: Come to a **What is Front End, Back End, and Full Stack Development? workshop**! You can see a list of upcoming events <a target="blank" href="https://www.eventbrite.com/cc/try-turing-2371969">here</a>! 
+
 ## Up Next
 - [Ruby Introduction](../ruby-intro)

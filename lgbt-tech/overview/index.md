@@ -78,11 +78,11 @@ It can feel like a lot, but let's start by understanding the role of each langua
 </section>
 <br>
 
-### Interested in leearning more about FE vs BE?
+### Interested in learning more about FE vs BE?
 
-Come to a **Try Turing: What is Front End, Back End, and Full Stack Development? workshop**! You can see a list of upcoming events <a target="blank" href="https://www.eventbrite.com/cc/try-turing-2371969">here</a>! 
+:arrow_right: Come to a **What is Front End, Back End, and Full Stack Development? workshop**! You can see a list of upcoming events <a target="blank" href="https://www.eventbrite.com/cc/try-turing-2371969">here</a>! 
 
 
 ## Up Next
 
-- [HTML](../html)
+- [HTML (the bones)](../html)

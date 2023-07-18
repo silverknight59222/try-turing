@@ -2,45 +2,40 @@
 layout: lesson
 ---
 
-<a href="../">Back to Setup Page</a>
+Want to go back?
+- [Lesson Home Page](../)
+- [Overview](../overview)
 
-# Modifying the HTML
+# HTML (The Bones)
 
 ## Tour the Existing HTML
 
-- Information between the `<head>` tags does not show in the browser. It is only background information for the webpage.
-- Elements that live inside of the `<body>` tags will be displayed on the page (lines 15-41).
-- The `<div>` tags define a division or a section in an HTML document. These allow us to group important elements together and nest elements to create structure and organization.
+Take a few minutes to explore the HTML code in the CodePen. Do not worry about the CSS or JavaScript yet!
 
-### Explore to Learn:
-
+Here are some guiding questions:
 - What line numbers in the HTML file are responsible for the text displayed in the browser?
-- What organizational structures do you notice?
-- Try commenting out a line of code! Highlight a section of the code and use `cmd + /` or `ctrl + /` to comment out that line. Then click the green `Run` button. What happens? Highlight it again and use the same keyboard shortcut to undo it!
+- There are a lot of <code>section</code> elements! What do you think each of them represents?
+- What do you think the difference between a `h1` and a `p` element is?
 - What might be the purpose of the `class` that appears on some of the elements?
-<br>
+- Anything else you notice?
 <br>
 
-<div class="try-it-new">
-  <h2>Modify the Existing Code</h2>
-  <p>Now that we're getting to know HTML and this specific project a bit better, let's modify it!</p>
-  <ul>
-    <li>Add two more single cards, each with a card title and card text.</li>
-    <li>Decide what content you would like for your webpage. If you're not feeling creative, make it a glossary of terms we are learning today!</li>
-    <ul>
-      <li><strong>CSS:</strong> Short for Cascading Style Sheets, this language controls the look and feel of a webpage. It can change the layout of items on a page, colors, fonts, and even animate elements!</li>
-      <li><strong>JavaScript:</strong> This programming language is responsible for user interaction. For example, when the user clicks a button and sees a change in the browser, this action is controlled by JavaScript.</li>
-    </ul>
-  </ul>
+## Modify the HTML
 
-  <p>If you would like to check your work at this point, you can compare with <a target="blank" href="https://replit.com/@turingschool/js-newbies-checkpoint-1#index.html">this replit.</a></p>
-</div>
+Let's make some changes to this HTML code:
+- Change the title of the page to include your name (i.e. "Kat's Magic Eight Ball!")
+- Change the default response on the dice so it says something other than "Yes."
+- Add an `h2` element on line 3 (under the `h1` and above the `main`) with a sub-heading for the app (i.e. "Click the ball to reveal the answers you're looking for!")
+<br>
+
 
 ## HTML Summary
 
 - Elements that live inside of the `body` tags will be displayed on the page.
 - We can nest elements inside of other elements to create structure within the HTML.
 - Classes allow us to give each element a specific label so that we can reference that element later.
-- The number of elements and the content inside of the elements in the HTML file usually have a 1-to-1 correlation with what we see in the browser.
+- The HTML determines the content of our page!
 
-<a href="../css">Next Section: CSS</a>
+## Up Next
+
+- [CSS (the style)](../css)

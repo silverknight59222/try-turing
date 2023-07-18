@@ -48,9 +48,16 @@ This might be your very first day working with code. Learning is often uncomfort
 - Do the colors follow a predictable pattern? If the colors are consistent and then all of the sudden change, it could be a clue that something isn't quite right.
 <br>
 
+## Project Set Up
+
+We will work off of a starter kit that has already been created.
+1. <a target="blank" href="https://codepen.io/turing-trycoding/pen/MWzGQJb">Click this link to access the starter kit</a> in CodePen.
+2. Click the <code>Fork</code> button at the bottom right of the page to make a copy you can edit and save. If you haven't logged in/signed up yet, it will prompt you to do so.
+
+
 ## Up Next
 
-- [Overview of Frontend Development](./overview)
+- [Overview](./overview)
 - [HTML](./html)
 - [CSS](./css)
 - [JavaScript](./javascript)
