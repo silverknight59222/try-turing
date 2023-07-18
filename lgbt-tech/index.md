@@ -2,71 +2,43 @@
 layout: lesson
 ---
 
-# Try Coding for Newbies: JavaScript
+# LGBT Tech x Turing: Try Coding Workshop
 
-In this live, instructor-led workshop, you will build an interactive webpage with interactive buttons that hide and reveal information.
+In this live, instructor-led workshop, you will build a magic eight ball app! 
 
 _This will be best experienced on a desktop or laptop computer._
 
 ## Welcome!
 
 We are so glad you are here! To get set up...
-1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account.
-1. Please change your zoom name to first, last initial, and pronouns, like this: _Brandi G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
-1. Heads up! We will ask you to briefly introduce yourself in a minute.
+1. You will need a <a target="blank" href="https://codepen.io/">CodePen</a> account. Go ahead and get signed up (it's free!).
+2. Please change your zoom name to first, last initial, and pronouns, like this: _Kayla G. (she/her)_. Not sure how to do that? Hover over your image in the zoom gallery, click the three dots, and select Rename.
+3. Heads up! We will ask you to briefly introduce yourself in a minute.
 <br>
 
 ## Goals
 
-- Build and customize an <a target="blank" href="https://js-newbies-checkpoint-3.turingschool.repl.co/">interactive website</a>
+- Build and customize a magic eight ball app
 - Gain _exposure_ and familiarity with some HTML, CSS, and JavaScript
-- Determine if coding is something you enjoy doing and want to pursue further
-
+- Demystify software development and determine if coding is something you want to pursue further
 <br>
 
-## Online Learning Norms
+## Learning Norms
 
-- Ask your questions and share your code!
-- Mute your microphone unless you’re the main speaker.
-- Keep your camera on during class (if possible).
-- Disconnected? Jump back on!
-
-## Zoom Tools
-
-Want to get my attention during the workshop? Raise your hand, type your question in the chat, or come off mute and ask!
-- Raise Hand - Find the reactions button in your zoom toolbar and raise your hand.
-- Zoom Chat - Are you a night owl or an early bird?
-- Unmute - Introduce yourself! Please share your name, pronouns, location, and why you're here!
-
-## Programming Languages We Will Use
-
-Building the user-facing part of a website or app is referred to as Front End Engineering. Writing code to build a Front End requires using three programming languages, and making the code in each language "talk to" the code in the others.
-
-It can feel like a lot, but let's start by understanding the role of each language in the context of our application. We will make some comparisons to the human body as a frame of reference.
-
-<section class="data-type-cards language-cards">
-  <div>
-    <h3>HTML</h3>
-    <p>HTML holds the content we see on a page (text, images) and defines the structure and order in which the content appears.</p>
-    <p>We can think of HTML as the skeleton of our webpage; without it, we'd just be a blob:</p>
-    <img src="./assets/html.png" alt="Drawing of human skeleton" />
-  </div>
-
-  <div>
-    <h3>CSS</h3>
-    <p>CSS defines the look and feel of a webpage - it can change the size or layout of items on a page, change colors, fonts, and more!</p>
-    <p>We can think of CSS as anything that makes us unique and recognizable - our skin, hair, clothes, style, etc.</p>
-    <img src="./assets/css.png" alt="Various accessories including a hat, dress, shoes, and hair" />
-  </div>
-
-  <div>
-    <h3>JavaScript</h3>
-    <p>JavaScript is what lets the user interact with a page. For example, clicking a button and getting some sort of response.</p>
-    <p>We can think of JavaScript as the brain and muscle of our webpage, as it powers all the action:</p>
-    <img src="./assets/js.png" alt="Drawing of a human brain and arm muscle" />
-  </div>
-</section>
+- No question is too small and no question is a bad question. Ask them!
+- We all benefit from each other's ideas! Push yourself to share at least one time today.
+- Keep your camera on during the session (if you can).
+- **Questions?** Type into the zoom chat, raise your hand, or come off of mute! Please avoid direct messages unless it is a specific issue only to yourself.
+- **Disconnected?** Jump back on!
 <br>
+
+## Zoom Practice
+
+There are several ways to get my attention throughout the workshop today. Let’s practice using some of these tools now.
+- **Type in the chat to everyone.** What is your favorite cereal?
+- **Send the instructor a direct message.** What word describes how you are feeling today?
+- **Raise your hand.** Find your zoom toolbar, click Reactions, then Raise Hand.
+- **Introduce yourself!** Share your name, pronouns, and something you're hoping to get out of this workshop.
 
 ## Be Nice to Yourself
 
@@ -74,23 +46,12 @@ This might be your very first day working with code. Learning is often uncomfort
 - Did you spell everything correctly? Capitalization matters!
 - Do you have closing symbols for every opening symbol? Every opening bracket needs a matching closing bracket.
 - Do the colors follow a predictable pattern? If the colors are consistent and then all of the sudden change, it could be a clue that something isn't quite right.
-
 <br>
 
-## Project Setup
+## Up Next
 
-We will work off of a starter kit that has already been created.
-1. <a target="blank" href="https://replit.com/@turingschool/js-newbies-starter-kit#index.html">Click this link to access the starter kit</a> in replit.
-1. Click the green <code>Run</code> button at the top of the page, and you should see a simple version of your website on the right side of the page.
-
-In the next part of the lesson, we will explore the HTML file to understand the “bones” of this app.
-
-<br>
-
-## Now, it gets even more fun:
-- [HTML - Content](./html)
-- [CSS - Styles](./css)
-- [JavaScript - Overview](./js-1)
-- [JavaScript - Event Listeners](./js-2)
-- [JavaScript - Interactive Buttons](./js-3)
+- [Overview of Frontend Development](./overview)
+- [HTML](./html)
+- [CSS](./css)
+- [JavaScript](./javascript)
 - [Wrap-Up](./wrap-up)
