@@ -2,7 +2,11 @@
 layout: lesson
 ---
 
-<a href="../">Back to Setup Page</a>
+Want to go back?
+- [Lesson Home Page](../)
+- [Overview](../overview)
+- [HTML](../html)
+
 
 # JavaScript Overview
 
@@ -77,4 +81,6 @@ console.log(age);
 - Arrays are a collection of items that belong together.
 - Reminder: This stuff gets really complex! We are only scratching the surface with some foundational topics today.
 
-<a href="../js-2">Next Section: Event Listeners</a>
+## Up Next
+
+- [Wrap Up](../wrap-up)
