@@ -21,7 +21,7 @@ You will have the choice to upload a resume or answer a few questions.
 
 ## Logic Puzzles
 
-This portion consists of eight questions that will help give us an idea of how you approach problems. The questions are modeled after LSAT logic games. You must get at least 5 answers correct to move onto the next round in the application process. 
+**Only for FE and BE programs** This portion consists of eight questions that will help give us an idea of how you approach problems. The questions are modeled after LSAT logic games. You must get at least 5 answers correct to move onto the next round in the application process. 
 
 ### Logic Puzzle Example
 
