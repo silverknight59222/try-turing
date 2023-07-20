@@ -89,7 +89,11 @@ Update that function so that a different phrase appears when you click on the ma
 
 Now, let's make it dynamic by using the function `getRandomNumber` that is already written for us.
 
-**Key Point**: Functions are at the heart of any codebase. They define what actions occur and when. 
+**Key Point**: Functions are at the heart of any codebase. They define what actions occur and when. Functions are incredibly dynamic and versatile! We only scratched the surface today.
+
+## Solution
+
+If you want to compare your codepen to ours, check out our completed app <a target="blank" href="https://codepen.io/turing-trycoding/pen/YzRLEdG">here</a>!
 
 ## JavaScript Summary
 
