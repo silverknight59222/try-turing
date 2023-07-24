@@ -9,9 +9,13 @@ layout: lesson
 
 # Next Steps
 
+## Feedback
+
+At Turing, we rely on constant feedback from our students to improve the Turing experience. Please take two minutes at this time to fill out <a target="blank" href="https://airtable.com/appR5bqtCZv7u3xXX/shr8IHKqMDPRxVZlz">this survey</a> to give us feedback on this Try Coding session today.
+
 ## Attend Other Events
 
-We are always creating new, exciting events for prospective students. Check out our upcoming events <a target="blank" href="https://www.eventbrite.com/cc/try-turing-2371969">here</a>!
+We are always creating new, exciting events for prospective students. Check out our upcoming events <a target="blank" href="https://www.eventbrite.com/o/turing-school-of-software-design-9895674202">here</a>!
 
 ## Talk to Us
 
