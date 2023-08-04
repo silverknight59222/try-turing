@@ -17,7 +17,45 @@ We want to bust those myths for you!
 I'm going to read off one of the following myths. 
 Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
 
-1. Front End Developers need to be good at design.
+* Front End Developers need to be good at design.
+  
+<div class="expander expander-lesson">
+  <header>
+    <h2 class="spicy-click">Takeaways</h2>
+    <div>
+      <button class="expander-btn">
+        <img src="../../assets/icons/arrow.svg" alt="expander arrow icon" />
+      </button>
+    </div>
+  </header>
+
+  <div class="hide">
+    <p>False!</p>
+    <p>Often a company will have a UX/UI Designer who creates the designs, color schemes, and layouts. The Front End Developer will then 
+    implement those designs using CSS or other styling tools and frameworks.</p>
+  </div>
+</div>
+
+<div class="expander expander-lesson">
+  <header>
+    <h2 class="spicy-click">Answer</h2>
+    <div>
+      <button class="expander-btn">
+        <img src="../../assets/icons/arrow.svg" alt="expander arrow icon" />
+      </button>
+    </div>
+  </header>
+
+  <div class="hide">
+    <p>False!</p>
+    <p>Often a company will have a UX/UI Designer who creates the designs, color schemes, and layouts. The Front End Developer will then 
+    implement those designs using CSS or other styling tools and frameworks.</p>
+  </div>
+</div>
+
+
+
+
 2. Back End Developers need to be good at math.
 3. Front End is more creative than Back End.
 4. Back End is more difficult than Front End.
@@ -27,10 +65,10 @@ Using your zoom emojis, let us know if you think this is **MYTH** or **TRUTH**.
 
 <br/>
 ***Answers***
+
 No peeking! 😜
 
-1. False! 
-    Often a company will have a UX/UI Designer who creates the designs, color schemes, and layouts. The Front End Developer will then implement those designs using CSS or other styling tools and frameworks.
+1. 
 2. False!
     Most algorithms are concerned with basic math concepts like finding *sums* and *averages*. Any other mathematical formulas needed can be googled!
 3. False!
