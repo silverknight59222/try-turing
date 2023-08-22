@@ -24,8 +24,9 @@ The 1:1 live interview will be held on zoom with you and a Turing alum. The inte
 - **Interview Questions**: During the remainder of the interview, you can expect to discuss your previous experiences, your strengths, and your motivation for pursuing a career in software development.
 
 
-## Tips From Our Interview Team
-### Problem Solving Challenge
+## Problem Solving Challenge
+
+Tips:
 - Communicate, communicate, communicate! It’s less about solving the problem and more about how you communicate your thoughts and work with your interviewer. This is an effort to simulate how you might work with a partner at Turing in a remote environment.
 - You can and should ask clarifying questions and let the interviewer know if you’re stuck. Your interviewer may ask you to verbalize your thoughts if they are not following.
 - We'd like to see some self-reflection after you complete the challenge. We want you to be able to speak to what you learned and what you might do differently if given a second attempt. 
@@ -43,9 +44,24 @@ The 1:1 live interview will be held on zoom with you and a Turing alum. The inte
 </div>
 
 
-### Interview Questions
+## Interview Questions
+
+Tips:
 - It’s important that you answer the behavioral questions directly and with examples from your previous experience. For example, if we ask you to tell us about a time where you worked on a successful team, you should answer with a specific instance and avoid only speaking in vague terms.
 - Be prepared to discuss how you align with Turing's mission: *Turing’s mission is to unlock human potential by training a diverse and inclusive student body to succeed in high fulfillment technical careers.*
+
+<div class="try-it-new">
+  <h3>Try It: Interview Questions</h3>
+  <p>For the following topics, think of one <strong>specific experience</strong> you could reference.</p>
+  <ul>
+    <li>Successful teamwork</li>
+    <li>Unsuccessful/Challenging teamwork</li>
+    <li>Learning from failure</li>
+    <li>Growing in response to feedback</li>
+    <li>Successfully meeting a goal</li>
+    <li>Something you're proud of</li>
+  </ul>
+</div>
 
 ## Next Up:
 - [Next Steps](../next-steps)
