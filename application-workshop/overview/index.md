@@ -23,7 +23,7 @@ If you are not accepted (at any stage in the process), you can reapply in 45 day
 In order to join us at Turing School, students must:
 - Be at least 18 years of age when classes begin.
 - Have a high school diploma, GED, or equivalent when classes begin.
-- Be no more than +/- two time zones away from US Mountain Time (MST/MDT)  
+- It is recommended to be no more than +/- two time zones away from US Mountain Time (MST/MDT)  
   - Classes are held every weekday from 9 am to 4 pm MST/MDT via Zoom
   - Over 50% of projects are collaborative, with students regularly working sychronously outside of the 9-4 classtime
 
