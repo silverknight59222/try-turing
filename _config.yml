@@ -33,6 +33,3 @@ images:
 
 plugins:
   - jemoji
-
-  # Google Analytics
-google_analytics: UA-103295514-1
