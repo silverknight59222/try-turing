@@ -136,7 +136,7 @@ We want to bust those myths for you!
   </header>
 
   <div class="hide">
-    <p>False!</p>
+    <p>True!</p>
     <p>As we will see in a few minutes, once you understand the concepts and foundations of software development, you can apply that knowledge to any new language or framework you encounter. At the end of the day, software development is software development, whether you're working in the Front End or the Back End.</p>
   </div>
 </div>
