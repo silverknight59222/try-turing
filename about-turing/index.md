@@ -61,9 +61,9 @@ We offer career support to all students during the program and after graduation,
 
 ## What We Teach
 
-At Turing we have three programs to choose from: Front End, Back End, and Launch.
+At Turing we have two programs to choose from: Front End, Back End.
 
-All three programs are facilitated with a live instructor with live class sessions held over Zoom.
+All programs are facilitated with a live instructor with live class sessions held over Zoom.
 
 **Front End Program**
 
@@ -110,29 +110,6 @@ A calendar of our Back End curriculum can be found [here.](https://backend.turin
 - Live class sessions are held Monday thru Friday from 9 am - 4 pm MST/MDT. 
 - Students will complete approximately 13 projects over the course of the program that are often completed outside of the 9-4 instruction time.
 - Students typically do not hold jobs while they are in this program.
-
-
-**Launch Program**
-
-The Launch program is geared towards career starters whereas the Back End and Front End programs are geared more towards career changers. However, being a career starter does not exclude you from applying to the BE and FE programs.
-
-<div class="try-it-new">
-    <h2>Launch students will learn:</h2>
-    <p>- How to build applications in the C# and .Net tech stack.</p>
-    <p>- How to handle network requests and return a network response.</p>
-    <p>- How to organize and query data within a database.</p>
-</div>
-
-A calendar of our Launch curriculm can be found [here.](https://launch.turing.edu/additional_resources/calendars)
-
-
-***Program Length and Hours***
-
-- The Launch program is 9 months long consisting of 6 Modules, each 6 weeks in length.
-- Live class sessions are held Monday thru Thursday 9 am - 4 pm MST/MDT.
-- Students will complete approximately 6 projects over the course of the program.
-- Fridays and weekends are kept free so students can have a part-time  job if they wish. 
-
 
 
 ## How We Teach
