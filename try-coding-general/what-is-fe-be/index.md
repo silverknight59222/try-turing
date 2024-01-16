@@ -72,7 +72,7 @@ Both Front End and Back End deal with taking in data (input), and then giving ba
 
 ### Interested in learning more about FE vs BE?
 
-:arrow_right: Come to a **What is Front End, Back End, and Full Stack Development? workshop**! You can see a list of upcoming events <a target="blank" href="https://www.eventbrite.com/cc/try-turing-2371969">here</a>! 
+:arrow_right: Come to a **What is Front End, Back End, and Full Stack Development? workshop**! You can see a list of upcoming events <a target="blank" href="https://www.eventbrite.com/o/turing-school-of-software-design-9895674202">here</a>! 
 
 ## Up Next
 - [Ruby Introduction](../ruby-intro)
