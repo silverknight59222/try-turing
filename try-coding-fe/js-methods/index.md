@@ -5,7 +5,7 @@ layout: lesson
 ### Go Back
 
 - [Welcome and Introductions](../)
-- [Ruby Introduction](../ruby-intro)
+- [JavaScript Introduction](../js-intro)
 
 # Ruby Methods
 
@@ -73,7 +73,6 @@ puts random_value
 # => 20
 ```
 
-
 <div class="try-it-new">
   <h3>Try It: Using the rand() Method</h3>
   <p>Back in your sandbox replit, solve each of the challenges below.</p>
@@ -82,7 +81,6 @@ puts random_value
     <li>Create a variable named <code>lottery_number</code> assigned to a random six-digit number.</li>
   </ol>
 </div>
-
 
 ### Up Next
 

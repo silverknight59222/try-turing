@@ -5,12 +5,11 @@ layout: lesson
 ### Go Back
 
 - [Welcome and Introductions](../)
-- [Ruby Methods](../ruby-methods)
+- [JavaScript Methods](../js-methods)
 
 # Control Flow
 
 The control flow is the order in which the computer executes the statements in our text editor. Code normally runs from the first line in the file to the last line, top to bottom, unless something changes that. Enter Control Flow.
-
 
 ## What is Control Flow?
 
@@ -87,6 +86,6 @@ end
   </ol>
 </div>
 
-
 ### Up Next
-- [JavaScript Number Guesser](../js-number-guesser)
+
+- [Ruby Number Guesser](../rb-number-guesser)

@@ -5,7 +5,7 @@ layout: lesson
 ### Go Back
 
 - [Welcome and Introductions](../)
-- [JavaScript Number Guesser](../js-number-guesser)
+- [Ruby Number Guesser](../rb-number-guesser)
 
 # Next Steps
 
@@ -21,8 +21,8 @@ We are always creating new, exciting events for prospective students. Check out 
 
 We know everyone has different barriers or concerns as they start this process. Our team is here to help you find solutions to each barrier and ease your concerns from how to pay for Turing to what is the job support like.
 
-Reach out if you have any questions at all - from *Can I afford this?* to *Should I do frontend or backend?* to *What is a typical day like as a Turing student?* - we're here for you! Email **admissions@turing.edu** with your questions and we'll schedule a one on one call with you!
+Reach out if you have any questions at all - from _Can I afford this?_ to _Should I do frontend or backend?_ to _What is a typical day like as a Turing student?_ - we're here for you! Email **admissions@turing.edu** with your questions and we'll schedule a one on one call with you!
 
 ## Apply!
 
-Let's do it! Start your application today at <a target="blank" href="https://apply.turing.edu/">apply.turing.edu</a>. 
+Let's do it! Start your application today at <a target="blank" href="https://apply.turing.edu/">apply.turing.edu</a>.
