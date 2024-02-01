@@ -7,24 +7,29 @@ layout: lesson
 - [Welcome and Introductions](../)
 - [What is Front End and Back End Engineering?](../what-is-fe-be)
 
-# Ruby Introduction
+# JavaScript Introduction
 
-Ruby is a dynamic, open-source programming language widely known for its simplicity. It has an intuitive syntax that is natural to read and comparatively easy to write. It is used primarily for Back End Engineering.
+JavaScript is a language that allows us to _interact_ with a webpage. We can write JavaScript that can access HTML elements and change their appearance or content based on the way a user interacts with the page.
 
 ## Forking Your First Replit
 
-Replit is a web-based interactive development environment or IDE. It allows us to write code and see the output in the console at the same time. To get started today, we will be working in <a href="https://replit.com/@turingschool/ruby-sandbox#main.rb" target="blank">this Ruby sandbox replit</a>. When you open this replit, click the blue "Fork Repl" button to make your own copy on your account. From here, you can add code or delete code as much as you like. It's yours!
+Replit is a web-based interactive development environment or IDE. It allows us to write code and see the output in the console at the same time. To get started today, we will be working in <a href="https://replit.com/@turingschool/js-sandbox?v=1#index.html" target="blank">this JavaScript sandbox replit</a>. When you open this replit, click the blue "Fork Repl" button to make your own copy on your account. From here, you can add code or delete code as much as you like. It's yours!
 
 A sandbox is a place where we can play around with code! Use this space to take notes or try things throughout the workshop today.
 
-## puts
+<div class='module-card fe-project-card'>
+  <p class='standout'>Important Note:</p>
+  <p>In order to run the code, click on "Dev Tools" to see the console where the code will print out, then click the green "Run" button.</p>
+</div>
+
+## console.log()
 
 In your sandbox replit, complete the activity that follows.
 
 <div class="try-it-new">
-  <h3>Try It: Exploring puts</h3>
-  <p>Read the Ruby code and then run it.</p>
-  <p>What does the output tell you about the job of the <code>puts</code> command?</p>
+  <h3>Try It: Exploring console.log()</h3>
+  <p>Read the JavaScript code and then run it.</p>
+  <p>What does the output tell you about the job of the <code>console.log()</code> command?</p>
 </div>
 
 <div class="expander expander-lesson">
@@ -40,8 +45,8 @@ In your sandbox replit, complete the activity that follows.
   </header>
   <div class="hide">
     <ul>
-      <li><code>puts</code> is a <code>command</code> that is built into the Ruby language</li>
-      <li><code>puts</code> will print the value it is instructed to print and creates a line break after printing the data</li>
+      <li><code>console.log()</code> is a <code>command</code> that is built into the JavaScript language</li>
+      <li><code>console.log()</code> will print the value it is instructed to print and creates a line break after printing the data</li>
     </ul>
   </div>
 </div>
@@ -49,24 +54,24 @@ In your sandbox replit, complete the activity that follows.
 
 ## Variables
 
-In order to store a piece of data and reference it later, possibly many times throughout our code, we need to use variables. You can think of a variable like a storage container with a label on it where we can hold items we care about. In Ruby we define variables by typing the name of the variable we wish to create, followed by the assignment operator, and then the value we want to store in that variable.
+In order to store a piece of data and reference it later, possibly many times throughout our code, we need to use variables. You can think of a variable like a storage container with a label on it where we can hold items we care about. In JavaScript we define variables by typing the keyword <code>var</code> followed by the name of the variable we wish to create, the assignment operator (<code>=</code>), and then the value we want to store in that variable. We end each statement in our code with a semi-colon.
 
-When working with Ruby, we use <code>snake_case</code> for any variable names, meaning all characters should be lowercase with multiple words separated by underscores.
+When working with JavaScript, we use <code>camelCase</code> for variable names, which means that words are joined without spaces, and each new word begins with a capital letter.
 
-```ruby
-email = "helloworld@gmail.com"
-first_name = "Brandi"
-location = "Tampa, FL 🌴"
+```javascript
+var email = 'helloworld@gmail.com';
+var firstName = 'Brandi';
+var location = 'Tampa, FL 🌴';
 ```
 
 <div class="try-it-new">
-  <h3>Try It: Variables in Ruby</h3>
-  <p>Back in your sandbox replit, declare three variables that describe yourself. Use puts followed by each variable name to confirm that you’ve done this correctly!</p>
+  <h3>Try It: Variables in JavaScript</h3>
+  <p>Back in your sandbox replit, declare three variables that describe yourself. Use console.log() with each variable name to confirm that you’ve done this correctly!</p>
 </div>
 
 ## Data Types
 
-In Ruby, your data (information) can be different types. There are two data types we will be working with today: Integer (any whole number), and String (words or phrases like "Ruby is fun!"). We use the Integer data type if we are storing data that may be manipulated in some way. We use the String data type if our data needs to remain consistent. With String data, anything inside of the quotation marks is preserved.
+In JavaScript, your data (information) can be different types. There are two data types we will be working with today: Number (any numeric value), and String (words or phrases like "JavaScript is fun!"). We use the Number data type if we are storing data that may be manipulated in some way. We use the String data type if our data needs to remain consistent. With String data, anything inside of the quotation marks is preserved.
 
 <div class="module-card fe-project-card">
   <h3>Deciding on a Data Type</h3>
@@ -83,7 +88,7 @@ In Ruby, your data (information) can be different types. There are two data type
 
 <div class="try-it-new">
   <h3>Try It: Data Types</h3>
-  <p>Back in your replit, add two more variables assigned to Integer values. Use puts or print to verify that the data was stored in the variable as expected!</p>
+  <p>Back in your replit, add two more variables assigned to Number values. Use console.log() to verify that the data was stored in the variable as expected!</p>
 </div>
 
 ## User Input
