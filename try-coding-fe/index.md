@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Try Coding
+# Try Coding - JavaScript Focus
 
 Please sign up for a free <a target="blank" href="https://replit.com/~">replit.com</a> account before beginning this workshop.
 
