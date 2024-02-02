@@ -46,7 +46,7 @@ There are several ways to get my attention throughout the workshop today. Let’
 
 - [What is Front End and Back End Engineering?](./what-is-fe-be)
 - [JavaScript Introduction](./js-intro)
-- [JavaScript Methods](./js-methods)
 - [Control Flow](./control-flow)
+- [User Input](./user-input)
 - [Ruby Number Guesser](./rb-number-guesser)
 - [Wrap-Up](./wrap-up)

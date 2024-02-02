@@ -28,7 +28,8 @@ In your sandbox replit, complete the activity that follows.
 
 <div class="try-it-new">
   <h3>Try It: Exploring console.log()</h3>
-  <p>Read the JavaScript code and then run it.</p>
+  <p>Read the following JavaScript code, copy & paste it into the <code>script.js</code> file in your sandbox, then run it!</p>
+  <pre>console.log("Hello, World!");<br>console.log("Let's start coding.");</pre>
   <p>What does the output tell you about the job of the <code>console.log()</code> command?</p>
 </div>
 
@@ -58,15 +59,16 @@ In order to store a piece of data and reference it later, possibly many times th
 
 When working with JavaScript, we use <code>camelCase</code> for variable names, which means that words are joined without spaces, and each new word begins with a capital letter.
 
-```javascript
-var email = 'helloworld@gmail.com';
-var firstName = 'Brandi';
-var location = 'Tampa, FL 🌴';
+```js
+var email = "helloworld@gmail.com";
+var firstName = "Brandi";
+var location = "Tampa, FL 🌴";
 ```
 
 <div class="try-it-new">
   <h3>Try It: Variables in JavaScript</h3>
-  <p>Back in your sandbox replit, declare three variables that describe yourself. Use console.log() with each variable name to confirm that you’ve done this correctly!</p>
+  <p>Back in your sandbox replit, declare three variables that describe yourself, using the names <code>name</code>, <code>email</code>, and <code>location</code>.</p>
+  <p>Make sure to <code>console.log</code> each variable to verify you've stored it correctly!</p>
 </div>
 
 ## Data Types
@@ -88,49 +90,47 @@ In JavaScript, your data (information) can be different types. There are two dat
 
 <div class="try-it-new">
   <h3>Try It: Data Types</h3>
-  <p>Back in your replit, add two more variables assigned to Number values. Use console.log() to verify that the data was stored in the variable as expected!</p>
-</div>
-
-## User Input
-
-Our programs haven’t been very exciting so far because we already know what will happen just by looking at the code. What if your program incorporated dynamic input from the user?
-
-**Explore**
-
-1. <a href="https://replit.com/@turingschool/ColdPowderblueMeasurements" target="blank">Read the code in this replit</a> and _guess_ what it will do. It is also available below, if you prefer to preview it here.
-2. Run the program. It's interactive! Be ready to type in your answers in the console area.
-
-<iframe frameborder="0" width="100%" height="600px" src="https://replit.com/@turingschool/Getting-User-Input?lite=true"></iframe>
-
-<div class="expander expander-lesson">
-  <header>
-    <h3 class="spicy-click">Takeaways</h3>
-    <div>
-      <button class="expander-btn">
-          <img
-            src="../../assets/icons/arrow.svg"
-            alt="expander arrow icon" />
-      </button>
+  <p>Back in your replit, add two more variables about yourself assigned to Number values. Write a variable called <code>numberOfPets</code> and another variable of your choosing. Use console.log() to verify that the data was stored in the variable as expected!</p>
+   <div class="spicy-container">
+    <p class="spicy-click">
+      <span role="img" aria-label="spicy pepper">🌶</span>Click here for a Spicy Challenge<span role="img" aria-label="spicy pepper">🌶</span>
+    </p>
+    <div class="spicy-toggle">
+      <p>What happens if you add your two number variables together and console.log() the result?</p>
     </div>
-  </header>
-  <div class="hide">
-    <ul>
-      <li>Instead of manually typing in every value, we can collect values from our user to provide a dynamic experience.</li>
-      <li>When the code is run, it will stop at <code>gets.chomp</code> and wait for the user to type input into the console.</li>
-      <li><code>gets</code> collects a string from the console and chomp removes the final character which is the enter/return.</li>
-    </ul>
   </div>
 </div>
-<br>
+
+## Interpolation
+
+We can use string interpolation to combine static data with dynamic (or variable) data. Here's an example of the syntax:
+
+```js
+var firstName = "Amy";
+console.log(`Hello, ${firstName}!`);
+```
+
+The code above will make "Hello, Amy!" appear in the console.
+
+Note that _back ticks_ are the characters that surround this combination of the string an `${}` syntax. You can find the back-tick key at the top-left of your keyboard, next to the `1`.
+
+Anything inside the back ticks will be read as a string. But, when the interpreter sees the `${`, it will stop and wait for JavaScript code to read. Typically, we provide a variable name here. When the interpreter read the matching closing bracket - `}` - it goes back to treating characters as part of the string.
 
 <div class="try-it-new">
-  <h3>Try It: Getting User Input</h3>
-  <ol>
-    <li>In your sandbox replit, write a small program that asks the user for their name and responds with a sentence of your choice!</li>
-    <li>Now, add on to your program and ask your user two more questions. If you’re not feeling creative, ask them how they are feeling today or their best friend’s name! Try running your program a few times with different values stored in the variables each time.</li>
-  </ol>
+  <h3>Try It: Interpolation</h3>
+  <p>Using interpolation and at least two of the variables you declared in the previous section, write a sentence about yourself! Make sure to print that sentence out to the console.</p>
+  <p>Change the value of one of the Strings you interpolated and re-run your code. Is the difference reflected in the output?</p>
+
+  <div class="spicy-container">
+    <p class="spicy-click">
+      <span role="img" aria-label="spicy pepper">🌶</span>Click here for a Spicy Challenge<span role="img" aria-label="spicy pepper">🌶</span>
+    </p>
+    <div class="spicy-toggle">
+      <p>What happens if you interpolate <code>numberOfPets * 4</code>? What does that tell you about how interpolation works?</p>
+    </div>
+  </div>
 </div>
 
 ### Up Next
 
-- [JavaScript Methods](../js-methods)
+- [Control Flow](../control-flow)
