@@ -19,7 +19,7 @@ HTML is still an essential part of modern web applications. It holds the content
 
 <div class="try-it-new">
   <h2>Explore</h2>
-  <p>To begin, let's look at <a href='https://replit.com/@LauraGarcia38/connect-js-html#script.js' target='_blank'>the code in this Replit</a>.</p>
+  <p>To begin, let's look at <a href='https://replit.com/@turingschool/connect-html-js#script.js' target='_blank'>the code in this Replit</a>.</p>
   <p>After forking the replit, <b>be sure to open the dev tools</b>, then take a few minutes to look through the code in all the different files.</p>
   <p>Here are some things to consider as you explore:</p>
   <ul>
@@ -43,8 +43,8 @@ HTML is made up of a series of **elements**. Each of the lines above represents 
 ### JavaScript
 
 ```js
-var paragraph = document.querySelector("p"); // a variable forthe paragraph element
-var input = document.querySelector("input"); // a variable for the input element
+var paragraph = document.querySelector('p'); // a variable forthe paragraph element
+var input = document.querySelector('input'); // a variable for the input element
 
 var userInput = input.value; // a variable that stores the input from the user
 console.log(paragraph.innerText); // printing the text of the paragraph to the console
@@ -75,9 +75,9 @@ What if we want to run some code that only happens when the button is clicked?
 For now, we just need to know that the following code is responsible for running the code that happens when the button is cliked:
 
 ```js
-var button = document.querySelector("button");
+var button = document.querySelector('button');
 
-button.addEventListener("click", doSomething);
+button.addEventListener('click', doSomething);
 
 function doSomething() {
   // code you want to be run ONLY when button
@@ -112,7 +112,7 @@ function doSomething() {
 
 <div class="module-card fe-project-card">
   <h3>Building a "Guess the Number" Game</h3>
-  <p>Use <a href="https://replit.com/@LauraGarcia38/number-guesser-starter#script.js" target="blank">this replit</a> as a starting point. We are going to build a “Guess the Number” game for a user in the console. In the starter kit, you already have a <code>secretNumber</code> variable assigned to 6 and a some other JavaScript that connects the HTML to the game. Follow the steps below to keep going!</p>
+  <p>Use <a href="https://replit.com/@turingschool/number-guesser-starter#script.js" target="blank">this replit</a> as a starting point. We are going to build a “Guess the Number” game for a user in the console. In the starter kit, you already have a <code>secretNumber</code> variable assigned to 6 and a some other JavaScript that connects the HTML to the game. Follow the steps below to keep going!</p>
   <p>Inside of the <code>checkGuess</code> function, write some code that will do the following:</p>
   <ol>
     <li>If the guess is less than the secret number, tell the user, "Not quite. Too low."</li>
