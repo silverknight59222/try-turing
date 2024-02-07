@@ -28,7 +28,9 @@ HTML is still an essential part of modern web applications. It holds the content
   </ul>
 </div>
 
-After exploring, let's take a look at some specific parts of the code below:
+### After exploring, let's take a look at some _specific_ parts of the code below:
+
+**Note:** We are going to look at the code bit by bit, so we are not seeing all the parts of the code at once.
 
 ### HTML
 
@@ -50,6 +52,25 @@ var userInput = input.value; // a variable that stores the input from the user
 console.log(paragraph.innerText); // printing the text of the paragraph to the console
 console.log(userInput); // printing any text the user writes to the console
 ```
+
+<div class="expander expander-lesson">
+  <header>
+    <h2 class="spicy-click">Takeaways</h2>
+    <div>
+      <button class="expander-btn">
+        <img src="../../assets/icons/arrow.svg" alt="expander arrow icon" />
+      </button>
+    </div>
+  </header>
+
+  <div class="hide">
+    <ul>
+      <li>We have some variables declared that represent HTML elements, such as the <code>paragraph</code> variable and the <code>input</code> variable.</li>
+      <li>The <code>userInput</code> variable repesents what the user types into the input field in the browser.</li>
+      <li><code>paragraph.innerText</code> represents the text inside of our paragraph element.</li>
+    </ul>
+  </div>
+</div>
 
 ## Changing HTML from JavaScript
 
@@ -88,9 +109,9 @@ function doSomething() {
 <div class="try-it-new">
   <h2>Next Level</h2>
   <p>For this challenge, you'll use the same Replit you used for the previous one! In the previous challenge, you changed the title, but it happened on page load, so it wasn't very exciting.</p>
-  <p><strong>Your Challenge:</strong> Combine the two new pieces of knowledge/skill you have to change the title only when the button is clicked.</p>
+  <p><strong>Your Challenge:</strong> Combine the two new pieces of knowledge/skill you have to allow the <em>user</em>  to change the title only when the button is clicked.</p>
 
-  <p><strong>Hint:</strong> You will need to use the <code>paragraph.innerText</code> and set it equal to the <code>input.value</code></p>
+  <p><strong>Hint:</strong> You will need to use the <code>paragraph.innerText</code> and set it equal to <code>userInput</code></p>
 </div>
 
 <div class="expander expander-lesson">
