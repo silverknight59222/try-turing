@@ -62,12 +62,12 @@ When working with JavaScript, we use <code>camelCase</code> for variable names, 
 ```js
 var email = "helloworld@gmail.com";
 var firstName = "Brandi";
-var location = "Tampa, FL 🌴";
+var currentCity = "Tampa, FL 🌴";
 ```
 
 <div class="try-it-new">
   <h3>Try It: Variables in JavaScript</h3>
-  <p>Back in your sandbox replit, declare three variables that describe yourself, using the names <code>name</code>, <code>email</code>, and <code>location</code>.</p>
+  <p>Back in your sandbox replit, declare three variables that describe yourself, using the names <code>name</code>, <code>email</code>, and <code>currentCity</code>.</p>
   <p>Make sure to <code>console.log</code> each variable to verify you've stored it correctly!</p>
 </div>
 
